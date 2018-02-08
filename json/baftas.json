@@ -1,0 +1,2262 @@
+[
+  {
+    "actorName": "Aaron Himelstein",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Aaron Taylor-Johnson",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Nocturnal Animals",
+        "winner": false,
+        "year": "2017"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Abby Ryder Fortson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Abraham Attah",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Adewale Akinnuoye-Agbaje",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Alexis Denisof",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Alfre Woodard",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Alice Krige",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Andy Serkis",
+    "awards": [
+      {
+        "category": "Film | Leading Actor",
+        "title": "Sex And Drugs And Rock And Roll",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "Longford",
+        "winner": false,
+        "year": "2007"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Angela Bassett",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Angourie Rice",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Anthony Hopkins",
+    "awards": [
+      {
+        "category": "Film | Fellowship",
+        "title": "",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "category": "Britannias | Honoree",
+        "title": "",
+        "winner": true,
+        "year": "1995"
+      },
+      {
+        "category": "Cymru | Actor",
+        "title": "Selected Exits",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Remains Of The Day",
+        "winner": true,
+        "year": "1994"
+      },
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Silence Of The Lambs",
+        "winner": true,
+        "year": "1992"
+      },
+      {
+        "category": "Film | Actor",
+        "title": "Magic",
+        "winner": false,
+        "year": "1979"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "War And Peace",
+        "winner": true,
+        "year": "1973"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "The Great Inimitable Mr Dickens/Uncle Vanya/Hearts And Flowers/Biography: Danton",
+        "winner": false,
+        "year": "1971"
+      },
+      {
+        "category": "Film | Supporting Actor",
+        "title": "The Lion In Winter",
+        "winner": false,
+        "year": "1969"
+      }
+    ],
+    "power": 22
+  },
+  {
+    "actorName": "Anthony Mackie",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ashley Hamilton",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ben Kingsley",
+    "awards": [
+      {
+        "category": "Britannias | Honoree, Albert R. Broccoli Britannia Award for Worldwide Contribution to Entertainment",
+        "title": "",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Schindler's List",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "Silas Marner",
+        "winner": false,
+        "year": "1986"
+      },
+      {
+        "category": "Film | Actor",
+        "title": "Gandhi",
+        "winner": true,
+        "year": "1983"
+      },
+      {
+        "category": "Film | Most Promising Newcomer To Leading Film Roles",
+        "title": "Ben Kingsley",
+        "winner": true,
+        "year": "1983"
+      }
+    ],
+    "power": 12
+  },
+  {
+    "actorName": "Benedict Cumberbatch",
+    "awards": [
+      {
+        "category": "Television | Leading Actor",
+        "title": "The Hollow Crown: The Wars of the Roses",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Film | Leading Actor",
+        "title": "The Imitation Game",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Britannias | Honoree, The Britannia Award for British Artist Of The Year",
+        "title": "",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "category": "Television | Supporting Actor",
+        "title": "Small Island",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "Hawking",
+        "winner": false,
+        "year": "2005"
+      }
+    ],
+    "power": 16
+  },
+  {
+    "actorName": "Benedict Wong",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Benicio del Toro",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Sicario",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "21 Grams",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Traffic",
+        "winner": true,
+        "year": "2001"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Benjamin Bratt",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bobby Cannavale",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bokeem Woodbine",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bradley Cooper",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "American Hustle",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Film | Leading Actor",
+        "title": "Silver Linings Playbook",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Brie Larson",
+    "awards": [
+      {
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Film | Leading Actress",
+        "title": "Room",
+        "winner": true,
+        "year": "2016"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Bruno Ricci",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Callan Mulvey",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Cate Blanchett",
+    "awards": [
+      {
+        "category": "Film | Leading Actress",
+        "title": "Carol",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Film | Leading Actress",
+        "title": "Blue Jasmine",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "Film | Leading Actress",
+        "title": "Elizabeth: The Golden Age",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "category": "Film | Supporting Actress",
+        "title": "I'm Not There",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "category": "Film | Actress in a Supporting Role",
+        "title": "The Aviator",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "category": "Film | Actress in a Supporting Role",
+        "title": "The Talented Mr Ripley",
+        "winner": false,
+        "year": "2000"
+      },
+      {
+        "category": "Film | Actress in a Leading Role",
+        "title": "Elizabeth",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 14
+  },
+  {
+    "actorName": "Chadwick Boseman",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chiwetel Ejiofor",
+    "awards": [
+      {
+        "category": "Film | Leading Actor",
+        "title": "12 Years a Slave",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "Film | Orange Rising Star Award (Voted For By The Public)",
+        "title": "",
+        "winner": false,
+        "year": "2006"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Chris Evans",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Hemsworth",
+    "awards": [
+      {
+        "category": "Film | Orange Wednesdays Rising Star Award",
+        "title": "",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Chris O'Dowd",
+    "awards": [
+      {
+        "category": "Television | Scripted Comedy",
+        "title": "Chris O’Dowd, Nick Vincent Murphy, Ted Dowd, Ian Fitzgibbon",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "The IT Crowd",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Film | Orange Wednesdays Rising Star Award",
+        "title": "",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Chris Pratt",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Sullivan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Christopher Eccleston",
+    "awards": [
+      {
+        "category": "Cymru | Actor",
+        "title": "Doctor Who",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "The Second Coming",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "Our Friends In The North",
+        "winner": false,
+        "year": "1997"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Christopher Fairbank",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Clancy Brown",
+    "awards": [
+      {
+        "category": "Film | Costume Design",
+        "title": "Deirdre Clancy",
+        "winner": true,
+        "year": "1998"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Clark Gregg",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Claudia Kim",
+    "awards": [
+      {
+        "category": "Television | Specialist Factual",
+        "title": "Claudia Lewis, Kim Shillinglaw",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Clive Russell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Cobie Smulders",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Colm Feore",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Corey Stoll",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Damion Poitier",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Danai Gurira",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Daniel Brühl",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Daniel Kaluuya",
+    "awards": [
+      {
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2018"
+      },
+      {
+        "category": "Film | Leading Actor",
+        "title": "Get Out",
+        "winner": false,
+        "year": "2018"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Dave Bautista",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "David Dastmalchian",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Derek Luke",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Djimon Hounsou",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Dominic Cooper",
+    "awards": [
+      {
+        "category": "Children's | Short Form",
+        "title": "Dominic Minns, Ellie Wyatt, Nathaniel Cooper",
+        "winner": false,
+        "year": "2016"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Don Cheadle",
+    "awards": [
+      {
+        "category": "Britannias | Honoree, The BAFTA LA Humanitarian Award Presented by Volvo",
+        "title": "",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Crash",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "category": "Film | Film",
+        "title": "Cathy Schulman, Don Cheadle, Bob Yari",
+        "winner": false,
+        "year": "2006"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Donald Glover",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Edward Norton",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Birdman",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Primal Fear",
+        "winner": false,
+        "year": "1997"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Elizabeth Debicki",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Elizabeth Olsen",
+    "awards": [
+      {
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Emily VanCamp",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ethan Dizon",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Evan Jones",
+    "awards": [
+      {
+        "category": "Cymru | Current Affairs",
+        "title": "Geraint Evans",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Cymru | Photography: Factual",
+        "title": "Tudor Evans",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Cymru | Current Affairs",
+        "title": "Ioan Wyn Evans, Geraint Lewis Jones",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Cymru | Sport Programme",
+        "title": "Euros Jones Evans",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Cymru | Sound",
+        "title": "Hefin Elis, Huw 'Buzz' Evans, John Markham",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "category": "Children's | Schools - Factual",
+        "title": "Trevor Evans, Charlie Paul",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "category": "Film | British Actress",
+        "title": "Tom Jones",
+        "winner": false,
+        "year": "1964"
+      }
+    ],
+    "power": 15
+  },
+  {
+    "actorName": "Evangeline Lilly",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Faran Tahir",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Florence Kasumba",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Forest Whitaker",
+    "awards": [
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Last King Of Scotland",
+        "winner": true,
+        "year": "2007"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Frank Grillo",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Fred",
+    "awards": [
+      {
+        "category": "Film | Film",
+        "title": "Fred Berger, Jordan Horowitz, Marc Platt",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "category": "Film | Editing",
+        "title": "Fred Raskin",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Games | Family",
+        "title": "Paul Reiche, Fred Ford, Scott Krager",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Television | News Coverage",
+        "title": "Production Team",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Children's | BAFTA Young Game Designers",
+        "title": "Molly Proud (15), Fred Gosling (15), Laurie Griffiths (15)",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "category": "Television Craft | Photography - Factual",
+        "title": "Fred Fabre",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "category": "Television Craft | Photography - Factual",
+        "title": "Fred Fabre",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "category": "Film | Anthony Asquith Award for Original Film Music",
+        "title": "Danny Elfman, John Kander, Fred Ebb",
+        "winner": false,
+        "year": "2003"
+      },
+      {
+        "category": "Television | Situation Comedy",
+        "title": "Production Team",
+        "winner": false,
+        "year": "2003"
+      },
+      {
+        "category": "Television Craft | Photography And Lighting - Fiction",
+        "title": "Fred Tammes",
+        "winner": false,
+        "year": "2003"
+      },
+      {
+        "category": "Film | Film",
+        "title": "Martin Brown, Baz Luhrmann, Fred Baron",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "category": "Television Craft | Photography And Lighting - Fiction",
+        "title": "Fred Tammes",
+        "winner": true,
+        "year": "2000"
+      },
+      {
+        "category": "Film | Short Animation",
+        "title": "John Coates, Catrin Unwin, Joanna Quinn",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "category": "Film | Make-Up",
+        "title": "Kevin Haney, Katherine James, Fred Blau, Fern Buchner",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "category": "Film | Foreign Language Film",
+        "title": "Alberto Grimaldi, Federico Fellini",
+        "winner": false,
+        "year": "1987"
+      },
+      {
+        "category": "Film | Special Visual Effects",
+        "title": "Fred Cramer",
+        "winner": false,
+        "year": "1985"
+      },
+      {
+        "category": "Film | Make-Up Artist",
+        "title": "Zelig",
+        "winner": false,
+        "year": "1984"
+      },
+      {
+        "category": "Television Craft | VTR Editor",
+        "title": "The Kenny Everett Video Show",
+        "winner": false,
+        "year": "1981"
+      },
+      {
+        "category": "Television | Documentary",
+        "title": "Don Haworth",
+        "winner": true,
+        "year": "1980"
+      },
+      {
+        "category": "Television Craft | VTR Editor",
+        "title": "The Will Kenny Everett Make It To 1980? Show",
+        "winner": false,
+        "year": "1980"
+      },
+      {
+        "category": "Film | Direction",
+        "title": "Fred Zinnemann",
+        "winner": false,
+        "year": "1979"
+      },
+      {
+        "category": "Film | Fellowship",
+        "title": "",
+        "winner": true,
+        "year": "1978"
+      },
+      {
+        "category": "Film | Cinematography",
+        "title": "Fred Koenekamp",
+        "winner": false,
+        "year": "1976"
+      },
+      {
+        "category": "Film | Supporting Actor",
+        "title": "The Towering Inferno",
+        "winner": true,
+        "year": "1976"
+      },
+      {
+        "category": "Television | Specialised Programme",
+        "title": "Fred Burnley",
+        "winner": false,
+        "year": "1976"
+      },
+      {
+        "category": "Film | Soundtrack",
+        "title": "Chris Newman, Jean-Louis Ducarme, Buzz Knudson, Fred Brown, Bob Fine, Ross Taylor, Ron Nagle, Doc Siegel, Gonzalo Gavira, Hal Landaker",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "category": "Television | Design",
+        "title": "Fred Pusey, Mike Hall",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "category": "Film | Direction",
+        "title": "Fred Zinnemann",
+        "winner": false,
+        "year": "1974"
+      },
+      {
+        "category": "Television | Specialised Production",
+        "title": "Fred Burnley",
+        "winner": false,
+        "year": "1971"
+      },
+      {
+        "category": "Television | Specialised Programme",
+        "title": "Fred Burnley",
+        "winner": true,
+        "year": "1970"
+      }
+    ],
+    "power": 66
+  },
+  {
+    "actorName": "Garcelle Beauvais",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Garry Shandling",
+    "awards": [
+      {
+        "category": "Television | International - Programme or Series",
+        "title": "Garry Shandling, Dennis Klein",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Georges St-Pierre",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Gerard Sanders",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Glenn Close",
+    "awards": [
+      {
+        "category": "Film | Actress in a Leading Role",
+        "title": "Dangerous Liaisons",
+        "winner": false,
+        "year": "1990"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Gregg Henry",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Gregg Turkington",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Guy Pearce",
+    "awards": [
+      {
+        "category": "Games | Sports",
+        "title": "Matt Horsman, Clive Moody, Guy Pearce",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Gwyneth Paltrow",
+    "awards": [
+      {
+        "category": "Film | Actress in a Leading Role",
+        "title": "Shakespeare In Love",
+        "winner": false,
+        "year": "1999"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Hannah John-Kamen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Hannibal Buress",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Hayley Atwell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Hayley Lovitt",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Hemky Madera",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Henry Goodman",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Hope Davis",
+    "awards": [
+      {
+        "category": "Film | Sound",
+        "title": "Ron Davis, Peter Handford, John Hayward",
+        "winner": false,
+        "year": "1988"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Hugo Weaving",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Idris Elba",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Beasts Of No Nation",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Television | Leading Actor",
+        "title": "Luther",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Britannias | Honoree, Britannia Humanitarian Award",
+        "title": "",
+        "winner": true,
+        "year": "2013"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Isabella Amara",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "J. J. Totah",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "JJ Feild",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jacob Batalon",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jaimie Alexander",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "James Badge Dale",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "James Spader",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jeff Bridges",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Hell or High Water",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Film | Leading Actor",
+        "title": "True Grit",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "category": "Britannias | Honoree, The Stanley Kubrick Britannia Award for Excellence in Film",
+        "title": "",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "category": "Film | Leading Actor",
+        "title": "Crazy Heart",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 8
+  },
+  {
+    "actorName": "Jeff Goldblum",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jennifer Connelly",
+    "awards": [
+      {
+        "category": "Film | Actress in a Supporting Role",
+        "title": "A Beautiful Mind",
+        "winner": true,
+        "year": "2002"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Jenny Agutter",
+    "awards": [
+      {
+        "category": "Film | Supporting Actress",
+        "title": "Equus",
+        "winner": true,
+        "year": "1978"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Jeremy Renner",
+    "awards": [
+      {
+        "category": "Film | Leading Actor",
+        "title": "The Hurt Locker",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Jerzy Skolimowski",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jimmy Urine",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Joe Fria",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "John C. Reilly",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "John Kani",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "John Penick",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "John Slattery",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jon Favreau",
+    "awards": [
+      {
+        "category": "Children's | Feature Film",
+        "title": "Jon Favreau, Brigham Taylor",
+        "winner": false,
+        "year": "2016"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Jonathan Howard",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jorge Lendeborg Jr.",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Josh Brolin",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Josh Dallas",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Judy Greer",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Karen Gillan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Karl Urban",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Kat Dennings",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Kenneth Choi",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Kerry Condon",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Kurt Russell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Laura Haddock",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Laura Harrier",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Laurence Fishburne",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lee Pace",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Leslie Bibb",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Letitia Wright",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lex Shrapnel",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Linda Cardellini",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Linda Louise Duan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Liv Tyler",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Logan Marshall-Green",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lupita Nyong'o",
+    "awards": [
+      {
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Film | Supporting Actress",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Mads Mikkelsen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Marisa Tomei",
+    "awards": [
+      {
+        "category": "Film | Supporting Actress",
+        "title": "The Wrestler",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Mark Anthony Brighton",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Mark Ruffalo",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Spotlight",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Foxcatcher",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Britannias | Honoree, Britannia Humanitarian Award",
+        "title": "",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "Film | Supporting Actor",
+        "title": "The Kids Are All Right",
+        "winner": false,
+        "year": "2011"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Martin Donovan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Martin Freeman",
+    "awards": [
+      {
+        "category": "Television | Supporting Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Television | Supporting Actor",
+        "title": "Sherlock",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "category": "Television | Comedy Performance",
+        "title": "Martin Freeman",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "category": "Television | Light Entertainment Programme or Series",
+        "title": "Paul Smith, Guy Freeman, Martin Scott",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 8
+  },
+  {
+    "actorName": "Martin Starr",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Maximiliano Hernández",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Melia Kreiling",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael B. Jordan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Barbieri",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Brandon",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Chernus",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Douglas",
+    "awards": [
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "Wonder Boys",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "Fatal Attraction",
+        "winner": false,
+        "year": "1989"
+      },
+      {
+        "category": "Film | Film",
+        "title": "Saul Zaentz, Michael Douglas",
+        "winner": true,
+        "year": "1977"
+      }
+    ],
+    "power": 7
+  },
+  {
+    "actorName": "Michael Keaton",
+    "awards": [
+      {
+        "category": "Film | Leading Actor",
+        "title": "Birdman",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Michael Mando",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Peña",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Rooker",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Rosenbaum",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Stuhlbarg",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michelle Pfeiffer",
+    "awards": [
+      {
+        "category": "Film | Actress in a Leading Role",
+        "title": "The Fabulous Baker Boys",
+        "winner": false,
+        "year": "1991"
+      },
+      {
+        "category": "Film | Actress in a Supporting Role",
+        "title": "Dangerous Liaisons",
+        "winner": true,
+        "year": "1990"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Michelle Yeoh",
+    "awards": [
+      {
+        "category": "Film | Actress in a Leading Role",
+        "title": "Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)",
+        "winner": false,
+        "year": "2001"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Mickey Rourke",
+    "awards": [
+      {
+        "category": "Film | Leading Actor",
+        "title": "The Wrestler",
+        "winner": true,
+        "year": "2009"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Miguel Ferrer",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Mike Escamilla",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Miley Cyrus",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Nabiyah Be",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Natalie Portman",
+    "awards": [
+      {
+        "category": "Film | Leading Actress",
+        "title": "Jackie",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Film | Leading Actress",
+        "title": "Black Swan",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "category": "Film | Actress in a Supporting Role",
+        "title": "Closer",
+        "winner": false,
+        "year": "2005"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Neal McDonough",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Olivia Munn",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ophelia Lovibond",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Bettany",
+    "awards": [
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Master And Commander: The Far Side Of The World",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Paul Rudd",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Peter Serafinowicz",
+    "awards": [
+      {
+        "category": "Television | Comedy Programme",
+        "title": "Peter Serafinowicz, James Serafinowicz, Ben Farrell, Becky Martin",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "category": "Television | Comedy - Programme or Series",
+        "title": "Robert Popper, Peter Serafinowicz, Tim Kirkby",
+        "winner": false,
+        "year": "2003"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Pom Klementieff",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Powers Boothe",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Rachel House",
+    "awards": [
+      {
+        "category": "Television | Current Affairs",
+        "title": "James Jones, Steve Hewlett, Rachel Crellin, Todd Downing",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Cymru | Factual Programme",
+        "title": "Rachel Morgan, Paul Islwyn Thomas",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "category": "Cymru | Gwyn Alf Williams Award",
+        "title": "Rachel Morgan, Paul Islwyn Thomas",
+        "winner": true,
+        "year": "2008"
+      }
+    ],
+    "power": 7
+  },
+  {
+    "actorName": "Rachel McAdams",
+    "awards": [
+      {
+        "category": "Film | Orange Rising Star Award (Voted For By The Public)",
+        "title": "",
+        "winner": false,
+        "year": "2006"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Randall Park",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ray Stevenson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Rebecca Hall",
+    "awards": [
+      {
+        "category": "Television | Leading Actress",
+        "title": "Parade’s End",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Television | Supporting Actress",
+        "title": "Red Riding 1974",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "category": "Film | Orange Rising Star Award (Voted For By The Public)",
+        "title": "",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Rene Russo",
+    "awards": [
+      {
+        "category": "Film | Supporting Actress",
+        "title": "Nightcrawler",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Richard Armitage",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Robert Downey Jr.",
+    "awards": [
+      {
+        "category": "Britannias | Honoree, The Stanley Kubrick Britannia Award for Excellence in Film",
+        "title": "",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Tropic Thunder",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "Chaplin",
+        "winner": true,
+        "year": "1993"
+      }
+    ],
+    "power": 7
+  },
+  {
+    "actorName": "Robert Redford",
+    "awards": [
+      {
+        "category": "Film | Film",
+        "title": "Michael Jacobs, Julian Krainin, Michael Nozik, Robert Redford",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "category": "Film | Actor",
+        "title": "Butch Cassidy And The Sundance Kid/Tell Them Willie Boy Is Here/Downhill Racer",
+        "winner": true,
+        "year": "1971"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Sam Rockwell",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "winner": false,
+        "year": "2018"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Samuel L. Jackson",
+    "awards": [
+      {
+        "category": "Britannias | Honoree, Albert R. Broccoli Britannia Award for Worldwide Contribution to Entertainment",
+        "title": "",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Pulp Fiction",
+        "winner": true,
+        "year": "1995"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Scarlett Johansson",
+    "awards": [
+      {
+        "category": "Film | Actress in a Leading Role",
+        "title": "Lost In Translation",
+        "winner": true,
+        "year": "2004"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Scott Adkins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sean Gunn",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sebastian Stan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Selenis Leyva",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Seth Green",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Shaun Toub",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stanley Tucci",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "The Lovely Bones",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Stellan Skarsgård",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stephanie Szostak",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stephen Blackehart",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sterling K. Brown",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Steve Agee",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sydelle Noel",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sylvester Stallone",
+    "awards": [
+      {
+        "category": "Film | Actor",
+        "title": "Rocky",
+        "winner": false,
+        "year": "1978"
+      },
+      {
+        "category": "Film | Screenplay",
+        "title": "Sylvester Stallone",
+        "winner": false,
+        "year": "1978"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Tadanobu Asano",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Taika Waititi",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Terence Rosemore",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Terrence Howard",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tessa Thompson",
+    "awards": [
+      {
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2018"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Thomas Kretschmann",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tiffany Espensen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tilda Swinton",
+    "awards": [
+      {
+        "category": "Film | Leading Actress",
+        "title": "We Need To Talk About Kevin",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Film | Supporting Actress",
+        "title": "Burn After Reading",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "category": "Britannias | Honoree, The Britannia Award for British Artist Of The Year",
+        "title": "",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "category": "Film | Supporting Actress",
+        "title": "Michael Clayton",
+        "winner": true,
+        "year": "2008"
+      }
+    ],
+    "power": 8
+  },
+  {
+    "actorName": "Tim Blake Nelson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tim Roth",
+    "awards": [
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Rob Roy",
+        "winner": true,
+        "year": "1996"
+      },
+      {
+        "category": "Film | Most Promising Newcomer To Film",
+        "title": "The Hit",
+        "winner": false,
+        "year": "1985"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Tip \"T.I.\" Harris",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Toby Jones",
+    "awards": [
+      {
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Detectorists",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Television | Leading Actor",
+        "title": "Marvellous",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Television | Leading Actor",
+        "title": "The Girl",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Tom Hiddleston",
+    "awards": [
+      {
+        "category": "Film | Orange Wednesdays Rising Star Award",
+        "title": "",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Tom Holland",
+    "awards": [
+      {
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "category": "Television | Supporting Actor",
+        "title": "The Night Manager",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Rev.",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Rev",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Rev",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "category": "Television | Supporting Actor",
+        "title": "Gracie!",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 12
+  },
+  {
+    "actorName": "Tommy Flanagan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tommy Lee Jones",
+    "awards": [
+      {
+        "category": "Film | Supporting Actor",
+        "title": "Lincoln",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Film | Supporting Actor",
+        "title": "No Country For Old Men",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "The Fugitive",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "category": "Film | Actor in a Supporting Role",
+        "title": "JFK",
+        "winner": false,
+        "year": "1993"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Tony Curran",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tony Revolori",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Topo Wresniwiro",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tunde Adebimpe",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ty Burrell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ty Simpkins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tyne Daly",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Vin Diesel",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ving Rhames",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Walton Goggins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Wang Xueqi",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "William Hurt",
+    "awards": [
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "Kiss Of The Spider Woman",
+        "winner": true,
+        "year": "1986"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "William Sadler",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Winston Duke",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Wood Harris",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Yevgeni Lazarev",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zachary Levi",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zendaya",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zoe Saldana",
+    "awards": [],
+    "power": 0
+  }
+]

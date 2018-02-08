@@ -1,0 +1,906 @@
+[
+  {
+    "characterName": "Cameron Klein",
+    "actorName": "Aaron Himelstein"
+  },
+  {
+    "characterName": "Pietro Maximoff",
+    "actorName": "Aaron Taylor-Johnson"
+  },
+  {
+    "characterName": "Cassie",
+    "actorName": "Abby Ryder Fortson"
+  },
+  {
+    "characterName": "Abraham",
+    "actorName": "Abraham Attah"
+  },
+  {
+    "characterName": "Algrim",
+    "actorName": "Adewale Akinnuoye-Agbaje"
+  },
+  {
+    "characterName": "The Other",
+    "actorName": "Alexis Denisof"
+  },
+  {
+    "characterName": "Miriam Sharpe",
+    "actorName": "Alfre Woodard"
+  },
+  {
+    "characterName": "Eir",
+    "actorName": "Alice Krige"
+  },
+  {
+    "characterName": "Ulysses Klaue",
+    "actorName": "Andy Serkis"
+  },
+  {
+    "characterName": "Ramonda",
+    "actorName": "Angela Bassett"
+  },
+  {
+    "characterName": "Betty Brant",
+    "actorName": "Angourie Rice"
+  },
+  {
+    "characterName": "Odin",
+    "actorName": "Anthony Hopkins"
+  },
+  {
+    "characterName": "Sam Wilson",
+    "actorName": "Anthony Mackie"
+  },
+  {
+    "characterName": "Jack Taggart",
+    "actorName": "Ashley Hamilton"
+  },
+  {
+    "characterName": "Trevor Slattery",
+    "actorName": "Ben Kingsley"
+  },
+  {
+    "characterName": "Dormammu",
+    "actorName": "Benedict Cumberbatch"
+  },
+  {
+    "characterName": "Stephen Strange",
+    "actorName": "Benedict Cumberbatch"
+  },
+  {
+    "characterName": "Wong",
+    "actorName": "Benedict Wong"
+  },
+  {
+    "characterName": "Taneleer Tivan",
+    "actorName": "Benicio del Toro"
+  },
+  {
+    "characterName": "Jonathan Pangborn",
+    "actorName": "Benjamin Bratt"
+  },
+  {
+    "characterName": "Paxton",
+    "actorName": "Bobby Cannavale"
+  },
+  {
+    "characterName": "Herman Schultz",
+    "actorName": "Bokeem Woodbine"
+  },
+  {
+    "characterName": "Rocket",
+    "actorName": "Bradley Cooper"
+  },
+  {
+    "characterName": "Carol Danvers",
+    "actorName": "Brie Larson"
+  },
+  {
+    "characterName": "Jacques Dernier",
+    "actorName": "Bruno Ricci"
+  },
+  {
+    "characterName": "Jack Rollins",
+    "actorName": "Callan Mulvey"
+  },
+  {
+    "characterName": "Hela",
+    "actorName": "Cate Blanchett"
+  },
+  {
+    "characterName": "T'Challa",
+    "actorName": "Chadwick Boseman"
+  },
+  {
+    "characterName": "Karl Mordo",
+    "actorName": "Chiwetel Ejiofor"
+  },
+  {
+    "characterName": "Steve Rogers",
+    "actorName": "Chris Evans"
+  },
+  {
+    "characterName": "Thor",
+    "actorName": "Chris Hemsworth"
+  },
+  {
+    "characterName": "Richard",
+    "actorName": "Chris O'Dowd"
+  },
+  {
+    "characterName": "Peter Quill",
+    "actorName": "Chris Pratt"
+  },
+  {
+    "characterName": "Taserface",
+    "actorName": "Chris Sullivan"
+  },
+  {
+    "characterName": "Malekith",
+    "actorName": "Christopher Eccleston"
+  },
+  {
+    "characterName": "The Broker",
+    "actorName": "Christopher Fairbank"
+  },
+  {
+    "characterName": "Surtur",
+    "actorName": "Clancy Brown"
+  },
+  {
+    "characterName": "Phil Coulson",
+    "actorName": "Clark Gregg"
+  },
+  {
+    "characterName": "Helen Cho",
+    "actorName": "Claudia Kim"
+  },
+  {
+    "characterName": "Tyr",
+    "actorName": "Clive Russell"
+  },
+  {
+    "characterName": "Maria Hill",
+    "actorName": "Cobie Smulders"
+  },
+  {
+    "characterName": "Laufey",
+    "actorName": "Colm Feore"
+  },
+  {
+    "characterName": "Darren Cross",
+    "actorName": "Corey Stoll"
+  },
+  {
+    "characterName": "Thanos",
+    "actorName": "Damion Poitier"
+  },
+  {
+    "characterName": "Okoye",
+    "actorName": "Danai Gurira"
+  },
+  {
+    "characterName": "Helmut Zemo",
+    "actorName": "Daniel Brühl"
+  },
+  {
+    "characterName": "W'Kabi",
+    "actorName": "Daniel Kaluuya"
+  },
+  {
+    "characterName": "Drax the Destroyer",
+    "actorName": "Dave Bautista"
+  },
+  {
+    "characterName": "Kurt",
+    "actorName": "David Dastmalchian"
+  },
+  {
+    "characterName": "Gabe Jones",
+    "actorName": "Derek Luke"
+  },
+  {
+    "characterName": "Korath",
+    "actorName": "Djimon Hounsou"
+  },
+  {
+    "characterName": "Howard Stark",
+    "actorName": "Dominic Cooper"
+  },
+  {
+    "characterName": "James \"Rhodey\" Rhodes",
+    "actorName": "Don Cheadle"
+  },
+  {
+    "characterName": "Aaron Davis",
+    "actorName": "Donald Glover"
+  },
+  {
+    "characterName": "Bruce Banner",
+    "actorName": "Edward Norton"
+  },
+  {
+    "characterName": "Ayesha",
+    "actorName": "Elizabeth Debicki"
+  },
+  {
+    "characterName": "Wanda Maximoff",
+    "actorName": "Elizabeth Olsen"
+  },
+  {
+    "characterName": "Sharon Carter",
+    "actorName": "Emily VanCamp"
+  },
+  {
+    "characterName": "Tiny",
+    "actorName": "Ethan Dizon"
+  },
+  {
+    "characterName": "Retch",
+    "actorName": "Evan Jones"
+  },
+  {
+    "characterName": "Hope van Dyne",
+    "actorName": "Evangeline Lilly"
+  },
+  {
+    "characterName": "Raza",
+    "actorName": "Faran Tahir"
+  },
+  {
+    "characterName": "Ayo",
+    "actorName": "Florence Kasumba"
+  },
+  {
+    "characterName": "Zuri",
+    "actorName": "Forest Whitaker"
+  },
+  {
+    "characterName": "Brock Rumlow",
+    "actorName": "Frank Grillo"
+  },
+  {
+    "characterName": "Cosmo",
+    "actorName": "Fred"
+  },
+  {
+    "characterName": "Doris Toomes",
+    "actorName": "Garcelle Beauvais"
+  },
+  {
+    "characterName": "Stern",
+    "actorName": "Garry Shandling"
+  },
+  {
+    "characterName": "Georges Batroc",
+    "actorName": "Georges St-Pierre"
+  },
+  {
+    "characterName": "Howard Stark",
+    "actorName": "Gerard Sanders"
+  },
+  {
+    "characterName": "Irani Rael",
+    "actorName": "Glenn Close"
+  },
+  {
+    "characterName": "Grandpa Quill",
+    "actorName": "Gregg Henry"
+  },
+  {
+    "characterName": "Dale",
+    "actorName": "Gregg Turkington"
+  },
+  {
+    "characterName": "Aldrich Killian",
+    "actorName": "Guy Pearce"
+  },
+  {
+    "characterName": "Virginia \"Pepper\" Potts",
+    "actorName": "Gwyneth Paltrow"
+  },
+  {
+    "characterName": "Ghost",
+    "actorName": "Hannah John-Kamen"
+  },
+  {
+    "characterName": "Coach Wilson",
+    "actorName": "Hannibal Buress"
+  },
+  {
+    "characterName": "Peggy Carter",
+    "actorName": "Hayley Atwell"
+  },
+  {
+    "characterName": "Janet van Dyne",
+    "actorName": "Hayley Lovitt"
+  },
+  {
+    "characterName": "Mr. Delmar",
+    "actorName": "Hemky Madera"
+  },
+  {
+    "characterName": "List",
+    "actorName": "Henry Goodman"
+  },
+  {
+    "characterName": "Maria Stark",
+    "actorName": "Hope Davis"
+  },
+  {
+    "characterName": "Johann Schmidt",
+    "actorName": "Hugo Weaving"
+  },
+  {
+    "characterName": "Heimdall",
+    "actorName": "Idris Elba"
+  },
+  {
+    "characterName": "Sally",
+    "actorName": "Isabella Amara"
+  },
+  {
+    "characterName": "Seymour",
+    "actorName": "J. J. Totah"
+  },
+  {
+    "characterName": "James Montgomery Falsworth",
+    "actorName": "JJ Feild"
+  },
+  {
+    "characterName": "Ned",
+    "actorName": "Jacob Batalon"
+  },
+  {
+    "characterName": "Sif",
+    "actorName": "Jaimie Alexander"
+  },
+  {
+    "characterName": "Eric Savin",
+    "actorName": "James Badge Dale"
+  },
+  {
+    "characterName": "Ultron",
+    "actorName": "James Spader"
+  },
+  {
+    "characterName": "Obadiah Stane",
+    "actorName": "Jeff Bridges"
+  },
+  {
+    "characterName": "Grandmaster",
+    "actorName": "Jeff Goldblum"
+  },
+  {
+    "characterName": "Karen",
+    "actorName": "Jennifer Connelly"
+  },
+  {
+    "characterName": "Hawley",
+    "actorName": "Jenny Agutter"
+  },
+  {
+    "characterName": "Clint Barton",
+    "actorName": "Jeremy Renner"
+  },
+  {
+    "characterName": "Georgi Luchkov",
+    "actorName": "Jerzy Skolimowski"
+  },
+  {
+    "characterName": "Half-Nut",
+    "actorName": "Jimmy Urine"
+  },
+  {
+    "characterName": "Oblo",
+    "actorName": "Joe Fria"
+  },
+  {
+    "characterName": "Rhomann Dey",
+    "actorName": "John C. Reilly"
+  },
+  {
+    "characterName": "T'Chaka",
+    "actorName": "John Kani"
+  },
+  {
+    "characterName": "Mr. Hapgood",
+    "actorName": "John Penick"
+  },
+  {
+    "characterName": "Howard Stark",
+    "actorName": "John Slattery"
+  },
+  {
+    "characterName": "Harold \"Happy\" Hogan",
+    "actorName": "Jon Favreau"
+  },
+  {
+    "characterName": "Ian Boothby",
+    "actorName": "Jonathan Howard"
+  },
+  {
+    "characterName": "Jason Ionello",
+    "actorName": "Jorge Lendeborg Jr."
+  },
+  {
+    "characterName": "Thanos",
+    "actorName": "Josh Brolin"
+  },
+  {
+    "characterName": "Fandral",
+    "actorName": "Josh Dallas"
+  },
+  {
+    "characterName": "Maggie",
+    "actorName": "Judy Greer"
+  },
+  {
+    "characterName": "Nebula",
+    "actorName": "Karen Gillan"
+  },
+  {
+    "characterName": "Skurge",
+    "actorName": "Karl Urban"
+  },
+  {
+    "characterName": "Darcy Lewis",
+    "actorName": "Kat Dennings"
+  },
+  {
+    "characterName": "Jim Morita",
+    "actorName": "Kenneth Choi"
+  },
+  {
+    "characterName": "Principal Morita",
+    "actorName": "Kenneth Choi"
+  },
+  {
+    "characterName": "F.R.I.D.A.Y.",
+    "actorName": "Kerry Condon"
+  },
+  {
+    "characterName": "Ego",
+    "actorName": "Kurt Russell"
+  },
+  {
+    "characterName": "Meredith Quill",
+    "actorName": "Laura Haddock"
+  },
+  {
+    "characterName": "Liz",
+    "actorName": "Laura Harrier"
+  },
+  {
+    "characterName": "Bill Foster",
+    "actorName": "Laurence Fishburne"
+  },
+  {
+    "characterName": "Ronan the Accuser",
+    "actorName": "Lee Pace"
+  },
+  {
+    "characterName": "Christine Everhart",
+    "actorName": "Leslie Bibb"
+  },
+  {
+    "characterName": "Shuri",
+    "actorName": "Letitia Wright"
+  },
+  {
+    "characterName": "Gilmore Hodge",
+    "actorName": "Lex Shrapnel"
+  },
+  {
+    "characterName": "Laura Barton",
+    "actorName": "Linda Cardellini"
+  },
+  {
+    "characterName": "Tina Minoru",
+    "actorName": "Linda Louise Duan"
+  },
+  {
+    "characterName": "Betty Ross",
+    "actorName": "Liv Tyler"
+  },
+  {
+    "characterName": "Jackson Brice",
+    "actorName": "Logan Marshall-Green"
+  },
+  {
+    "characterName": "Nakia",
+    "actorName": "Lupita Nyong'o"
+  },
+  {
+    "characterName": "Kaecilius",
+    "actorName": "Mads Mikkelsen"
+  },
+  {
+    "characterName": "May Parker",
+    "actorName": "Marisa Tomei"
+  },
+  {
+    "characterName": "Daniel Drumm",
+    "actorName": "Mark Anthony Brighton"
+  },
+  {
+    "characterName": "Bruce Banner",
+    "actorName": "Mark Ruffalo"
+  },
+  {
+    "characterName": "Mitchell Carson",
+    "actorName": "Martin Donovan"
+  },
+  {
+    "characterName": "Everett K. Ross",
+    "actorName": "Martin Freeman"
+  },
+  {
+    "characterName": "Mr. Harrington",
+    "actorName": "Martin Starr"
+  },
+  {
+    "characterName": "Jasper Sitwell",
+    "actorName": "Maximiliano Hernández"
+  },
+  {
+    "characterName": "Bereet",
+    "actorName": "Melia Kreiling"
+  },
+  {
+    "characterName": "Erik \"Killmonger\" Stevens",
+    "actorName": "Michael B. Jordan"
+  },
+  {
+    "characterName": "Charles",
+    "actorName": "Michael Barbieri"
+  },
+  {
+    "characterName": "Brandt",
+    "actorName": "Michael Brandon"
+  },
+  {
+    "characterName": "Phineas Mason",
+    "actorName": "Michael Chernus"
+  },
+  {
+    "characterName": "Hank Pym",
+    "actorName": "Michael Douglas"
+  },
+  {
+    "characterName": "Adrian Toomes",
+    "actorName": "Michael Keaton"
+  },
+  {
+    "characterName": "Mac Gargan",
+    "actorName": "Michael Mando"
+  },
+  {
+    "characterName": "Luis",
+    "actorName": "Michael Peña"
+  },
+  {
+    "characterName": "Yondu Udonta",
+    "actorName": "Michael Rooker"
+  },
+  {
+    "characterName": "Martinex",
+    "actorName": "Michael Rosenbaum"
+  },
+  {
+    "characterName": "Nicodemus West",
+    "actorName": "Michael Stuhlbarg"
+  },
+  {
+    "characterName": "Janet van Dyne",
+    "actorName": "Michelle Pfeiffer"
+  },
+  {
+    "characterName": "Aleta Ogord",
+    "actorName": "Michelle Yeoh"
+  },
+  {
+    "characterName": "Ivan Vanko",
+    "actorName": "Mickey Rourke"
+  },
+  {
+    "characterName": "Rodriguez",
+    "actorName": "Miguel Ferrer"
+  },
+  {
+    "characterName": "Scrote",
+    "actorName": "Mike Escamilla"
+  },
+  {
+    "characterName": "Mainframe",
+    "actorName": "Miley Cyrus"
+  },
+  {
+    "characterName": "Tilda Johnson",
+    "actorName": "Nabiyah Be"
+  },
+  {
+    "characterName": "Jane Foster",
+    "actorName": "Natalie Portman"
+  },
+  {
+    "characterName": "Timothy \"Dum Dum\"Dugan",
+    "actorName": "Neal McDonough"
+  },
+  {
+    "characterName": "Chess Roberts",
+    "actorName": "Olivia Munn"
+  },
+  {
+    "characterName": "Carina",
+    "actorName": "Ophelia Lovibond"
+  },
+  {
+    "characterName": "J.A.R.V.I.S.",
+    "actorName": "Paul Bettany"
+  },
+  {
+    "characterName": "Vision",
+    "actorName": "Paul Bettany"
+  },
+  {
+    "characterName": "Scott Lang",
+    "actorName": "Paul Rudd"
+  },
+  {
+    "characterName": "Garthan Saal",
+    "actorName": "Peter Serafinowicz"
+  },
+  {
+    "characterName": "Mantis",
+    "actorName": "Pom Klementieff"
+  },
+  {
+    "characterName": "Gideon Malick",
+    "actorName": "Powers Boothe"
+  },
+  {
+    "characterName": "Topaz",
+    "actorName": "Rachel House"
+  },
+  {
+    "characterName": "Christine Palmer",
+    "actorName": "Rachel McAdams"
+  },
+  {
+    "characterName": "Jimmy Woo",
+    "actorName": "Randall Park"
+  },
+  {
+    "characterName": "Volstagg",
+    "actorName": "Ray Stevenson"
+  },
+  {
+    "characterName": "Maya Hansen",
+    "actorName": "Rebecca Hall"
+  },
+  {
+    "characterName": "Frigga",
+    "actorName": "Rene Russo"
+  },
+  {
+    "characterName": "Heinz Kruger",
+    "actorName": "Richard Armitage"
+  },
+  {
+    "characterName": "Tony Stark",
+    "actorName": "Robert Downey Jr."
+  },
+  {
+    "characterName": "Alexander Pierce",
+    "actorName": "Robert Redford"
+  },
+  {
+    "characterName": "Justin Hammer",
+    "actorName": "Sam Rockwell"
+  },
+  {
+    "characterName": "Nick Fury",
+    "actorName": "Samuel L. Jackson"
+  },
+  {
+    "characterName": "Natasha Romanoff",
+    "actorName": "Scarlett Johansson"
+  },
+  {
+    "characterName": "Lucian",
+    "actorName": "Scott Adkins"
+  },
+  {
+    "characterName": "Kraglin",
+    "actorName": "Sean Gunn"
+  },
+  {
+    "characterName": "James \"Bucky\" Barnes",
+    "actorName": "Sebastian Stan"
+  },
+  {
+    "characterName": "Ms. Warren",
+    "actorName": "Selenis Leyva"
+  },
+  {
+    "characterName": "Howard the Duck",
+    "actorName": "Seth Green"
+  },
+  {
+    "characterName": "Ho Yinsen",
+    "actorName": "Shaun Toub"
+  },
+  {
+    "characterName": "Abraham Erskine",
+    "actorName": "Stanley Tucci"
+  },
+  {
+    "characterName": "Erik Selvig",
+    "actorName": "Stellan Skarsgård"
+  },
+  {
+    "characterName": "Ellen Brandt",
+    "actorName": "Stephanie Szostak"
+  },
+  {
+    "characterName": "Brahl",
+    "actorName": "Stephen Blackehart"
+  },
+  {
+    "characterName": "N'Jobu",
+    "actorName": "Sterling K. Brown"
+  },
+  {
+    "characterName": "Gef the Ravager",
+    "actorName": "Steve Agee"
+  },
+  {
+    "characterName": "Xoliswa",
+    "actorName": "Sydelle Noel"
+  },
+  {
+    "characterName": "Stakar Ogord",
+    "actorName": "Sylvester Stallone"
+  },
+  {
+    "characterName": "Hogun",
+    "actorName": "Tadanobu Asano"
+  },
+  {
+    "characterName": "Korg",
+    "actorName": "Taika Waititi"
+  },
+  {
+    "characterName": "Narblik",
+    "actorName": "Terence Rosemore"
+  },
+  {
+    "characterName": "James \"Rhodey\" Rhodes",
+    "actorName": "Terrence Howard"
+  },
+  {
+    "characterName": "Valkyrie",
+    "actorName": "Tessa Thompson"
+  },
+  {
+    "characterName": "Wolfgang von Strucker",
+    "actorName": "Thomas Kretschmann"
+  },
+  {
+    "characterName": "Cindy",
+    "actorName": "Tiffany Espensen"
+  },
+  {
+    "characterName": "Ancient One",
+    "actorName": "Tilda Swinton"
+  },
+  {
+    "characterName": "Samuel Sterns",
+    "actorName": "Tim Blake Nelson"
+  },
+  {
+    "characterName": "Emil Blonsky",
+    "actorName": "Tim Roth"
+  },
+  {
+    "characterName": "Dave",
+    "actorName": "Tip \"T.I.\" Harris"
+  },
+  {
+    "characterName": "Arnim Zola",
+    "actorName": "Toby Jones"
+  },
+  {
+    "characterName": "Loki",
+    "actorName": "Tom Hiddleston"
+  },
+  {
+    "characterName": "Peter Parker",
+    "actorName": "Tom Holland"
+  },
+  {
+    "characterName": "Tullk",
+    "actorName": "Tommy Flanagan"
+  },
+  {
+    "characterName": "Chester Phillips",
+    "actorName": "Tommy Lee Jones"
+  },
+  {
+    "characterName": "Bor",
+    "actorName": "Tony Curran"
+  },
+  {
+    "characterName": "Eugene \"Flash\" Thompson",
+    "actorName": "Tony Revolori"
+  },
+  {
+    "characterName": "Hamir",
+    "actorName": "Topo Wresniwiro"
+  },
+  {
+    "characterName": "Mr. Cobbwell",
+    "actorName": "Tunde Adebimpe"
+  },
+  {
+    "characterName": "Leonard Samson",
+    "actorName": "Ty Burrell"
+  },
+  {
+    "characterName": "Harley Keener",
+    "actorName": "Ty Simpkins"
+  },
+  {
+    "characterName": "Anne Marie Hoag",
+    "actorName": "Tyne Daly"
+  },
+  {
+    "characterName": "Groot",
+    "actorName": "Vin Diesel"
+  },
+  {
+    "characterName": "Charlie-",
+    "actorName": "Ving Rhames"
+  },
+  {
+    "characterName": "Sonny Burch",
+    "actorName": "Walton Goggins"
+  },
+  {
+    "characterName": "Wu",
+    "actorName": "Wang Xueqi"
+  },
+  {
+    "characterName": "Thaddeus \"Thunderbolt\" Ross",
+    "actorName": "William Hurt"
+  },
+  {
+    "characterName": "Matthew Ellis DS",
+    "actorName": "William Sadler"
+  },
+  {
+    "characterName": "M'Baku",
+    "actorName": "Winston Duke"
+  },
+  {
+    "characterName": "Gale",
+    "actorName": "Wood Harris"
+  },
+  {
+    "characterName": "Anton Vanko",
+    "actorName": "Yevgeni Lazarev"
+  },
+  {
+    "characterName": "Fandral",
+    "actorName": "Zachary Levi"
+  },
+  {
+    "characterName": "Michelle \"MJ\" Jones",
+    "actorName": "Zendaya"
+  },
+  {
+    "characterName": "Gamora",
+    "actorName": "Zoe Saldana"
+  }
+]
