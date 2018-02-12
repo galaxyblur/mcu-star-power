@@ -4,7 +4,7 @@ import Nightmare from 'nightmare';
 import {
   cleanUpName,
   writeActorsToFile
-} from '../lib/ActorsHelper';
+} from '../../lib/ActorsHelper';
 
 import {
   isEqual,

@@ -1,0 +1,4738 @@
+[
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Cameron Klein",
+    "actorName": "Aaron Himelstein"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Nocturnal Animals",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Nocturnal Animals",
+        "winner": true,
+        "year": "2017"
+      }
+    ],
+    "power": 3,
+    "characterName": "Pietro Maximoff",
+    "actorName": "Aaron Taylor-Johnson"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Cassie",
+    "actorName": "Abby Ryder Fortson"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Abraham",
+    "actorName": "Abraham Attah"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Algrim",
+    "actorName": "Adewale Akinnuoye-Agbaje"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "The Other",
+    "actorName": "Alexis Denisof"
+  },
+  {
+    "awards": [
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Geechee\"}",
+        "title": "Cross Creek",
+        "winner": false,
+        "year": "1983 (56th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Holiday Heart",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Miss Evers' Boys",
+        "winner": true,
+        "year": "1998"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Passion Fish",
+        "winner": false,
+        "year": "1993"
+      }
+    ],
+    "power": 7,
+    "characterName": "Miriam Sharpe",
+    "actorName": "Alfre Woodard"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Eir",
+    "actorName": "Alice Krige"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "Sex And Drugs And Rock And Roll",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "Longford",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Longford",
+        "winner": false,
+        "year": "2008"
+      }
+    ],
+    "power": 5,
+    "characterName": "Ulysses Klaue",
+    "actorName": "Andy Serkis"
+  },
+  {
+    "awards": [
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Tina Turner\"}",
+        "title": "What's Love Got to Do with It",
+        "winner": false,
+        "year": "1993 (66th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "What's Love Got To Do With It",
+        "winner": true,
+        "year": "1994"
+      }
+    ],
+    "power": 5,
+    "characterName": "Ramonda",
+    "actorName": "Angela Bassett"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Betty Brant",
+    "actorName": "Angourie Rice"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Fellowship",
+        "title": "",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree",
+        "title": "",
+        "winner": true,
+        "year": "1995"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Actor",
+        "title": "Selected Exits",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Remains Of The Day",
+        "winner": true,
+        "year": "1994"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Silence Of The Lambs",
+        "winner": true,
+        "year": "1992"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor",
+        "title": "Magic",
+        "winner": false,
+        "year": "1979"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "War And Peace",
+        "winner": true,
+        "year": "1973"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "The Great Inimitable Mr Dickens/Uncle Vanya/Hearts And Flowers/Biography: Danton",
+        "winner": false,
+        "year": "1971"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "The Lion In Winter",
+        "winner": false,
+        "year": "1969"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Dr. Hannibal Lecter\"}",
+        "title": "The Silence of the Lambs",
+        "winner": true,
+        "year": "1991 (64th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Mr. Stevens\"}",
+        "title": "The Remains of the Day",
+        "winner": false,
+        "year": "1993 (66th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Richard Nixon\"}",
+        "title": "Nixon",
+        "winner": false,
+        "year": "1995 (68th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"John Quincy Adams\"}",
+        "title": "Amistad",
+        "winner": false,
+        "year": "1997 (70th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "CECIL B. DEMILLE AWARD",
+        "title": "Anthony Hopkins",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Amistad",
+        "winner": false,
+        "year": "1998"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Nixon",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Remains of the Day, The",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Silence of the Lambs, The",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Tenth Man, The",
+        "winner": false,
+        "year": "1989"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Magic",
+        "winner": false,
+        "year": "1979"
+      }
+    ],
+    "power": 43,
+    "characterName": "Odin",
+    "actorName": "Anthony Hopkins"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Sam Wilson",
+    "actorName": "Anthony Mackie"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jack Taggart",
+    "actorName": "Ashley Hamilton"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, Albert R. Broccoli Britannia Award for Worldwide Contribution to Entertainment",
+        "title": "",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Schindler's List",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "Silas Marner",
+        "winner": false,
+        "year": "1986"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor",
+        "title": "Gandhi",
+        "winner": true,
+        "year": "1983"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Most Promising Newcomer To Leading Film Roles",
+        "title": "Ben Kingsley",
+        "winner": true,
+        "year": "1983"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Mahatma Gandhi\"}",
+        "title": "Gandhi",
+        "winner": true,
+        "year": "1982 (55th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Meyer Lansky\"}",
+        "title": "Bugsy",
+        "winner": false,
+        "year": "1991 (64th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Don Logan\"}",
+        "title": "Sexy Beast",
+        "winner": false,
+        "year": "2001 (74th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Behrani\"}",
+        "title": "House of Sand and Fog",
+        "winner": false,
+        "year": "2003 (76th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Mrs. Harris",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "House of Sand and Fog",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Anne Frank: The Whole Story",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Sexy Beast",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Bugsy",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Gandhi",
+        "winner": true,
+        "year": "1983"
+      }
+    ],
+    "power": 30,
+    "characterName": "Trevor Slattery",
+    "actorName": "Ben Kingsley"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "The Hollow Crown: The Wars of the Roses",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "The Imitation Game",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, The Britannia Award for British Artist Of The Year",
+        "title": "",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Supporting Actor",
+        "title": "Small Island",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "Hawking",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Alan Turing\"}",
+        "title": "The Imitation Game",
+        "winner": false,
+        "year": "2014 (87th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Imitation Game, The",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Sherlock: Season 2 (Masterpiece)",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 22,
+    "characterName": "Dormammu",
+    "actorName": "Benedict Cumberbatch"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "The Hollow Crown: The Wars of the Roses",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "The Imitation Game",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, The Britannia Award for British Artist Of The Year",
+        "title": "",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Supporting Actor",
+        "title": "Small Island",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "Hawking",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Alan Turing\"}",
+        "title": "The Imitation Game",
+        "winner": false,
+        "year": "2014 (87th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Imitation Game, The",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Sherlock: Season 2 (Masterpiece)",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 22,
+    "characterName": "Stephen Strange",
+    "actorName": "Benedict Cumberbatch"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Wong",
+    "actorName": "Benedict Wong"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Sicario",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "21 Grams",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Traffic",
+        "winner": true,
+        "year": "2001"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Javier Rodriguez\"}",
+        "title": "Traffic",
+        "winner": true,
+        "year": "2000 (73rd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Jack Jordan\"}",
+        "title": "21 Grams",
+        "winner": false,
+        "year": "2003 (76th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Traffic",
+        "winner": true,
+        "year": "2001"
+      }
+    ],
+    "power": 10,
+    "characterName": "Taneleer Tivan",
+    "actorName": "Benicio del Toro"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jonathan Pangborn",
+    "actorName": "Benjamin Bratt"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Paxton",
+    "actorName": "Bobby Cannavale"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Herman Schultz",
+    "actorName": "Bokeem Woodbine"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "American Hustle",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "Silver Linings Playbook",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Pat\"}",
+        "title": "Silver Linings Playbook",
+        "winner": false,
+        "year": "2012 (85th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Richie DiMaso\"}",
+        "title": "American Hustle",
+        "winner": false,
+        "year": "2013 (86th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Chris Kyle\"}",
+        "title": "American Sniper",
+        "winner": false,
+        "year": "2014 (87th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "American Hustle",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Silver Linings Playbook",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 11,
+    "characterName": "Rocket",
+    "actorName": "Bradley Cooper"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actress",
+        "title": "Room",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Ma\"}",
+        "title": "Room",
+        "winner": true,
+        "year": "2015 (88th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Room",
+        "winner": true,
+        "year": "2016"
+      }
+    ],
+    "power": 11,
+    "characterName": "Carol Danvers",
+    "actorName": "Brie Larson"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jacques Dernier",
+    "actorName": "Bruno Ricci"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jack Rollins",
+    "actorName": "Callan Mulvey"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actress",
+        "title": "Carol",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actress",
+        "title": "Blue Jasmine",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actress",
+        "title": "Elizabeth: The Golden Age",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actress",
+        "title": "I'm Not There",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Supporting Role",
+        "title": "The Aviator",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Supporting Role",
+        "title": "The Talented Mr Ripley",
+        "winner": false,
+        "year": "2000"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Leading Role",
+        "title": "Elizabeth",
+        "winner": true,
+        "year": "1999"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Queen Elizabeth I\"}",
+        "title": "Elizabeth",
+        "winner": false,
+        "year": "1998 (71st)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Katharine Hepburn\"}",
+        "title": "The Aviator",
+        "winner": true,
+        "year": "2004 (77th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Sheba Hart\"}",
+        "title": "Notes on a Scandal",
+        "winner": false,
+        "year": "2006 (79th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Queen Elizabeth I\"}",
+        "title": "Elizabeth: The Golden Age",
+        "winner": false,
+        "year": "2007 (80th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Jasmine\"}",
+        "title": "Blue Jasmine",
+        "winner": true,
+        "year": "2013 (86th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Carol Aird\"}",
+        "title": "Carol",
+        "winner": false,
+        "year": "2015 (88th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Carol",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Blue Jasmine",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "I'm Not There",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Elizabeth: The Golden Age",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Notes On a Scandal",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Aviator, The",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Veronica Guerin",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Bandits",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Elizabeth",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 44,
+    "characterName": "Hela",
+    "actorName": "Cate Blanchett"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "T'Challa",
+    "actorName": "Chadwick Boseman"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "12 Years a Slave",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Orange Rising Star Award (Voted For By The Public)",
+        "title": "",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Solomon Northup\"}",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2013 (86th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Dancing on the Edge",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Endgame",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Kinky Boots",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Tsunami, The Aftermath",
+        "winner": false,
+        "year": "2007"
+      }
+    ],
+    "power": 17,
+    "characterName": "Karl Mordo",
+    "actorName": "Chiwetel Ejiofor"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Steve Rogers",
+    "actorName": "Chris Evans"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Orange Wednesdays Rising Star Award",
+        "title": "",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 2,
+    "characterName": "Thor",
+    "actorName": "Chris Hemsworth"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Scripted Comedy",
+        "title": "Chris O’Dowd, Nick Vincent Murphy, Ted Dowd, Ian Fitzgibbon",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "The IT Crowd",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Orange Wednesdays Rising Star Award",
+        "title": "",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 6,
+    "characterName": "Richard",
+    "actorName": "Chris O'Dowd"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Peter Quill",
+    "actorName": "Chris Pratt"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Taserface",
+    "actorName": "Chris Sullivan"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Actor",
+        "title": "Doctor Who",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "The Second Coming",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "Our Friends In The North",
+        "winner": false,
+        "year": "1997"
+      }
+    ],
+    "power": 6,
+    "characterName": "Malekith",
+    "actorName": "Christopher Eccleston"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "The Broker",
+    "actorName": "Christopher Fairbank"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Costume Design",
+        "title": "Deirdre Clancy",
+        "winner": true,
+        "year": "1998"
+      }
+    ],
+    "power": 3,
+    "characterName": "Surtur",
+    "actorName": "Clancy Brown"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Phil Coulson",
+    "actorName": "Clark Gregg"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Specialist Factual",
+        "title": "Claudia Lewis, Kim Shillinglaw",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 2,
+    "characterName": "Helen Cho",
+    "actorName": "Claudia Kim"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Tyr",
+    "actorName": "Clive Russell"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Maria Hill",
+    "actorName": "Cobie Smulders"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Laufey",
+    "actorName": "Colm Feore"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "House of Cards",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 1,
+    "characterName": "Darren Cross",
+    "actorName": "Corey Stoll"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Thanos",
+    "actorName": "Damion Poitier"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Okoye",
+    "actorName": "Danai Gurira"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Rush",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 1,
+    "characterName": "Helmut Zemo",
+    "actorName": "Daniel Brühl"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2018"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "Get Out",
+        "winner": false,
+        "year": "2018"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Get Out",
+        "winner": false,
+        "year": "2018"
+      }
+    ],
+    "power": 6,
+    "characterName": "W'Kabi",
+    "actorName": "Daniel Kaluuya"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Drax the Destroyer",
+    "actorName": "Dave Bautista"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Kurt",
+    "actorName": "David Dastmalchian"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Gabe Jones",
+    "actorName": "Derek Luke"
+  },
+  {
+    "awards": [
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Mateo\"}",
+        "title": "In America",
+        "winner": false,
+        "year": "2003 (76th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Solomon Vandy\"}",
+        "title": "Blood Diamond",
+        "winner": false,
+        "year": "2006 (79th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Amistad",
+        "winner": false,
+        "year": "1998"
+      }
+    ],
+    "power": 4,
+    "characterName": "Korath",
+    "actorName": "Djimon Hounsou"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Children's | Short Form",
+        "title": "Dominic Minns, Ellie Wyatt, Nathaniel Cooper",
+        "winner": false,
+        "year": "2016"
+      }
+    ],
+    "power": 2,
+    "characterName": "Howard Stark",
+    "actorName": "Dominic Cooper"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, The BAFTA LA Humanitarian Award Presented by Volvo",
+        "title": "",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Crash",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Film",
+        "title": "Cathy Schulman, Don Cheadle, Bob Yari",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Paul Rusesabagina\"}",
+        "title": "Hotel Rwanda",
+        "winner": false,
+        "year": "2004 (77th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "House of Lies",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "House of Lies",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "House of Lies",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Hotel Rwanda",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Rat Pack, The",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 19,
+    "characterName": "James \"Rhodey\" Rhodes",
+    "actorName": "Don Cheadle"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Atlanta",
+        "winner": true,
+        "year": "2017"
+      }
+    ],
+    "power": 3,
+    "characterName": "Aaron Davis",
+    "actorName": "Donald Glover"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Birdman",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Primal Fear",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Aaron Stampler\"}",
+        "title": "Primal Fear",
+        "winner": false,
+        "year": "1996 (69th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Derek\"}",
+        "title": "American History X",
+        "winner": false,
+        "year": "1998 (71st)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Mike\"}",
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "winner": false,
+        "year": "2014 (87th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Birdman",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Primal Fear",
+        "winner": true,
+        "year": "1997"
+      }
+    ],
+    "power": 9,
+    "characterName": "Bruce Banner",
+    "actorName": "Edward Norton"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ayesha",
+    "actorName": "Elizabeth Debicki"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 2,
+    "characterName": "Wanda Maximoff",
+    "actorName": "Elizabeth Olsen"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Sharon Carter",
+    "actorName": "Emily VanCamp"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Tiny",
+    "actorName": "Ethan Dizon"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Current Affairs",
+        "title": "Geraint Evans",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Photography: Factual",
+        "title": "Tudor Evans",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Current Affairs",
+        "title": "Ioan Wyn Evans, Geraint Lewis Jones",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Sport Programme",
+        "title": "Euros Jones Evans",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Sound",
+        "title": "Hefin Elis, Huw 'Buzz' Evans, John Markham",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Children's | Schools - Factual",
+        "title": "Trevor Evans, Charlie Paul",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | British Actress",
+        "title": "Tom Jones",
+        "winner": false,
+        "year": "1964"
+      }
+    ],
+    "power": 15,
+    "characterName": "Retch",
+    "actorName": "Evan Jones"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Lost",
+        "winner": false,
+        "year": "2007"
+      }
+    ],
+    "power": 2,
+    "characterName": "Hope van Dyne",
+    "actorName": "Evangeline Lilly"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Raza",
+    "actorName": "Faran Tahir"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ayo",
+    "actorName": "Florence Kasumba"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Last King Of Scotland",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Idi Amin\"}",
+        "title": "The Last King of Scotland",
+        "winner": true,
+        "year": "2006 (79th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Last King of Scotland, The",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Bird",
+        "winner": false,
+        "year": "1989"
+      }
+    ],
+    "power": 11,
+    "characterName": "Zuri",
+    "actorName": "Forest Whitaker"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Brock Rumlow",
+    "actorName": "Frank Grillo"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Film",
+        "title": "Fred Berger, Jordan Horowitz, Marc Platt",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Editing",
+        "title": "Fred Raskin",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Games | Family",
+        "title": "Paul Reiche, Fred Ford, Scott Krager",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | News Coverage",
+        "title": "Production Team",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Children's | BAFTA Young Game Designers",
+        "title": "Molly Proud (15), Fred Gosling (15), Laurie Griffiths (15)",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television Craft | Photography - Factual",
+        "title": "Fred Fabre",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television Craft | Photography - Factual",
+        "title": "Fred Fabre",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Anthony Asquith Award for Original Film Music",
+        "title": "Danny Elfman, John Kander, Fred Ebb",
+        "winner": false,
+        "year": "2003"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Situation Comedy",
+        "title": "Production Team",
+        "winner": false,
+        "year": "2003"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television Craft | Photography And Lighting - Fiction",
+        "title": "Fred Tammes",
+        "winner": false,
+        "year": "2003"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Film",
+        "title": "Martin Brown, Baz Luhrmann, Fred Baron",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television Craft | Photography And Lighting - Fiction",
+        "title": "Fred Tammes",
+        "winner": true,
+        "year": "2000"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Short Animation",
+        "title": "John Coates, Catrin Unwin, Joanna Quinn",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Make-Up",
+        "title": "Kevin Haney, Katherine James, Fred Blau, Fern Buchner",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Foreign Language Film",
+        "title": "Alberto Grimaldi, Federico Fellini",
+        "winner": false,
+        "year": "1987"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Special Visual Effects",
+        "title": "Fred Cramer",
+        "winner": false,
+        "year": "1985"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Make-Up Artist",
+        "title": "Zelig",
+        "winner": false,
+        "year": "1984"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television Craft | VTR Editor",
+        "title": "The Kenny Everett Video Show",
+        "winner": false,
+        "year": "1981"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Documentary",
+        "title": "Don Haworth",
+        "winner": true,
+        "year": "1980"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television Craft | VTR Editor",
+        "title": "The Will Kenny Everett Make It To 1980? Show",
+        "winner": false,
+        "year": "1980"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Direction",
+        "title": "Fred Zinnemann",
+        "winner": false,
+        "year": "1979"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Fellowship",
+        "title": "",
+        "winner": true,
+        "year": "1978"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Cinematography",
+        "title": "Fred Koenekamp",
+        "winner": false,
+        "year": "1976"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "The Towering Inferno",
+        "winner": true,
+        "year": "1976"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Specialised Programme",
+        "title": "Fred Burnley",
+        "winner": false,
+        "year": "1976"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Soundtrack",
+        "title": "Chris Newman, Jean-Louis Ducarme, Buzz Knudson, Fred Brown, Bob Fine, Ross Taylor, Ron Nagle, Doc Siegel, Gonzalo Gavira, Hal Landaker",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Design",
+        "title": "Fred Pusey, Mike Hall",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Direction",
+        "title": "Fred Zinnemann",
+        "winner": false,
+        "year": "1974"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Specialised Production",
+        "title": "Fred Burnley",
+        "winner": false,
+        "year": "1971"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Specialised Programme",
+        "title": "Fred Burnley",
+        "winner": true,
+        "year": "1970"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Harlee Claiborne\"}",
+        "title": "The Towering Inferno",
+        "winner": false,
+        "year": "1974 (47th)"
+      }
+    ],
+    "power": 67,
+    "characterName": "Cosmo",
+    "actorName": "Fred"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Doris Toomes",
+    "actorName": "Garcelle Beauvais"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | International - Programme or Series",
+        "title": "Garry Shandling, Dennis Klein",
+        "winner": true,
+        "year": "1999"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Larry Sanders Show, The",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Larry Sanders Show, The",
+        "winner": false,
+        "year": "1995"
+      }
+    ],
+    "power": 7,
+    "characterName": "Stern",
+    "actorName": "Garry Shandling"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Georges Batroc",
+    "actorName": "Georges St-Pierre"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Howard Stark",
+    "actorName": "Gerard Sanders"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Leading Role",
+        "title": "Dangerous Liaisons",
+        "winner": false,
+        "year": "1990"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Jenny Fields\"}",
+        "title": "The World According to Garp",
+        "winner": false,
+        "year": "1982 (55th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Sarah\"}",
+        "title": "The Big Chill",
+        "winner": false,
+        "year": "1983 (56th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Iris\"}",
+        "title": "The Natural",
+        "winner": false,
+        "year": "1984 (57th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Alex Forrest\"}",
+        "title": "Fatal Attraction",
+        "winner": false,
+        "year": "1987 (60th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Marquise de Merteuil\"}",
+        "title": "Dangerous Liaisons",
+        "winner": false,
+        "year": "1988 (61st)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Albert Nobbs\"}",
+        "title": "Albert Nobbs",
+        "winner": false,
+        "year": "2011 (84th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Damages",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Albert Nobbs",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Damages",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Damages",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Shield, The",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Lion In Winter (2004), The",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "101 Dalmatians",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Serving In Silence: The Margarethe Cammermeyer Story",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Sarah, Plain and Tall",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Fatal Attraction",
+        "winner": false,
+        "year": "1988"
+      }
+    ],
+    "power": 33,
+    "characterName": "Irani Rael",
+    "actorName": "Glenn Close"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Grandpa Quill",
+    "actorName": "Gregg Henry"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Dale",
+    "actorName": "Gregg Turkington"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Games | Sports",
+        "title": "Matt Horsman, Clive Moody, Guy Pearce",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Mildred Pierce",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 3,
+    "characterName": "Aldrich Killian",
+    "actorName": "Guy Pearce"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Leading Role",
+        "title": "Shakespeare In Love",
+        "winner": false,
+        "year": "1999"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Viola De Lesseps\"}",
+        "title": "Shakespeare in Love",
+        "winner": true,
+        "year": "1998 (71st)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Proof",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Shakespeare in Love",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 10,
+    "characterName": "Virginia \"Pepper\" Potts",
+    "actorName": "Gwyneth Paltrow"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ghost",
+    "actorName": "Hannah John-Kamen"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Coach Wilson",
+    "actorName": "Hannibal Buress"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Pillars Of The Earth",
+        "winner": false,
+        "year": "2011"
+      }
+    ],
+    "power": 2,
+    "characterName": "Peggy Carter",
+    "actorName": "Hayley Atwell"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Janet van Dyne",
+    "actorName": "Hayley Lovitt"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mr. Delmar",
+    "actorName": "Hemky Madera"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "List",
+    "actorName": "Henry Goodman"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Sound",
+        "title": "Ron Davis, Peter Handford, John Hayward",
+        "winner": false,
+        "year": "1988"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Special Relationship, The",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "American Splendor",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 4,
+    "characterName": "Maria Stark",
+    "actorName": "Hope Davis"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Johann Schmidt",
+    "actorName": "Hugo Weaving"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Beasts Of No Nation",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Luther",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, Britannia Humanitarian Award",
+        "title": "",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Luther",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Beasts of No Nation",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Mandela: Long Walk to Freedom",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Luther",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Luther",
+        "winner": true,
+        "year": "2012"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Luther",
+        "winner": false,
+        "year": "2011"
+      }
+    ],
+    "power": 18,
+    "characterName": "Heimdall",
+    "actorName": "Idris Elba"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Sally",
+    "actorName": "Isabella Amara"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Seymour",
+    "actorName": "J. J. Totah"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "James Montgomery Falsworth",
+    "actorName": "JJ Feild"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ned",
+    "actorName": "Jacob Batalon"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Sif",
+    "actorName": "Jaimie Alexander"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Eric Savin",
+    "actorName": "James Badge Dale"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Blacklist, The",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Blacklist, The",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Boston Legal",
+        "winner": false,
+        "year": "2005"
+      }
+    ],
+    "power": 6,
+    "characterName": "Ultron",
+    "actorName": "James Spader"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Hell or High Water",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "True Grit",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, The Stanley Kubrick Britannia Award for Excellence in Film",
+        "title": "",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "Crazy Heart",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Duane Jackson\"}",
+        "title": "The Last Picture Show",
+        "winner": false,
+        "year": "1971 (44th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Lightfoot\"}",
+        "title": "Thunderbolt and Lightfoot",
+        "winner": false,
+        "year": "1974 (47th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Starman\"}",
+        "title": "Starman",
+        "winner": false,
+        "year": "1984 (57th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"President Jackson Evans\"}",
+        "title": "The Contender",
+        "winner": false,
+        "year": "2000 (73rd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Bad Blake\"}",
+        "title": "Crazy Heart",
+        "winner": true,
+        "year": "2009 (82nd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Rooster Cogburn\"}",
+        "title": "True Grit",
+        "winner": false,
+        "year": "2010 (83rd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Marcus Hamilton\"}",
+        "title": "Hell or High Water",
+        "winner": false,
+        "year": "2016 (89th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Hell or High Water",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Crazy Heart",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Contender, The",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Fisher King, The",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "John Carpenter's Starman",
+        "winner": false,
+        "year": "1985"
+      }
+    ],
+    "power": 28,
+    "characterName": "Obadiah Stane",
+    "actorName": "Jeff Bridges"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Grandmaster",
+    "actorName": "Jeff Goldblum"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Supporting Role",
+        "title": "A Beautiful Mind",
+        "winner": true,
+        "year": "2002"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Alicia Nash\"}",
+        "title": "A Beautiful Mind",
+        "winner": true,
+        "year": "2001 (74th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Beautiful Mind, A",
+        "winner": true,
+        "year": "2002"
+      }
+    ],
+    "power": 6,
+    "characterName": "Karen",
+    "actorName": "Jennifer Connelly"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actress",
+        "title": "Equus",
+        "winner": true,
+        "year": "1978"
+      }
+    ],
+    "power": 2,
+    "characterName": "Hawley",
+    "actorName": "Jenny Agutter"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "The Hurt Locker",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Staff Sergeant William James\"}",
+        "title": "The Hurt Locker",
+        "winner": false,
+        "year": "2009 (82nd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"James Coughlin\"}",
+        "title": "The Town",
+        "winner": false,
+        "year": "2010 (83rd)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Town, The",
+        "winner": false,
+        "year": "2011"
+      }
+    ],
+    "power": 6,
+    "characterName": "Clint Barton",
+    "actorName": "Jeremy Renner"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Georgi Luchkov",
+    "actorName": "Jerzy Skolimowski"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Half-Nut",
+    "actorName": "Jimmy Urine"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Oblo",
+    "actorName": "Joe Fria"
+  },
+  {
+    "awards": [
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Amos Hart\"}",
+        "title": "Chicago",
+        "winner": false,
+        "year": "2002 (75th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Walk Hard: The Dewey Cox Story",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Chicago",
+        "winner": false,
+        "year": "2003"
+      }
+    ],
+    "power": 4,
+    "characterName": "Rhomann Dey",
+    "actorName": "John C. Reilly"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "T'Chaka",
+    "actorName": "John Kani"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mr. Hapgood",
+    "actorName": "John Penick"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Howard Stark",
+    "actorName": "John Slattery"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Children's | Feature Film",
+        "title": "Jon Favreau, Brigham Taylor",
+        "winner": false,
+        "year": "2016"
+      }
+    ],
+    "power": 2,
+    "characterName": "Harold \"Happy\" Hogan",
+    "actorName": "Jon Favreau"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ian Boothby",
+    "actorName": "Jonathan Howard"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jason Ionello",
+    "actorName": "Jorge Lendeborg Jr."
+  },
+  {
+    "awards": [
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Dan White\"}",
+        "title": "Milk",
+        "winner": false,
+        "year": "2008 (81st)"
+      }
+    ],
+    "power": 1,
+    "characterName": "Thanos",
+    "actorName": "Josh Brolin"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Fandral",
+    "actorName": "Josh Dallas"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Maggie",
+    "actorName": "Judy Greer"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Nebula",
+    "actorName": "Karen Gillan"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Skurge",
+    "actorName": "Karl Urban"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Darcy Lewis",
+    "actorName": "Kat Dennings"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jim Morita",
+    "actorName": "Kenneth Choi"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Principal Morita",
+    "actorName": "Kenneth Choi"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "F.R.I.D.A.Y.",
+    "actorName": "Kerry Condon"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Silkwood",
+        "winner": false,
+        "year": "1984"
+      }
+    ],
+    "power": 1,
+    "characterName": "Ego",
+    "actorName": "Kurt Russell"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Meredith Quill",
+    "actorName": "Laura Haddock"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Liz",
+    "actorName": "Laura Harrier"
+  },
+  {
+    "awards": [
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Ike Turner\"}",
+        "title": "What's Love Got to Do with It",
+        "winner": false,
+        "year": "1993 (66th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Tuskegee Airmen, The",
+        "winner": false,
+        "year": "1996"
+      }
+    ],
+    "power": 4,
+    "characterName": "Bill Foster",
+    "actorName": "Laurence Fishburne"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Pushing Daisies",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Soldier's Girl",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 3,
+    "characterName": "Ronan the Accuser",
+    "actorName": "Lee Pace"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Christine Everhart",
+    "actorName": "Leslie Bibb"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Shuri",
+    "actorName": "Letitia Wright"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Gilmore Hodge",
+    "actorName": "Lex Shrapnel"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Laura Barton",
+    "actorName": "Linda Cardellini"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Tina Minoru",
+    "actorName": "Linda Louise Duan"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Betty Ross",
+    "actorName": "Liv Tyler"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jackson Brice",
+    "actorName": "Logan Marshall-Green"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actress",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Patsey\"}",
+        "title": "12 Years a Slave",
+        "winner": true,
+        "year": "2013 (86th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 6,
+    "characterName": "Nakia",
+    "actorName": "Lupita Nyong'o"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Kaecilius",
+    "actorName": "Mads Mikkelsen"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actress",
+        "title": "The Wrestler",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Mona Lisa Vito\"}",
+        "title": "My Cousin Vinny",
+        "winner": true,
+        "year": "1992 (65th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Natalie Strout\"}",
+        "title": "In the Bedroom",
+        "winner": false,
+        "year": "2001 (74th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Cassidy\"}",
+        "title": "The Wrestler",
+        "winner": false,
+        "year": "2008 (81st)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Wrestler, The",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "In The Bedroom",
+        "winner": false,
+        "year": "2002"
+      }
+    ],
+    "power": 7,
+    "characterName": "May Parker",
+    "actorName": "Marisa Tomei"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Daniel Drumm",
+    "actorName": "Mark Anthony Brighton"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Spotlight",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Foxcatcher",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, Britannia Humanitarian Award",
+        "title": "",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "The Kids Are All Right",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Paul\"}",
+        "title": "The Kids Are All Right",
+        "winner": false,
+        "year": "2010 (83rd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"David Schultz\"}",
+        "title": "Foxcatcher",
+        "winner": false,
+        "year": "2014 (87th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Mike Rezendes\"}",
+        "title": "Spotlight",
+        "winner": false,
+        "year": "2015 (88th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Infinitely Polar Bear",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Foxcatcher",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Normal Heart, The",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "power": 14,
+    "characterName": "Bruce Banner",
+    "actorName": "Mark Ruffalo"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mitchell Carson",
+    "actorName": "Martin Donovan"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Supporting Actor",
+        "title": "Sherlock",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Supporting Actor",
+        "title": "Sherlock",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Comedy Performance",
+        "title": "Martin Freeman",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Light Entertainment Programme or Series",
+        "title": "Paul Smith, Guy Freeman, Martin Scott",
+        "winner": true,
+        "year": "1999"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Fargo (TV show)",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "power": 10,
+    "characterName": "Everett K. Ross",
+    "actorName": "Martin Freeman"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mr. Harrington",
+    "actorName": "Martin Starr"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jasper Sitwell",
+    "actorName": "Maximiliano Hernández"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Bereet",
+    "actorName": "Melia Kreiling"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Erik \"Killmonger\" Stevens",
+    "actorName": "Michael B. Jordan"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Charles",
+    "actorName": "Michael Barbieri"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Brandt",
+    "actorName": "Michael Brandon"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Phineas Mason",
+    "actorName": "Michael Chernus"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "Wonder Boys",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "Fatal Attraction",
+        "winner": false,
+        "year": "1989"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Film",
+        "title": "Saul Zaentz, Michael Douglas",
+        "winner": true,
+        "year": "1977"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Gordon Gekko\"}",
+        "title": "Wall Street",
+        "winner": true,
+        "year": "1987 (60th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Behind the Candelabra",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Wall Street: Money Never Sleeps",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "CECIL B. DEMILLE AWARD",
+        "title": "Michael Douglas",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Wonder Boys",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "American President, The",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "War of The Roses, The",
+        "winner": false,
+        "year": "1990"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Wall Street",
+        "winner": true,
+        "year": "1988"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Streets of San Francisco, The",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "NEW STAR OF THE YEAR - ACTOR",
+        "title": "Hail, Hero!",
+        "winner": false,
+        "year": "1970"
+      }
+    ],
+    "power": 29,
+    "characterName": "Hank Pym",
+    "actorName": "Michael Douglas"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "Birdman",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Riggan\"}",
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "winner": false,
+        "year": "2014 (87th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Birdman",
+        "winner": true,
+        "year": "2015"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Live from Baghdad",
+        "winner": false,
+        "year": "2003"
+      }
+    ],
+    "power": 9,
+    "characterName": "Adrian Toomes",
+    "actorName": "Michael Keaton"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mac Gargan",
+    "actorName": "Michael Mando"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Luis",
+    "actorName": "Michael Peña"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Yondu Udonta",
+    "actorName": "Michael Rooker"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Martinex",
+    "actorName": "Michael Rosenbaum"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Serious Man, A",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 2,
+    "characterName": "Nicodemus West",
+    "actorName": "Michael Stuhlbarg"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Leading Role",
+        "title": "The Fabulous Baker Boys",
+        "winner": false,
+        "year": "1991"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Supporting Role",
+        "title": "Dangerous Liaisons",
+        "winner": true,
+        "year": "1990"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Madame de Tourvel\"}",
+        "title": "Dangerous Liaisons",
+        "winner": false,
+        "year": "1988 (61st)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Susie Diamond\"}",
+        "title": "The Fabulous Baker Boys",
+        "winner": false,
+        "year": "1989 (62nd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Lurene Hallett\"}",
+        "title": "Love Field",
+        "winner": false,
+        "year": "1992 (65th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Wizard of Lies, The",
+        "winner": false,
+        "year": "2018"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Age of Innocence, The",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Love Field",
+        "winner": false,
+        "year": "1993"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Frankie & Johnny",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Russia House, The",
+        "winner": false,
+        "year": "1991"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Fabulous Baker Boys, The",
+        "winner": true,
+        "year": "1990"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Married To The Mob",
+        "winner": false,
+        "year": "1989"
+      }
+    ],
+    "power": 23,
+    "characterName": "Janet van Dyne",
+    "actorName": "Michelle Pfeiffer"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Leading Role",
+        "title": "Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)",
+        "winner": false,
+        "year": "2001"
+      }
+    ],
+    "power": 2,
+    "characterName": "Aleta Ogord",
+    "actorName": "Michelle Yeoh"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "The Wrestler",
+        "winner": true,
+        "year": "2009"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Randy\"}",
+        "title": "The Wrestler",
+        "winner": false,
+        "year": "2008 (81st)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Wrestler, The",
+        "winner": true,
+        "year": "2009"
+      }
+    ],
+    "power": 8,
+    "characterName": "Ivan Vanko",
+    "actorName": "Mickey Rourke"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Rodriguez",
+    "actorName": "Miguel Ferrer"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Scrote",
+    "actorName": "Mike Escamilla"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mainframe",
+    "actorName": "Miley Cyrus"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Tilda Johnson",
+    "actorName": "Nabiyah Be"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actress",
+        "title": "Jackie",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actress",
+        "title": "Black Swan",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Supporting Role",
+        "title": "Closer",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Alice\"}",
+        "title": "Closer",
+        "winner": false,
+        "year": "2004 (77th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Nina Sayers/The Swan Queen\"}",
+        "title": "Black Swan",
+        "winner": true,
+        "year": "2010 (83rd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Jackie Kennedy\"}",
+        "title": "Jackie",
+        "winner": false,
+        "year": "2016 (89th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Jackie",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Black Swan",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Closer",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Anywhere But Here",
+        "winner": false,
+        "year": "2000"
+      }
+    ],
+    "power": 20,
+    "characterName": "Jane Foster",
+    "actorName": "Natalie Portman"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Timothy \"Dum Dum\"Dugan",
+    "actorName": "Neal McDonough"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Chess Roberts",
+    "actorName": "Olivia Munn"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Carina",
+    "actorName": "Ophelia Lovibond"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Master And Commander: The Far Side Of The World",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 1,
+    "characterName": "J.A.R.V.I.S.",
+    "actorName": "Paul Bettany"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Master And Commander: The Far Side Of The World",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 1,
+    "characterName": "Vision",
+    "actorName": "Paul Bettany"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Scott Lang",
+    "actorName": "Paul Rudd"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Comedy Programme",
+        "title": "Peter Serafinowicz, James Serafinowicz, Ben Farrell, Becky Martin",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Comedy - Programme or Series",
+        "title": "Robert Popper, Peter Serafinowicz, Tim Kirkby",
+        "winner": false,
+        "year": "2003"
+      }
+    ],
+    "power": 4,
+    "characterName": "Garthan Saal",
+    "actorName": "Peter Serafinowicz"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mantis",
+    "actorName": "Pom Klementieff"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Gideon Malick",
+    "actorName": "Powers Boothe"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Current Affairs",
+        "title": "James Jones, Steve Hewlett, Rachel Crellin, Todd Downing",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Factual Programme",
+        "title": "Rachel Morgan, Paul Islwyn Thomas",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Cymru | Gwyn Alf Williams Award",
+        "title": "Rachel Morgan, Paul Islwyn Thomas",
+        "winner": true,
+        "year": "2008"
+      }
+    ],
+    "power": 7,
+    "characterName": "Topaz",
+    "actorName": "Rachel House"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Orange Rising Star Award (Voted For By The Public)",
+        "title": "",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Sacha Pfeiffer\"}",
+        "title": "Spotlight",
+        "winner": false,
+        "year": "2015 (88th)"
+      }
+    ],
+    "power": 3,
+    "characterName": "Christine Palmer",
+    "actorName": "Rachel McAdams"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Jimmy Woo",
+    "actorName": "Randall Park"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Volstagg",
+    "actorName": "Ray Stevenson"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actress",
+        "title": "Parade’s End",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Supporting Actress",
+        "title": "Red Riding 1974",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Orange Rising Star Award (Voted For By The Public)",
+        "title": "",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Vicky Cristina Barcelona",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 8,
+    "characterName": "Maya Hansen",
+    "actorName": "Rebecca Hall"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actress",
+        "title": "Nightcrawler",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "power": 1,
+    "characterName": "Frigga",
+    "actorName": "Rene Russo"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Heinz Kruger",
+    "actorName": "Richard Armitage"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, The Stanley Kubrick Britannia Award for Excellence in Film",
+        "title": "",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Tropic Thunder",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "Chaplin",
+        "winner": true,
+        "year": "1993"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Charles Chaplin\"}",
+        "title": "Chaplin",
+        "winner": false,
+        "year": "1992 (65th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Kirk Lazarus\"}",
+        "title": "Tropic Thunder",
+        "winner": false,
+        "year": "2008 (81st)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Sherlock Holmes",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Tropic Thunder",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Ally McBeal",
+        "winner": true,
+        "year": "2001"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Chaplin",
+        "winner": false,
+        "year": "1993"
+      }
+    ],
+    "power": 18,
+    "characterName": "Tony Stark",
+    "actorName": "Robert Downey Jr."
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Film",
+        "title": "Michael Jacobs, Julian Krainin, Michael Nozik, Robert Redford",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor",
+        "title": "Butch Cassidy And The Sundance Kid/Tell Them Willie Boy Is Here/Downhill Racer",
+        "winner": true,
+        "year": "1971"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR",
+        "character": "{\"Johnny Hooker\"}",
+        "title": "The Sting",
+        "winner": false,
+        "year": "1973 (46th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "All Is Lost",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST DIRECTOR - MOTION PICTURE",
+        "title": "Horse Whisperer, The",
+        "winner": false,
+        "year": "1999"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST DIRECTOR - MOTION PICTURE",
+        "title": "Quiz Show",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "CECIL B. DEMILLE AWARD",
+        "title": "Robert Redford",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST DIRECTOR - MOTION PICTURE",
+        "title": "River Runs Through It, A",
+        "winner": false,
+        "year": "1993"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST DIRECTOR - MOTION PICTURE",
+        "title": "Ordinary People",
+        "winner": true,
+        "year": "1981"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "HENRIETTA AWARD (WORLD FILM FAVORITES)",
+        "title": "Robert Redford",
+        "winner": true,
+        "year": "1978"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "HENRIETTA AWARD (WORLD FILM FAVORITES)",
+        "title": "Robert Redford",
+        "winner": true,
+        "year": "1977"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "HENRIETTA AWARD (WORLD FILM FAVORITES)",
+        "title": "Robert Redford",
+        "winner": true,
+        "year": "1975"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "NEW STAR OF THE YEAR - ACTOR",
+        "title": "Inside Daisy Clover",
+        "winner": true,
+        "year": "1966"
+      }
+    ],
+    "power": 31,
+    "characterName": "Alexander Pierce",
+    "actorName": "Robert Redford"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "winner": false,
+        "year": "2018"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "winner": true,
+        "year": "2018"
+      }
+    ],
+    "power": 3,
+    "characterName": "Justin Hammer",
+    "actorName": "Sam Rockwell"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, Albert R. Broccoli Britannia Award for Worldwide Contribution to Entertainment",
+        "title": "",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Pulp Fiction",
+        "winner": true,
+        "year": "1995"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Jules Winnfield\"}",
+        "title": "Pulp Fiction",
+        "winner": false,
+        "year": "1994 (67th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Jackie Brown",
+        "winner": false,
+        "year": "1998"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Time to Kill, A",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Against The Wall",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Pulp Fiction",
+        "winner": false,
+        "year": "1995"
+      }
+    ],
+    "power": 12,
+    "characterName": "Nick Fury",
+    "actorName": "Samuel L. Jackson"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actress in a Leading Role",
+        "title": "Lost In Translation",
+        "winner": true,
+        "year": "2004"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Match Point",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Love Song For Bobby Long, A",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Lost in Translation",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Girl With a Pearl Earring",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 10,
+    "characterName": "Natasha Romanoff",
+    "actorName": "Scarlett Johansson"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Lucian",
+    "actorName": "Scott Adkins"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Kraglin",
+    "actorName": "Sean Gunn"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "James \"Bucky\" Barnes",
+    "actorName": "Sebastian Stan"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ms. Warren",
+    "actorName": "Selenis Leyva"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Howard the Duck",
+    "actorName": "Seth Green"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ho Yinsen",
+    "actorName": "Shaun Toub"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "The Lovely Bones",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"George Harvey\"}",
+        "title": "The Lovely Bones",
+        "winner": false,
+        "year": "2009 (82nd)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Lovely Bones, The",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Conspiracy",
+        "winner": true,
+        "year": "2002"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Winchell",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 8,
+    "characterName": "Abraham Erskine",
+    "actorName": "Stanley Tucci"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Erik Selvig",
+    "actorName": "Stellan Skarsgård"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Ellen Brandt",
+    "actorName": "Stephanie Szostak"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Brahl",
+    "actorName": "Stephen Blackehart"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "This Is Us",
+        "winner": true,
+        "year": "2018"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "The People v. O.J. Simpson: American Crime Story",
+        "winner": false,
+        "year": "2017"
+      }
+    ],
+    "power": 4,
+    "characterName": "N'Jobu",
+    "actorName": "Sterling K. Brown"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Gef the Ravager",
+    "actorName": "Steve Agee"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Xoliswa",
+    "actorName": "Sydelle Noel"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor",
+        "title": "Rocky",
+        "winner": false,
+        "year": "1978"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Screenplay",
+        "title": "Sylvester Stallone",
+        "winner": false,
+        "year": "1978"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Rocky Balboa\"}",
+        "title": "Rocky",
+        "winner": false,
+        "year": "1976 (49th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Rocky Balboa\"}",
+        "title": "Creed",
+        "winner": false,
+        "year": "2015 (88th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Creed",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Rocky",
+        "winner": false,
+        "year": "1977"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST SCREENPLAY - MOTION PICTURE",
+        "title": "Rocky",
+        "winner": false,
+        "year": "1977"
+      }
+    ],
+    "power": 13,
+    "characterName": "Stakar Ogord",
+    "actorName": "Sylvester Stallone"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Hogun",
+    "actorName": "Tadanobu Asano"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Korg",
+    "actorName": "Taika Waititi"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Narblik",
+    "actorName": "Terence Rosemore"
+  },
+  {
+    "awards": [
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"DJay\"}",
+        "title": "Hustle & Flow",
+        "winner": false,
+        "year": "2005 (78th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Hustle & Flow",
+        "winner": false,
+        "year": "2006"
+      }
+    ],
+    "power": 4,
+    "characterName": "James \"Rhodey\" Rhodes",
+    "actorName": "Terrence Howard"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": false,
+        "year": "2018"
+      }
+    ],
+    "power": 2,
+    "characterName": "Valkyrie",
+    "actorName": "Tessa Thompson"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Wolfgang von Strucker",
+    "actorName": "Thomas Kretschmann"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Cindy",
+    "actorName": "Tiffany Espensen"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actress",
+        "title": "We Need To Talk About Kevin",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actress",
+        "title": "Burn After Reading",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Britannias | Honoree, The Britannia Award for British Artist Of The Year",
+        "title": "",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actress",
+        "title": "Michael Clayton",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Karen Crowder\"}",
+        "title": "Michael Clayton",
+        "winner": true,
+        "year": "2007 (80th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "We Need To Talk About Kevin",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Michael Clayton",
+        "winner": false,
+        "year": "2008"
+      }
+    ],
+    "power": 13,
+    "characterName": "Ancient One",
+    "actorName": "Tilda Swinton"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Samuel Sterns",
+    "actorName": "Tim Blake Nelson"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "Rob Roy",
+        "winner": true,
+        "year": "1996"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Most Promising Newcomer To Film",
+        "title": "The Hit",
+        "winner": false,
+        "year": "1985"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Archibald Cunningham\"}",
+        "title": "Rob Roy",
+        "winner": false,
+        "year": "1995 (68th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Rob Roy",
+        "winner": false,
+        "year": "1996"
+      }
+    ],
+    "power": 6,
+    "characterName": "Emil Blonsky",
+    "actorName": "Tim Roth"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Dave",
+    "actorName": "Tip \"T.I.\" Harris"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Detectorists",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "Marvellous",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Leading Actor",
+        "title": "The Girl",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Girl, The",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 8,
+    "characterName": "Arnim Zola",
+    "actorName": "Toby Jones"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Orange Wednesdays Rising Star Award",
+        "title": "",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "The Night Manager",
+        "winner": true,
+        "year": "2017"
+      }
+    ],
+    "power": 5,
+    "characterName": "Loki",
+    "actorName": "Tom Hiddleston"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | EE Rising Star",
+        "title": "",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Supporting Actor",
+        "title": "The Night Manager",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Rev.",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Rev",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Male Performance In A Comedy Programme",
+        "title": "Rev",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Supporting Actor",
+        "title": "Gracie!",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 12,
+    "characterName": "Peter Parker",
+    "actorName": "Tom Holland"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Tullk",
+    "actorName": "Tommy Flanagan"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "Lincoln",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Supporting Actor",
+        "title": "No Country For Old Men",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "The Fugitive",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Supporting Role",
+        "title": "JFK",
+        "winner": false,
+        "year": "1993"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Clay Shaw\"}",
+        "title": "JFK",
+        "winner": false,
+        "year": "1991 (64th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Samuel Gerard\"}",
+        "title": "The Fugitive",
+        "winner": true,
+        "year": "1993 (66th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Hank Deerfield\"}",
+        "title": "In the Valley of Elah",
+        "winner": false,
+        "year": "2007 (80th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Thaddeus Stevens\"}",
+        "title": "Lincoln",
+        "winner": false,
+        "year": "2012 (85th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Lincoln",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Fugitive, The",
+        "winner": true,
+        "year": "1994"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Lonesome Dove",
+        "winner": false,
+        "year": "1990"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Coal Miner's Daughter",
+        "winner": false,
+        "year": "1981"
+      }
+    ],
+    "power": 16,
+    "characterName": "Chester Phillips",
+    "actorName": "Tommy Lee Jones"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Bor",
+    "actorName": "Tony Curran"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Eugene \"Flash\" Thompson",
+    "actorName": "Tony Revolori"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Hamir",
+    "actorName": "Topo Wresniwiro"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Mr. Cobbwell",
+    "actorName": "Tunde Adebimpe"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Leonard Samson",
+    "actorName": "Ty Burrell"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Harley Keener",
+    "actorName": "Ty Simpkins"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Christy",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Cagney and Lacey",
+        "winner": false,
+        "year": "1987"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Cagney and Lacey",
+        "winner": true,
+        "year": "1986"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Cagney and Lacey",
+        "winner": false,
+        "year": "1985"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Cagney and Lacey",
+        "winner": false,
+        "year": "1984"
+      }
+    ],
+    "power": 10,
+    "characterName": "Anne Marie Hoag",
+    "actorName": "Tyne Daly"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Groot",
+    "actorName": "Vin Diesel"
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Don King: Only In America",
+        "winner": true,
+        "year": "1998"
+      }
+    ],
+    "power": 3,
+    "characterName": "Charlie-27",
+    "actorName": "Ving Rhames"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Sonny Burch",
+    "actorName": "Walton Goggins"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Wu",
+    "actorName": "Wang Xueqi"
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "Kiss Of The Spider Woman",
+        "winner": true,
+        "year": "1986"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Luis Molina\"}",
+        "title": "Kiss of the Spider Woman",
+        "winner": true,
+        "year": "1985 (58th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"James\"}",
+        "title": "Children of a Lesser God",
+        "winner": false,
+        "year": "1986 (59th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Tom Grunick\"}",
+        "title": "Broadcast News",
+        "winner": false,
+        "year": "1987 (60th)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Richie Cusack\"}",
+        "title": "A History of Violence",
+        "winner": false,
+        "year": "2005 (78th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Too Big To Fail",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Damages",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Broadcast News",
+        "winner": false,
+        "year": "1988"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Children of a Lesser God",
+        "winner": false,
+        "year": "1987"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Kiss of the Spider Woman",
+        "winner": false,
+        "year": "1986"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "NEW STAR OF THE YEAR - ACTOR",
+        "title": "Altered States",
+        "winner": false,
+        "year": "1981"
+      }
+    ],
+    "power": 22,
+    "characterName": "Thaddeus \"Thunderbolt\" Ross",
+    "actorName": "William Hurt"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Matthew Ellis DS",
+    "actorName": "William Sadler"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "M'Baku",
+    "actorName": "Winston Duke"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Gale",
+    "actorName": "Wood Harris"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Anton Vanko",
+    "actorName": "Yevgeni Lazarev"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Fandral",
+    "actorName": "Zachary Levi"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Michelle \"MJ\" Jones",
+    "actorName": "Zendaya"
+  },
+  {
+    "awards": [],
+    "power": 0,
+    "characterName": "Gamora",
+    "actorName": "Zoe Saldana"
+  }
+]

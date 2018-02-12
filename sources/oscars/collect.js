@@ -3,13 +3,12 @@ import Nightmare from 'nightmare';
 
 import {
   loadActorsFromFile,
-  loadGlobesFromFile,
-  writeGlobesToFile,
-} from '../lib/ActorsHelper';
+  loadOscarsFromFile,
+  writeOscarsToFile,
+} from '../../lib/ActorsHelper';
 
 import {
   isEqual,
-  kebabCase,
   uniqWith,
 } from 'lodash';
 
@@ -19,7 +18,7 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
     return;
   }
 
-  loadGlobesFromFile().catch(console.error).then((allAwards) => {
+  loadOscarsFromFile().catch(console.error).then((allAwards) => {
     if (!allAwards) {
       allAwards = [];
     }
@@ -50,18 +49,25 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
           power: 0,
         };
 
-        const actorAwards = yield nightmare.goto(`https://www.goldenglobes.com/person/${kebabCase(a.actorName)}`)
-          .wait('#block-system-main')
+        const actorAwards = yield nightmare.goto('http://awardsdatabase.oscars.org/')
+          .wait('#BasicSearchView_Nominee')
+          .type('#BasicSearchView_Nominee', a.actorName)
+          .click('#btnbasicsearch')
+          .wait('#resultscontainer')
           .evaluate(() => {
             const awards = [];
-            const el = document.querySelectorAll('.view-display-id-person_country_song .view-content .views-row').forEach((row) => {
+            const el = document.querySelectorAll('.result-subgroup .row').forEach((row) => {
               const award = {};
+              const character = row.querySelector('.col-lg-10 .awards-result-character div');
 
-              award.year = row.querySelector('.views-field-field-nomination-year .date-display-single').innerText;
-              award.winner = row.querySelector('.views-field-field-nomination-is-winner > div').innerText === 'Winner' ? true : false;
-              award.title = row.querySelector('.views-field-nominee-title a').innerText;
-              award.category = row.querySelector('.views-field-field-nomination-category a').innerText;
-              awards.push(award);
+              if (character) {
+                award.character = character.innerText;
+                award.year = row.querySelector('.col-lg-2 .result-subgroup-title a').innerText;
+                award.title = row.querySelector('.col-lg-10 .awards-result-film-title a').innerText;
+                award.category = row.querySelector('.col-lg-10 .awards-result-awardcategory-exact a').innerText;
+                award.winner = row.querySelector('.col-lg-10 .glyphicon-star') ? true : false;
+                awards.push(award);
+              }
             });
 
             return awards;
@@ -71,7 +77,7 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
           awardsObj.awards = actorAwards;
           awardsObj.power += actorAwards.length;
           awardsObj.power += actorAwards.filter(a => a.winner === true).length;
-          awardsObj.power += actorAwards.filter(a => a.category.indexOf('SUPPORTING') === -1).length;
+          awardsObj.power += actorAwards.filter(a => a.category.indexOf('LEADING') >= 0).length;
         }
 
         console.log(`${actorAwards.length} awards for power ${awardsObj.power}`);
@@ -89,7 +95,7 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
 
     vo(run)((err, awards) => {
       console.log(JSON.stringify(awards, null, 2));
-      writeGlobesToFile(awards);
+      writeOscarsToFile(awards);
     });
   });
 });

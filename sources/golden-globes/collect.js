@@ -3,9 +3,9 @@ import Nightmare from 'nightmare';
 
 import {
   loadActorsFromFile,
-  loadBaftasFromFile,
-  writeBaftasToFile,
-} from '../lib/ActorsHelper';
+  loadGlobesFromFile,
+  writeGlobesToFile,
+} from '../../lib/ActorsHelper';
 
 import {
   isEqual,
@@ -19,7 +19,7 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
     return;
   }
 
-  loadBaftasFromFile().catch(console.error).then((allAwards) => {
+  loadGlobesFromFile().catch(console.error).then((allAwards) => {
     if (!allAwards) {
       allAwards = [];
     }
@@ -31,7 +31,6 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
         dock: true,
         typeInterval: 20,
         waitTimeout: 5000,
-        openDevTools: true,
       });
       const awards = [];
       let i;
@@ -51,20 +50,17 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
           power: 0,
         };
 
-        const actorAwards = yield nightmare.goto(`http://awards.bafta.org/keyword-search?keywords=${escape(a.actorName)}`)
+        const actorAwards = yield nightmare.goto(`https://www.goldenglobes.com/person/${kebabCase(a.actorName)}`)
           .wait('#block-system-main')
           .evaluate(() => {
             const awards = [];
-            document.querySelectorAll('#block-system-main .view-content ul > li').forEach((row) => {
+            const el = document.querySelectorAll('.view-display-id-person_country_song .view-content .views-row').forEach((row) => {
               const award = {};
 
-              const cat = row.querySelector('.search-result-title a').innerText;
-              const catSplit = cat.split(/ in ([0-9]+)/);
-
-              award.category = catSplit[0];
-              award.year = catSplit[1];
-              award.title = row.querySelector('.search-result-nomination .search-result-subtitle p').innerText;
-              award.winner = row.querySelector('.search-result-headline.search-result-winner') ? true : false;
+              award.year = row.querySelector('.views-field-field-nomination-year .date-display-single').innerText;
+              award.winner = row.querySelector('.views-field-field-nomination-is-winner > div').innerText === 'Winner' ? true : false;
+              award.title = row.querySelector('.views-field-nominee-title a').innerText;
+              award.category = row.querySelector('.views-field-field-nomination-category a').innerText;
               awards.push(award);
             });
 
@@ -75,7 +71,7 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
           awardsObj.awards = actorAwards;
           awardsObj.power += actorAwards.length;
           awardsObj.power += actorAwards.filter(a => a.winner === true).length;
-          awardsObj.power += actorAwards.filter(a => a.category.indexOf('Supporting') === -1).length;
+          awardsObj.power += actorAwards.filter(a => a.category.indexOf('SUPPORTING') === -1).length;
         }
 
         console.log(`${actorAwards.length} awards for power ${awardsObj.power}`);
@@ -93,7 +89,7 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
 
     vo(run)((err, awards) => {
       console.log(JSON.stringify(awards, null, 2));
-      writeBaftasToFile(awards);
+      writeGlobesToFile(awards);
     });
   });
 });
