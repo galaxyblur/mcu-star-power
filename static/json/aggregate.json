@@ -1,7 +1,17 @@
 [
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "power": 6,
     "characterName": "Cameron Klein",
     "actorName": "Aaron Himelstein"
   },
@@ -22,31 +32,69 @@
         "year": "2017"
       }
     ],
-    "power": 3,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "power": 9,
     "characterName": "Pietro Maximoff",
     "actorName": "Aaron Taylor-Johnson"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Cassie",
     "actorName": "Abby Ryder Fortson"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Abraham",
     "actorName": "Abraham Attah"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Algrim",
     "actorName": "Adewale Akinnuoye-Agbaje"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 3,
     "characterName": "The Other",
     "actorName": "Alexis Denisof"
   },
@@ -152,13 +200,29 @@
         "year": "1995"
       }
     ],
-    "power": 24,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 30,
     "characterName": "Miriam Sharpe",
     "actorName": "Alfre Woodard"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Eir",
     "actorName": "Alice Krige"
   },
@@ -193,7 +257,17 @@
         "year": "2009"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 12,
     "characterName": "Ulysses Klaue",
     "actorName": "Andy Serkis"
   },
@@ -243,13 +317,29 @@
         "year": "2002"
       }
     ],
-    "power": 11,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 17,
     "characterName": "Ramonda",
     "actorName": "Angela Bassett"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Betty Brant",
     "actorName": "Angourie Rice"
   },
@@ -435,19 +525,61 @@
         "year": "1976"
       }
     ],
-    "power": 54,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 63,
     "characterName": "Odin",
     "actorName": "Anthony Hopkins"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 15,
     "characterName": "Sam Wilson",
     "actorName": "Anthony Mackie"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Jack Taggart",
     "actorName": "Ashley Hamilton"
   },
@@ -598,7 +730,13 @@
         "year": "1989"
       }
     ],
-    "power": 39,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 42,
     "characterName": "Trevor Slattery",
     "actorName": "Ben Kingsley"
   },
@@ -718,7 +856,21 @@
         "year": "2012"
       }
     ],
-    "power": 33,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 42,
     "characterName": "Dormammu",
     "actorName": "Benedict Cumberbatch"
   },
@@ -838,13 +990,37 @@
         "year": "2012"
       }
     ],
-    "power": 33,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 42,
     "characterName": "Stephen Strange",
     "actorName": "Benedict Cumberbatch"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Wong",
     "actorName": "Benedict Wong"
   },
@@ -895,7 +1071,21 @@
         "year": "2001"
       }
     ],
-    "power": 10,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 19,
     "characterName": "Taneleer Tivan",
     "actorName": "Benicio del Toro"
   },
@@ -909,7 +1099,13 @@
         "year": "1999"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 4,
     "characterName": "Jonathan Pangborn",
     "actorName": "Benjamin Bratt"
   },
@@ -944,7 +1140,13 @@
         "year": "2005"
       }
     ],
-    "power": 9,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "power": 12,
     "characterName": "Paxton",
     "actorName": "Bobby Cannavale"
   },
@@ -958,7 +1160,13 @@
         "year": "2016"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 4,
     "characterName": "Herman Schultz",
     "actorName": "Bokeem Woodbine"
   },
@@ -1017,7 +1225,21 @@
         "year": "2013"
       }
     ],
-    "power": 11,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 20,
     "characterName": "Rocket",
     "actorName": "Bradley Cooper"
   },
@@ -1053,19 +1275,41 @@
         "year": "2016"
       }
     ],
-    "power": 11,
+    "mcuFilms": [
+      {
+        "title": "Captain Marvel",
+        "year": 2019
+      }
+    ],
+    "power": 14,
     "characterName": "Carol Danvers",
     "actorName": "Brie Larson"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 3,
     "characterName": "Jacques Dernier",
     "actorName": "Bruno Ricci"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Jack Rollins",
     "actorName": "Callan Mulvey"
   },
@@ -1232,13 +1476,33 @@
         "year": "1999"
       }
     ],
-    "power": 44,
+    "mcuFilms": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 47,
     "characterName": "Hela",
     "actorName": "Cate Blanchett"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "T'Challa",
     "actorName": "Chadwick Boseman"
   },
@@ -1309,7 +1573,13 @@
         "year": "2014"
       }
     ],
-    "power": 19,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 22,
     "characterName": "Karl Mordo",
     "actorName": "Chiwetel Ejiofor"
   },
@@ -1351,7 +1621,41 @@
         "year": "1985"
       }
     ],
-    "power": 13,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 37,
     "characterName": "Steve Rogers",
     "actorName": "Chris Evans"
   },
@@ -1365,7 +1669,33 @@
         "year": "2012"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 20,
     "characterName": "Thor",
     "actorName": "Chris Hemsworth"
   },
@@ -1393,7 +1723,13 @@
         "year": "2012"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 9,
     "characterName": "Richard",
     "actorName": "Chris O'Dowd"
   },
@@ -1414,7 +1750,21 @@
         "year": "1991"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 13,
     "characterName": "Peter Quill",
     "actorName": "Chris Pratt"
   },
@@ -1435,7 +1785,13 @@
         "year": "2000"
       }
     ],
-    "power": 5,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 8,
     "characterName": "Taserface",
     "actorName": "Chris Sullivan"
   },
@@ -1463,13 +1819,25 @@
         "year": "1997"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 9,
     "characterName": "Malekith",
     "actorName": "Christopher Eccleston"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 3,
     "characterName": "The Broker",
     "actorName": "Christopher Fairbank"
   },
@@ -1483,13 +1851,37 @@
         "year": "1998"
       }
     ],
-    "power": 3,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 9,
     "characterName": "Surtur",
     "actorName": "Clancy Brown"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Thor",
+        "year": 2011
+      }
+    ],
+    "power": 9,
     "characterName": "Phil Coulson",
     "actorName": "Clark Gregg"
   },
@@ -1517,25 +1909,57 @@
         "year": "2005"
       }
     ],
-    "power": 7,
+    "mcuFilms": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "power": 10,
     "characterName": "Helen Cho",
     "actorName": "Claudia Kim"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Tyr",
     "actorName": "Clive Russell"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "Maria Hill",
     "actorName": "Cobie Smulders"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      }
+    ],
+    "power": 3,
     "characterName": "Laufey",
     "actorName": "Colm Feore"
   },
@@ -1549,19 +1973,41 @@
         "year": "2014"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "power": 4,
     "characterName": "Darren Cross",
     "actorName": "Corey Stoll"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "power": 3,
     "characterName": "Thanos",
     "actorName": "Damion Poitier"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Okoye",
     "actorName": "Danai Gurira"
   },
@@ -1575,7 +2021,13 @@
         "year": "2014"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "power": 4,
     "characterName": "Helmut Zemo",
     "actorName": "Daniel Brühl"
   },
@@ -1603,19 +2055,49 @@
         "year": "2018"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "W'Kabi",
     "actorName": "Daniel Kaluuya"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "Drax the Destroyer",
     "actorName": "Dave Bautista"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Kurt",
     "actorName": "David Dastmalchian"
   },
@@ -1636,7 +2118,13 @@
         "year": "2016"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 7,
     "characterName": "Gabe Jones",
     "actorName": "Derek Luke"
   },
@@ -1666,7 +2154,17 @@
         "year": "1998"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 10,
     "characterName": "Korath",
     "actorName": "Djimon Hounsou"
   },
@@ -1680,7 +2178,13 @@
         "year": "2016"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 5,
     "characterName": "Howard Stark",
     "actorName": "Dominic Cooper"
   },
@@ -1807,7 +2311,29 @@
         "year": "1999"
       }
     ],
-    "power": 33,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 48,
     "characterName": "James \"Rhodey\" Rhodes",
     "actorName": "Don Cheadle"
   },
@@ -1849,7 +2375,13 @@
         "year": "2017"
       }
     ],
-    "power": 13,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 16,
     "characterName": "Aaron Davis",
     "actorName": "Donald Glover"
   },
@@ -1922,13 +2454,29 @@
         "year": "1981"
       }
     ],
-    "power": 13,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "power": 16,
     "characterName": "Bruce Banner",
     "actorName": "Edward Norton"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "year": 2020
+      }
+    ],
+    "power": 6,
     "characterName": "Ayesha",
     "actorName": "Elizabeth Debicki"
   },
@@ -1942,19 +2490,57 @@
         "year": "2013"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 14,
     "characterName": "Wanda Maximoff",
     "actorName": "Elizabeth Olsen"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "power": 6,
     "characterName": "Sharon Carter",
     "actorName": "Emily VanCamp"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Tiny",
     "actorName": "Ethan Dizon"
   },
@@ -2017,7 +2603,13 @@
         "year": "1997"
       }
     ],
-    "power": 18,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 21,
     "characterName": "Retch",
     "actorName": "Evan Jones"
   },
@@ -2031,19 +2623,45 @@
         "year": "2007"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 8,
     "characterName": "Hope van Dyne",
     "actorName": "Evangeline Lilly"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "power": 3,
     "characterName": "Raza",
     "actorName": "Faran Tahir"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Ayo",
     "actorName": "Florence Kasumba"
   },
@@ -2100,314 +2718,41 @@
         "year": "2003"
       }
     ],
-    "power": 18,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 21,
     "characterName": "Zuri",
     "actorName": "Forest Whitaker"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "power": 6,
     "characterName": "Brock Rumlow",
     "actorName": "Frank Grillo"
   },
   {
-    "awards": [
+    "awards": [],
+    "mcuFilms": [
       {
-        "event": "BAFTAS",
-        "category": "Film | Film",
-        "title": "Fred Berger, Jordan Horowitz, Marc Platt",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Editing",
-        "title": "Fred Raskin",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Games | Family",
-        "title": "Paul Reiche, Fred Ford, Scott Krager",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television | News Coverage",
-        "title": "Production Team",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Children's | BAFTA Young Game Designers",
-        "title": "Molly Proud (15), Fred Gosling (15), Laurie Griffiths (15)",
-        "winner": false,
-        "year": "2011"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television Craft | Photography - Factual",
-        "title": "Fred Fabre",
-        "winner": false,
-        "year": "2006"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television Craft | Photography - Factual",
-        "title": "Fred Fabre",
-        "winner": true,
-        "year": "2005"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Anthony Asquith Award for Original Film Music",
-        "title": "Danny Elfman, John Kander, Fred Ebb",
-        "winner": false,
-        "year": "2003"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television | Situation Comedy",
-        "title": "Production Team",
-        "winner": false,
-        "year": "2003"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television Craft | Photography And Lighting - Fiction",
-        "title": "Fred Tammes",
-        "winner": false,
-        "year": "2003"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Film",
-        "title": "Martin Brown, Baz Luhrmann, Fred Baron",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television Craft | Photography And Lighting - Fiction",
-        "title": "Fred Tammes",
-        "winner": true,
-        "year": "2000"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Short Animation",
-        "title": "John Coates, Catrin Unwin, Joanna Quinn",
-        "winner": false,
-        "year": "1997"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Make-Up",
-        "title": "Kevin Haney, Katherine James, Fred Blau, Fern Buchner",
-        "winner": false,
-        "year": "1994"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Foreign Language Film",
-        "title": "Alberto Grimaldi, Federico Fellini",
-        "winner": false,
-        "year": "1987"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Special Visual Effects",
-        "title": "Fred Cramer",
-        "winner": false,
-        "year": "1985"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Make-Up Artist",
-        "title": "Zelig",
-        "winner": false,
-        "year": "1984"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television Craft | VTR Editor",
-        "title": "The Kenny Everett Video Show",
-        "winner": false,
-        "year": "1981"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television | Documentary",
-        "title": "Don Haworth",
-        "winner": true,
-        "year": "1980"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television Craft | VTR Editor",
-        "title": "The Will Kenny Everett Make It To 1980? Show",
-        "winner": false,
-        "year": "1980"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Direction",
-        "title": "Fred Zinnemann",
-        "winner": false,
-        "year": "1979"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Fellowship",
-        "title": "",
-        "winner": true,
-        "year": "1978"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Cinematography",
-        "title": "Fred Koenekamp",
-        "winner": false,
-        "year": "1976"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Supporting Actor",
-        "title": "The Towering Inferno",
-        "winner": true,
-        "year": "1976"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television | Specialised Programme",
-        "title": "Fred Burnley",
-        "winner": false,
-        "year": "1976"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Soundtrack",
-        "title": "Chris Newman, Jean-Louis Ducarme, Buzz Knudson, Fred Brown, Bob Fine, Ross Taylor, Ron Nagle, Doc Siegel, Gonzalo Gavira, Hal Landaker",
-        "winner": false,
-        "year": "1975"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television | Design",
-        "title": "Fred Pusey, Mike Hall",
-        "winner": false,
-        "year": "1975"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Film | Direction",
-        "title": "Fred Zinnemann",
-        "winner": false,
-        "year": "1974"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television | Specialised Production",
-        "title": "Fred Burnley",
-        "winner": false,
-        "year": "1971"
-      },
-      {
-        "event": "BAFTAS",
-        "category": "Television | Specialised Programme",
-        "title": "Fred Burnley",
-        "winner": true,
-        "year": "1970"
-      },
-      {
-        "event": "OSCARS",
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Harlee Claiborne\"}",
-        "title": "The Towering Inferno",
-        "winner": false,
-        "year": "1974 (47th)"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Choreography",
-        "title": "The Real O'Neals",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
-        "title": "The Oscars",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Technical Direction Camerawork Video Control For A Series",
-        "title": "Dancing With The Stars",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Variety Sketch Series",
-        "title": "Documentary Now!",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Variety Sketch Series",
-        "title": "Portlandia",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Sound Editing For A Series",
-        "title": "Westworld",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Short format Animated Program",
-        "title": "Adventure Time",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Cinematography For A Miniseries Or Movie",
-        "title": "The Night Of",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Short format Animated Program",
-        "title": "Adventure Time",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Variety Sketch Series",
-        "title": "Documentary Now!",
-        "winner": false,
-        "year": "2016"
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
       }
     ],
-    "power": 89,
-    "characterName": "Cosmo",
-    "actorName": "Fred"
-  },
-  {
-    "awards": [],
-    "power": 0,
+    "power": 3,
     "characterName": "Doris Toomes",
     "actorName": "Garcelle Beauvais"
   },
@@ -2505,19 +2850,41 @@
         "year": "1995"
       }
     ],
-    "power": 28,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "power": 34,
     "characterName": "Stern",
     "actorName": "Garry Shandling"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "power": 3,
     "characterName": "Georges Batroc",
     "actorName": "Georges St-Pierre"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "power": 3,
     "characterName": "Howard Stark",
     "actorName": "Gerard Sanders"
   },
@@ -2719,19 +3086,41 @@
         "year": "1995"
       }
     ],
-    "power": 56,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 59,
     "characterName": "Irani Rael",
     "actorName": "Glenn Close"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Grandpa Quill",
     "actorName": "Gregg Henry"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "power": 3,
     "characterName": "Dale",
     "actorName": "Gregg Turkington"
   },
@@ -2759,7 +3148,13 @@
         "year": "2011"
       }
     ],
-    "power": 5,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 8,
     "characterName": "Aldrich Killian",
     "actorName": "Guy Pearce"
   },
@@ -2809,13 +3204,41 @@
         "year": "2011"
       }
     ],
-    "power": 15,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 30,
     "characterName": "Virginia \"Pepper\" Potts",
     "actorName": "Gwyneth Paltrow"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 3,
     "characterName": "Ghost",
     "actorName": "Hannah John-Kamen"
   },
@@ -2829,7 +3252,13 @@
         "year": "2010"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 5,
     "characterName": "Coach Wilson",
     "actorName": "Hannibal Buress"
   },
@@ -2843,19 +3272,49 @@
         "year": "2011"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "power": 14,
     "characterName": "Peggy Carter",
     "actorName": "Hayley Atwell"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "power": 3,
     "characterName": "Janet van Dyne",
     "actorName": "Hayley Lovitt"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Mr. Delmar",
     "actorName": "Hemky Madera"
   },
@@ -2876,7 +3335,17 @@
         "year": "2008"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "power": 10,
     "characterName": "List",
     "actorName": "Henry Goodman"
   },
@@ -2918,13 +3387,25 @@
         "year": "2009"
       }
     ],
-    "power": 7,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "power": 10,
     "characterName": "Maria Stark",
     "actorName": "Hope Davis"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 3,
     "characterName": "Johann Schmidt",
     "actorName": "Hugo Weaving"
   },
@@ -3029,43 +3510,109 @@
         "year": "2011"
       }
     ],
-    "power": 28,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 40,
     "characterName": "Heimdall",
     "actorName": "Idris Elba"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Sally",
     "actorName": "Isabella Amara"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Seymour",
-    "actorName": "J. J. Totah"
+    "actorName": "J.J. Totah"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 3,
     "characterName": "James Montgomery Falsworth",
     "actorName": "JJ Feild"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Untitled Spider-Man: Homecoming sequel",
+        "year": 2019
+      }
+    ],
+    "power": 6,
     "characterName": "Ned",
     "actorName": "Jacob Batalon"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 6,
     "characterName": "Sif",
     "actorName": "Jaimie Alexander"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Eric Savin",
     "actorName": "James Badge Dale"
   },
@@ -3121,7 +3668,13 @@
         "year": "2004"
       }
     ],
-    "power": 17,
+    "mcuFilms": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "power": 20,
     "characterName": "Ultron",
     "actorName": "James Spader"
   },
@@ -3254,7 +3807,13 @@
         "year": "2010"
       }
     ],
-    "power": 30,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "power": 33,
     "characterName": "Obadiah Stane",
     "actorName": "Jeff Bridges"
   },
@@ -3268,7 +3827,17 @@
         "year": "2005"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 8,
     "characterName": "Grandmaster",
     "actorName": "Jeff Goldblum"
   },
@@ -3297,7 +3866,13 @@
         "year": "2002"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 9,
     "characterName": "Karen",
     "actorName": "Jennifer Connelly"
   },
@@ -3318,7 +3893,13 @@
         "year": "1972"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "power": 7,
     "characterName": "Hawley",
     "actorName": "Jenny Agutter"
   },
@@ -3355,25 +3936,56 @@
         "year": "2011"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 18,
     "characterName": "Clint Barton",
     "actorName": "Jeremy Renner"
   },
   {
     "awards": [],
+    "mcuFilms": [],
     "power": 0,
     "characterName": "Georgi Luchkov",
     "actorName": "Jerzy Skolimowski"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Half-Nut",
     "actorName": "Jimmy Urine"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Oblo",
     "actorName": "Joe Fria"
   },
@@ -3409,19 +4021,41 @@
         "year": "1981"
       }
     ],
-    "power": 7,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 10,
     "characterName": "Rhomann Dey",
     "actorName": "John C. Reilly"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "T'Chaka",
     "actorName": "John Kani"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Mr. Hapgood",
     "actorName": "John Penick"
   },
@@ -3456,7 +4090,21 @@
         "year": "2008"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "power": 13,
     "characterName": "Howard Stark",
     "actorName": "John Slattery"
   },
@@ -3477,7 +4125,29 @@
         "year": "2005"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 19,
     "characterName": "Harold \"Happy\" Hogan",
     "actorName": "Jon Favreau"
   },
@@ -3533,13 +4203,25 @@
         "year": "1997"
       }
     ],
-    "power": 15,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 18,
     "characterName": "Ian Boothby",
     "actorName": "Jonathan Howard"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Jason Ionello",
     "actorName": "Jorge Lendeborg Jr."
   },
@@ -3554,55 +4236,149 @@
         "year": "2008 (81st)"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 10,
     "characterName": "Thanos",
     "actorName": "Josh Brolin"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      }
+    ],
+    "power": 3,
     "characterName": "Fandral",
     "actorName": "Josh Dallas"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Maggie",
     "actorName": "Judy Greer"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "Nebula",
     "actorName": "Karen Gillan"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Skurge",
     "actorName": "Karl Urban"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 6,
     "characterName": "Darcy Lewis",
     "actorName": "Kat Dennings"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Jim Morita",
     "actorName": "Kenneth Choi"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Principal Morita",
     "actorName": "Kenneth Choi"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 9,
     "characterName": "F.R.I.D.A.Y.",
     "actorName": "Kerry Condon"
   },
@@ -3623,19 +4399,45 @@
         "year": "1979"
       }
     ],
-    "power": 3,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Ego",
     "actorName": "Kurt Russell"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 9,
     "characterName": "Meredith Quill",
     "actorName": "Laura Haddock"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Liz",
     "actorName": "Laura Harrier"
   },
@@ -3720,7 +4522,13 @@
         "year": "1993"
       }
     ],
-    "power": 24,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 27,
     "characterName": "Bill Foster",
     "actorName": "Laurence Fishburne"
   },
@@ -3748,25 +4556,57 @@
         "year": "2008"
       }
     ],
-    "power": 5,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 8,
     "characterName": "Ronan the Accuser",
     "actorName": "Lee Pace"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "power": 6,
     "characterName": "Christine Everhart",
     "actorName": "Leslie Bibb"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Shuri",
     "actorName": "Letitia Wright"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 3,
     "characterName": "Gilmore Hodge",
     "actorName": "Lex Shrapnel"
   },
@@ -3780,25 +4620,53 @@
         "year": "2013"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 8,
     "characterName": "Laura Barton",
     "actorName": "Linda Cardellini"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 3,
     "characterName": "Tina Minoru",
     "actorName": "Linda Louise Duan"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "power": 3,
     "characterName": "Betty Ross",
     "actorName": "Liv Tyler"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Jackson Brice",
     "actorName": "Logan Marshall-Green"
   },
@@ -3834,13 +4702,25 @@
         "year": "2014"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "Nakia",
     "actorName": "Lupita Nyong'o"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 3,
     "characterName": "Kaecilius",
     "actorName": "Mads Mikkelsen"
   },
@@ -3892,13 +4772,29 @@
         "year": "2002"
       }
     ],
-    "power": 7,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 13,
     "characterName": "May Parker",
     "actorName": "Marisa Tomei"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 3,
     "characterName": "Daniel Drumm",
     "actorName": "Mark Anthony Brighton"
   },
@@ -3992,13 +4888,37 @@
         "year": "2014"
       }
     ],
-    "power": 19,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 31,
     "characterName": "Bruce Banner",
     "actorName": "Mark Ruffalo"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "power": 3,
     "characterName": "Mitchell Carson",
     "actorName": "Martin Donovan"
   },
@@ -4061,37 +4981,85 @@
         "year": "2012"
       }
     ],
-    "power": 15,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 21,
     "characterName": "Everett K. Ross",
     "actorName": "Martin Freeman"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Mr. Harrington",
     "actorName": "Martin Starr"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "power": 6,
     "characterName": "Jasper Sitwell",
     "actorName": "Maximiliano Hernández"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 3,
     "characterName": "Bereet",
     "actorName": "Melia Kreiling"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 3,
     "characterName": "Erik \"Killmonger\" Stevens",
     "actorName": "Michael B. Jordan"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Charles",
     "actorName": "Michael Barbieri"
   },
@@ -4126,13 +5094,25 @@
         "year": "2014"
       }
     ],
-    "power": 11,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 14,
     "characterName": "Brandt",
     "actorName": "Michael Brandon"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Phineas Mason",
     "actorName": "Michael Chernus"
   },
@@ -4301,7 +5281,13 @@
         "year": "2002"
       }
     ],
-    "power": 51,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 54,
     "characterName": "Hank Pym",
     "actorName": "Michael Douglas"
   },
@@ -4358,25 +5344,57 @@
         "year": "1989"
       }
     ],
-    "power": 15,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 18,
     "characterName": "Adrian Toomes",
     "actorName": "Michael Keaton"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Mac Gargan",
     "actorName": "Michael Mando"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Luis",
     "actorName": "Michael Peña"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Yondu Udonta",
     "actorName": "Michael Rooker"
   },
@@ -4390,7 +5408,13 @@
         "year": "1996"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 5,
     "characterName": "Martinex",
     "actorName": "Michael Rosenbaum"
   },
@@ -4404,7 +5428,13 @@
         "year": "2010"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 5,
     "characterName": "Nicodemus West",
     "actorName": "Michael Stuhlbarg"
   },
@@ -4512,7 +5542,13 @@
         "year": "1992"
       }
     ],
-    "power": 26,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 29,
     "characterName": "Janet van Dyne",
     "actorName": "Michelle Pfeiffer"
   },
@@ -4526,7 +5562,13 @@
         "year": "2001"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 5,
     "characterName": "Aleta Ogord",
     "actorName": "Michelle Yeoh"
   },
@@ -4555,31 +5597,56 @@
         "year": "2009"
       }
     ],
-    "power": 8,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "power": 11,
     "characterName": "Ivan Vanko",
     "actorName": "Mickey Rourke"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Rodriguez",
     "actorName": "Miguel Ferrer"
   },
   {
     "awards": [],
+    "mcuFilms": [],
     "power": 0,
     "characterName": "Scrote",
     "actorName": "Mike Escamilla"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Mainframe",
     "actorName": "Miley Cyrus"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 3,
     "characterName": "Tilda Johnson",
     "actorName": "Nabiyah Be"
   },
@@ -4659,25 +5726,65 @@
         "year": "2000"
       }
     ],
-    "power": 20,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 26,
     "characterName": "Jane Foster",
     "actorName": "Natalie Portman"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 9,
     "characterName": "Timothy \"Dum Dum\"Dugan",
     "actorName": "Neal McDonough"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "power": 3,
     "characterName": "Chess Roberts",
     "actorName": "Olivia Munn"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 6,
     "characterName": "Carina",
     "actorName": "Ophelia Lovibond"
   },
@@ -4691,7 +5798,33 @@
         "year": "2004"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 19,
     "characterName": "J.A.R.V.I.S.",
     "actorName": "Paul Bettany"
   },
@@ -4705,13 +5838,57 @@
         "year": "2004"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 19,
     "characterName": "Vision",
     "actorName": "Paul Bettany"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 12,
     "characterName": "Scott Lang",
     "actorName": "Paul Rudd"
   },
@@ -4732,13 +5909,33 @@
         "year": "2003"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "power": 7,
     "characterName": "Garthan Saal",
     "actorName": "Peter Serafinowicz"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "year": 2020
+      }
+    ],
+    "power": 9,
     "characterName": "Mantis",
     "actorName": "Pom Klementieff"
   },
@@ -4752,6 +5949,7 @@
         "year": "1980"
       }
     ],
+    "mcuFilms": [],
     "power": 3,
     "characterName": "Gideon Malick",
     "actorName": "Powers Boothe"
@@ -4787,7 +5985,13 @@
         "year": "2015"
       }
     ],
-    "power": 9,
+    "mcuFilms": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 12,
     "characterName": "Topaz",
     "actorName": "Rachel House"
   },
@@ -4809,7 +6013,13 @@
         "year": "2015 (88th)"
       }
     ],
-    "power": 3,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 6,
     "characterName": "Christine Palmer",
     "actorName": "Rachel McAdams"
   },
@@ -4823,13 +6033,33 @@
         "year": "1998"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 5,
     "characterName": "Jimmy Woo",
     "actorName": "Randall Park"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 9,
     "characterName": "Volstagg",
     "actorName": "Ray Stevenson"
   },
@@ -4878,7 +6108,13 @@
         "year": "2005"
       }
     ],
-    "power": 12,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 15,
     "characterName": "Maya Hansen",
     "actorName": "Rebecca Hall"
   },
@@ -4892,13 +6128,29 @@
         "year": "2015"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 7,
     "characterName": "Frigga",
     "actorName": "Rene Russo"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 3,
     "characterName": "Heinz Kruger",
     "actorName": "Richard Armitage"
   },
@@ -4970,7 +6222,41 @@
         "year": "1993"
       }
     ],
-    "power": 18,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 42,
     "characterName": "Tony Stark",
     "actorName": "Robert Downey Jr."
   },
@@ -5083,7 +6369,13 @@
         "year": "1963"
       }
     ],
-    "power": 34,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "power": 37,
     "characterName": "Alexander Pierce",
     "actorName": "Robert Redford"
   },
@@ -5104,7 +6396,13 @@
         "year": "2018"
       }
     ],
-    "power": 3,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "power": 6,
     "characterName": "Justin Hammer",
     "actorName": "Sam Rockwell"
   },
@@ -5168,7 +6466,37 @@
         "year": "2009"
       }
     ],
-    "power": 14,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain Marvel",
+        "year": 2019
+      }
+    ],
+    "power": 35,
     "characterName": "Nick Fury",
     "actorName": "Samuel L. Jackson"
   },
@@ -5210,31 +6538,101 @@
         "year": "2004"
       }
     ],
-    "power": 10,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 25,
     "characterName": "Natasha Romanoff",
     "actorName": "Scarlett Johansson"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 3,
     "characterName": "Lucian",
     "actorName": "Scott Adkins"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "Kraglin",
     "actorName": "Sean Gunn"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 15,
     "characterName": "James \"Bucky\" Barnes",
     "actorName": "Sebastian Stan"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Ms. Warren",
     "actorName": "Selenis Leyva"
   },
@@ -5311,13 +6709,37 @@
         "year": "2011"
       }
     ],
-    "power": 21,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 30,
     "characterName": "Howard the Duck",
     "actorName": "Seth Green"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 6,
     "characterName": "Ho Yinsen",
     "actorName": "Shaun Toub"
   },
@@ -5416,25 +6838,61 @@
         "year": "1996"
       }
     ],
-    "power": 24,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 27,
     "characterName": "Abraham Erskine",
     "actorName": "Stanley Tucci"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "power": 9,
     "characterName": "Erik Selvig",
     "actorName": "Stellan Skarsgård"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Ellen Brandt",
     "actorName": "Stephanie Szostak"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Brahl",
     "actorName": "Stephen Blackehart"
   },
@@ -5469,19 +6927,37 @@
         "year": "2016"
       }
     ],
-    "power": 9,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 12,
     "characterName": "N'Jobu",
     "actorName": "Sterling K. Brown"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Gef the Ravager",
     "actorName": "Steve Agee"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "power": 3,
     "characterName": "Xoliswa",
     "actorName": "Sydelle Noel"
   },
@@ -5539,25 +7015,57 @@
         "year": "1977"
       }
     ],
-    "power": 13,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 16,
     "characterName": "Stakar Ogord",
     "actorName": "Sylvester Stallone"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 9,
     "characterName": "Hogun",
     "actorName": "Tadanobu Asano"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Korg",
     "actorName": "Taika Waititi"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Narblik",
     "actorName": "Terence Rosemore"
   },
@@ -5579,7 +7087,13 @@
         "year": "2006"
       }
     ],
-    "power": 4,
+    "mcuFilms": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "power": 7,
     "characterName": "James \"Rhodey\" Rhodes",
     "actorName": "Terrence Howard"
   },
@@ -5593,19 +7107,49 @@
         "year": "2018"
       }
     ],
-    "power": 2,
+    "mcuFilms": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 8,
     "characterName": "Valkyrie",
     "actorName": "Tessa Thompson"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "power": 6,
     "characterName": "Wolfgang von Strucker",
     "actorName": "Thomas Kretschmann"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Cindy",
     "actorName": "Tiffany Espensen"
   },
@@ -5662,13 +7206,25 @@
         "year": "2008"
       }
     ],
-    "power": 13,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 16,
     "characterName": "Ancient One",
     "actorName": "Tilda Swinton"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "power": 3,
     "characterName": "Samuel Sterns",
     "actorName": "Tim Blake Nelson"
   },
@@ -5704,15 +7260,31 @@
         "year": "1996"
       }
     ],
-    "power": 6,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "power": 9,
     "characterName": "Emil Blonsky",
     "actorName": "Tim Roth"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "Dave",
-    "actorName": "Tip \"T.I.\" Harris"
+    "actorName": "T.I."
   },
   {
     "awards": [
@@ -5766,7 +7338,17 @@
         "year": "1999"
       }
     ],
-    "power": 14,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "power": 20,
     "characterName": "Arnim Zola",
     "actorName": "Toby Jones"
   },
@@ -5801,7 +7383,25 @@
         "year": "2016"
       }
     ],
-    "power": 9,
+    "mcuFilms": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 21,
     "characterName": "Loki",
     "actorName": "Tom Hiddleston"
   },
@@ -5864,13 +7464,37 @@
         "year": "1994"
       }
     ],
-    "power": 17,
+    "mcuFilms": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      },
+      {
+        "title": "Untitled Spider-Man: Homecoming sequel",
+        "year": 2019
+      }
+    ],
+    "power": 29,
     "characterName": "Peter Parker",
     "actorName": "Tom Holland"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Tullk",
     "actorName": "Tommy Flanagan"
   },
@@ -5979,31 +7603,61 @@
         "year": "1983"
       }
     ],
-    "power": 21,
+    "mcuFilms": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "power": 24,
     "characterName": "Chester Phillips",
     "actorName": "Tommy Lee Jones"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Bor",
     "actorName": "Tony Curran"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Eugene \"Flash\" Thompson",
     "actorName": "Tony Revolori"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "power": 3,
     "characterName": "Hamir",
     "actorName": "Topo Wresniwiro"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 3,
     "characterName": "Mr. Cobbwell",
     "actorName": "Tunde Adebimpe"
   },
@@ -6073,13 +7727,25 @@
         "year": "2010"
       }
     ],
-    "power": 12,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "power": 15,
     "characterName": "Leonard Samson",
     "actorName": "Ty Burrell"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Harley Keener",
     "actorName": "Ty Simpkins"
   },
@@ -6191,13 +7857,33 @@
         "year": "1988"
       }
     ],
-    "power": 25,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "power": 28,
     "characterName": "Anne Marie Hoag",
     "actorName": "Tyne Daly"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "Groot",
     "actorName": "Vin Diesel"
   },
@@ -6218,7 +7904,13 @@
         "year": "1998"
       }
     ],
-    "power": 5,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "power": 8,
     "characterName": "Charlie-27",
     "actorName": "Ving Rhames"
   },
@@ -6232,13 +7924,25 @@
         "year": "2011"
       }
     ],
-    "power": 1,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "power": 4,
     "characterName": "Sonny Burch",
     "actorName": "Walton Goggins"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Wu",
     "actorName": "Wang Xueqi"
   },
@@ -6340,49 +8044,121 @@
         "year": "2009"
       }
     ],
-    "power": 25,
+    "mcuFilms": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "power": 31,
     "characterName": "Thaddeus \"Thunderbolt\" Ross",
     "actorName": "William Hurt"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "power": 3,
     "characterName": "Matthew Ellis DS",
     "actorName": "William Sadler"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 6,
     "characterName": "M'Baku",
     "actorName": "Winston Duke"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "power": 3,
     "characterName": "Gale",
     "actorName": "Wood Harris"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "power": 3,
     "characterName": "Anton Vanko",
     "actorName": "Yevgeni Lazarev"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "power": 6,
     "characterName": "Fandral",
     "actorName": "Zachary Levi"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Untitled Spider-Man: Homecoming sequel",
+        "year": 2019
+      }
+    ],
+    "power": 6,
     "characterName": "Michelle \"MJ\" Jones",
     "actorName": "Zendaya"
   },
   {
     "awards": [],
-    "power": 0,
+    "mcuFilms": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "power": 9,
     "characterName": "Gamora",
     "actorName": "Zoe Saldana"
   }

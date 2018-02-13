@@ -1,0 +1,3574 @@
+[
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDA2NDg2NDUyMV5BMl5BanBnXkFtZTgwMjc1NzQ2NTE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "actorName": "Aaron Himelstein",
+    "power": 6,
+    "filmsCount": 33
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "actorName": "Aaron Taylor-Johnson",
+    "power": 6,
+    "filmsCount": 40
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmRjZWI0ZjItZGVmNC00ODc5LTlmYzctMGNjZjAxM2MyYmVkXkEyXkFqcGdeQXVyMzgzNTA3MjE@._V1_UY317_CR26,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Abby Ryder Fortson",
+    "power": 6,
+    "filmsCount": 12
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMzY3OTQ2MV5BMl5BanBnXkFtZTgwOTcyOTMzNzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Abraham Attah",
+    "power": 3,
+    "filmsCount": 3
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMzA5MTI5MF5BMl5BanBnXkFtZTgwMTUxMjcwOTE@._V1_UY317_CR29,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Adewale Akinnuoye-Agbaje",
+    "power": 3,
+    "filmsCount": 50
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMTg3MDU2NV5BMl5BanBnXkFtZTcwNjk0NTM2OQ@@._V1_UY317_CR113,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "Alexis Denisof",
+    "power": 3,
+    "filmsCount": 47
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMTU4Mzk5MV5BMl5BanBnXkFtZTgwMDg1MzcxMjE@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Alfre Woodard",
+    "power": 6,
+    "filmsCount": 116
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NDk5NDQ3M15BMl5BanBnXkFtZTYwNzcwNTk2._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Alice Krige",
+    "power": 3,
+    "filmsCount": 99
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwNzI2OTA3Nl5BMl5BanBnXkFtZTYwNDIwNzA1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Andy Serkis",
+    "power": 6,
+    "filmsCount": 95
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4OTQ1NTcxOF5BMl5BanBnXkFtZTcwOTc1NTU0OQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Angela Bassett",
+    "power": 6,
+    "filmsCount": 91
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzUzNzhkZjktYzczYS00MmFiLTgwMWUtYzdiNWVlNDNiN2FiXkEyXkFqcGdeQXVyMzI3NDI1MDU@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Angourie Rice",
+    "power": 3,
+    "filmsCount": 17
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Anthony Hopkins",
+    "power": 9,
+    "filmsCount": 132
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_UY317_CR17,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Anthony Mackie",
+    "power": 15,
+    "filmsCount": 57
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1ODM3OTg0OF5BMl5BanBnXkFtZTcwMzAzMjg4Mg@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Ashley Hamilton",
+    "power": 3,
+    "filmsCount": 21
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_UY317_CR10,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Ben Kingsley",
+    "power": 3,
+    "filmsCount": 137
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Benedict Cumberbatch",
+    "power": 9,
+    "filmsCount": 72
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmY4YjJlZWMtNzgzNC00MzNlLWFkNTUtZmQ4NjNlNjNlOWQ2XkEyXkFqcGdeQXVyMTgyMzY5MTk@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Benedict Wong",
+    "power": 6,
+    "filmsCount": 70
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODQ4NzU1N15BMl5BanBnXkFtZTcwOTUzMzc5Mg@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Benicio del Toro",
+    "power": 9,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_UY317_CR14,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Benjamin Bratt",
+    "power": 3,
+    "filmsCount": 64
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_UY317_CR174,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "actorName": "Bobby Cannavale",
+    "power": 3,
+    "filmsCount": 96
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMDgwMzQwMV5BMl5BanBnXkFtZTcwNDc3NDg2Mw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Bokeem Woodbine",
+    "power": 3,
+    "filmsCount": 93
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Bradley Cooper",
+    "power": 9,
+    "filmsCount": 60
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "year": 2019
+      }
+    ],
+    "actorName": "Brie Larson",
+    "power": 3,
+    "filmsCount": 57
+  },
+  {
+    "films": [],
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Bruno Ricci",
+    "power": 3,
+    "filmsCount": 28
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MjQ5ODQ4Nl5BMl5BanBnXkFtZTcwNTMyMDA2Nw@@._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Callan Mulvey",
+    "power": 6,
+    "filmsCount": 34
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDUyNDMxMzU1OF5BMl5BanBnXkFtZTgwMTY0MzQyMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Cate Blanchett",
+    "power": 3,
+    "filmsCount": 69
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2OTY5MzcwMV5BMl5BanBnXkFtZTgwODM4MDI5MjI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Chadwick Boseman",
+    "power": 9,
+    "filmsCount": 30
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA5MDEyMTY3Nl5BMl5BanBnXkFtZTgwODQ0MjcxMDE@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Chiwetel Ejiofor",
+    "power": 3,
+    "filmsCount": 49
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Chris Evans",
+    "power": 24,
+    "filmsCount": 48
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Chris Hemsworth",
+    "power": 18,
+    "filmsCount": 37
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MTQwNzk5NF5BMl5BanBnXkFtZTgwOTgzMDEwMTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Chris O'Dowd",
+    "power": 3,
+    "filmsCount": 52
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg3MTgwOTgzMV5BMl5BanBnXkFtZTgwODIxMTUwMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Chris Pratt",
+    "power": 9,
+    "filmsCount": 48
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ0Mzc3OTU2Ml5BMl5BanBnXkFtZTgwMTc3ODE1ODE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Chris Sullivan",
+    "power": 3,
+    "filmsCount": 24
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwOTI1NjUxMl5BMl5BanBnXkFtZTYwMTAzNjI3._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Christopher Eccleston",
+    "power": 3,
+    "filmsCount": 76
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NTc4NDIzM15BMl5BanBnXkFtZTcwODI0NjYxOA@@._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "Christopher Fairbank",
+    "power": 3,
+    "filmsCount": 132
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Clancy Brown",
+    "power": 6,
+    "filmsCount": 269
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjYyNjAwNDUyOV5BMl5BanBnXkFtZTgwOTc5NzgyNjE@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Thor",
+        "year": 2011
+      }
+    ],
+    "actorName": "Clark Gregg",
+    "power": 9,
+    "filmsCount": 78
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMzgxNTM4N15BMl5BanBnXkFtZTgwMjY1ODk4MzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "actorName": "Claudia Kim",
+    "power": 3,
+    "filmsCount": 11
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MDY2NDI3OF5BMl5BanBnXkFtZTcwMzcyOTgxOA@@._V1_UY317_CR134,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Clive Russell",
+    "power": 3,
+    "filmsCount": 171
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNTUyMTczM15BMl5BanBnXkFtZTcwMjMxNTM4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Cobie Smulders",
+    "power": 9,
+    "filmsCount": 41
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      }
+    ],
+    "actorName": "Colm Feore",
+    "power": 3,
+    "filmsCount": 149
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU5MjUwMDYzOF5BMl5BanBnXkFtZTcwMDcwOTkwOQ@@._V1_UY317_CR44,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "actorName": "Corey Stoll",
+    "power": 3,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNjc2MzU1MF5BMl5BanBnXkFtZTgwMTgzOTA5NDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "actorName": "Damion Poitier",
+    "power": 3,
+    "filmsCount": 64
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjYyNjg1OTU1M15BMl5BanBnXkFtZTgwNzYyNTkzMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Danai Gurira",
+    "power": 6,
+    "filmsCount": 18
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxNzA0NjYxMF5BMl5BanBnXkFtZTgwOTQyNDU5NDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "actorName": "Daniel Brühl",
+    "power": 3,
+    "filmsCount": 70
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTk1MzgzOTg5OV5BMl5BanBnXkFtZTcwNDQ4NjMxOA@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Daniel Kaluuya",
+    "power": 3,
+    "filmsCount": 40
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NjQ5NDA5M15BMl5BanBnXkFtZTgwNDE0MjQzMjE@._V1_UY317_CR142,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Dave Bautista",
+    "power": 9,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "David Dastmalchian",
+    "power": 6,
+    "filmsCount": 59
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWQ4NzY4MTQtZDVmMC00ODQ3LWFjZjAtZGU4OWIzZTA3YzhkXkEyXkFqcGdeQXVyODIyMDEzNzc@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Derek Luke",
+    "power": 3,
+    "filmsCount": 31
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Djimon Hounsou",
+    "power": 6,
+    "filmsCount": 50
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2OTk2NDc1Ml5BMl5BanBnXkFtZTcwNTUyNzc4Mg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Dominic Cooper",
+    "power": 3,
+    "filmsCount": 55
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_UY317_CR17,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Don Cheadle",
+    "power": 15,
+    "filmsCount": 84
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Donald Glover",
+    "power": 3,
+    "filmsCount": 82
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "actorName": "Edward Norton",
+    "power": 3,
+    "filmsCount": 41
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWRiNzczYzMtOGE1Yi00Njg0LWFkNTUtYzE3NmVkZDZkMjg5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR21,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "year": 2020
+      }
+    ],
+    "actorName": "Elizabeth Debicki",
+    "power": 6,
+    "filmsCount": 19
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Elizabeth Olsen",
+    "power": 12,
+    "filmsCount": 22
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MDc4MDk4NF5BMl5BanBnXkFtZTgwMjkwMTYwOTE@._V1_UY317_CR28,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "actorName": "Emily VanCamp",
+    "power": 6,
+    "filmsCount": 27
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MjQ2MzE4Nl5BMl5BanBnXkFtZTgwMzAyOTE3NjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Ethan Dizon",
+    "power": 6,
+    "filmsCount": 21
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyMDg3MTAyMF5BMl5BanBnXkFtZTgwNTA1NjI5OTE@._V1_UY317_CR115,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Evan Jones",
+    "power": 3,
+    "filmsCount": 61
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_UY317_CR30,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Evangeline Lilly",
+    "power": 6,
+    "filmsCount": 19
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNjM4NjQwM15BMl5BanBnXkFtZTcwODk4OTMyMw@@._V1_UY317_CR121,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "actorName": "Faran Tahir",
+    "power": 3,
+    "filmsCount": 83
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmQ1MjU0MjEtMzgxOC00ZDdlLWFjNjgtYjJhOTM4OWZiZGM4XkEyXkFqcGdeQXVyNDU5ODk2OTg@._V1_UY317_CR9,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Florence Kasumba",
+    "power": 6,
+    "filmsCount": 33
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMDI3NTg2OV5BMl5BanBnXkFtZTcwNTgwMzg5Mg@@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Forest Whitaker",
+    "power": 3,
+    "filmsCount": 124
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_UY317_CR100,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "actorName": "Frank Grillo",
+    "power": 6,
+    "filmsCount": 66
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA5YmY2NGQtNWI3OC00ZGFhLTgxMjEtNWQzZDQ3MThjYjY4XkEyXkFqcGdeQXVyNDAzNTc0NA@@._V1_UY317_CR61,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Garcelle Beauvais",
+    "power": 3,
+    "filmsCount": 67
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODkzMzAxMDMzOV5BMl5BanBnXkFtZTgwNzE2NDM0ODE@._V1_UY317_CR116,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "actorName": "Garry Shandling",
+    "power": 6,
+    "filmsCount": 25
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDI5NjY5N15BMl5BanBnXkFtZTcwNTgwMzAzOQ@@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "actorName": "Georges St-Pierre",
+    "power": 3,
+    "filmsCount": 6
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDEwNjc3OTA1N15BMl5BanBnXkFtZTcwMzkyNTAzMQ@@._V1_UY317_CR115,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "actorName": "Gerard Sanders",
+    "power": 3,
+    "filmsCount": 31
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNDk5MTU2NTNeQTJeQWpwZ15BbWU3MDczNjEzMTM@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "Glenn Close",
+    "power": 3,
+    "filmsCount": 84
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwODc4MTI1OV5BMl5BanBnXkFtZTcwNDkyNjM4NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Gregg Henry",
+    "power": 6,
+    "filmsCount": 169
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDU5NDU5NjI0Ml5BMl5BanBnXkFtZTgwNzYzNzE0NjE@._V1_UY317_CR49,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "actorName": "Gregg Turkington",
+    "power": 3,
+    "filmsCount": 35
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTgxOTU4NTEzNV5BMl5BanBnXkFtZTcwMDk2MTAyNQ@@._V1_UY317_CR14,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Guy Pearce",
+    "power": 3,
+    "filmsCount": 70
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzIxOTQ1NTU1OV5BMl5BanBnXkFtZTcwMTQ4MDY0Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Gwyneth Paltrow",
+    "power": 15,
+    "filmsCount": 56
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MTE3MTkzMl5BMl5BanBnXkFtZTgwMzAyMTE1ODE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Hannah John-Kamen",
+    "power": 3,
+    "filmsCount": 21
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2NzIwNTQ1N15BMl5BanBnXkFtZTgwMTQzNTc4NDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Hannibal Buress",
+    "power": 3,
+    "filmsCount": 45
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmFiNWZlZDktMTY0NS00MDJjLWIxYzUtYzRhOTc2ZTQxYzNiXkEyXkFqcGdeQXVyNzM0MjE0NDk@._V1_UY317_CR51,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "actorName": "Hayley Atwell",
+    "power": 12,
+    "filmsCount": 41
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTZlNGJlNWMtMzc5NS00OTM2LTgwOTgtMTExMDA4NmM4MWE1XkEyXkFqcGdeQXVyMTgxNzk2ODQ@._V1_UY317_CR51,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "actorName": "Hayley Lovitt",
+    "power": 3,
+    "filmsCount": 18
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1MzM1MDk3Ml5BMl5BanBnXkFtZTcwMjQ4MjQyOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Hemky Madera",
+    "power": 3,
+    "filmsCount": 68
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MjQ2MTgyNl5BMl5BanBnXkFtZTcwOTA1MDAxOA@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "actorName": "Henry Goodman",
+    "power": 6,
+    "filmsCount": 93
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTM4Mjk5MjAwNF5BMl5BanBnXkFtZTcwNzQ3MTk3Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "actorName": "Hope Davis",
+    "power": 3,
+    "filmsCount": 52
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Hugo Weaving",
+    "power": 3,
+    "filmsCount": 87
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Idris Elba",
+    "power": 12,
+    "filmsCount": 86
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1OWU1OGYtYTIyMC00YzU1LWIyYTMtOWE0ZjdlMjhiZDE3L2ltYWdlXkEyXkFqcGdeQXVyMjQ3MjI0MDA@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Isabella Amara",
+    "power": 6,
+    "filmsCount": 17
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMTQzNjkyMV5BMl5BanBnXkFtZTgwOTY4MDU0OTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "J.J. Totah",
+    "power": 3,
+    "filmsCount": 27
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjBjNWNmZDYtYjZjNy00NzdmLTg4NjEtZTRhOTIzNDI2NWI1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "JJ Feild",
+    "power": 3,
+    "filmsCount": 45
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NzAzMzUzNl5BMl5BanBnXkFtZTgwNDk0MTM1OTE@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Untitled Spider-Man: Homecoming sequel",
+        "year": 2019
+      }
+    ],
+    "actorName": "Jacob Batalon",
+    "power": 6,
+    "filmsCount": 10
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MzU1MTEzMl5BMl5BanBnXkFtZTgwMDY3OTA2MDE@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Jaimie Alexander",
+    "power": 6,
+    "filmsCount": 30
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "James Badge Dale",
+    "power": 3,
+    "filmsCount": 40
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3MTQ5NjY5Ml5BMl5BanBnXkFtZTgwMTY0NzU5MDE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "actorName": "James Spader",
+    "power": 3,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTU1NjM4MDYzMl5BMl5BanBnXkFtZTcwMjIwMjMyMw@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "actorName": "Jeff Bridges",
+    "power": 3,
+    "filmsCount": 89
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5NzkyODg1Nl5BMl5BanBnXkFtZTYwMTY2OTE0._V1_UY317_CR22,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Jeff Goldblum",
+    "power": 6,
+    "filmsCount": 120
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTczNTgzODYyMF5BMl5BanBnXkFtZTcwNjk4ODk4Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Jennifer Connelly",
+    "power": 3,
+    "filmsCount": 49
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3NzExNzU5N15BMl5BanBnXkFtZTcwNDMwNTIwOQ@@._V1_UY317_CR15,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "actorName": "Jenny Agutter",
+    "power": 3,
+    "filmsCount": 112
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Jeremy Renner",
+    "power": 12,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5ODEzMDE2N15BMl5BanBnXkFtZTcwMjQ2ODM2NA@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [],
+    "actorName": "Jerzy Skolimowski",
+    "power": 0,
+    "filmsCount": 22
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTBhZmVhYjEtZDJlYy00OTQyLThkYTUtODViOTAxNzU5OGNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Jimmy Urine",
+    "power": 3,
+    "filmsCount": 4
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmM1NGZlNmItNjAyMC00N2UyLTg3YjAtYmMxODdkOWNlNTBkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Joe Fria",
+    "power": 3,
+    "filmsCount": 40
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_UY317_CR34,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "John C. Reilly",
+    "power": 3,
+    "filmsCount": 101
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyMzcxMDI1MF5BMl5BanBnXkFtZTcwMjU1NDExOA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "John Kani",
+    "power": 6,
+    "filmsCount": 39
+  },
+  {
+    "films": [],
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "John Penick",
+    "power": 3,
+    "filmsCount": 3
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTIyNDY5MV5BMl5BanBnXkFtZTgwODM2OTQyMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "actorName": "John Slattery",
+    "power": 9,
+    "filmsCount": 73
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Jon Favreau",
+    "power": 15,
+    "filmsCount": 68
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MjkwOTQ3OF5BMl5BanBnXkFtZTgwMTcyMTY1MDE@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Jonathan Howard",
+    "power": 3,
+    "filmsCount": 24
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTRjNDM3YzYtNDJmYS00MDc5LWI0OWUtODVlYTAxYzExZTliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Jorge Lendeborg Jr.",
+    "power": 3,
+    "filmsCount": 8
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Josh Brolin",
+    "power": 9,
+    "filmsCount": 67
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg0N2EtMDVlOS00YTUxLWE1ZWMtOGUyNjM1OThjMTljXkEyXkFqcGdeQXVyMTUyNjc4NzM@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      }
+    ],
+    "actorName": "Josh Dallas",
+    "power": 3,
+    "filmsCount": 17
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Judy Greer",
+    "power": 6,
+    "filmsCount": 127
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Karen Gillan",
+    "power": 9,
+    "filmsCount": 51
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Karl Urban",
+    "power": 3,
+    "filmsCount": 46
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNjk2NzA5Ml5BMl5BanBnXkFtZTcwNzIxMDcwOQ@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Kat Dennings",
+    "power": 6,
+    "filmsCount": 39
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjQ4ZTFmMzktNmY1Mi00ZjgzLWFiOTctYmZhM2JlOWI4ZTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Kenneth Choi",
+    "power": 6,
+    "filmsCount": 80
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NjgyNDU3OV5BMl5BanBnXkFtZTgwNzA4NDczNjE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Kerry Condon",
+    "power": 9,
+    "filmsCount": 32
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Kurt Russell",
+    "power": 3,
+    "filmsCount": 96
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNzMxNjE3Nl5BMl5BanBnXkFtZTcwODM4MzYzOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Laura Haddock",
+    "power": 9,
+    "filmsCount": 33
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWNiYTJiZTctNTk4Zi00OWVlLTgxZmMtNjc5ZWMwNjIwYjBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Laura Harrier",
+    "power": 3,
+    "filmsCount": 9
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Laurence Fishburne",
+    "power": 3,
+    "filmsCount": 108
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk2NjE4NDgzNl5BMl5BanBnXkFtZTcwNTI3NTEzMQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "Lee Pace",
+    "power": 3,
+    "filmsCount": 34
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NzAzNzE5N15BMl5BanBnXkFtZTcwMjMyODM0MQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "actorName": "Leslie Bibb",
+    "power": 6,
+    "filmsCount": 67
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyMzgxMzc5N15BMl5BanBnXkFtZTgwNDg3NzYzMDI@._V1_UY317_CR47,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Letitia Wright",
+    "power": 6,
+    "filmsCount": 19
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNDQ0ODc0OV5BMl5BanBnXkFtZTcwNjIwOTYyMQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Lex Shrapnel",
+    "power": 3,
+    "filmsCount": 39
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Linda Cardellini",
+    "power": 6,
+    "filmsCount": 67
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjAxOTkzZWEtMDgzMS00MWFjLWE3OTYtZDkzNzA3ZDc4ODZiXkEyXkFqcGdeQXVyMTU2NjQzMDM@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Linda Louise Duan",
+    "power": 3,
+    "filmsCount": 9
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NjQxMjc5MF5BMl5BanBnXkFtZTcwMzg5Mzg4Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "actorName": "Liv Tyler",
+    "power": 3,
+    "filmsCount": 34
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNTY2OTI3MF5BMl5BanBnXkFtZTcwNDc1MTg4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Logan Marshall-Green",
+    "power": 3,
+    "filmsCount": 27
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Lupita Nyong'o",
+    "power": 3,
+    "filmsCount": 20
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMTU5MzgxMF5BMl5BanBnXkFtZTYwMDI0NjI1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Mads Mikkelsen",
+    "power": 3,
+    "filmsCount": 51
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjA3OTc3N15BMl5BanBnXkFtZTcwNTA1MzY1Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Marisa Tomei",
+    "power": 6,
+    "filmsCount": 76
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Mjc3MTg1NV5BMl5BanBnXkFtZTgwNDI1OTQzMDI@._V1_UY317_CR121,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Mark Anthony Brighton",
+    "power": 3,
+    "filmsCount": 22
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQyNzMzZTMtYjlkNS00YzFhLWFhMTctY2M4YmQ1NmRhODBkXkEyXkFqcGdeQXVyNjcyNzgyOTE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Mark Ruffalo",
+    "power": 12,
+    "filmsCount": 66
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3MDc2ODg1MF5BMl5BanBnXkFtZTgwNjM5NDU1MzE@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "actorName": "Martin Donovan",
+    "power": 3,
+    "filmsCount": 102
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MjAwOTMzMF5BMl5BanBnXkFtZTcwMDg1MjEyNw@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Martin Freeman",
+    "power": 6,
+    "filmsCount": 77
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmQ3NDdjNzMtZWIyMC00OWRhLTgzNDYtZDlkMmE4YWY5YTEyXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UY317_CR131,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Martin Starr",
+    "power": 6,
+    "filmsCount": 96
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDAyOTQ3MDg3OV5BMl5BanBnXkFtZTcwNjQ0NTcyMQ@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "actorName": "Maximiliano Hernández",
+    "power": 6,
+    "filmsCount": 38
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjk1ODNkZTktOWJkMy00ZTcwLTgxYmUtNGUwYWM3MzM4ZWUxXkEyXkFqcGdeQXVyMjQ0NzU3Mjc@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "Melia Kreiling",
+    "power": 3,
+    "filmsCount": 20
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Michael B. Jordan",
+    "power": 3,
+    "filmsCount": 42
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjc3MDkyMjc3OF5BMl5BanBnXkFtZTgwODUwMjU0ODE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michael Barbieri",
+    "power": 3,
+    "filmsCount": 5
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmQwZWViOGMtMjI1My00ZDJhLWJmYTEtNzYyMGE3NDJiODBmXkEyXkFqcGdeQXVyMTE0MDIyNzg@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Michael Brandon",
+    "power": 3,
+    "filmsCount": 149
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzkyMTg2NDAxNl5BMl5BanBnXkFtZTgwNTIyODQ3MTI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michael Chernus",
+    "power": 3,
+    "filmsCount": 49
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_UY317_CR21,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michael Douglas",
+    "power": 3,
+    "filmsCount": 77
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_UY317_CR21,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michael Keaton",
+    "power": 3,
+    "filmsCount": 77
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGE1NDdlMzMtZTFmMC00NGEwLWE0MmEtYTUwZmM3ZGRlNzAyXkEyXkFqcGdeQXVyMTk3MzEwMjU@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michael Mando",
+    "power": 3,
+    "filmsCount": 31
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_UY317_CR15,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Michael Peña",
+    "power": 6,
+    "filmsCount": 86
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNDI5MjQ5MF5BMl5BanBnXkFtZTYwMjI1MTgz._V1_UY317_CR22,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michael Rooker",
+    "power": 6,
+    "filmsCount": 119
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNTc5Nzk2N15BMl5BanBnXkFtZTgwNDIxNTA4NTE@._V1_UY317_CR51,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michael Rosenbaum",
+    "power": 3,
+    "filmsCount": 56
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Michael Stuhlbarg",
+    "power": 3,
+    "filmsCount": 46
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Michelle Pfeiffer",
+    "power": 3,
+    "filmsCount": 61
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NTI0NDkzOF5BMl5BanBnXkFtZTcwMjYwMTIwNw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Michelle Yeoh",
+    "power": 3,
+    "filmsCount": 49
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MzYwNDA2MF5BMl5BanBnXkFtZTcwNDYzMjg4Mw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "actorName": "Mickey Rourke",
+    "power": 3,
+    "filmsCount": 83
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Miguel Ferrer",
+    "power": 3,
+    "filmsCount": 124
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5OTQwODY0M15BMl5BanBnXkFtZTcwNDIyMDQyMg@@._V1_UY317_CR130,0,214,317_AL_.jpg",
+    "filmsMcu": [],
+    "actorName": "Mike Escamilla",
+    "power": 0,
+    "filmsCount": 8
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MzE1MzcxNl5BMl5BanBnXkFtZTcwNTM1MTA2OA@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Miley Cyrus",
+    "power": 3,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmZmMGEyNDgtZmUwOC00MTQwLTkwMjItNzM4Mjc0OWQ1NjhmXkEyXkFqcGdeQXVyNzQwMTM5MTE@._V1_UY317_CR131,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Nabiyah Be",
+    "power": 3,
+    "filmsCount": 1
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODE3Mjg1NV5BMl5BanBnXkFtZTcwNzA4ODcxNA@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Natalie Portman",
+    "power": 6,
+    "filmsCount": 58
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGI4ZTNkZDItMWVjMS00YzJhLWEwYmEtMWZlYzMxNmEwNmE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR3,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Neal McDonough",
+    "power": 9,
+    "filmsCount": 116
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2OTMyNTczMV5BMl5BanBnXkFtZTcwNDc5MzIzMw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "actorName": "Olivia Munn",
+    "power": 3,
+    "filmsCount": 49
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4MzA3MDcyNl5BMl5BanBnXkFtZTcwNDc2NjI4NA@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "Ophelia Lovibond",
+    "power": 6,
+    "filmsCount": 46
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwODg1MTA5Ml5BMl5BanBnXkFtZTcwNDQwMTQxMw@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Paul Bettany",
+    "power": 18,
+    "filmsCount": 47
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Paul Rudd",
+    "power": 12,
+    "filmsCount": 109
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNDU1MjcyNl5BMl5BanBnXkFtZTgwODc1OTQ0NDE@._V1_UY317_CR175,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      }
+    ],
+    "actorName": "Peter Serafinowicz",
+    "power": 3,
+    "filmsCount": 98
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNjE5MzY5M15BMl5BanBnXkFtZTgwMDI5ODMxODE@._V1_UY317_CR121,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "year": 2020
+      }
+    ],
+    "actorName": "Pom Klementieff",
+    "power": 9,
+    "filmsCount": 26
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NDQwMTI3MV5BMl5BanBnXkFtZTcwODcwMjM4NA@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "filmsMcu": [],
+    "actorName": "Powers Boothe",
+    "power": 0,
+    "filmsCount": 69
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWNmNzEzMGUtMDc1NS00OTlkLWExMzktNTAzOGQ2N2RkMjI3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Rachel House",
+    "power": 3,
+    "filmsCount": 23
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Rachel McAdams",
+    "power": 3,
+    "filmsCount": 36
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2JjMzMyMTgtZmUzNy00OTExLTljYjYtZGIwMmQzYTdiZTUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Randall Park",
+    "power": 3,
+    "filmsCount": 138
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MjczMDYzMV5BMl5BanBnXkFtZTcwMDQzMDIzMQ@@._V1_UY317_CR18,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Ray Stevenson",
+    "power": 9,
+    "filmsCount": 53
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjkzODU4MTQ4OV5BMl5BanBnXkFtZTcwNDU0MTA4NA@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Rebecca Hall",
+    "power": 3,
+    "filmsCount": 38
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDI4MDE3MF5BMl5BanBnXkFtZTYwNzI3NjE0._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Rene Russo",
+    "power": 6,
+    "filmsCount": 29
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDU1N2VmMjEtY2M1ZS00N2M4LWI4NGMtYjkwYTgxMzY4YTFhL2ltYWdlXkEyXkFqcGdeQXVyMjQxODUxMjA@._V1_UY317_CR37,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Richard Armitage",
+    "power": 3,
+    "filmsCount": 46
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Robert Downey Jr.",
+    "power": 24,
+    "filmsCount": 90
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1Nzc5MzQyMV5BMl5BanBnXkFtZTcwNjQ5OTA0Mg@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "actorName": "Robert Redford",
+    "power": 3,
+    "filmsCount": 79
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "actorName": "Sam Rockwell",
+    "power": 3,
+    "filmsCount": 99
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain Marvel",
+        "year": 2019
+      }
+    ],
+    "actorName": "Samuel L. Jackson",
+    "power": 21,
+    "filmsCount": 176
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Scarlett Johansson",
+    "power": 15,
+    "filmsCount": 61
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhiZDM4ZGUtOGJjZS00MTNhLWJkMGItNTFiMWFiYjk2MjU3XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_UY317_CR51,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Scott Adkins",
+    "power": 3,
+    "filmsCount": 57
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjZmMWE0N2UtYTc5Yi00OWY0LTk1MzAtMzgwNWM0OGU3MTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Sean Gunn",
+    "power": 9,
+    "filmsCount": 48
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTk2OGU4NzktODhhOC00Nzc2LWIyNzYtOWViMjljZGFiNTMxXkEyXkFqcGdeQXVyMTE1NTQwOTk@._V1_UY317_CR15,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Sebastian Stan",
+    "power": 15,
+    "filmsCount": 38
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0NjE5MDA0OV5BMl5BanBnXkFtZTgwNzAxMzY1MDE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Selenis Leyva",
+    "power": 3,
+    "filmsCount": 39
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3MzI2ODkwN15BMl5BanBnXkFtZTcwMDYyNzMyOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Seth Green",
+    "power": 9,
+    "filmsCount": 180
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjVmYTE0ZmItYzZhMC00OTA2LWIxYWEtYjQ4NGQ2OTQyZGY2XkEyXkFqcGdeQXVyMTE2MzE4NzQ@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      },
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Shaun Toub",
+    "power": 6,
+    "filmsCount": 93
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MzE4MjAzMV5BMl5BanBnXkFtZTcwMjA2MTMyMw@@._V1_UY317_CR9,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Stanley Tucci",
+    "power": 3,
+    "filmsCount": 125
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDUzOTY0N15BMl5BanBnXkFtZTYwNjYxODE0._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "actorName": "Stellan Skarsgård",
+    "power": 9,
+    "filmsCount": 141
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1MTYyNzkwN15BMl5BanBnXkFtZTgwMTkxNDk0MDI@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Stephanie Szostak",
+    "power": 3,
+    "filmsCount": 32
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2RhMGNjMzItYWRhYi00YWY1LTk2OTctMDYyOWRmZDc4NDAwXkEyXkFqcGdeQXVyMDIyNTMyMA@@._V1_UY317_CR119,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Stephen Blackehart",
+    "power": 6,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmEzNmExM2ItNzg5Zi00NGRjLWI1NTEtMmQ5MGMwNjFlNWFhL2ltYWdlXkEyXkFqcGdeQXVyMTM0MzI5Nzc@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Sterling K. Brown",
+    "power": 3,
+    "filmsCount": 47
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2NTE0MTI1N15BMl5BanBnXkFtZTcwNjY4NjUwNw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Steve Agee",
+    "power": 3,
+    "filmsCount": 126
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg3MjkzYzUtMzZiNy00MDVhLWIzYzMtZjUwOWFiMGUwNzQxXkEyXkFqcGdeQXVyMTE4ODQ4MDM@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      }
+    ],
+    "actorName": "Sydelle Noel",
+    "power": 3,
+    "filmsCount": 30
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMTk3NDU2OV5BMl5BanBnXkFtZTcwNTA3MTI0Mw@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Sylvester Stallone",
+    "power": 3,
+    "filmsCount": 79
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzM5MTk5OV5BMl5BanBnXkFtZTgwMTcxMTY1MDE@._V1_UY317_CR3,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Tadanobu Asano",
+    "power": 9,
+    "filmsCount": 104
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI4NTczNTMzN15BMl5BanBnXkFtZTYwNjYwMzU0._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Taika Waititi",
+    "power": 3,
+    "filmsCount": 24
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5NjYyNzE1MTBeQTJeQWpwZ15BbWU3MDEyOTAzNjg@._V1_UY317_CR131,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Terence Rosemore",
+    "power": 3,
+    "filmsCount": 66
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTY4NzgyOV5BMl5BanBnXkFtZTcwODEzNTkxNg@@._V1_UY317_CR24,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "year": 2008
+      }
+    ],
+    "actorName": "Terrence Howard",
+    "power": 3,
+    "filmsCount": 91
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjk4MDU3NDg4NF5BMl5BanBnXkFtZTcwMjMxMjcwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Tessa Thompson",
+    "power": 6,
+    "filmsCount": 47
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1Njc5MzE1OF5BMl5BanBnXkFtZTcwMTc1NDM4Nw@@._V1_UY317_CR3,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015
+      }
+    ],
+    "actorName": "Thomas Kretschmann",
+    "power": 6,
+    "filmsCount": 125
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQzZjljYTEtOTM4MC00NGYyLWE0ODAtN2ZhMGQ5ZjViYzhiXkEyXkFqcGdeQXVyMTE2MDA4NjE@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Tiffany Espensen",
+    "power": 6,
+    "filmsCount": 33
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Tilda Swinton",
+    "power": 3,
+    "filmsCount": 74
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0ODkwNjM5M15BMl5BanBnXkFtZTcwNzQ3NjgyMw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "actorName": "Tim Blake Nelson",
+    "power": 3,
+    "filmsCount": 79
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "actorName": "Tim Roth",
+    "power": 3,
+    "filmsCount": 101
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMDMwNjkxN15BMl5BanBnXkFtZTcwMDI0MTM5OA@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "T.I.",
+    "power": 6,
+    "filmsCount": 33
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014
+      }
+    ],
+    "actorName": "Toby Jones",
+    "power": 6,
+    "filmsCount": 108
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNjE0Njg2MTReQTJeQWpwZ15BbWU3MDEyODM1ODc@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "year": 2011
+      },
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Tom Hiddleston",
+    "power": 12,
+    "filmsCount": 44
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTAzMzA3NjQwOF5BMl5BanBnXkFtZTgwMDUzODQ5MTI@._V1_UY317_CR23,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      },
+      {
+        "title": "Untitled Spider-Man: Homecoming sequel",
+        "year": 2019
+      }
+    ],
+    "actorName": "Tom Holland",
+    "power": 12,
+    "filmsCount": 23
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxOTQxMzA1Nl5BMl5BanBnXkFtZTgwMTMwOTY1MjE@._V1_UY317_CR10,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Tommy Flanagan",
+    "power": 3,
+    "filmsCount": 62
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNjc4MDc0OV5BMl5BanBnXkFtZTcwOTc5OTUwOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "year": 2011
+      }
+    ],
+    "actorName": "Tommy Lee Jones",
+    "power": 3,
+    "filmsCount": 82
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU2MTU1NDY5M15BMl5BanBnXkFtZTcwMDg3OTkyMQ@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      }
+    ],
+    "actorName": "Tony Curran",
+    "power": 3,
+    "filmsCount": 105
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjgyNGIyZmMtMTFlYy00OWE5LWE2Y2QtYjhhOGU0NzM4YzliXkEyXkFqcGdeQXVyMzk0NzA4MDc@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Tony Revolori",
+    "power": 3,
+    "filmsCount": 30
+  },
+  {
+    "films": [],
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "year": 2016
+      }
+    ],
+    "actorName": "Topo Wresniwiro",
+    "power": 3,
+    "filmsCount": 2
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNzk4NDI0MF5BMl5BanBnXkFtZTYwMjUxNTI3._V1_UY317_CR134,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Tunde Adebimpe",
+    "power": 3,
+    "filmsCount": 18
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MjE1NzIxNl5BMl5BanBnXkFtZTcwNTY4NjI4NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      }
+    ],
+    "actorName": "Ty Burrell",
+    "power": 3,
+    "filmsCount": 40
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODYxMDI3OWYtOWFhYi00Nzk3LTkzMmQtNmNhZTI5YWVkODk5XkEyXkFqcGdeQXVyMTAxNjMxMjg@._V1_UY317_CR45,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Ty Simpkins",
+    "power": 3,
+    "filmsCount": 30
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAyNjA2ODk2NV5BMl5BanBnXkFtZTcwMTQ0MTk5Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      }
+    ],
+    "actorName": "Tyne Daly",
+    "power": 3,
+    "filmsCount": 103
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Vin Diesel",
+    "power": 9,
+    "filmsCount": 43
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwMTgyMzc4MV5BMl5BanBnXkFtZTYwNjE5Mjk1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      }
+    ],
+    "actorName": "Ving Rhames",
+    "power": 3,
+    "filmsCount": 129
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzYyNmUwMmItYzE4YS00ZTQxLWJiNjUtNzA0OGIzZGYzNDk2XkEyXkFqcGdeQXVyNDg4OTQzNjg@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018
+      }
+    ],
+    "actorName": "Walton Goggins",
+    "power": 3,
+    "filmsCount": 80
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MTMwMzQwN15BMl5BanBnXkFtZTYwMTk3NDg2._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "Wang Xueqi",
+    "power": 3,
+    "filmsCount": 41
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzA5MTUxN15BMl5BanBnXkFtZTcwMTU3ODQ3MQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "year": 2008
+      },
+      {
+        "title": "Captain America: Civil War",
+        "year": 2016
+      }
+    ],
+    "actorName": "William Hurt",
+    "power": 6,
+    "filmsCount": 100
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NjU3NDg1MTheQTJeQWpwZ15BbWU2MDI4OTcxMw@@._V1_UY317_CR25,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "year": 2013
+      }
+    ],
+    "actorName": "William Sadler",
+    "power": 3,
+    "filmsCount": 165
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2I4Mzg3MWQtM2JlNy00ODQxLThhMGItZTFlNWFhOTIzNzY4XkEyXkFqcGdeQXVyNTEwNTA1Njg@._V1_UY317_CR127,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "year": 2018
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Winston Duke",
+    "power": 6,
+    "filmsCount": 7
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDY2NDY4OF5BMl5BanBnXkFtZTcwNjM5OTY0OA@@._V1_UY317_CR175,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "year": 2015
+      }
+    ],
+    "actorName": "Wood Harris",
+    "power": 3,
+    "filmsCount": 49
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxMDU0MTYwN15BMl5BanBnXkFtZTYwOTc5Nzcy._V1_UY317_CR135,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "year": 2010
+      }
+    ],
+    "actorName": "Yevgeni Lazarev",
+    "power": 3,
+    "filmsCount": 77
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "year": 2013
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "year": 2017
+      }
+    ],
+    "actorName": "Zachary Levi",
+    "power": 6,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017
+      },
+      {
+        "title": "Untitled Spider-Man: Homecoming sequel",
+        "year": 2019
+      }
+    ],
+    "actorName": "Zendaya",
+    "power": 6,
+    "filmsCount": 32
+  },
+  {
+    "films": [],
+    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDk1NTA1OV5BMl5BanBnXkFtZTcwMTIzMjQ4Ng@@._V1_UY317_CR8,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": 2018
+      }
+    ],
+    "actorName": "Zoe Saldana",
+    "power": 9,
+    "filmsCount": 54
+  }
+]

@@ -6,6 +6,7 @@ import {
   loadOscarsFromFile,
   loadGlobesFromFile,
   loadEmmysFromFile,
+  loadImdbFromFile,
   writeAggregateToFile,
 } from '../../lib/ActorsHelper';
 
@@ -19,6 +20,7 @@ const loadData = async () => {
   const oscars = await loadOscarsFromFile();
   const globes = await loadGlobesFromFile();
   const emmys = await loadEmmysFromFile();
+  const imdb = await loadImdbFromFile();
 
   return {
     actors,
@@ -26,6 +28,7 @@ const loadData = async () => {
     oscars,
     globes,
     emmys,
+    imdb,
   };
 };
 
@@ -34,12 +37,14 @@ loadData().catch(console.error).then((allData) => {
 
   allData.actors.forEach((actor) => {
     let awards = [];
+    let mcuFilms = [];
     let power = 0;
 
     const [baftas] = allData.baftas.filter(a => a.actorName === actor.actorName);
     const [oscars] = allData.oscars.filter(a => a.actorName === actor.actorName);
     const [globes] = allData.globes.filter(a => a.actorName === actor.actorName);
     const [emmys] = allData.emmys.filter(a => a.actorName === actor.actorName);
+    const [imdb] = allData.imdb.filter(a => a.actorName === actor.actorName);
 
     if (baftas) {
       awards = awards.concat(map(baftas.awards, a => Object.assign({ event: 'BAFTAS' }, a)));
@@ -61,9 +66,15 @@ loadData().catch(console.error).then((allData) => {
       power += emmys.power;
     }
 
+    if (imdb) {
+      mcuFilms = imdb.filmsMcu;
+      power += imdb.power;
+    }
+
     aggregateData.push(
       Object.assign({
         awards,
+        mcuFilms,
         power,
       }, actor)
     );
