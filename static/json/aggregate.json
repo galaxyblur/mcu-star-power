@@ -80,9 +80,79 @@
         "title": "Passion Fish",
         "winner": false,
         "year": "1993"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
+        "title": "Steel Magnolias",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress In A Drama Series",
+        "title": "True Blood",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
+        "title": "Pictures Of Hollis Woods (Hallmark Hall Of Fame Presentation)",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Comedy Series",
+        "title": "Desperate Housewives",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
+        "title": "The Water Is Wide (Hallmark Hall Of Fame Presentation)",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress In A Drama Series",
+        "title": "The Practice",
+        "winner": true,
+        "year": "2003"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress In A Drama Series",
+        "title": "Homicide: Life On The Street",
+        "winner": false,
+        "year": "1998"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR A SPECIAL",
+        "title": "Miss Evers' Boys",
+        "winner": true,
+        "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING SUPPORTING ACTRESS FOR A MINISERIES OR SPECIAL",
+        "title": "Gulliver's Travels",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR SPECIAL",
+        "title": "The Piano Lesson (Hallmark Hall Of Fame)",
+        "winner": false,
+        "year": "1995"
       }
     ],
-    "power": 7,
+    "power": 24,
     "characterName": "Miriam Sharpe",
     "actorName": "Alfre Woodard"
   },
@@ -114,9 +184,16 @@
         "title": "Longford",
         "winner": false,
         "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Little Dorrit (Masterpiece)",
+        "winner": false,
+        "year": "2009"
       }
     ],
-    "power": 5,
+    "power": 6,
     "characterName": "Ulysses Klaue",
     "actorName": "Andy Serkis"
   },
@@ -136,9 +213,37 @@
         "title": "What's Love Got To Do With It",
         "winner": true,
         "year": "1994"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress in a Comedy Series",
+        "title": "Master Of None",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Limited Series Or A Movie",
+        "title": "American Horror Story: Freak Show",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
+        "title": "American Horror Story: Coven",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
+        "title": "The Rosa Parks Story",
+        "winner": false,
+        "year": "2002"
       }
     ],
-    "power": 5,
+    "power": 11,
     "characterName": "Ramonda",
     "actorName": "Angela Bassett"
   },
@@ -293,9 +398,44 @@
         "title": "Magic",
         "winner": false,
         "year": "1979"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor in a Drama Series",
+        "title": "Westworld",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING SUPPORTING ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "GREAT EXPECTATIONS",
+        "winner": false,
+        "year": "1990"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "The Hunchback of Notre Dame Hallmark Hall of Fame",
+        "winner": false,
+        "year": "1982"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "The Bunker",
+        "winner": true,
+        "year": "1981"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A DRAMA OR COMEDY SPECIAL",
+        "title": "The Lindbergh Kidnapping Case NBC World Premiere M",
+        "winner": true,
+        "year": "1976"
       }
     ],
-    "power": 43,
+    "power": 54,
     "characterName": "Odin",
     "actorName": "Anthony Hopkins"
   },
@@ -421,9 +561,44 @@
         "title": "Gandhi",
         "winner": true,
         "year": "1983"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Mrs. Harris",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Makeup For A Miniseries Movie Or A Special",
+        "title": "Mrs. Harris",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Anne Frank",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING SUPPORTING ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "Joseph",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "MURDERERS AMONG US: THE SIMON WIESENTHAL STORY",
+        "winner": false,
+        "year": "1989"
       }
     ],
-    "power": 30,
+    "power": 39,
     "characterName": "Trevor Slattery",
     "actorName": "Ben Kingsley"
   },
@@ -506,9 +681,44 @@
         "title": "Sherlock: Season 2 (Masterpiece)",
         "winner": false,
         "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor in a Limited Series or Movie",
+        "title": "Sherlock: The Lying Detective (Masterpiece)",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
+        "title": "Sherlock: The Abominable Bride (Masterpiece)",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: His Last Vow (Masterpiece)",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Parade's End",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: A Scandal In Belgravia (Masterpiece)",
+        "winner": false,
+        "year": "2012"
       }
     ],
-    "power": 22,
+    "power": 33,
     "characterName": "Dormammu",
     "actorName": "Benedict Cumberbatch"
   },
@@ -591,9 +801,44 @@
         "title": "Sherlock: Season 2 (Masterpiece)",
         "winner": false,
         "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor in a Limited Series or Movie",
+        "title": "Sherlock: The Lying Detective (Masterpiece)",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
+        "title": "Sherlock: The Abominable Bride (Masterpiece)",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: His Last Vow (Masterpiece)",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Parade's End",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: A Scandal In Belgravia (Masterpiece)",
+        "winner": false,
+        "year": "2012"
       }
     ],
-    "power": 22,
+    "power": 33,
     "characterName": "Stephen Strange",
     "actorName": "Benedict Cumberbatch"
   },
@@ -655,20 +900,65 @@
     "actorName": "Benicio del Toro"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Law & Order",
+        "winner": false,
+        "year": "1999"
+      }
+    ],
+    "power": 1,
     "characterName": "Jonathan Pangborn",
     "actorName": "Benjamin Bratt"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Boardwalk Empire",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Nurse Jackie",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Nurse Jackie",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Will & Grace",
+        "winner": true,
+        "year": "2005"
+      }
+    ],
+    "power": 9,
     "characterName": "Paxton",
     "actorName": "Bobby Cannavale"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Limited Series Or Movie",
+        "title": "Fargo",
+        "winner": false,
+        "year": "2016"
+      }
+    ],
+    "power": 1,
     "characterName": "Herman Schultz",
     "actorName": "Bokeem Woodbine"
   },
@@ -1010,15 +1300,58 @@
         "title": "Tsunami, The Aftermath",
         "winner": false,
         "year": "2007"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Dancing On The Edge",
+        "winner": false,
+        "year": "2014"
       }
     ],
-    "power": 17,
+    "power": 19,
     "characterName": "Karl Mordo",
     "actorName": "Chiwetel Ejiofor"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Sound Mixing For Nonfiction Programming",
+        "title": "The Beatles: Eight Days A Week - The Touring Years",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Documentary Or Nonfiction Series",
+        "title": "Dinner For Five",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Picture Editing For Nonfiction Programming",
+        "title": "The Amazing Race",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Sound Editing For Non Fiction Programming",
+        "title": "The Amazing Race",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Special Visual Effects",
+        "title": "The Ewok Adventure",
+        "winner": true,
+        "year": "1985"
+      }
+    ],
+    "power": 13,
     "characterName": "Steve Rogers",
     "actorName": "Chris Evans"
   },
@@ -1065,14 +1398,44 @@
     "actorName": "Chris O'Dowd"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Drama Series",
+        "title": "QUANTUM LEAP",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Drama Series",
+        "title": "QUANTUM LEAP",
+        "winner": false,
+        "year": "1991"
+      }
+    ],
+    "power": 4,
     "characterName": "Peter Quill",
     "actorName": "Chris Pratt"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Special Visual Effects For A Miniseries Movie Or A Special",
+        "title": "The Pacific",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing For A Variety Series",
+        "title": "The Chris Rock Show",
+        "winner": false,
+        "year": "2000"
+      }
+    ],
+    "power": 5,
     "characterName": "Taserface",
     "actorName": "Chris Sullivan"
   },
@@ -1138,9 +1501,23 @@
         "title": "Claudia Lewis, Kim Shillinglaw",
         "winner": false,
         "year": "2009"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing For A Variety Series",
+        "title": "Inside Amy Schumer",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Animated Program",
+        "title": "Star Wars Clone Wars Vol. 2 (Chapters 21-25)",
+        "winner": true,
+        "year": "2005"
       }
     ],
-    "power": 2,
+    "power": 7,
     "characterName": "Helen Cho",
     "actorName": "Claudia Kim"
   },
@@ -1243,8 +1620,23 @@
     "actorName": "David Dastmalchian"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Cinematography For Reality Programming",
+        "title": "Survivor",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Cinematography For Reality Programming",
+        "title": "Survivor",
+        "winner": false,
+        "year": "2016"
+      }
+    ],
+    "power": 4,
     "characterName": "Gabe Jones",
     "actorName": "Derek Luke"
   },
@@ -1357,9 +1749,65 @@
         "title": "Rat Pack, The",
         "winner": true,
         "year": "1999"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "House Of Lies",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "House Of Lies",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "House Of Lies",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "House Of Lies",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "ER",
+        "winner": false,
+        "year": "2003"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Things Behind The Sun",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "The Rat Pack",
+        "winner": false,
+        "year": "1999"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR MOVIE",
+        "title": "A Lesson Before Dying",
+        "winner": false,
+        "year": "1999"
       }
     ],
-    "power": 19,
+    "power": 33,
     "characterName": "James \"Rhodey\" Rhodes",
     "actorName": "Don Cheadle"
   },
@@ -1371,9 +1819,37 @@
         "title": "Atlanta",
         "winner": true,
         "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing for a Comedy Series",
+        "title": "Atlanta",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Comedy Series",
+        "title": "Atlanta",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Directing For A Comedy Series",
+        "title": "Atlanta",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor in a Comedy Series",
+        "title": "Atlanta",
+        "winner": true,
+        "year": "2017"
       }
     ],
-    "power": 3,
+    "power": 13,
     "characterName": "Aaron Davis",
     "actorName": "Donald Glover"
   },
@@ -1430,9 +1906,23 @@
         "title": "Primal Fear",
         "winner": true,
         "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Documentary Or Nonfiction Special",
+        "title": "By The People: The Election Of Barack Obama",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Animated Program",
+        "title": "Faeries",
+        "winner": false,
+        "year": "1981"
       }
     ],
-    "power": 9,
+    "power": 13,
     "characterName": "Bruce Banner",
     "actorName": "Edward Norton"
   },
@@ -1518,9 +2008,16 @@
         "title": "Tom Jones",
         "winner": false,
         "year": "1964"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Sound Editing For A Miniseries Movie Or A Special",
+        "title": "Stephen King's The Shining",
+        "winner": true,
+        "year": "1997"
       }
     ],
-    "power": 15,
+    "power": 18,
     "characterName": "Retch",
     "actorName": "Evan Jones"
   },
@@ -1580,9 +2077,30 @@
         "title": "Bird",
         "winner": false,
         "year": "1989"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Exceptional Merit In Documentary Filmmaking",
+        "title": "Brick City",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "ER",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Made For Television Movie",
+        "title": "Door To Door",
+        "winner": true,
+        "year": "2003"
       }
     ],
-    "power": 11,
+    "power": 18,
     "characterName": "Zuri",
     "actorName": "Forest Whitaker"
   },
@@ -1811,9 +2329,79 @@
         "title": "The Towering Inferno",
         "winner": false,
         "year": "1974 (47th)"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Choreography",
+        "title": "The Real O'Neals",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
+        "title": "The Oscars",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Technical Direction Camerawork Video Control For A Series",
+        "title": "Dancing With The Stars",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Variety Sketch Series",
+        "title": "Documentary Now!",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Variety Sketch Series",
+        "title": "Portlandia",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Sound Editing For A Series",
+        "title": "Westworld",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Adventure Time",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Cinematography For A Miniseries Or Movie",
+        "title": "The Night Of",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Adventure Time",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Variety Sketch Series",
+        "title": "Documentary Now!",
+        "winner": false,
+        "year": "2016"
       }
     ],
-    "power": 67,
+    "power": 89,
     "characterName": "Cosmo",
     "actorName": "Fred"
   },
@@ -1845,9 +2433,79 @@
         "title": "Larry Sanders Show, The",
         "winner": false,
         "year": "1995"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1998"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing for a Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": true,
+        "year": "1998"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1998"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing for a Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing for a Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR FOR A COMEDY SERIES",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "The Larry Sanders Show",
+        "winner": false,
+        "year": "1995"
       }
     ],
-    "power": 7,
+    "power": 28,
     "characterName": "Stern",
     "actorName": "Garry Shandling"
   },
@@ -1989,9 +2647,79 @@
         "title": "Fatal Attraction",
         "winner": false,
         "year": "1988"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Drama Series",
+        "title": "Damages",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Drama Series",
+        "title": "Damages",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Drama Series",
+        "title": "Damages",
+        "winner": true,
+        "year": "2009"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Drama Series",
+        "title": "Damages",
+        "winner": true,
+        "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Drama Series",
+        "title": "The Shield",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
+        "title": "The Lion In Winter",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress In A Comedy Series",
+        "title": "Will & Grace",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR A SPECIAL",
+        "title": "In The Gloaming",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR SPECIAL",
+        "title": "Serving In Silence: The Margarethe Cammermeyer St",
+        "winner": true,
+        "year": "1995"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Made For Television Movie",
+        "title": "Serving In Silence: The Margarethe Cammermeyer St",
+        "winner": false,
+        "year": "1995"
       }
     ],
-    "power": 33,
+    "power": 56,
     "characterName": "Irani Rael",
     "actorName": "Glenn Close"
   },
@@ -2022,9 +2750,16 @@
         "title": "Mildred Pierce",
         "winner": false,
         "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Mildred Pierce",
+        "winner": true,
+        "year": "2011"
       }
     ],
-    "power": 3,
+    "power": 5,
     "characterName": "Aldrich Killian",
     "actorName": "Guy Pearce"
   },
@@ -2058,9 +2793,23 @@
         "title": "Shakespeare in Love",
         "winner": true,
         "year": "1999"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Informational Series Or Special",
+        "title": "Stand Up To Cancer",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress In A Comedy Series",
+        "title": "Glee",
+        "winner": true,
+        "year": "2011"
       }
     ],
-    "power": 10,
+    "power": 15,
     "characterName": "Virginia \"Pepper\" Potts",
     "actorName": "Gwyneth Paltrow"
   },
@@ -2071,8 +2820,16 @@
     "actorName": "Hannah John-Kamen"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing For A Variety Series",
+        "title": "Saturday Night Live",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 2,
     "characterName": "Coach Wilson",
     "actorName": "Hannibal Buress"
   },
@@ -2103,8 +2860,23 @@
     "actorName": "Hemky Madera"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Comedy Series",
+        "title": "Family Guy",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Animated Program",
+        "title": "Blue Harvest (Family Guy)",
+        "winner": false,
+        "year": "2008"
+      }
+    ],
+    "power": 4,
     "characterName": "List",
     "actorName": "Henry Goodman"
   },
@@ -2130,9 +2902,23 @@
         "title": "American Splendor",
         "winner": false,
         "year": "2004"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
+        "title": "The Special Relationship",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "In Treatment",
+        "winner": false,
+        "year": "2009"
       }
     ],
-    "power": 4,
+    "power": 7,
     "characterName": "Maria Stark",
     "actorName": "Hope Davis"
   },
@@ -2206,9 +2992,44 @@
         "title": "Luther",
         "winner": false,
         "year": "2011"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
+        "title": "Luther",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Luther",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Luther",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "The Big C",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Luther",
+        "winner": false,
+        "year": "2011"
       }
     ],
-    "power": 18,
+    "power": 28,
     "characterName": "Heimdall",
     "actorName": "Idris Elba"
   },
@@ -2270,9 +3091,37 @@
         "title": "Boston Legal",
         "winner": false,
         "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Drama Series",
+        "title": "Boston Legal",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Drama Series",
+        "title": "Boston Legal",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Drama Series",
+        "title": "Boston Legal",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Drama Series",
+        "title": "The Practice",
+        "winner": true,
+        "year": "2004"
       }
     ],
-    "power": 6,
+    "power": 17,
     "characterName": "Ultron",
     "actorName": "James Spader"
   },
@@ -2396,15 +3245,30 @@
         "title": "John Carpenter's Starman",
         "winner": false,
         "year": "1985"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "A Dog Year",
+        "winner": false,
+        "year": "2010"
       }
     ],
-    "power": 28,
+    "power": 30,
     "characterName": "Obadiah Stane",
     "actorName": "Jeff Bridges"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Will & Grace",
+        "winner": false,
+        "year": "2005"
+      }
+    ],
+    "power": 2,
     "characterName": "Grandmaster",
     "actorName": "Jeff Goldblum"
   },
@@ -2445,9 +3309,16 @@
         "title": "Equus",
         "winner": true,
         "year": "1978"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Performance by an Actress in a Supporting Role in Drama",
+        "title": "The Snow Goose Hallmark Hall of Fame",
+        "winner": true,
+        "year": "1972"
       }
     ],
-    "power": 2,
+    "power": 4,
     "characterName": "Hawley",
     "actorName": "Jenny Agutter"
   },
@@ -2529,9 +3400,16 @@
         "title": "Chicago",
         "winner": false,
         "year": "2003"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Achievement In Any Area Of Creative Technical Crafts",
+        "title": "Cosmos",
+        "winner": true,
+        "year": "1981"
       }
     ],
-    "power": 4,
+    "power": 7,
     "characterName": "Rhomann Dey",
     "actorName": "John C. Reilly"
   },
@@ -2548,8 +3426,37 @@
     "actorName": "John Penick"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
+        "winner": false,
+        "year": "2008"
+      }
+    ],
+    "power": 4,
     "characterName": "Howard Stark",
     "actorName": "John Slattery"
   },
@@ -2561,15 +3468,72 @@
         "title": "Jon Favreau, Brigham Taylor",
         "winner": false,
         "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Documentary Or Nonfiction Series",
+        "title": "Dinner For Five",
+        "winner": false,
+        "year": "2005"
       }
     ],
-    "power": 2,
+    "power": 4,
     "characterName": "Harold \"Happy\" Hogan",
     "actorName": "Jon Favreau"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Documentary Or Nonfiction Special",
+        "title": "The Beatles: Eight Days A Week - The Touring Years",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Sound Editing For A Miniseries Movie Or A Special",
+        "title": "Sherlock: The Abominable Bride (Masterpiece)",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "King Of The Hill",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "King Of The Hill",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "King Of The Hill",
+        "winner": true,
+        "year": "1999"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "King Of The Hill",
+        "winner": false,
+        "year": "1998"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "King Of The Hill",
+        "winner": false,
+        "year": "1997"
+      }
+    ],
+    "power": 15,
     "characterName": "Ian Boothby",
     "actorName": "Jonathan Howard"
   },
@@ -2650,9 +3614,16 @@
         "title": "Silkwood",
         "winner": false,
         "year": "1984"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "Elvis",
+        "winner": false,
+        "year": "1979"
       }
     ],
-    "power": 1,
+    "power": 3,
     "characterName": "Ego",
     "actorName": "Kurt Russell"
   },
@@ -2684,9 +3655,72 @@
         "title": "Tuskegee Airmen, The",
         "winner": false,
         "year": "1996"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Narrator",
+        "title": "Year Million",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Comedy Series",
+        "title": "black-ish",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Comedy Series",
+        "title": "black-ish",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Narrator",
+        "title": "Roots",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Thurgood",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "Miss Evers' Boys",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Made For Television Movie",
+        "title": "Miss Evers' Boys",
+        "winner": true,
+        "year": "1997"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR FOR A MINISERIES OR SPECIAL",
+        "title": "Tuskegee Airmen",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "TRIBECA",
+        "winner": true,
+        "year": "1993"
       }
     ],
-    "power": 4,
+    "power": 24,
     "characterName": "Bill Foster",
     "actorName": "Laurence Fishburne"
   },
@@ -2705,9 +3739,16 @@
         "title": "Soldier's Girl",
         "winner": false,
         "year": "2004"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "Pushing Daisies",
+        "winner": false,
+        "year": "2008"
       }
     ],
-    "power": 3,
+    "power": 5,
     "characterName": "Ronan the Accuser",
     "actorName": "Lee Pace"
   },
@@ -2730,8 +3771,16 @@
     "actorName": "Lex Shrapnel"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress In A Drama Series",
+        "title": "Mad Men",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 2,
     "characterName": "Laura Barton",
     "actorName": "Linda Cardellini"
   },
@@ -2927,9 +3976,23 @@
         "title": "Normal Heart, The",
         "winner": false,
         "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "The Normal Heart",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Made For Television Movie",
+        "title": "The Normal Heart",
+        "winner": true,
+        "year": "2014"
       }
     ],
-    "power": 14,
+    "power": 19,
     "characterName": "Bruce Banner",
     "actorName": "Mark Ruffalo"
   },
@@ -2975,9 +4038,30 @@
         "title": "Fargo (TV show)",
         "winner": false,
         "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Fargo",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: His Last Vow (Masterpiece)",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: A Scandal In Belgravia (Masterpiece)",
+        "winner": false,
+        "year": "2012"
       }
     ],
-    "power": 10,
+    "power": 15,
     "characterName": "Everett K. Ross",
     "actorName": "Martin Freeman"
   },
@@ -3012,8 +4096,37 @@
     "actorName": "Michael Barbieri"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Structured Reality Program",
+        "title": "Shark Tank",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Structured Reality Program",
+        "title": "Shark Tank",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Structured Reality Program",
+        "title": "Shark Tank",
+        "winner": true,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Animated Program",
+        "title": "Teenage Mutant Ninja Turtles: The Manhattan Project",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 11,
     "characterName": "Brandt",
     "actorName": "Michael Brandon"
   },
@@ -3116,9 +4229,79 @@
         "title": "Hail, Hero!",
         "winner": false,
         "year": "1970"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Behind The Candelabra",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Special Visual Effects",
+        "title": "Defiance",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Sound Editing For A Miniseries Movie Or A Special",
+        "title": "Hatfields & McCoys",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Childrens Program",
+        "title": "Hannah Montana",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Childrens Program",
+        "title": "Hannah Montana",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Childrens Program",
+        "title": "Hannah Montana",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Childrens Program",
+        "title": "Hannah Montana",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Reality Program",
+        "title": "Queer Eye For The Straight Guy",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Reality Program",
+        "title": "Queer Eye For The Straight Guy",
+        "winner": true,
+        "year": "2004"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Will & Grace",
+        "winner": false,
+        "year": "2002"
       }
     ],
-    "power": 29,
+    "power": 51,
     "characterName": "Hank Pym",
     "actorName": "Michael Douglas"
   },
@@ -3152,9 +4335,30 @@
         "title": "Live from Baghdad",
         "winner": false,
         "year": "2003"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Documentary Or Nonfiction Special",
+        "title": "Fred Rogers: America's Favorite Neighbor",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Art Direction For Variety Or Nonfiction Programming",
+        "title": "The 74th Annual Academy Awards",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "FAMILY TIES",
+        "winner": false,
+        "year": "1989"
       }
     ],
-    "power": 9,
+    "power": 15,
     "characterName": "Adrian Toomes",
     "actorName": "Michael Keaton"
   },
@@ -3177,8 +4381,16 @@
     "actorName": "Michael Rooker"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Informational Series",
+        "title": "A&E Biography",
+        "winner": false,
+        "year": "1996"
+      }
+    ],
+    "power": 2,
     "characterName": "Martinex",
     "actorName": "Michael Rosenbaum"
   },
@@ -3284,9 +4496,23 @@
         "title": "Married To The Mob",
         "winner": false,
         "year": "1989"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress in a Limited Series or Movie",
+        "title": "The Wizard Of Lies",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Informational Special",
+        "title": "THE BARBARA WALTERS SPECIAL WITH MICHELLE PFEIFFER",
+        "winner": false,
+        "year": "1992"
       }
     ],
-    "power": 23,
+    "power": 26,
     "characterName": "Janet van Dyne",
     "actorName": "Michelle Pfeiffer"
   },
@@ -3517,8 +4743,16 @@
     "actorName": "Pom Klementieff"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "Guyana Tragedy: The Story of Jim Jones",
+        "winner": true,
+        "year": "1980"
+      }
+    ],
+    "power": 3,
     "characterName": "Gideon Malick",
     "actorName": "Powers Boothe"
   },
@@ -3544,9 +4778,16 @@
         "title": "Rachel Morgan, Paul Islwyn Thomas",
         "winner": true,
         "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actress In A Drama Series",
+        "title": "House Of Cards",
+        "winner": false,
+        "year": "2015"
       }
     ],
-    "power": 7,
+    "power": 9,
     "characterName": "Topaz",
     "actorName": "Rachel House"
   },
@@ -3573,8 +4814,16 @@
     "actorName": "Rachel McAdams"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Variety Music Or Comedy Special",
+        "title": "Garth Live From Central Park",
+        "winner": false,
+        "year": "1998"
+      }
+    ],
+    "power": 2,
     "characterName": "Jimmy Woo",
     "actorName": "Randall Park"
   },
@@ -3613,9 +4862,23 @@
         "title": "Vicky Cristina Barcelona",
         "winner": false,
         "year": "2009"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Miniseries",
+        "title": "Wolf Hall",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
+        "title": "Back When We Were Grownups (Hallmark Hall Of Fame)",
+        "winner": false,
+        "year": "2005"
       }
     ],
-    "power": 8,
+    "power": 12,
     "characterName": "Maya Hansen",
     "actorName": "Rebecca Hall"
   },
@@ -3804,9 +5067,23 @@
         "title": "Inside Daisy Clover",
         "winner": true,
         "year": "1966"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Documentary Or Nonfiction Special",
+        "title": "All The President's Men Revisited",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING PERFORMANCE IN A SUPPORTING ROLE BY AN ACTOR",
+        "title": "Premiere, Presented by Fred Astaire",
+        "winner": false,
+        "year": "1963"
       }
     ],
-    "power": 31,
+    "power": 34,
     "characterName": "Alexander Pierce",
     "actorName": "Robert Redford"
   },
@@ -3882,9 +5159,16 @@
         "title": "Pulp Fiction",
         "winner": false,
         "year": "1995"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Animated Program",
+        "title": "Afro Samurai: Resurrection",
+        "winner": false,
+        "year": "2009"
       }
     ],
-    "power": 12,
+    "power": 14,
     "characterName": "Nick Fury",
     "actorName": "Samuel L. Jackson"
   },
@@ -3955,8 +5239,79 @@
     "actorName": "Selenis Leyva"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Robot Chicken",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Writing For A Variety Series",
+        "title": "Saturday Night Live",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Special Class Short format Animated Programs",
+        "title": "Robot Chicken",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Voice Over Performance",
+        "title": "Robot Chicken",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Robot Chicken",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Character Voice-Over Performance",
+        "title": "Robot Chicken DC Comics Special II: Villains In Paradise",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Robot Chicken",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Voice-Over Performance",
+        "title": "Robot Chicken DC Comics Special",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Robot Chicken",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Animated Program",
+        "title": "The Cleveland Show",
+        "winner": false,
+        "year": "2011"
+      }
+    ],
+    "power": 21,
     "characterName": "Howard the Duck",
     "actorName": "Seth Green"
   },
@@ -4003,9 +5358,65 @@
         "title": "Winchell",
         "winner": true,
         "year": "1999"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor in a Limited Series or Movie",
+        "title": "FEUD: Bette And Joan",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short Form Variety Series",
+        "title": "Park Bench With Steve Buscemi",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Special Class Short format Nonfiction Programs",
+        "title": "Park Bench With Steve Buscemi",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "ER",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Monk",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Conspiracy",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR MOVIE",
+        "title": "Winchell",
+        "winner": true,
+        "year": "1999"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING SUPPORTING ACTOR FOR A DRAMA SERIES",
+        "title": "Murder One",
+        "winner": false,
+        "year": "1996"
       }
     ],
-    "power": 8,
+    "power": 24,
     "characterName": "Abraham Erskine",
     "actorName": "Stanley Tucci"
   },
@@ -4042,9 +5453,23 @@
         "title": "The People v. O.J. Simpson: American Crime Story",
         "winner": false,
         "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor in a Drama Series",
+        "title": "This Is Us",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Limited Series Or Movie",
+        "title": "The People v. O.J. Simpson: American Crime Story",
+        "winner": true,
+        "year": "2016"
       }
     ],
-    "power": 4,
+    "power": 9,
     "characterName": "N'Jobu",
     "actorName": "Sterling K. Brown"
   },
@@ -4318,9 +5743,30 @@
         "title": "Girl, The",
         "winner": false,
         "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Regular Show",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "The Girl",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Makeup For A Series",
+        "title": "Star Trek: Deep Space Nine",
+        "winner": false,
+        "year": "1999"
       }
     ],
-    "power": 8,
+    "power": 14,
     "characterName": "Arnim Zola",
     "actorName": "Toby Jones"
   },
@@ -4339,9 +5785,23 @@
         "title": "The Night Manager",
         "winner": true,
         "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
+        "title": "The Night Manager",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Miniseries",
+        "title": "The Night Manager",
+        "winner": false,
+        "year": "2016"
       }
     ],
-    "power": 5,
+    "power": 9,
     "characterName": "Loki",
     "actorName": "Tom Hiddleston"
   },
@@ -4388,9 +5848,23 @@
         "title": "Gracie!",
         "winner": false,
         "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Special Class Short format Nonfiction Programs",
+        "title": "Parks And Recreation: Behind The Final Season",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
+        "title": "The 66th Annual Academy Awards",
+        "winner": true,
+        "year": "1994"
       }
     ],
-    "power": 12,
+    "power": 17,
     "characterName": "Peter Parker",
     "actorName": "Tom Holland"
   },
@@ -4489,9 +5963,23 @@
         "title": "Coal Miner's Daughter",
         "winner": false,
         "year": "1981"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "LONESOME DOVE",
+        "winner": false,
+        "year": "1989"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "The Executioner's Song",
+        "winner": true,
+        "year": "1983"
       }
     ],
-    "power": 16,
+    "power": 21,
     "characterName": "Chester Phillips",
     "actorName": "Tommy Lee Jones"
   },
@@ -4520,8 +6008,72 @@
     "actorName": "Tunde Adebimpe"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor in a Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Actor in a Short Form Comedy or Drama Series",
+        "title": "Boondoggle",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 12,
     "characterName": "Leonard Samson",
     "actorName": "Ty Burrell"
   },
@@ -4567,9 +6119,79 @@
         "title": "Cagney and Lacey",
         "winner": false,
         "year": "1984"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "Judging Amy",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "Judging Amy",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "Judging Amy",
+        "winner": true,
+        "year": "2003"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "Judging Amy",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "Judging Amy",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "Judging Amy",
+        "winner": false,
+        "year": "2000"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING SUPPORTING ACTRESS FOR A DRAMA SERIES",
+        "title": "Christy",
+        "winner": true,
+        "year": "1996"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actress In A Drama Series",
+        "title": "Christy",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Comedy Series",
+        "title": "WINGS",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actress In A Drama Series",
+        "title": "Cagney & Lacey",
+        "winner": true,
+        "year": "1988"
       }
     ],
-    "power": 10,
+    "power": 25,
     "characterName": "Anne Marie Hoag",
     "actorName": "Tyne Daly"
   },
@@ -4587,15 +6209,30 @@
         "title": "Don King: Only In America",
         "winner": true,
         "year": "1998"
+      },
+      {
+        "event": "EMMYS",
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR MOVIE",
+        "title": "Don King: Only In America",
+        "winner": false,
+        "year": "1998"
       }
     ],
-    "power": 3,
+    "power": 5,
     "characterName": "Charlie-27",
     "actorName": "Ving Rhames"
   },
   {
-    "awards": [],
-    "power": 0,
+    "awards": [
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Justified",
+        "winner": false,
+        "year": "2011"
+      }
+    ],
+    "power": 1,
     "characterName": "Sonny Burch",
     "actorName": "Walton Goggins"
   },
@@ -4687,9 +6324,23 @@
         "title": "Altered States",
         "winner": false,
         "year": "1981"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Too Big To Fail",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Damages",
+        "winner": false,
+        "year": "2009"
       }
     ],
-    "power": 22,
+    "power": 25,
     "characterName": "Thaddeus \"Thunderbolt\" Ross",
     "actorName": "William Hurt"
   },

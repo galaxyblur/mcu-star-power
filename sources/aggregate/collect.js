@@ -5,6 +5,7 @@ import {
   loadBaftasFromFile,
   loadOscarsFromFile,
   loadGlobesFromFile,
+  loadEmmysFromFile,
   writeAggregateToFile,
 } from '../../lib/ActorsHelper';
 
@@ -17,12 +18,14 @@ const loadData = async () => {
   const baftas = await loadBaftasFromFile();
   const oscars = await loadOscarsFromFile();
   const globes = await loadGlobesFromFile();
+  const emmys = await loadEmmysFromFile();
 
   return {
     actors,
     baftas,
     oscars,
     globes,
+    emmys,
   };
 };
 
@@ -36,6 +39,7 @@ loadData().catch(console.error).then((allData) => {
     const [baftas] = allData.baftas.filter(a => a.actorName === actor.actorName);
     const [oscars] = allData.oscars.filter(a => a.actorName === actor.actorName);
     const [globes] = allData.globes.filter(a => a.actorName === actor.actorName);
+    const [emmys] = allData.emmys.filter(a => a.actorName === actor.actorName);
 
     if (baftas) {
       awards = awards.concat(map(baftas.awards, a => Object.assign({ event: 'BAFTAS' }, a)));
@@ -50,6 +54,11 @@ loadData().catch(console.error).then((allData) => {
     if (globes) {
       awards = awards.concat(map(globes.awards, a => Object.assign({ event: 'GOLDEN_GLOBES' }, a)));
       power += globes.power;
+    }
+
+    if (emmys) {
+      awards = awards.concat(map(emmys.awards, a => Object.assign({ event: 'EMMYS' }, a)));
+      power += emmys.power;
     }
 
     aggregateData.push(
