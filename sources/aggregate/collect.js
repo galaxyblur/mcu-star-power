@@ -37,6 +37,7 @@ loadData().catch(console.error).then((allData) => {
 
   allData.actors.forEach((actor) => {
     let awards = [];
+    let img;
     let mcuFilms = [];
     let power = 0;
 
@@ -67,6 +68,7 @@ loadData().catch(console.error).then((allData) => {
     }
 
     if (imdb) {
+      img = imdb.img;
       mcuFilms = imdb.filmsMcu;
       power += imdb.power;
     }
@@ -74,6 +76,7 @@ loadData().catch(console.error).then((allData) => {
     aggregateData.push(
       Object.assign({
         awards,
+        img,
         mcuFilms,
         power,
       }, actor)
