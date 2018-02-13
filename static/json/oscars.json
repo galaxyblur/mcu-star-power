@@ -551,19 +551,6 @@
     "power": 0
   },
   {
-    "actorName": "Fred",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Harlee Claiborne\"}",
-        "title": "The Towering Inferno",
-        "winner": false,
-        "year": "1974 (47th)"
-      }
-    ],
-    "power": 1
-  },
-  {
     "actorName": "Garcelle Beauvais",
     "awards": [],
     "power": 0
@@ -710,7 +697,7 @@
     "power": 0
   },
   {
-    "actorName": "J. J. Totah",
+    "actorName": "J.J. Totah",
     "awards": [],
     "power": 0
   },
@@ -1583,7 +1570,7 @@
     "power": 1
   },
   {
-    "actorName": "Tip \"T.I.\" Harris",
+    "actorName": "T.I.",
     "awards": [],
     "power": 0
   },

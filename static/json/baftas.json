@@ -744,192 +744,6 @@
     "power": 0
   },
   {
-    "actorName": "Fred",
-    "awards": [
-      {
-        "category": "Film | Film",
-        "title": "Fred Berger, Jordan Horowitz, Marc Platt",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "category": "Film | Editing",
-        "title": "Fred Raskin",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Games | Family",
-        "title": "Paul Reiche, Fred Ford, Scott Krager",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Television | News Coverage",
-        "title": "Production Team",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "Children's | BAFTA Young Game Designers",
-        "title": "Molly Proud (15), Fred Gosling (15), Laurie Griffiths (15)",
-        "winner": false,
-        "year": "2011"
-      },
-      {
-        "category": "Television Craft | Photography - Factual",
-        "title": "Fred Fabre",
-        "winner": false,
-        "year": "2006"
-      },
-      {
-        "category": "Television Craft | Photography - Factual",
-        "title": "Fred Fabre",
-        "winner": true,
-        "year": "2005"
-      },
-      {
-        "category": "Film | Anthony Asquith Award for Original Film Music",
-        "title": "Danny Elfman, John Kander, Fred Ebb",
-        "winner": false,
-        "year": "2003"
-      },
-      {
-        "category": "Television | Situation Comedy",
-        "title": "Production Team",
-        "winner": false,
-        "year": "2003"
-      },
-      {
-        "category": "Television Craft | Photography And Lighting - Fiction",
-        "title": "Fred Tammes",
-        "winner": false,
-        "year": "2003"
-      },
-      {
-        "category": "Film | Film",
-        "title": "Martin Brown, Baz Luhrmann, Fred Baron",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "Television Craft | Photography And Lighting - Fiction",
-        "title": "Fred Tammes",
-        "winner": true,
-        "year": "2000"
-      },
-      {
-        "category": "Film | Short Animation",
-        "title": "John Coates, Catrin Unwin, Joanna Quinn",
-        "winner": false,
-        "year": "1997"
-      },
-      {
-        "category": "Film | Make-Up",
-        "title": "Kevin Haney, Katherine James, Fred Blau, Fern Buchner",
-        "winner": false,
-        "year": "1994"
-      },
-      {
-        "category": "Film | Foreign Language Film",
-        "title": "Alberto Grimaldi, Federico Fellini",
-        "winner": false,
-        "year": "1987"
-      },
-      {
-        "category": "Film | Special Visual Effects",
-        "title": "Fred Cramer",
-        "winner": false,
-        "year": "1985"
-      },
-      {
-        "category": "Film | Make-Up Artist",
-        "title": "Zelig",
-        "winner": false,
-        "year": "1984"
-      },
-      {
-        "category": "Television Craft | VTR Editor",
-        "title": "The Kenny Everett Video Show",
-        "winner": false,
-        "year": "1981"
-      },
-      {
-        "category": "Television | Documentary",
-        "title": "Don Haworth",
-        "winner": true,
-        "year": "1980"
-      },
-      {
-        "category": "Television Craft | VTR Editor",
-        "title": "The Will Kenny Everett Make It To 1980? Show",
-        "winner": false,
-        "year": "1980"
-      },
-      {
-        "category": "Film | Direction",
-        "title": "Fred Zinnemann",
-        "winner": false,
-        "year": "1979"
-      },
-      {
-        "category": "Film | Fellowship",
-        "title": "",
-        "winner": true,
-        "year": "1978"
-      },
-      {
-        "category": "Film | Cinematography",
-        "title": "Fred Koenekamp",
-        "winner": false,
-        "year": "1976"
-      },
-      {
-        "category": "Film | Supporting Actor",
-        "title": "The Towering Inferno",
-        "winner": true,
-        "year": "1976"
-      },
-      {
-        "category": "Television | Specialised Programme",
-        "title": "Fred Burnley",
-        "winner": false,
-        "year": "1976"
-      },
-      {
-        "category": "Film | Soundtrack",
-        "title": "Chris Newman, Jean-Louis Ducarme, Buzz Knudson, Fred Brown, Bob Fine, Ross Taylor, Ron Nagle, Doc Siegel, Gonzalo Gavira, Hal Landaker",
-        "winner": false,
-        "year": "1975"
-      },
-      {
-        "category": "Television | Design",
-        "title": "Fred Pusey, Mike Hall",
-        "winner": false,
-        "year": "1975"
-      },
-      {
-        "category": "Film | Direction",
-        "title": "Fred Zinnemann",
-        "winner": false,
-        "year": "1974"
-      },
-      {
-        "category": "Television | Specialised Production",
-        "title": "Fred Burnley",
-        "winner": false,
-        "year": "1971"
-      },
-      {
-        "category": "Television | Specialised Programme",
-        "title": "Fred Burnley",
-        "winner": true,
-        "year": "1970"
-      }
-    ],
-    "power": 66
-  },
-  {
     "actorName": "Garcelle Beauvais",
     "awards": [],
     "power": 0
@@ -1079,7 +893,7 @@
     "power": 0
   },
   {
-    "actorName": "J. J. Totah",
+    "actorName": "J.J. Totah",
     "awards": [],
     "power": 0
   },
@@ -2040,7 +1854,7 @@
     "power": 4
   },
   {
-    "actorName": "Tip \"T.I.\" Harris",
+    "actorName": "T.I.",
     "awards": [],
     "power": 0
   },

@@ -748,72 +748,6 @@
     "power": 0
   },
   {
-    "actorName": "Fred",
-    "awards": [
-      {
-        "category": "Outstanding Choreography",
-        "title": "The Real O'Neals",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
-        "title": "The Oscars",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Technical Direction Camerawork Video Control For A Series",
-        "title": "Dancing With The Stars",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Variety Sketch Series",
-        "title": "Documentary Now!",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Variety Sketch Series",
-        "title": "Portlandia",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Sound Editing For A Series",
-        "title": "Westworld",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "Adventure Time",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Cinematography For A Miniseries Or Movie",
-        "title": "The Night Of",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "Adventure Time",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Variety Sketch Series",
-        "title": "Documentary Now!",
-        "winner": false,
-        "year": "2016"
-      }
-    ],
-    "power": 22
-  },
-  {
     "actorName": "Garcelle Beauvais",
     "awards": [],
     "power": 0
@@ -1115,7 +1049,7 @@
     "power": 0
   },
   {
-    "actorName": "J. J. Totah",
+    "actorName": "J.J. Totah",
     "awards": [],
     "power": 0
   },
@@ -2223,7 +2157,7 @@
     "power": 0
   },
   {
-    "actorName": "Tip \"T.I.\" Harris",
+    "actorName": "T.I.",
     "awards": [],
     "power": 0
   },
