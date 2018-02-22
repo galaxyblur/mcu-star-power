@@ -1,98 +1,122 @@
 [
     {
         "title": "Iron Man",
-        "year": 2008
+        "year": 2008,
+        "url": "https://www.imdb.com/title/tt0371746/"
     },
     {
         "title": "The Incredible Hulk",
-        "year": 2008
+        "year": 2008,
+        "url": "https://www.imdb.com/title/tt0800080/"
     },
     {
         "title": "Iron Man 2",
-        "year": 2010
+        "year": 2010,
+        "url": "https://www.imdb.com/title/tt1228705/"
     },
     {
         "title": "Thor",
-        "year": 2011
+        "year": 2011,
+        "url": "https://www.imdb.com/title/tt0800369/"
     },
     {
         "title": "Captain America: The First Avenger",
-        "year": 2011
+        "year": 2011,
+        "url": "https://www.imdb.com/title/tt0458339/"
     },
     {
         "title": "Marvel's The Avengers",
-        "year": 2012
+        "year": 2012,
+        "url": "https://www.imdb.com/title/tt0848228/"
     },
     {
         "title": "Iron Man 3",
-        "year": 2013
+        "year": 2013,
+        "url": "https://www.imdb.com/title/tt1300854/"
     },
     {
         "title": "Thor: The Dark World",
-        "year": 2013
+        "year": 2013,
+        "url": "https://www.imdb.com/title/tt1981115/"
     },
     {
         "title": "Captain America: The Winter Soldier",
-        "year": 2014
+        "year": 2014,
+        "url": "https://www.imdb.com/title/tt1843866/"
     },
     {
         "title": "Guardians of the Galaxy",
-        "year": 2014
+        "year": 2014,
+        "url": "https://www.imdb.com/title/tt2015381/"
     },
     {
         "title": "Avengers: Age of Ultron",
-        "year": 2015
+        "year": 2015,
+        "url": "https://www.imdb.com/title/tt2395427/"
     },
     {
         "title": "Ant-Man",
-        "year": 2015
+        "year": 2015,
+        "url": "https://www.imdb.com/title/tt0478970/"
     },
     {
         "title": "Captain America: Civil War",
-        "year": 2016
+        "year": 2016,
+        "url": "https://www.imdb.com/title/tt3498820/"
     },
     {
         "title": "Doctor Strange",
-        "year": 2016
+        "year": 2016,
+        "url": "https://www.imdb.com/title/tt1211837/"
     },
     {
         "title": "Guardians of the Galaxy Vol. 2",
-        "year": 2017
+        "year": 2017,
+        "url": "https://www.imdb.com/title/tt3896198/"
     },
     {
         "title": "Spider-Man: Homecoming",
-        "year": 2017
+        "year": 2017,
+        "url": "https://www.imdb.com/title/tt2250912/"
     },
     {
         "title": "Thor: Ragnarok",
-        "year": 2017
+        "year": 2017,
+        "url": "https://www.imdb.com/title/tt3501632/"
     },
     {
         "title": "Black Panther",
-        "year": 2018
+        "year": 2018,
+        "url": "https://www.imdb.com/title/tt1825683/"
     },
     {
         "title": "Avengers: Infinity War",
-        "year": 2018
+        "year": 2018,
+        "url": "https://www.imdb.com/title/tt4154756/"
     },
     {
         "title": "Ant-Man and the Wasp",
-        "year": 2018
+        "year": 2018,
+        "url": "https://www.imdb.com/title/tt5095030/"
     },
     {
         "title": "Captain Marvel",
-        "year": 2019
+        "year": 2019,
+        "url": "https://www.imdb.com/title/tt4154664/"
     },
     {
         "title": "Untitled Avengers film",
-        "year": 2019
+        "year": 2019,
+        "url": "https://www.imdb.com/title/tt4154796/"
     },
     {
         "title": "Untitled Spider-Man: Homecoming sequel",
-        "year": 2019
+        "year": 2019,
+        "url": "https://www.imdb.com/title/tt6320628/"
     },
     {
         "title": "Guardians of the Galaxy Vol. 3",
-        "year": 2020
+        "year": 2020,
+        "url": "https://www.imdb.com/title/tt6791350/"
     }
 ]
