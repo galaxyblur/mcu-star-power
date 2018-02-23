@@ -3,35 +3,21 @@ import Nightmare from 'nightmare';
 
 import {
   loadActorsFromFile,
-  loadMcuFilmsFromFile,
   loadImdbFromFile,
   writeImdbToFile,
+  getCharacterListForActor,
 } from '../../lib/ActorsHelper';
 
 import {
   isEqual,
   uniqWith,
-  intersectionWith,
-  deburr,
-  trim,
 } from 'lodash';
-
-const normalizeFilmTitle = (title) => {
-  return trim(deburr(title.toLowerCase()));
-};
 
 const collect = async () => {
   const allActors = await loadActorsFromFile();
 
   if (!allActors) {
     console.warn('No actors!');
-    return;
-  }
-
-  const mcuFilms = await loadMcuFilmsFromFile();
-
-  if (!mcuFilms) {
-    console.warn('No mcu films!');
     return;
   }
 
@@ -49,6 +35,7 @@ const collect = async () => {
       typeInterval: 20,
       waitTimeout: 10000,
       openDevTools: true,
+      webPreferences: { images: false },
     });
 
     const start = 0;
@@ -57,7 +44,7 @@ const collect = async () => {
 
     for (i = start; i < end; i++) {
       const a = allActorsUnique[i];
-      console.log(`${i}. ${a.actorName} as ${a.characterName}`);
+      console.log(`${i}. ${a.actorName} as ${getCharacterListForActor(a)}`);
 
       if (allInfo.filter(info => info.actorName === a.actorName).length > 0) {
         console.log('Data exists. Skipped.');
@@ -94,17 +81,12 @@ const collect = async () => {
           return info;
         });
 
-      actorInfo.filmsMcu = intersectionWith(mcuFilms, actorInfo.films, (a, b) => {
-        // console.log(normalizeFilmTitle(a.title), normalizeFilmTitle(b.title));
-        return normalizeFilmTitle(a.title) === normalizeFilmTitle(b.title);
-      });
-
       actorInfo.actorName = a.actorName;
-      actorInfo.power = actorInfo.filmsMcu.length * 3;
+      actorInfo.power = a.filmsMcu.length * 3;
       actorInfo.filmsCount = actorInfo.films.length;
       actorInfo.films = [];
 
-      console.log(`${actorInfo.filmsMcu.length} of ${actorInfo.filmsCount} films in MCU`);
+      console.log(`${a.filmsMcu.length} of ${actorInfo.filmsCount} films in MCU`);
       allInfo.push(actorInfo);
     }
 
@@ -118,7 +100,7 @@ const collect = async () => {
   };
 
   vo(run)((err, infos) => {
-    console.log(JSON.stringify(infos, null, 2));
+    // console.log(JSON.stringify(infos, null, 2));
     writeImdbToFile(infos);
   });
 };

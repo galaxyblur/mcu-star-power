@@ -5,6 +5,7 @@ import {
   loadActorsFromFile,
   loadBaftasFromFile,
   writeBaftasToFile,
+  getCharacterListForActor,
 } from '../../lib/ActorsHelper';
 
 import {
@@ -32,13 +33,14 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
         typeInterval: 20,
         waitTimeout: 5000,
         openDevTools: true,
+        webPreferences: { images: false },
       });
       const awards = [];
       let i;
 
       for (i = 0; i < allActorsUnique.length; i++) {
         const a = allActorsUnique[i];
-        console.log(`${i}. ${a.actorName} as ${a.characterName}`);
+        console.log(`${i}. ${a.actorName} as ${getCharacterListForActor(a)}`);
 
         if (allAwards.filter(aw => aw.actorName === a.actorName).length > 0) {
           console.log('Data exists. Skipped.');

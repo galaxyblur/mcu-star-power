@@ -38,8 +38,10 @@ loadData().catch(console.error).then((allData) => {
   allData.actors.forEach((actor) => {
     let awards = [];
     let img;
-    let mcuFilms = [];
-    let power = 0;
+    let filmsMcu = actor.filmsMcu;
+    let filmsCount = 0;
+    let powerCareer = 0;
+    let powerMcu = filmsMcu.length;
 
     const [baftas] = allData.baftas.filter(a => a.actorName === actor.actorName);
     const [oscars] = allData.oscars.filter(a => a.actorName === actor.actorName);
@@ -49,36 +51,38 @@ loadData().catch(console.error).then((allData) => {
 
     if (baftas) {
       awards = awards.concat(map(baftas.awards, a => Object.assign({ event: 'BAFTAS' }, a)));
-      power += baftas.power;
+      powerCareer += baftas.power;
     }
 
     if (oscars) {
       awards = awards.concat(map(oscars.awards, a => Object.assign({ event: 'OSCARS' }, a)));
-      power += oscars.power;
+      powerCareer += oscars.power;
     }
 
     if (globes) {
       awards = awards.concat(map(globes.awards, a => Object.assign({ event: 'GOLDEN_GLOBES' }, a)));
-      power += globes.power;
+      powerCareer += globes.power;
     }
 
     if (emmys) {
       awards = awards.concat(map(emmys.awards, a => Object.assign({ event: 'EMMYS' }, a)));
-      power += emmys.power;
+      powerCareer += emmys.power;
     }
 
     if (imdb) {
       img = imdb.img;
-      mcuFilms = imdb.filmsMcu;
-      power += imdb.power;
+      filmsCount = imdb.filmsCount;
+      powerCareer += imdb.power;
     }
 
     aggregateData.push(
       Object.assign({
         awards,
         img,
-        mcuFilms,
-        power,
+        filmsMcu,
+        filmsCount,
+        powerCareer,
+        powerMcu,
       }, actor)
     );
   });
