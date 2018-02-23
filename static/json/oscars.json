@@ -1,730 +1,36 @@
 [
   {
-    "actorName": "Aaron Himelstein",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Aaron Taylor-Johnson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Abby Ryder Fortson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Abraham Attah",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Adewale Akinnuoye-Agbaje",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Alexis Denisof",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Alfre Woodard",
-    "awards": [
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Geechee\"}",
-        "title": "Cross Creek",
-        "winner": false,
-        "year": "1983 (56th)"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Alice Krige",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Andy Serkis",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Angela Bassett",
-    "awards": [
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Tina Turner\"}",
-        "title": "What's Love Got to Do with It",
-        "winner": false,
-        "year": "1993 (66th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Angourie Rice",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Anthony Hopkins",
+    "actorName": "Robert Downey Jr.",
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Dr. Hannibal Lecter\"}",
-        "title": "The Silence of the Lambs",
-        "winner": true,
-        "year": "1991 (64th)"
-      },
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Mr. Stevens\"}",
-        "title": "The Remains of the Day",
+        "character": "{\"Charles Chaplin\"}",
+        "title": "Chaplin",
         "winner": false,
-        "year": "1993 (66th)"
-      },
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Richard Nixon\"}",
-        "title": "Nixon",
-        "winner": false,
-        "year": "1995 (68th)"
+        "year": "1992 (65th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"John Quincy Adams\"}",
-        "title": "Amistad",
+        "character": "{\"Kirk Lazarus\"}",
+        "title": "Tropic Thunder",
         "winner": false,
-        "year": "1997 (70th)"
-      }
-    ],
-    "power": 8
-  },
-  {
-    "actorName": "Anthony Mackie",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ashley Hamilton",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ben Kingsley",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Mahatma Gandhi\"}",
-        "title": "Gandhi",
-        "winner": true,
-        "year": "1982 (55th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Meyer Lansky\"}",
-        "title": "Bugsy",
-        "winner": false,
-        "year": "1991 (64th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Don Logan\"}",
-        "title": "Sexy Beast",
-        "winner": false,
-        "year": "2001 (74th)"
-      },
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Behrani\"}",
-        "title": "House of Sand and Fog",
-        "winner": false,
-        "year": "2003 (76th)"
-      }
-    ],
-    "power": 7
-  },
-  {
-    "actorName": "Benedict Cumberbatch",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Alan Turing\"}",
-        "title": "The Imitation Game",
-        "winner": false,
-        "year": "2014 (87th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Benedict Wong",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Benicio del Toro",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Javier Rodriguez\"}",
-        "title": "Traffic",
-        "winner": true,
-        "year": "2000 (73rd)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Jack Jordan\"}",
-        "title": "21 Grams",
-        "winner": false,
-        "year": "2003 (76th)"
+        "year": "2008 (81st)"
       }
     ],
     "power": 3
   },
   {
-    "actorName": "Benjamin Bratt",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Bobby Cannavale",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Bokeem Woodbine",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Bradley Cooper",
+    "actorName": "Terrence Howard",
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Pat\"}",
-        "title": "Silver Linings Playbook",
+        "character": "{\"DJay\"}",
+        "title": "Hustle & Flow",
         "winner": false,
-        "year": "2012 (85th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Richie DiMaso\"}",
-        "title": "American Hustle",
-        "winner": false,
-        "year": "2013 (86th)"
-      },
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Chris Kyle\"}",
-        "title": "American Sniper",
-        "winner": false,
-        "year": "2014 (87th)"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Brie Larson",
-    "awards": [
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Ma\"}",
-        "title": "Room",
-        "winner": true,
-        "year": "2015 (88th)"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Bruno Ricci",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Callan Mulvey",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Cate Blanchett",
-    "awards": [
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Queen Elizabeth I\"}",
-        "title": "Elizabeth",
-        "winner": false,
-        "year": "1998 (71st)"
-      },
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Katharine Hepburn\"}",
-        "title": "The Aviator",
-        "winner": true,
-        "year": "2004 (77th)"
-      },
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Sheba Hart\"}",
-        "title": "Notes on a Scandal",
-        "winner": false,
-        "year": "2006 (79th)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Queen Elizabeth I\"}",
-        "title": "Elizabeth: The Golden Age",
-        "winner": false,
-        "year": "2007 (80th)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Jasmine\"}",
-        "title": "Blue Jasmine",
-        "winner": true,
-        "year": "2013 (86th)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Carol Aird\"}",
-        "title": "Carol",
-        "winner": false,
-        "year": "2015 (88th)"
-      }
-    ],
-    "power": 12
-  },
-  {
-    "actorName": "Chadwick Boseman",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chiwetel Ejiofor",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Solomon Northup\"}",
-        "title": "12 Years a Slave",
-        "winner": false,
-        "year": "2013 (86th)"
+        "year": "2005 (78th)"
       }
     ],
     "power": 2
-  },
-  {
-    "actorName": "Chris Evans",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris Hemsworth",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris O'Dowd",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris Pratt",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris Sullivan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Christopher Eccleston",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Christopher Fairbank",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Clancy Brown",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Clark Gregg",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Claudia Kim",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Clive Russell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Cobie Smulders",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Colm Feore",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Corey Stoll",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Damion Poitier",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Danai Gurira",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Daniel Brühl",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Daniel Kaluuya",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Dave Bautista",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "David Dastmalchian",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Derek Luke",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Djimon Hounsou",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Mateo\"}",
-        "title": "In America",
-        "winner": false,
-        "year": "2003 (76th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Solomon Vandy\"}",
-        "title": "Blood Diamond",
-        "winner": false,
-        "year": "2006 (79th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Dominic Cooper",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Don Cheadle",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Paul Rusesabagina\"}",
-        "title": "Hotel Rwanda",
-        "winner": false,
-        "year": "2004 (77th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Donald Glover",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Edward Norton",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Aaron Stampler\"}",
-        "title": "Primal Fear",
-        "winner": false,
-        "year": "1996 (69th)"
-      },
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Derek\"}",
-        "title": "American History X",
-        "winner": false,
-        "year": "1998 (71st)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Mike\"}",
-        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-        "winner": false,
-        "year": "2014 (87th)"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Elizabeth Debicki",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Elizabeth Olsen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Emily VanCamp",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ethan Dizon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Evan Jones",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Evangeline Lilly",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Faran Tahir",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Florence Kasumba",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Forest Whitaker",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Idi Amin\"}",
-        "title": "The Last King of Scotland",
-        "winner": true,
-        "year": "2006 (79th)"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Frank Grillo",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Garcelle Beauvais",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Garry Shandling",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Georges St-Pierre",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Gerard Sanders",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Glenn Close",
-    "awards": [
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Jenny Fields\"}",
-        "title": "The World According to Garp",
-        "winner": false,
-        "year": "1982 (55th)"
-      },
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Sarah\"}",
-        "title": "The Big Chill",
-        "winner": false,
-        "year": "1983 (56th)"
-      },
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Iris\"}",
-        "title": "The Natural",
-        "winner": false,
-        "year": "1984 (57th)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Alex Forrest\"}",
-        "title": "Fatal Attraction",
-        "winner": false,
-        "year": "1987 (60th)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Marquise de Merteuil\"}",
-        "title": "Dangerous Liaisons",
-        "winner": false,
-        "year": "1988 (61st)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Albert Nobbs\"}",
-        "title": "Albert Nobbs",
-        "winner": false,
-        "year": "2011 (84th)"
-      }
-    ],
-    "power": 9
-  },
-  {
-    "actorName": "Gregg Henry",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Gregg Turkington",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Guy Pearce",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Gwyneth Paltrow",
-    "awards": [
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Viola De Lesseps\"}",
-        "title": "Shakespeare in Love",
-        "winner": true,
-        "year": "1998 (71st)"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Hannah John-Kamen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hannibal Buress",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hayley Atwell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hayley Lovitt",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hemky Madera",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Henry Goodman",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hope Davis",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hugo Weaving",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Idris Elba",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Isabella Amara",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "J.J. Totah",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "JJ Feild",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jacob Batalon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jaimie Alexander",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "James Badge Dale",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "James Spader",
-    "awards": [],
-    "power": 0
   },
   {
     "actorName": "Jeff Bridges",
@@ -782,88 +88,50 @@
     "power": 11
   },
   {
-    "actorName": "Jeff Goldblum",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jennifer Connelly",
+    "actorName": "Gwyneth Paltrow",
     "awards": [
       {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Alicia Nash\"}",
-        "title": "A Beautiful Mind",
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Viola De Lesseps\"}",
+        "title": "Shakespeare in Love",
         "winner": true,
-        "year": "2001 (74th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Jenny Agutter",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jeremy Renner",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Staff Sergeant William James\"}",
-        "title": "The Hurt Locker",
-        "winner": false,
-        "year": "2009 (82nd)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"James Coughlin\"}",
-        "title": "The Town",
-        "winner": false,
-        "year": "2010 (83rd)"
+        "year": "1998 (71st)"
       }
     ],
     "power": 3
   },
   {
-    "actorName": "Jerzy Skolimowski",
+    "actorName": "Leslie Bibb",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Jimmy Urine",
+    "actorName": "Shaun Toub",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Joe Fria",
+    "actorName": "Faran Tahir",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "John C. Reilly",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Amos Hart\"}",
-        "title": "Chicago",
-        "winner": false,
-        "year": "2002 (75th)"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "John Kani",
+    "actorName": "Clark Gregg",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "John Penick",
+    "actorName": "Bill Smitrovich",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "John Slattery",
+    "actorName": "Sayed Badreya",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Bettany",
     "awards": [],
     "power": 0
   },
@@ -873,120 +141,36 @@
     "power": 0
   },
   {
-    "actorName": "Jonathan Howard",
+    "actorName": "Stan Lee",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Jorge Lendeborg Jr.",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Josh Brolin",
+    "actorName": "Edward Norton",
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Dan White\"}",
-        "title": "Milk",
+        "character": "{\"Aaron Stampler\"}",
+        "title": "Primal Fear",
         "winner": false,
-        "year": "2008 (81st)"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Josh Dallas",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Judy Greer",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Karen Gillan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Karl Urban",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kat Dennings",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kenneth Choi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kerry Condon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kurt Russell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Laura Haddock",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Laura Harrier",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Laurence Fishburne",
-    "awards": [
+        "year": "1996 (69th)"
+      },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Ike Turner\"}",
-        "title": "What's Love Got to Do with It",
+        "character": "{\"Derek\"}",
+        "title": "American History X",
         "winner": false,
-        "year": "1993 (66th)"
+        "year": "1998 (71st)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Mike\"}",
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "winner": false,
+        "year": "2014 (87th)"
       }
     ],
-    "power": 2
-  },
-  {
-    "actorName": "Lee Pace",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Leslie Bibb",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Letitia Wright",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Lex Shrapnel",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Linda Cardellini",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Linda Louise Duan",
-    "awards": [],
-    "power": 0
+    "power": 4
   },
   {
     "actorName": "Liv Tyler",
@@ -994,212 +178,102 @@
     "power": 0
   },
   {
-    "actorName": "Logan Marshall-Green",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Lupita Nyong'o",
-    "awards": [
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Patsey\"}",
-        "title": "12 Years a Slave",
-        "winner": true,
-        "year": "2013 (86th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Mads Mikkelsen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Marisa Tomei",
-    "awards": [
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Mona Lisa Vito\"}",
-        "title": "My Cousin Vinny",
-        "winner": true,
-        "year": "1992 (65th)"
-      },
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Natalie Strout\"}",
-        "title": "In the Bedroom",
-        "winner": false,
-        "year": "2001 (74th)"
-      },
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Cassidy\"}",
-        "title": "The Wrestler",
-        "winner": false,
-        "year": "2008 (81st)"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Mark Anthony Brighton",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mark Ruffalo",
+    "actorName": "Tim Roth",
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Paul\"}",
-        "title": "The Kids Are All Right",
+        "character": "{\"Archibald Cunningham\"}",
+        "title": "Rob Roy",
         "winner": false,
-        "year": "2010 (83rd)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"David Schultz\"}",
-        "title": "Foxcatcher",
-        "winner": false,
-        "year": "2014 (87th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Mike Rezendes\"}",
-        "title": "Spotlight",
-        "winner": false,
-        "year": "2015 (88th)"
+        "year": "1995 (68th)"
       }
     ],
-    "power": 3
+    "power": 1
   },
   {
-    "actorName": "Martin Donovan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Martin Freeman",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Martin Starr",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Maximiliano Hernández",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Melia Kreiling",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael B. Jordan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Barbieri",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Brandon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Chernus",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Douglas",
+    "actorName": "William Hurt",
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Gordon Gekko\"}",
-        "title": "Wall Street",
+        "character": "{\"Luis Molina\"}",
+        "title": "Kiss of the Spider Woman",
         "winner": true,
+        "year": "1985 (58th)"
+      },
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"James\"}",
+        "title": "Children of a Lesser God",
+        "winner": false,
+        "year": "1986 (59th)"
+      },
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Tom Grunick\"}",
+        "title": "Broadcast News",
+        "winner": false,
         "year": "1987 (60th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Richie Cusack\"}",
+        "title": "A History of Violence",
+        "winner": false,
+        "year": "2005 (78th)"
       }
     ],
-    "power": 3
+    "power": 8
   },
   {
-    "actorName": "Michael Keaton",
+    "actorName": "Tim Blake Nelson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ty Burrell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Christina Cabot",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Peter Mensah",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lou Ferrigno",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Soles",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Don Cheadle",
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Riggan\"}",
-        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "character": "{\"Paul Rusesabagina\"}",
+        "title": "Hotel Rwanda",
         "winner": false,
-        "year": "2014 (87th)"
+        "year": "2004 (77th)"
       }
     ],
     "power": 2
   },
   {
-    "actorName": "Michael Mando",
+    "actorName": "Scarlett Johansson",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Michael Peña",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Rooker",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Rosenbaum",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Stuhlbarg",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michelle Pfeiffer",
-    "awards": [
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Madame de Tourvel\"}",
-        "title": "Dangerous Liaisons",
-        "winner": false,
-        "year": "1988 (61st)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Susie Diamond\"}",
-        "title": "The Fabulous Baker Boys",
-        "winner": false,
-        "year": "1989 (62nd)"
-      },
-      {
-        "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Lurene Hallett\"}",
-        "title": "Love Field",
-        "winner": false,
-        "year": "1992 (65th)"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Michelle Yeoh",
+    "actorName": "Sam Rockwell",
     "awards": [],
     "power": 0
   },
@@ -1217,22 +291,30 @@
     "power": 2
   },
   {
-    "actorName": "Miguel Ferrer",
+    "actorName": "Samuel L. Jackson",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Jules Winnfield\"}",
+        "title": "Pulp Fiction",
+        "winner": false,
+        "year": "1994 (67th)"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "John Slattery",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Mike Escamilla",
+    "actorName": "Garry Shandling",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Miley Cyrus",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Nabiyah Be",
+    "actorName": "Chris Hemsworth",
     "awards": [],
     "power": 0
   },
@@ -1264,65 +346,61 @@
     "power": 6
   },
   {
-    "actorName": "Neal McDonough",
+    "actorName": "Tom Hiddleston",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Olivia Munn",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ophelia Lovibond",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Paul Bettany",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Paul Rudd",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Peter Serafinowicz",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Pom Klementieff",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Powers Boothe",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Rachel House",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Rachel McAdams",
+    "actorName": "Anthony Hopkins",
     "awards": [
       {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Sacha Pfeiffer\"}",
-        "title": "Spotlight",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Dr. Hannibal Lecter\"}",
+        "title": "The Silence of the Lambs",
+        "winner": true,
+        "year": "1991 (64th)"
+      },
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Mr. Stevens\"}",
+        "title": "The Remains of the Day",
         "winner": false,
-        "year": "2015 (88th)"
+        "year": "1993 (66th)"
+      },
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Richard Nixon\"}",
+        "title": "Nixon",
+        "winner": false,
+        "year": "1995 (68th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"John Quincy Adams\"}",
+        "title": "Amistad",
+        "winner": false,
+        "year": "1997 (70th)"
       }
     ],
-    "power": 1
+    "power": 8
   },
   {
-    "actorName": "Randall Park",
+    "actorName": "Stellan Skarsgård",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Kat Dennings",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Colm Feore",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Idris Elba",
     "awards": [],
     "power": 0
   },
@@ -1332,7 +410,12 @@
     "power": 0
   },
   {
-    "actorName": "Rebecca Hall",
+    "actorName": "Tadanobu Asano",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jaimie Alexander",
     "awards": [],
     "power": 0
   },
@@ -1342,255 +425,22 @@
     "power": 0
   },
   {
-    "actorName": "Richard Armitage",
+    "actorName": "Maximiliano Hernández",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Robert Downey Jr.",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Charles Chaplin\"}",
-        "title": "Chaplin",
-        "winner": false,
-        "year": "1992 (65th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Kirk Lazarus\"}",
-        "title": "Tropic Thunder",
-        "winner": false,
-        "year": "2008 (81st)"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Robert Redford",
-    "awards": [
-      {
-        "category": "ACTOR",
-        "character": "{\"Johnny Hooker\"}",
-        "title": "The Sting",
-        "winner": false,
-        "year": "1973 (46th)"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Sam Rockwell",
+    "actorName": "Chris Evans",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Samuel L. Jackson",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Jules Winnfield\"}",
-        "title": "Pulp Fiction",
-        "winner": false,
-        "year": "1994 (67th)"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Scarlett Johansson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Scott Adkins",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sean Gunn",
+    "actorName": "Hayley Atwell",
     "awards": [],
     "power": 0
   },
   {
     "actorName": "Sebastian Stan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Selenis Leyva",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Seth Green",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Shaun Toub",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Stanley Tucci",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"George Harvey\"}",
-        "title": "The Lovely Bones",
-        "winner": false,
-        "year": "2009 (82nd)"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Stellan Skarsgård",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Stephanie Szostak",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Stephen Blackehart",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sterling K. Brown",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Steve Agee",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sydelle Noel",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sylvester Stallone",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Rocky Balboa\"}",
-        "title": "Rocky",
-        "winner": false,
-        "year": "1976 (49th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Rocky Balboa\"}",
-        "title": "Creed",
-        "winner": false,
-        "year": "2015 (88th)"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Tadanobu Asano",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Taika Waititi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Terence Rosemore",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Terrence Howard",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"DJay\"}",
-        "title": "Hustle & Flow",
-        "winner": false,
-        "year": "2005 (78th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Tessa Thompson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Thomas Kretschmann",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tiffany Espensen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tilda Swinton",
-    "awards": [
-      {
-        "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Karen Crowder\"}",
-        "title": "Michael Clayton",
-        "winner": true,
-        "year": "2007 (80th)"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Tim Blake Nelson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tim Roth",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Archibald Cunningham\"}",
-        "title": "Rob Roy",
-        "winner": false,
-        "year": "1995 (68th)"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "T.I.",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Toby Jones",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tom Hiddleston",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tom Holland",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tommy Flanagan",
     "awards": [],
     "power": 0
   },
@@ -1629,27 +479,146 @@
     "power": 6
   },
   {
-    "actorName": "Tony Curran",
+    "actorName": "Hugo Weaving",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Tony Revolori",
+    "actorName": "Dominic Cooper",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Topo Wresniwiro",
+    "actorName": "Richard Armitage",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Tunde Adebimpe",
+    "actorName": "Stanley Tucci",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"George Harvey\"}",
+        "title": "The Lovely Bones",
+        "winner": false,
+        "year": "2009 (82nd)"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Toby Jones",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Ty Burrell",
+    "actorName": "Kenneth Choi",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Mark Ruffalo",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Paul\"}",
+        "title": "The Kids Are All Right",
+        "winner": false,
+        "year": "2010 (83rd)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"David Schultz\"}",
+        "title": "Foxcatcher",
+        "winner": false,
+        "year": "2014 (87th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Mike Rezendes\"}",
+        "title": "Spotlight",
+        "winner": false,
+        "year": "2015 (88th)"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Jeremy Renner",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Staff Sergeant William James\"}",
+        "title": "The Hurt Locker",
+        "winner": false,
+        "year": "2009 (82nd)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"James Coughlin\"}",
+        "title": "The Town",
+        "winner": false,
+        "year": "2010 (83rd)"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Cobie Smulders",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Guy Pearce",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Rebecca Hall",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ben Kingsley",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Mahatma Gandhi\"}",
+        "title": "Gandhi",
+        "winner": true,
+        "year": "1982 (55th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Meyer Lansky\"}",
+        "title": "Bugsy",
+        "winner": false,
+        "year": "1991 (64th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Don Logan\"}",
+        "title": "Sexy Beast",
+        "winner": false,
+        "year": "2001 (74th)"
+      },
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Behrani\"}",
+        "title": "House of Sand and Fog",
+        "winner": false,
+        "year": "2003 (76th)"
+      }
+    ],
+    "power": 7
+  },
+  {
+    "actorName": "James Badge Dale",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stephanie Szostak",
     "awards": [],
     "power": 0
   },
@@ -1659,81 +628,7 @@
     "power": 0
   },
   {
-    "actorName": "Tyne Daly",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Vin Diesel",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ving Rhames",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Walton Goggins",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Wang Xueqi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "William Hurt",
-    "awards": [
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Luis Molina\"}",
-        "title": "Kiss of the Spider Woman",
-        "winner": true,
-        "year": "1985 (58th)"
-      },
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"James\"}",
-        "title": "Children of a Lesser God",
-        "winner": false,
-        "year": "1986 (59th)"
-      },
-      {
-        "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Tom Grunick\"}",
-        "title": "Broadcast News",
-        "winner": false,
-        "year": "1987 (60th)"
-      },
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Richie Cusack\"}",
-        "title": "A History of Violence",
-        "winner": false,
-        "year": "2005 (78th)"
-      }
-    ],
-    "power": 8
-  },
-  {
-    "actorName": "William Sadler",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Winston Duke",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Wood Harris",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Yevgeni Lazarev",
+    "actorName": "Christopher Eccleston",
     "awards": [],
     "power": 0
   },
@@ -1743,12 +638,603 @@
     "power": 0
   },
   {
-    "actorName": "Zendaya",
+    "actorName": "Robert Redford",
+    "awards": [
+      {
+        "category": "ACTOR",
+        "character": "{\"Johnny Hooker\"}",
+        "title": "The Sting",
+        "winner": false,
+        "year": "1973 (46th)"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Anthony Mackie",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Frank Grillo",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Emily VanCamp",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Pratt",
     "awards": [],
     "power": 0
   },
   {
     "actorName": "Zoe Saldana",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Dave Bautista",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Vin Diesel",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bradley Cooper",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Pat\"}",
+        "title": "Silver Linings Playbook",
+        "winner": false,
+        "year": "2012 (85th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Richie DiMaso\"}",
+        "title": "American Hustle",
+        "winner": false,
+        "year": "2013 (86th)"
+      },
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Chris Kyle\"}",
+        "title": "American Sniper",
+        "winner": false,
+        "year": "2014 (87th)"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Lee Pace",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Rooker",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Karen Gillan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Djimon Hounsou",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Mateo\"}",
+        "title": "In America",
+        "winner": false,
+        "year": "2003 (76th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Solomon Vandy\"}",
+        "title": "Blood Diamond",
+        "winner": false,
+        "year": "2006 (79th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "John C. Reilly",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Amos Hart\"}",
+        "title": "Chicago",
+        "winner": false,
+        "year": "2002 (75th)"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "James Spader",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Aaron Taylor-Johnson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Elizabeth Olsen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Linda Cardellini",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Rudd",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Douglas",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Gordon Gekko\"}",
+        "title": "Wall Street",
+        "winner": true,
+        "year": "1987 (60th)"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Evangeline Lilly",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Corey Stoll",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bobby Cannavale",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Judy Greer",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Abby Ryder Fortson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Peña",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "David Dastmalchian",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "T.I.",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chadwick Boseman",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tom Holland",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Martin Freeman",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Marisa Tomei",
+    "awards": [
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Mona Lisa Vito\"}",
+        "title": "My Cousin Vinny",
+        "winner": true,
+        "year": "1992 (65th)"
+      },
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Natalie Strout\"}",
+        "title": "In the Bedroom",
+        "winner": false,
+        "year": "2001 (74th)"
+      },
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Cassidy\"}",
+        "title": "The Wrestler",
+        "winner": false,
+        "year": "2008 (81st)"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Benedict Cumberbatch",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Alan Turing\"}",
+        "title": "The Imitation Game",
+        "winner": false,
+        "year": "2014 (87th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Chiwetel Ejiofor",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Solomon Northup\"}",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2013 (86th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Rachel McAdams",
+    "awards": [
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Sacha Pfeiffer\"}",
+        "title": "Spotlight",
+        "winner": false,
+        "year": "2015 (88th)"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Mads Mikkelsen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tilda Swinton",
+    "awards": [
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Karen Crowder\"}",
+        "title": "Michael Clayton",
+        "winner": true,
+        "year": "2007 (80th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Michael Stuhlbarg",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Benjamin Bratt",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Scott Adkins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zara Phythian",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Pom Klementieff",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sylvester Stallone",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Rocky Balboa\"}",
+        "title": "Rocky",
+        "winner": false,
+        "year": "1976 (49th)"
+      },
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Rocky Balboa\"}",
+        "title": "Creed",
+        "winner": false,
+        "year": "2015 (88th)"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Kurt Russell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Keaton",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Riggan\"}",
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "winner": false,
+        "year": "2014 (87th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Zendaya",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Donald Glover",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jacob Batalon",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Laura Harrier",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Cate Blanchett",
+    "awards": [
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Queen Elizabeth I\"}",
+        "title": "Elizabeth",
+        "winner": false,
+        "year": "1998 (71st)"
+      },
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Katharine Hepburn\"}",
+        "title": "The Aviator",
+        "winner": true,
+        "year": "2004 (77th)"
+      },
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Sheba Hart\"}",
+        "title": "Notes on a Scandal",
+        "winner": false,
+        "year": "2006 (79th)"
+      },
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Queen Elizabeth I\"}",
+        "title": "Elizabeth: The Golden Age",
+        "winner": false,
+        "year": "2007 (80th)"
+      },
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Jasmine\"}",
+        "title": "Blue Jasmine",
+        "winner": true,
+        "year": "2013 (86th)"
+      },
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Carol Aird\"}",
+        "title": "Carol",
+        "winner": false,
+        "year": "2015 (88th)"
+      }
+    ],
+    "power": 12
+  },
+  {
+    "actorName": "Jeff Goldblum",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tessa Thompson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Karl Urban",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael B. Jordan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lupita Nyong'o",
+    "awards": [
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Patsey\"}",
+        "title": "12 Years a Slave",
+        "winner": true,
+        "year": "2013 (86th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Danai Gurira",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Daniel Kaluuya",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Letitia Wright",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Winston Duke",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sterling K. Brown",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Angela Bassett",
+    "awards": [
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Tina Turner\"}",
+        "title": "What's Love Got to Do with It",
+        "winner": false,
+        "year": "1993 (66th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Josh Brolin",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Dan White\"}",
+        "title": "Milk",
+        "winner": false,
+        "year": "2008 (81st)"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Hannah John-Kamen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michelle Pfeiffer",
+    "awards": [
+      {
+        "category": "ACTRESS IN A SUPPORTING ROLE",
+        "character": "{\"Madame de Tourvel\"}",
+        "title": "Dangerous Liaisons",
+        "winner": false,
+        "year": "1988 (61st)"
+      },
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Susie Diamond\"}",
+        "title": "The Fabulous Baker Boys",
+        "winner": false,
+        "year": "1989 (62nd)"
+      },
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Lurene Hallett\"}",
+        "title": "Love Field",
+        "winner": false,
+        "year": "1992 (65th)"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Walton Goggins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Laurence Fishburne",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Ike Turner\"}",
+        "title": "What's Love Got to Do with It",
+        "winner": false,
+        "year": "1993 (66th)"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Brie Larson",
+    "awards": [
+      {
+        "category": "ACTRESS IN A LEADING ROLE",
+        "character": "{\"Ma\"}",
+        "title": "Room",
+        "winner": true,
+        "year": "2015 (88th)"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Ben Mendelsohn",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jude Law",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Dickie Greenleaf\"}",
+        "title": "The Talented Mr. Ripley",
+        "winner": false,
+        "year": "1999 (72nd)"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "DeWanda Wise",
     "awards": [],
     "power": 0
   }

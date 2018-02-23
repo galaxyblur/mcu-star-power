@@ -1,470 +1,56 @@
 [
   {
-    "actorName": "Aaron Himelstein",
+    "actorName": "Robert Downey Jr.",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Aaron Taylor-Johnson",
+    "actorName": "Terrence Howard",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Abby Ryder Fortson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Abraham Attah",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Adewale Akinnuoye-Agbaje",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Alexis Denisof",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Alfre Woodard",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
-        "title": "Steel Magnolias",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Guest Actress In A Drama Series",
-        "title": "True Blood",
-        "winner": false,
-        "year": "2011"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
-        "title": "Pictures Of Hollis Woods (Hallmark Hall Of Fame Presentation)",
-        "winner": false,
-        "year": "2008"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Comedy Series",
-        "title": "Desperate Housewives",
-        "winner": false,
-        "year": "2006"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
-        "title": "The Water Is Wide (Hallmark Hall Of Fame Presentation)",
-        "winner": false,
-        "year": "2006"
-      },
-      {
-        "category": "Outstanding Guest Actress In A Drama Series",
-        "title": "The Practice",
-        "winner": true,
-        "year": "2003"
-      },
-      {
-        "category": "Outstanding Guest Actress In A Drama Series",
-        "title": "Homicide: Life On The Street",
-        "winner": false,
-        "year": "1998"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR A SPECIAL",
-        "title": "Miss Evers' Boys",
-        "winner": true,
-        "year": "1997"
-      },
-      {
-        "category": "OUTSTANDING SUPPORTING ACTRESS FOR A MINISERIES OR SPECIAL",
-        "title": "Gulliver's Travels",
-        "winner": false,
-        "year": "1996"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR SPECIAL",
-        "title": "The Piano Lesson (Hallmark Hall Of Fame)",
-        "winner": false,
-        "year": "1995"
-      }
-    ],
-    "power": 17
-  },
-  {
-    "actorName": "Alice Krige",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Andy Serkis",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
-        "title": "Little Dorrit (Masterpiece)",
-        "winner": false,
-        "year": "2009"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Angela Bassett",
-    "awards": [
-      {
-        "category": "Outstanding Guest Actress in a Comedy Series",
-        "title": "Master Of None",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Limited Series Or A Movie",
-        "title": "American Horror Story: Freak Show",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
-        "title": "American Horror Story: Coven",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
-        "title": "The Rosa Parks Story",
-        "winner": false,
-        "year": "2002"
-      }
-    ],
-    "power": 6
-  },
-  {
-    "actorName": "Angourie Rice",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Anthony Hopkins",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor in a Drama Series",
-        "title": "Westworld",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "OUTSTANDING SUPPORTING ACTOR IN A MINISERIES OR SPECIAL",
-        "title": "GREAT EXPECTATIONS",
-        "winner": false,
-        "year": "1990"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
-        "title": "The Hunchback of Notre Dame Hallmark Hall of Fame",
-        "winner": false,
-        "year": "1982"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
-        "title": "The Bunker",
-        "winner": true,
-        "year": "1981"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A DRAMA OR COMEDY SPECIAL",
-        "title": "The Lindbergh Kidnapping Case NBC World Premiere M",
-        "winner": true,
-        "year": "1976"
-      }
-    ],
-    "power": 11
-  },
-  {
-    "actorName": "Anthony Mackie",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ashley Hamilton",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ben Kingsley",
+    "actorName": "Jeff Bridges",
     "awards": [
       {
         "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Mrs. Harris",
+        "title": "A Dog Year",
         "winner": false,
-        "year": "2006"
-      },
-      {
-        "category": "Outstanding Makeup For A Miniseries Movie Or A Special",
-        "title": "Mrs. Harris",
-        "winner": false,
-        "year": "2006"
-      },
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Anne Frank",
-        "winner": false,
-        "year": "2001"
-      },
-      {
-        "category": "OUTSTANDING SUPPORTING ACTOR IN A MINISERIES OR SPECIAL",
-        "title": "Joseph",
-        "winner": false,
-        "year": "1995"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
-        "title": "MURDERERS AMONG US: THE SIMON WIESENTHAL STORY",
-        "winner": false,
-        "year": "1989"
-      }
-    ],
-    "power": 9
-  },
-  {
-    "actorName": "Benedict Cumberbatch",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor in a Limited Series or Movie",
-        "title": "Sherlock: The Lying Detective (Masterpiece)",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
-        "title": "Sherlock: The Abominable Bride (Masterpiece)",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Sherlock: His Last Vow (Masterpiece)",
-        "winner": true,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Parade's End",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Sherlock: A Scandal In Belgravia (Masterpiece)",
-        "winner": false,
-        "year": "2012"
-      }
-    ],
-    "power": 11
-  },
-  {
-    "actorName": "Benedict Wong",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Benicio del Toro",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Benjamin Bratt",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Law & Order",
-        "winner": false,
-        "year": "1999"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Bobby Cannavale",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Boardwalk Empire",
-        "winner": true,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Comedy Series",
-        "title": "Nurse Jackie",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Comedy Series",
-        "title": "Nurse Jackie",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Comedy Series",
-        "title": "Will & Grace",
-        "winner": true,
-        "year": "2005"
-      }
-    ],
-    "power": 9
-  },
-  {
-    "actorName": "Bokeem Woodbine",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor In A Limited Series Or Movie",
-        "title": "Fargo",
-        "winner": false,
-        "year": "2016"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Bradley Cooper",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Brie Larson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Bruno Ricci",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Callan Mulvey",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Cate Blanchett",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chadwick Boseman",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chiwetel Ejiofor",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Dancing On The Edge",
-        "winner": false,
-        "year": "2014"
+        "year": "2010"
       }
     ],
     "power": 2
   },
   {
-    "actorName": "Chris Evans",
+    "actorName": "Gwyneth Paltrow",
     "awards": [
       {
-        "category": "Outstanding Sound Mixing For Nonfiction Programming",
-        "title": "The Beatles: Eight Days A Week - The Touring Years",
+        "category": "Outstanding Informational Series Or Special",
+        "title": "Stand Up To Cancer",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Guest Actress In A Comedy Series",
+        "title": "Glee",
         "winner": true,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Documentary Or Nonfiction Series",
-        "title": "Dinner For Five",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Picture Editing For Nonfiction Programming",
-        "title": "The Amazing Race",
-        "winner": true,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Sound Editing For Non Fiction Programming",
-        "title": "The Amazing Race",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Special Visual Effects",
-        "title": "The Ewok Adventure",
-        "winner": true,
-        "year": "1985"
-      }
-    ],
-    "power": 13
-  },
-  {
-    "actorName": "Chris Hemsworth",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris O'Dowd",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris Pratt",
-    "awards": [
-      {
-        "category": "Outstanding Drama Series",
-        "title": "QUANTUM LEAP",
-        "winner": false,
-        "year": "1992"
-      },
-      {
-        "category": "Outstanding Drama Series",
-        "title": "QUANTUM LEAP",
-        "winner": false,
-        "year": "1991"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Chris Sullivan",
-    "awards": [
-      {
-        "category": "Outstanding Special Visual Effects For A Miniseries Movie Or A Special",
-        "title": "The Pacific",
-        "winner": true,
-        "year": "2010"
-      },
-      {
-        "category": "Outstanding Writing For A Variety Series",
-        "title": "The Chris Rock Show",
-        "winner": false,
-        "year": "2000"
+        "year": "2011"
       }
     ],
     "power": 5
   },
   {
-    "actorName": "Christopher Eccleston",
+    "actorName": "Leslie Bibb",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Christopher Fairbank",
+    "actorName": "Shaun Toub",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Clancy Brown",
+    "actorName": "Faran Tahir",
     "awards": [],
     "power": 0
   },
@@ -474,98 +60,172 @@
     "power": 0
   },
   {
-    "actorName": "Claudia Kim",
+    "actorName": "Bill Smitrovich",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sayed Badreya",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Bettany",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jon Favreau",
     "awards": [
       {
-        "category": "Outstanding Writing For A Variety Series",
-        "title": "Inside Amy Schumer",
+        "category": "Outstanding Documentary Or Nonfiction Series",
+        "title": "Dinner For Five",
         "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Animated Program",
-        "title": "Star Wars Clone Wars Vol. 2 (Chapters 21-25)",
-        "winner": true,
         "year": "2005"
       }
     ],
-    "power": 5
+    "power": 2
   },
   {
-    "actorName": "Clive Russell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Cobie Smulders",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Colm Feore",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Corey Stoll",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Damion Poitier",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Danai Gurira",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Daniel Brühl",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Daniel Kaluuya",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Dave Bautista",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "David Dastmalchian",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Derek Luke",
+    "actorName": "Stan Lee",
     "awards": [
       {
-        "category": "Outstanding Cinematography For Reality Programming",
-        "title": "Survivor",
+        "category": "Outstanding Short format Animated Program",
+        "title": "Marvel's Rocket & Groot",
         "winner": false,
         "year": "2017"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Edward Norton",
+    "awards": [
+      {
+        "category": "Outstanding Documentary Or Nonfiction Special",
+        "title": "By The People: The Election Of Barack Obama",
+        "winner": false,
+        "year": "2010"
       },
       {
-        "category": "Outstanding Cinematography For Reality Programming",
-        "title": "Survivor",
+        "category": "Outstanding Animated Program",
+        "title": "Faeries",
         "winner": false,
-        "year": "2016"
+        "year": "1981"
       }
     ],
     "power": 4
   },
   {
-    "actorName": "Djimon Hounsou",
+    "actorName": "Liv Tyler",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Dominic Cooper",
+    "actorName": "Tim Roth",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "William Hurt",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Too Big To Fail",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Damages",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Tim Blake Nelson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ty Burrell",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor in a Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Actor in a Short Form Comedy or Drama Series",
+        "title": "Boondoggle",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Comedy Series",
+        "title": "Modern Family",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 12
+  },
+  {
+    "actorName": "Christina Cabot",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Peter Mensah",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lou Ferrigno",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Soles",
     "awards": [],
     "power": 0
   },
@@ -624,133 +284,61 @@
     "power": 14
   },
   {
-    "actorName": "Donald Glover",
-    "awards": [
-      {
-        "category": "Outstanding Writing for a Comedy Series",
-        "title": "Atlanta",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Comedy Series",
-        "title": "Atlanta",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Directing For A Comedy Series",
-        "title": "Atlanta",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Lead Actor in a Comedy Series",
-        "title": "Atlanta",
-        "winner": true,
-        "year": "2017"
-      }
-    ],
-    "power": 10
+    "actorName": "Scarlett Johansson",
+    "awards": [],
+    "power": 0
   },
   {
-    "actorName": "Edward Norton",
+    "actorName": "Sam Rockwell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Mickey Rourke",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Samuel L. Jackson",
     "awards": [
       {
-        "category": "Outstanding Documentary Or Nonfiction Special",
-        "title": "By The People: The Election Of Barack Obama",
+        "category": "Outstanding Animated Program",
+        "title": "Afro Samurai: Resurrection",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "John Slattery",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
         "winner": false,
         "year": "2010"
       },
       {
-        "category": "Outstanding Animated Program",
-        "title": "Faeries",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
         "winner": false,
-        "year": "1981"
+        "year": "2009"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Mad Men",
+        "winner": false,
+        "year": "2008"
       }
     ],
     "power": 4
-  },
-  {
-    "actorName": "Elizabeth Debicki",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Elizabeth Olsen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Emily VanCamp",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ethan Dizon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Evan Jones",
-    "awards": [
-      {
-        "category": "Outstanding Sound Editing For A Miniseries Movie Or A Special",
-        "title": "Stephen King's The Shining",
-        "winner": true,
-        "year": "1997"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Evangeline Lilly",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Faran Tahir",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Florence Kasumba",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Forest Whitaker",
-    "awards": [
-      {
-        "category": "Exceptional Merit In Documentary Filmmaking",
-        "title": "Brick City",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Drama Series",
-        "title": "ER",
-        "winner": false,
-        "year": "2007"
-      },
-      {
-        "category": "Outstanding Made For Television Movie",
-        "title": "Door To Door",
-        "winner": true,
-        "year": "2003"
-      }
-    ],
-    "power": 7
-  },
-  {
-    "actorName": "Frank Grillo",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Garcelle Beauvais",
-    "awards": [],
-    "power": 0
   },
   {
     "actorName": "Garry Shandling",
@@ -819,191 +407,81 @@
     "power": 21
   },
   {
-    "actorName": "Georges St-Pierre",
+    "actorName": "Chris Hemsworth",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Gerard Sanders",
+    "actorName": "Natalie Portman",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Glenn Close",
+    "actorName": "Tom Hiddleston",
     "awards": [
       {
-        "category": "Outstanding Lead Actress In A Drama Series",
-        "title": "Damages",
+        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
+        "title": "The Night Manager",
         "winner": false,
-        "year": "2012"
+        "year": "2016"
       },
       {
-        "category": "Outstanding Lead Actress In A Drama Series",
-        "title": "Damages",
+        "category": "Outstanding Miniseries",
+        "title": "The Night Manager",
         "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Drama Series",
-        "title": "Damages",
-        "winner": true,
-        "year": "2009"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Drama Series",
-        "title": "Damages",
-        "winner": true,
-        "year": "2008"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Drama Series",
-        "title": "The Shield",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
-        "title": "The Lion In Winter",
-        "winner": false,
-        "year": "2004"
-      },
-      {
-        "category": "Outstanding Guest Actress In A Comedy Series",
-        "title": "Will & Grace",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR A SPECIAL",
-        "title": "In The Gloaming",
-        "winner": false,
-        "year": "1997"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTRESS IN A MINISERIES OR SPECIAL",
-        "title": "Serving In Silence: The Margarethe Cammermeyer St",
-        "winner": true,
-        "year": "1995"
-      },
-      {
-        "category": "Outstanding Made For Television Movie",
-        "title": "Serving In Silence: The Margarethe Cammermeyer St",
-        "winner": false,
-        "year": "1995"
-      }
-    ],
-    "power": 23
-  },
-  {
-    "actorName": "Gregg Henry",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Gregg Turkington",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Guy Pearce",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
-        "title": "Mildred Pierce",
-        "winner": true,
-        "year": "2011"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Gwyneth Paltrow",
-    "awards": [
-      {
-        "category": "Outstanding Informational Series Or Special",
-        "title": "Stand Up To Cancer",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Guest Actress In A Comedy Series",
-        "title": "Glee",
-        "winner": true,
-        "year": "2011"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Hannah John-Kamen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hannibal Buress",
-    "awards": [
-      {
-        "category": "Outstanding Writing For A Variety Series",
-        "title": "Saturday Night Live",
-        "winner": false,
-        "year": "2010"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Hayley Atwell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hayley Lovitt",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hemky Madera",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Henry Goodman",
-    "awards": [
-      {
-        "category": "Outstanding Comedy Series",
-        "title": "Family Guy",
-        "winner": false,
-        "year": "2009"
-      },
-      {
-        "category": "Outstanding Animated Program",
-        "title": "Blue Harvest (Family Guy)",
-        "winner": false,
-        "year": "2008"
+        "year": "2016"
       }
     ],
     "power": 4
   },
   {
-    "actorName": "Hope Davis",
+    "actorName": "Anthony Hopkins",
     "awards": [
       {
-        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
-        "title": "The Special Relationship",
+        "category": "Outstanding Lead Actor in a Drama Series",
+        "title": "Westworld",
         "winner": false,
-        "year": "2010"
+        "year": "2017"
       },
       {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "In Treatment",
+        "category": "OUTSTANDING SUPPORTING ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "GREAT EXPECTATIONS",
         "winner": false,
-        "year": "2009"
+        "year": "1990"
+      },
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "The Hunchback of Notre Dame Hallmark Hall of Fame",
+        "winner": false,
+        "year": "1982"
+      },
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "The Bunker",
+        "winner": true,
+        "year": "1981"
+      },
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A DRAMA OR COMEDY SPECIAL",
+        "title": "The Lindbergh Kidnapping Case NBC World Premiere M",
+        "winner": true,
+        "year": "1976"
       }
     ],
-    "power": 3
+    "power": 11
   },
   {
-    "actorName": "Hugo Weaving",
+    "actorName": "Stellan Skarsgård",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Kat Dennings",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Colm Feore",
     "awards": [],
     "power": 0
   },
@@ -1044,22 +522,12 @@
     "power": 10
   },
   {
-    "actorName": "Isabella Amara",
+    "actorName": "Ray Stevenson",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "J.J. Totah",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "JJ Feild",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jacob Batalon",
+    "actorName": "Tadanobu Asano",
     "awards": [],
     "power": 0
   },
@@ -1069,9 +537,405 @@
     "power": 0
   },
   {
+    "actorName": "Rene Russo",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Maximiliano Hernández",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Evans",
+    "awards": [
+      {
+        "category": "Outstanding Sound Mixing For Nonfiction Programming",
+        "title": "The Beatles: Eight Days A Week - The Touring Years",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Documentary Or Nonfiction Series",
+        "title": "Dinner For Five",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "category": "Outstanding Picture Editing For Nonfiction Programming",
+        "title": "The Amazing Race",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "category": "Outstanding Sound Editing For Non Fiction Programming",
+        "title": "The Amazing Race",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "category": "Outstanding Special Visual Effects",
+        "title": "The Ewok Adventure",
+        "winner": true,
+        "year": "1985"
+      }
+    ],
+    "power": 13
+  },
+  {
+    "actorName": "Hayley Atwell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sebastian Stan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tommy Lee Jones",
+    "awards": [
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "LONESOME DOVE",
+        "winner": false,
+        "year": "1989"
+      },
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "The Executioner's Song",
+        "winner": true,
+        "year": "1983"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Hugo Weaving",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Dominic Cooper",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Richard Armitage",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stanley Tucci",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor in a Limited Series or Movie",
+        "title": "FEUD: Bette And Joan",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Short Form Variety Series",
+        "title": "Park Bench With Steve Buscemi",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "category": "Outstanding Special Class Short format Nonfiction Programs",
+        "title": "Park Bench With Steve Buscemi",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "ER",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Monk",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Conspiracy",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR MOVIE",
+        "title": "Winchell",
+        "winner": true,
+        "year": "1999"
+      },
+      {
+        "category": "OUTSTANDING SUPPORTING ACTOR FOR A DRAMA SERIES",
+        "title": "Murder One",
+        "winner": false,
+        "year": "1996"
+      }
+    ],
+    "power": 16
+  },
+  {
+    "actorName": "Toby Jones",
+    "awards": [
+      {
+        "category": "Outstanding Short format Animated Program",
+        "title": "Regular Show",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "The Girl",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Makeup For A Series",
+        "title": "Star Trek: Deep Space Nine",
+        "winner": false,
+        "year": "1999"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "Kenneth Choi",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Mark Ruffalo",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "The Normal Heart",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Made For Television Movie",
+        "title": "The Normal Heart",
+        "winner": true,
+        "year": "2014"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Jeremy Renner",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Cobie Smulders",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Guy Pearce",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Mildred Pierce",
+        "winner": true,
+        "year": "2011"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Rebecca Hall",
+    "awards": [
+      {
+        "category": "Outstanding Miniseries",
+        "title": "Wolf Hall",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
+        "title": "Back When We Were Grownups (Hallmark Hall Of Fame)",
+        "winner": false,
+        "year": "2005"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Ben Kingsley",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Mrs. Harris",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "category": "Outstanding Makeup For A Miniseries Movie Or A Special",
+        "title": "Mrs. Harris",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Anne Frank",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "category": "OUTSTANDING SUPPORTING ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "Joseph",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "MURDERERS AMONG US: THE SIMON WIESENTHAL STORY",
+        "winner": false,
+        "year": "1989"
+      }
+    ],
+    "power": 9
+  },
+  {
     "actorName": "James Badge Dale",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Stephanie Szostak",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ty Simpkins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Christopher Eccleston",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zachary Levi",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Robert Redford",
+    "awards": [
+      {
+        "category": "Outstanding Documentary Or Nonfiction Special",
+        "title": "All The President's Men Revisited",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "OUTSTANDING PERFORMANCE IN A SUPPORTING ROLE BY AN ACTOR",
+        "title": "Premiere, Presented by Fred Astaire",
+        "winner": false,
+        "year": "1963"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Anthony Mackie",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Frank Grillo",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Emily VanCamp",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Pratt",
+    "awards": [
+      {
+        "category": "Outstanding Drama Series",
+        "title": "QUANTUM LEAP",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "category": "Outstanding Drama Series",
+        "title": "QUANTUM LEAP",
+        "winner": false,
+        "year": "1991"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Zoe Saldana",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Dave Bautista",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Vin Diesel",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bradley Cooper",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lee Pace",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Comedy Series",
+        "title": "Pushing Daisies",
+        "winner": false,
+        "year": "2008"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Michael Rooker",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Karen Gillan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Djimon Hounsou",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "John C. Reilly",
+    "awards": [
+      {
+        "category": "Outstanding Achievement In Any Area Of Creative Technical Crafts",
+        "title": "Cosmos",
+        "winner": true,
+        "year": "1981"
+      }
+    ],
+    "power": 3
   },
   {
     "actorName": "James Spader",
@@ -1104,329 +968,12 @@
     "power": 11
   },
   {
-    "actorName": "Jeff Bridges",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "A Dog Year",
-        "winner": false,
-        "year": "2010"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Jeff Goldblum",
-    "awards": [
-      {
-        "category": "Outstanding Guest Actor In A Comedy Series",
-        "title": "Will & Grace",
-        "winner": false,
-        "year": "2005"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Jennifer Connelly",
+    "actorName": "Aaron Taylor-Johnson",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Jenny Agutter",
-    "awards": [
-      {
-        "category": "Outstanding Performance by an Actress in a Supporting Role in Drama",
-        "title": "The Snow Goose Hallmark Hall of Fame",
-        "winner": true,
-        "year": "1972"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Jeremy Renner",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jerzy Skolimowski",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jimmy Urine",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Joe Fria",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "John C. Reilly",
-    "awards": [
-      {
-        "category": "Outstanding Achievement In Any Area Of Creative Technical Crafts",
-        "title": "Cosmos",
-        "winner": true,
-        "year": "1981"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "John Kani",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "John Penick",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "John Slattery",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Mad Men",
-        "winner": false,
-        "year": "2011"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Mad Men",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Mad Men",
-        "winner": false,
-        "year": "2009"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Mad Men",
-        "winner": false,
-        "year": "2008"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Jon Favreau",
-    "awards": [
-      {
-        "category": "Outstanding Documentary Or Nonfiction Series",
-        "title": "Dinner For Five",
-        "winner": false,
-        "year": "2005"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Jonathan Howard",
-    "awards": [
-      {
-        "category": "Outstanding Documentary Or Nonfiction Special",
-        "title": "The Beatles: Eight Days A Week - The Touring Years",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Sound Editing For A Miniseries Movie Or A Special",
-        "title": "Sherlock: The Abominable Bride (Masterpiece)",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "King Of The Hill",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "King Of The Hill",
-        "winner": false,
-        "year": "2001"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "King Of The Hill",
-        "winner": true,
-        "year": "1999"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "King Of The Hill",
-        "winner": false,
-        "year": "1998"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "King Of The Hill",
-        "winner": false,
-        "year": "1997"
-      }
-    ],
-    "power": 15
-  },
-  {
-    "actorName": "Jorge Lendeborg Jr.",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Josh Brolin",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Josh Dallas",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Judy Greer",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Karen Gillan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Karl Urban",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kat Dennings",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kenneth Choi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kerry Condon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kurt Russell",
-    "awards": [
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
-        "title": "Elvis",
-        "winner": false,
-        "year": "1979"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Laura Haddock",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Laura Harrier",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Laurence Fishburne",
-    "awards": [
-      {
-        "category": "Outstanding Narrator",
-        "title": "Year Million",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Comedy Series",
-        "title": "black-ish",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Comedy Series",
-        "title": "black-ish",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Narrator",
-        "title": "Roots",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Thurgood",
-        "winner": false,
-        "year": "2011"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
-        "title": "Miss Evers' Boys",
-        "winner": false,
-        "year": "1997"
-      },
-      {
-        "category": "Outstanding Made For Television Movie",
-        "title": "Miss Evers' Boys",
-        "winner": true,
-        "year": "1997"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR FOR A MINISERIES OR SPECIAL",
-        "title": "Tuskegee Airmen",
-        "winner": false,
-        "year": "1996"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Drama Series",
-        "title": "TRIBECA",
-        "winner": true,
-        "year": "1993"
-      }
-    ],
-    "power": 20
-  },
-  {
-    "actorName": "Lee Pace",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor In A Comedy Series",
-        "title": "Pushing Daisies",
-        "winner": false,
-        "year": "2008"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Leslie Bibb",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Letitia Wright",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Lex Shrapnel",
+    "actorName": "Elizabeth Olsen",
     "awards": [],
     "power": 0
   },
@@ -1443,144 +990,7 @@
     "power": 2
   },
   {
-    "actorName": "Linda Louise Duan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Liv Tyler",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Logan Marshall-Green",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Lupita Nyong'o",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mads Mikkelsen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Marisa Tomei",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mark Anthony Brighton",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mark Ruffalo",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "The Normal Heart",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Made For Television Movie",
-        "title": "The Normal Heart",
-        "winner": true,
-        "year": "2014"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Martin Donovan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Martin Freeman",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Fargo",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
-        "title": "Sherlock: His Last Vow (Masterpiece)",
-        "winner": true,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
-        "title": "Sherlock: A Scandal In Belgravia (Masterpiece)",
-        "winner": false,
-        "year": "2012"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Martin Starr",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Maximiliano Hernández",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Melia Kreiling",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael B. Jordan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Barbieri",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Brandon",
-    "awards": [
-      {
-        "category": "Outstanding Structured Reality Program",
-        "title": "Shark Tank",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Structured Reality Program",
-        "title": "Shark Tank",
-        "winner": true,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Structured Reality Program",
-        "title": "Shark Tank",
-        "winner": true,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Animated Program",
-        "title": "Teenage Mutant Ninja Turtles: The Manhattan Project",
-        "winner": false,
-        "year": "2014"
-      }
-    ],
-    "power": 11
-  },
-  {
-    "actorName": "Michael Chernus",
+    "actorName": "Paul Rudd",
     "awards": [],
     "power": 0
   },
@@ -1651,6 +1061,235 @@
     "power": 22
   },
   {
+    "actorName": "Evangeline Lilly",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Corey Stoll",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bobby Cannavale",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Boardwalk Empire",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Nurse Jackie",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Nurse Jackie",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Will & Grace",
+        "winner": true,
+        "year": "2005"
+      }
+    ],
+    "power": 9
+  },
+  {
+    "actorName": "Judy Greer",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Abby Ryder Fortson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Peña",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "David Dastmalchian",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "T.I.",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chadwick Boseman",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tom Holland",
+    "awards": [
+      {
+        "category": "Outstanding Special Class Short format Nonfiction Programs",
+        "title": "Parks And Recreation: Behind The Final Season",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
+        "title": "The 66th Annual Academy Awards",
+        "winner": true,
+        "year": "1994"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Martin Freeman",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Fargo",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: His Last Vow (Masterpiece)",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: A Scandal In Belgravia (Masterpiece)",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Marisa Tomei",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Benedict Cumberbatch",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor in a Limited Series or Movie",
+        "title": "Sherlock: The Lying Detective (Masterpiece)",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
+        "title": "Sherlock: The Abominable Bride (Masterpiece)",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: His Last Vow (Masterpiece)",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Parade's End",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Sherlock: A Scandal In Belgravia (Masterpiece)",
+        "winner": false,
+        "year": "2012"
+      }
+    ],
+    "power": 11
+  },
+  {
+    "actorName": "Chiwetel Ejiofor",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Dancing On The Edge",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Rachel McAdams",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Mads Mikkelsen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tilda Swinton",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Stuhlbarg",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Benjamin Bratt",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Law & Order",
+        "winner": false,
+        "year": "1999"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Scott Adkins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zara Phythian",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Pom Klementieff",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sylvester Stallone",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Kurt Russell",
+    "awards": [
+      {
+        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
+        "title": "Elvis",
+        "winner": false,
+        "year": "1979"
+      }
+    ],
+    "power": 2
+  },
+  {
     "actorName": "Michael Keaton",
     "awards": [
       {
@@ -1675,401 +1314,104 @@
     "power": 6
   },
   {
-    "actorName": "Michael Mando",
+    "actorName": "Zendaya",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Michael Peña",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Rooker",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Rosenbaum",
+    "actorName": "Donald Glover",
     "awards": [
       {
-        "category": "Outstanding Informational Series",
-        "title": "A&E Biography",
-        "winner": false,
-        "year": "1996"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Michael Stuhlbarg",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michelle Pfeiffer",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actress in a Limited Series or Movie",
-        "title": "The Wizard Of Lies",
+        "category": "Outstanding Writing for a Comedy Series",
+        "title": "Atlanta",
         "winner": false,
         "year": "2017"
       },
       {
-        "category": "Outstanding Informational Special",
-        "title": "THE BARBARA WALTERS SPECIAL WITH MICHELLE PFEIFFER",
+        "category": "Outstanding Comedy Series",
+        "title": "Atlanta",
         "winner": false,
-        "year": "1992"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Michelle Yeoh",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mickey Rourke",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Miguel Ferrer",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mike Escamilla",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Miley Cyrus",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Nabiyah Be",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Natalie Portman",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Neal McDonough",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Olivia Munn",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ophelia Lovibond",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Paul Bettany",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Paul Rudd",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Peter Serafinowicz",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Pom Klementieff",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Powers Boothe",
-    "awards": [
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
-        "title": "Guyana Tragedy: The Story of Jim Jones",
-        "winner": true,
-        "year": "1980"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Rachel House",
-    "awards": [
-      {
-        "category": "Outstanding Guest Actress In A Drama Series",
-        "title": "House Of Cards",
-        "winner": false,
-        "year": "2015"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Rachel McAdams",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Randall Park",
-    "awards": [
-      {
-        "category": "Outstanding Variety Music Or Comedy Special",
-        "title": "Garth Live From Central Park",
-        "winner": false,
-        "year": "1998"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Ray Stevenson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Rebecca Hall",
-    "awards": [
-      {
-        "category": "Outstanding Miniseries",
-        "title": "Wolf Hall",
-        "winner": false,
-        "year": "2015"
+        "year": "2017"
       },
       {
-        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
-        "title": "Back When We Were Grownups (Hallmark Hall Of Fame)",
+        "category": "Outstanding Directing For A Comedy Series",
+        "title": "Atlanta",
+        "winner": true,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Lead Actor in a Comedy Series",
+        "title": "Atlanta",
+        "winner": true,
+        "year": "2017"
+      }
+    ],
+    "power": 10
+  },
+  {
+    "actorName": "Jacob Batalon",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Laura Harrier",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Cate Blanchett",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jeff Goldblum",
+    "awards": [
+      {
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Will & Grace",
         "winner": false,
         "year": "2005"
       }
     ],
-    "power": 4
-  },
-  {
-    "actorName": "Rene Russo",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Richard Armitage",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Robert Downey Jr.",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Robert Redford",
-    "awards": [
-      {
-        "category": "Outstanding Documentary Or Nonfiction Special",
-        "title": "All The President's Men Revisited",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "OUTSTANDING PERFORMANCE IN A SUPPORTING ROLE BY AN ACTOR",
-        "title": "Premiere, Presented by Fred Astaire",
-        "winner": false,
-        "year": "1963"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Sam Rockwell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Samuel L. Jackson",
-    "awards": [
-      {
-        "category": "Outstanding Animated Program",
-        "title": "Afro Samurai: Resurrection",
-        "winner": false,
-        "year": "2009"
-      }
-    ],
     "power": 2
   },
   {
-    "actorName": "Scarlett Johansson",
+    "actorName": "Tessa Thompson",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Scott Adkins",
+    "actorName": "Karl Urban",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Sean Gunn",
+    "actorName": "Michael B. Jordan",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Sebastian Stan",
+    "actorName": "Lupita Nyong'o",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Selenis Leyva",
+    "actorName": "Danai Gurira",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Seth Green",
-    "awards": [
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "Robot Chicken",
-        "winner": true,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Writing For A Variety Series",
-        "title": "Saturday Night Live",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Special Class Short format Animated Programs",
-        "title": "Robot Chicken",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Voice Over Performance",
-        "title": "Robot Chicken",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "Robot Chicken",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Character Voice-Over Performance",
-        "title": "Robot Chicken DC Comics Special II: Villains In Paradise",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "Robot Chicken",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Voice-Over Performance",
-        "title": "Robot Chicken DC Comics Special",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Short format Animated Program",
-        "title": "Robot Chicken",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "Outstanding Animated Program",
-        "title": "The Cleveland Show",
-        "winner": false,
-        "year": "2011"
-      }
-    ],
-    "power": 21
-  },
-  {
-    "actorName": "Shaun Toub",
+    "actorName": "Daniel Kaluuya",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Stanley Tucci",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor in a Limited Series or Movie",
-        "title": "FEUD: Bette And Joan",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Short Form Variety Series",
-        "title": "Park Bench With Steve Buscemi",
-        "winner": true,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Special Class Short format Nonfiction Programs",
-        "title": "Park Bench With Steve Buscemi",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Drama Series",
-        "title": "ER",
-        "winner": false,
-        "year": "2008"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Comedy Series",
-        "title": "Monk",
-        "winner": true,
-        "year": "2007"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
-        "title": "Conspiracy",
-        "winner": false,
-        "year": "2001"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR MOVIE",
-        "title": "Winchell",
-        "winner": true,
-        "year": "1999"
-      },
-      {
-        "category": "OUTSTANDING SUPPORTING ACTOR FOR A DRAMA SERIES",
-        "title": "Murder One",
-        "winner": false,
-        "year": "1996"
-      }
-    ],
-    "power": 16
-  },
-  {
-    "actorName": "Stellan Skarsgård",
+    "actorName": "Letitia Wright",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Stephanie Szostak",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Stephen Blackehart",
+    "actorName": "Winston Duke",
     "awards": [],
     "power": 0
   },
@@ -2092,325 +1434,62 @@
     "power": 5
   },
   {
-    "actorName": "Steve Agee",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sydelle Noel",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sylvester Stallone",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tadanobu Asano",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Taika Waititi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Terence Rosemore",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Terrence Howard",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tessa Thompson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Thomas Kretschmann",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tiffany Espensen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tilda Swinton",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tim Blake Nelson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tim Roth",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "T.I.",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Toby Jones",
+    "actorName": "Angela Bassett",
     "awards": [
       {
-        "category": "Outstanding Short format Animated Program",
-        "title": "Regular Show",
+        "category": "Outstanding Guest Actress in a Comedy Series",
+        "title": "Master Of None",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Supporting Actress In A Limited Series Or A Movie",
+        "title": "American Horror Story: Freak Show",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "Outstanding Supporting Actress In A Miniseries Or A Movie",
+        "title": "American Horror Story: Coven",
         "winner": false,
         "year": "2014"
       },
       {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "The Girl",
+        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
+        "title": "The Rosa Parks Story",
         "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Makeup For A Series",
-        "title": "Star Trek: Deep Space Nine",
-        "winner": false,
-        "year": "1999"
+        "year": "2002"
       }
     ],
     "power": 6
   },
   {
-    "actorName": "Tom Hiddleston",
+    "actorName": "Josh Brolin",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Hannah John-Kamen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michelle Pfeiffer",
     "awards": [
       {
-        "category": "Outstanding Lead Actor In A Limited Series Or Movie",
-        "title": "The Night Manager",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Miniseries",
-        "title": "The Night Manager",
-        "winner": false,
-        "year": "2016"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Tom Holland",
-    "awards": [
-      {
-        "category": "Outstanding Special Class Short format Nonfiction Programs",
-        "title": "Parks And Recreation: Behind The Final Season",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
-        "title": "The 66th Annual Academy Awards",
-        "winner": true,
-        "year": "1994"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Tommy Flanagan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tommy Lee Jones",
-    "awards": [
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
-        "title": "LONESOME DOVE",
-        "winner": false,
-        "year": "1989"
-      },
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A LIMITED SERIES OR A SPECIAL",
-        "title": "The Executioner's Song",
-        "winner": true,
-        "year": "1983"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Tony Curran",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tony Revolori",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Topo Wresniwiro",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tunde Adebimpe",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ty Burrell",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor in a Comedy Series",
-        "title": "Modern Family",
+        "category": "Outstanding Supporting Actress in a Limited Series or Movie",
+        "title": "The Wizard Of Lies",
         "winner": false,
         "year": "2017"
       },
       {
-        "category": "Outstanding Actor in a Short Form Comedy or Drama Series",
-        "title": "Boondoggle",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Comedy Series",
-        "title": "Modern Family",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Comedy Series",
-        "title": "Modern Family",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Comedy Series",
-        "title": "Modern Family",
-        "winner": true,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Comedy Series",
-        "title": "Modern Family",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Comedy Series",
-        "title": "Modern Family",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Comedy Series",
-        "title": "Modern Family",
-        "winner": true,
-        "year": "2011"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Comedy Series",
-        "title": "Modern Family",
-        "winner": false,
-        "year": "2010"
-      }
-    ],
-    "power": 12
-  },
-  {
-    "actorName": "Ty Simpkins",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tyne Daly",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "Judging Amy",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "Judging Amy",
-        "winner": false,
-        "year": "2004"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "Judging Amy",
-        "winner": true,
-        "year": "2003"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "Judging Amy",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "Judging Amy",
-        "winner": false,
-        "year": "2001"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "Judging Amy",
-        "winner": false,
-        "year": "2000"
-      },
-      {
-        "category": "OUTSTANDING SUPPORTING ACTRESS FOR A DRAMA SERIES",
-        "title": "Christy",
-        "winner": true,
-        "year": "1996"
-      },
-      {
-        "category": "Outstanding Supporting Actress In A Drama Series",
-        "title": "Christy",
-        "winner": false,
-        "year": "1995"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Comedy Series",
-        "title": "WINGS",
+        "category": "Outstanding Informational Special",
+        "title": "THE BARBARA WALTERS SPECIAL WITH MICHELLE PFEIFFER",
         "winner": false,
         "year": "1992"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Drama Series",
-        "title": "Cagney & Lacey",
-        "winner": true,
-        "year": "1988"
       }
     ],
-    "power": 15
-  },
-  {
-    "actorName": "Vin Diesel",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ving Rhames",
-    "awards": [
-      {
-        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR MOVIE",
-        "title": "Don King: Only In America",
-        "winner": false,
-        "year": "1998"
-      }
-    ],
-    "power": 2
+    "power": 3
   },
   {
     "actorName": "Walton Goggins",
@@ -2425,60 +1504,101 @@
     "power": 1
   },
   {
-    "actorName": "Wang Xueqi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "William Hurt",
+    "actorName": "Laurence Fishburne",
     "awards": [
       {
+        "category": "Outstanding Narrator",
+        "title": "Year Million",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Comedy Series",
+        "title": "black-ish",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Comedy Series",
+        "title": "black-ish",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Outstanding Narrator",
+        "title": "Roots",
+        "winner": false,
+        "year": "2016"
+      },
+      {
         "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Too Big To Fail",
+        "title": "Thurgood",
         "winner": false,
         "year": "2011"
       },
       {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Damages",
+        "category": "OUTSTANDING LEAD ACTOR IN A MINISERIES OR SPECIAL",
+        "title": "Miss Evers' Boys",
         "winner": false,
-        "year": "2009"
+        "year": "1997"
+      },
+      {
+        "category": "Outstanding Made For Television Movie",
+        "title": "Miss Evers' Boys",
+        "winner": true,
+        "year": "1997"
+      },
+      {
+        "category": "OUTSTANDING LEAD ACTOR FOR A MINISERIES OR SPECIAL",
+        "title": "Tuskegee Airmen",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "TRIBECA",
+        "winner": true,
+        "year": "1993"
       }
     ],
-    "power": 3
+    "power": 20
   },
   {
-    "actorName": "William Sadler",
+    "actorName": "Brie Larson",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Winston Duke",
+    "actorName": "Ben Mendelsohn",
+    "awards": [
+      {
+        "category": "Outstanding Guest Actor in a Drama Series",
+        "title": "Bloodline",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Bloodline",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Bloodline",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Jude Law",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Wood Harris",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Yevgeni Lazarev",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Zachary Levi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Zendaya",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Zoe Saldana",
+    "actorName": "DeWanda Wise",
     "awards": [],
     "power": 0
   }

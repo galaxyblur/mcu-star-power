@@ -1,902 +1,2290 @@
 [
   {
-    "characterName": "Cameron Klein",
-    "actorName": "Aaron Himelstein"
-  },
-  {
-    "characterName": "Pietro Maximoff",
-    "actorName": "Aaron Taylor-Johnson"
-  },
-  {
-    "characterName": "Cassie",
-    "actorName": "Abby Ryder Fortson"
-  },
-  {
-    "characterName": "Abraham",
-    "actorName": "Abraham Attah"
-  },
-  {
-    "characterName": "Algrim",
-    "actorName": "Adewale Akinnuoye-Agbaje"
-  },
-  {
-    "characterName": "The Other",
-    "actorName": "Alexis Denisof"
-  },
-  {
-    "characterName": "Miriam Sharpe",
-    "actorName": "Alfre Woodard"
-  },
-  {
-    "characterName": "Eir",
-    "actorName": "Alice Krige"
-  },
-  {
-    "characterName": "Ulysses Klaue",
-    "actorName": "Andy Serkis"
-  },
-  {
-    "characterName": "Ramonda",
-    "actorName": "Angela Bassett"
-  },
-  {
-    "characterName": "Betty Brant",
-    "actorName": "Angourie Rice"
-  },
-  {
-    "characterName": "Odin",
-    "actorName": "Anthony Hopkins"
-  },
-  {
-    "characterName": "Sam Wilson",
-    "actorName": "Anthony Mackie"
-  },
-  {
-    "characterName": "Jack Taggart",
-    "actorName": "Ashley Hamilton"
-  },
-  {
-    "characterName": "Trevor Slattery",
-    "actorName": "Ben Kingsley"
-  },
-  {
-    "characterName": "Dormammu",
-    "actorName": "Benedict Cumberbatch"
-  },
-  {
-    "characterName": "Stephen Strange",
-    "actorName": "Benedict Cumberbatch"
-  },
-  {
-    "characterName": "Wong",
-    "actorName": "Benedict Wong"
-  },
-  {
-    "characterName": "Taneleer Tivan",
-    "actorName": "Benicio del Toro"
-  },
-  {
-    "characterName": "Jonathan Pangborn",
-    "actorName": "Benjamin Bratt"
-  },
-  {
-    "characterName": "Paxton",
-    "actorName": "Bobby Cannavale"
-  },
-  {
-    "characterName": "Herman Schultz",
-    "actorName": "Bokeem Woodbine"
-  },
-  {
-    "characterName": "Rocket",
-    "actorName": "Bradley Cooper"
-  },
-  {
-    "characterName": "Carol Danvers",
-    "actorName": "Brie Larson"
-  },
-  {
-    "characterName": "Jacques Dernier",
-    "actorName": "Bruno Ricci"
-  },
-  {
-    "characterName": "Jack Rollins",
-    "actorName": "Callan Mulvey"
-  },
-  {
-    "characterName": "Hela",
-    "actorName": "Cate Blanchett"
-  },
-  {
-    "characterName": "T'Challa",
-    "actorName": "Chadwick Boseman"
-  },
-  {
-    "characterName": "Karl Mordo",
-    "actorName": "Chiwetel Ejiofor"
-  },
-  {
-    "characterName": "Steve Rogers",
-    "actorName": "Chris Evans"
-  },
-  {
-    "characterName": "Thor",
-    "actorName": "Chris Hemsworth"
-  },
-  {
-    "characterName": "Richard",
-    "actorName": "Chris O'Dowd"
-  },
-  {
-    "characterName": "Peter Quill",
-    "actorName": "Chris Pratt"
-  },
-  {
-    "characterName": "Taserface",
-    "actorName": "Chris Sullivan"
-  },
-  {
-    "characterName": "Malekith",
-    "actorName": "Christopher Eccleston"
-  },
-  {
-    "characterName": "The Broker",
-    "actorName": "Christopher Fairbank"
-  },
-  {
-    "characterName": "Surtur",
-    "actorName": "Clancy Brown"
-  },
-  {
-    "characterName": "Phil Coulson",
-    "actorName": "Clark Gregg"
-  },
-  {
-    "characterName": "Helen Cho",
-    "actorName": "Claudia Kim"
-  },
-  {
-    "characterName": "Tyr",
-    "actorName": "Clive Russell"
-  },
-  {
-    "characterName": "Maria Hill",
-    "actorName": "Cobie Smulders"
-  },
-  {
-    "characterName": "Laufey",
-    "actorName": "Colm Feore"
-  },
-  {
-    "characterName": "Darren Cross",
-    "actorName": "Corey Stoll"
-  },
-  {
-    "characterName": "Thanos",
-    "actorName": "Damion Poitier"
-  },
-  {
-    "characterName": "Okoye",
-    "actorName": "Danai Gurira"
-  },
-  {
-    "characterName": "Helmut Zemo",
-    "actorName": "Daniel Brühl"
-  },
-  {
-    "characterName": "W'Kabi",
-    "actorName": "Daniel Kaluuya"
-  },
-  {
-    "characterName": "Drax the Destroyer",
-    "actorName": "Dave Bautista"
-  },
-  {
-    "characterName": "Kurt",
-    "actorName": "David Dastmalchian"
-  },
-  {
-    "characterName": "Gabe Jones",
-    "actorName": "Derek Luke"
-  },
-  {
-    "characterName": "Korath",
-    "actorName": "Djimon Hounsou"
-  },
-  {
-    "characterName": "Howard Stark",
-    "actorName": "Dominic Cooper"
-  },
-  {
-    "characterName": "James \"Rhodey\" Rhodes",
-    "actorName": "Don Cheadle"
-  },
-  {
-    "characterName": "Aaron Davis",
-    "actorName": "Donald Glover"
-  },
-  {
-    "characterName": "Bruce Banner",
-    "actorName": "Edward Norton"
-  },
-  {
-    "characterName": "Ayesha",
-    "actorName": "Elizabeth Debicki"
-  },
-  {
-    "characterName": "Wanda Maximoff",
-    "actorName": "Elizabeth Olsen"
-  },
-  {
-    "characterName": "Sharon Carter",
-    "actorName": "Emily VanCamp"
-  },
-  {
-    "characterName": "Tiny",
-    "actorName": "Ethan Dizon"
-  },
-  {
-    "characterName": "Retch",
-    "actorName": "Evan Jones"
-  },
-  {
-    "characterName": "Hope van Dyne",
-    "actorName": "Evangeline Lilly"
-  },
-  {
-    "characterName": "Raza",
-    "actorName": "Faran Tahir"
-  },
-  {
-    "characterName": "Ayo",
-    "actorName": "Florence Kasumba"
-  },
-  {
-    "characterName": "Zuri",
-    "actorName": "Forest Whitaker"
-  },
-  {
-    "characterName": "Brock Rumlow",
-    "actorName": "Frank Grillo"
-  },
-  {
-    "characterName": "Doris Toomes",
-    "actorName": "Garcelle Beauvais"
-  },
-  {
-    "characterName": "Stern",
-    "actorName": "Garry Shandling"
-  },
-  {
-    "characterName": "Georges Batroc",
-    "actorName": "Georges St-Pierre"
-  },
-  {
-    "characterName": "Howard Stark",
-    "actorName": "Gerard Sanders"
-  },
-  {
-    "characterName": "Irani Rael",
-    "actorName": "Glenn Close"
-  },
-  {
-    "characterName": "Grandpa Quill",
-    "actorName": "Gregg Henry"
-  },
-  {
-    "characterName": "Dale",
-    "actorName": "Gregg Turkington"
-  },
-  {
-    "characterName": "Aldrich Killian",
-    "actorName": "Guy Pearce"
-  },
-  {
-    "characterName": "Virginia \"Pepper\" Potts",
-    "actorName": "Gwyneth Paltrow"
-  },
-  {
-    "characterName": "Ghost",
-    "actorName": "Hannah John-Kamen"
-  },
-  {
-    "characterName": "Coach Wilson",
-    "actorName": "Hannibal Buress"
-  },
-  {
-    "characterName": "Peggy Carter",
-    "actorName": "Hayley Atwell"
-  },
-  {
-    "characterName": "Janet van Dyne",
-    "actorName": "Hayley Lovitt"
-  },
-  {
-    "characterName": "Mr. Delmar",
-    "actorName": "Hemky Madera"
-  },
-  {
-    "characterName": "List",
-    "actorName": "Henry Goodman"
-  },
-  {
-    "characterName": "Maria Stark",
-    "actorName": "Hope Davis"
-  },
-  {
-    "characterName": "Johann Schmidt",
-    "actorName": "Hugo Weaving"
-  },
-  {
-    "characterName": "Heimdall",
-    "actorName": "Idris Elba"
-  },
-  {
-    "characterName": "Sally",
-    "actorName": "Isabella Amara"
-  },
-  {
-    "characterName": "Seymour",
-    "actorName": "J.J. Totah"
-  },
-  {
-    "characterName": "James Montgomery Falsworth",
-    "actorName": "JJ Feild"
-  },
-  {
-    "characterName": "Ned",
-    "actorName": "Jacob Batalon"
-  },
-  {
-    "characterName": "Sif",
-    "actorName": "Jaimie Alexander"
-  },
-  {
-    "characterName": "Eric Savin",
-    "actorName": "James Badge Dale"
-  },
-  {
-    "characterName": "Ultron",
-    "actorName": "James Spader"
-  },
-  {
-    "characterName": "Obadiah Stane",
-    "actorName": "Jeff Bridges"
-  },
-  {
-    "characterName": "Grandmaster",
-    "actorName": "Jeff Goldblum"
-  },
-  {
-    "characterName": "Karen",
-    "actorName": "Jennifer Connelly"
-  },
-  {
-    "characterName": "Hawley",
-    "actorName": "Jenny Agutter"
-  },
-  {
-    "characterName": "Clint Barton",
-    "actorName": "Jeremy Renner"
-  },
-  {
-    "characterName": "Georgi Luchkov",
-    "actorName": "Jerzy Skolimowski"
-  },
-  {
-    "characterName": "Half-Nut",
-    "actorName": "Jimmy Urine"
-  },
-  {
-    "characterName": "Oblo",
-    "actorName": "Joe Fria"
-  },
-  {
-    "characterName": "Rhomann Dey",
-    "actorName": "John C. Reilly"
-  },
-  {
-    "characterName": "T'Chaka",
-    "actorName": "John Kani"
-  },
-  {
-    "characterName": "Mr. Hapgood",
-    "actorName": "John Penick"
-  },
-  {
-    "characterName": "Howard Stark",
-    "actorName": "John Slattery"
-  },
-  {
-    "characterName": "Harold \"Happy\" Hogan",
-    "actorName": "Jon Favreau"
-  },
-  {
-    "characterName": "Ian Boothby",
-    "actorName": "Jonathan Howard"
-  },
-  {
-    "characterName": "Jason Ionello",
-    "actorName": "Jorge Lendeborg Jr."
-  },
-  {
-    "characterName": "Thanos",
-    "actorName": "Josh Brolin"
-  },
-  {
-    "characterName": "Fandral",
-    "actorName": "Josh Dallas"
-  },
-  {
-    "characterName": "Maggie",
-    "actorName": "Judy Greer"
-  },
-  {
-    "characterName": "Nebula",
-    "actorName": "Karen Gillan"
-  },
-  {
-    "characterName": "Skurge",
-    "actorName": "Karl Urban"
-  },
-  {
-    "characterName": "Darcy Lewis",
-    "actorName": "Kat Dennings"
-  },
-  {
-    "characterName": "Jim Morita",
-    "actorName": "Kenneth Choi"
-  },
-  {
-    "characterName": "Principal Morita",
-    "actorName": "Kenneth Choi"
-  },
-  {
-    "characterName": "F.R.I.D.A.Y.",
-    "actorName": "Kerry Condon"
-  },
-  {
-    "characterName": "Ego",
-    "actorName": "Kurt Russell"
-  },
-  {
-    "characterName": "Meredith Quill",
-    "actorName": "Laura Haddock"
-  },
-  {
-    "characterName": "Liz",
-    "actorName": "Laura Harrier"
-  },
-  {
-    "characterName": "Bill Foster",
-    "actorName": "Laurence Fishburne"
-  },
-  {
-    "characterName": "Ronan the Accuser",
-    "actorName": "Lee Pace"
-  },
-  {
-    "characterName": "Christine Everhart",
-    "actorName": "Leslie Bibb"
-  },
-  {
-    "characterName": "Shuri",
-    "actorName": "Letitia Wright"
-  },
-  {
-    "characterName": "Gilmore Hodge",
-    "actorName": "Lex Shrapnel"
-  },
-  {
-    "characterName": "Laura Barton",
-    "actorName": "Linda Cardellini"
-  },
-  {
-    "characterName": "Tina Minoru",
-    "actorName": "Linda Louise Duan"
-  },
-  {
-    "characterName": "Betty Ross",
-    "actorName": "Liv Tyler"
-  },
-  {
-    "characterName": "Jackson Brice",
-    "actorName": "Logan Marshall-Green"
-  },
-  {
-    "characterName": "Nakia",
-    "actorName": "Lupita Nyong'o"
-  },
-  {
-    "characterName": "Kaecilius",
-    "actorName": "Mads Mikkelsen"
-  },
-  {
-    "characterName": "May Parker",
-    "actorName": "Marisa Tomei"
-  },
-  {
-    "characterName": "Daniel Drumm",
-    "actorName": "Mark Anthony Brighton"
-  },
-  {
-    "characterName": "Bruce Banner",
-    "actorName": "Mark Ruffalo"
-  },
-  {
-    "characterName": "Mitchell Carson",
-    "actorName": "Martin Donovan"
-  },
-  {
-    "characterName": "Everett K. Ross",
-    "actorName": "Martin Freeman"
-  },
-  {
-    "characterName": "Mr. Harrington",
-    "actorName": "Martin Starr"
-  },
-  {
-    "characterName": "Jasper Sitwell",
-    "actorName": "Maximiliano Hernández"
-  },
-  {
-    "characterName": "Bereet",
-    "actorName": "Melia Kreiling"
-  },
-  {
-    "characterName": "Erik \"Killmonger\" Stevens",
-    "actorName": "Michael B. Jordan"
-  },
-  {
-    "characterName": "Charles",
-    "actorName": "Michael Barbieri"
-  },
-  {
-    "characterName": "Brandt",
-    "actorName": "Michael Brandon"
-  },
-  {
-    "characterName": "Phineas Mason",
-    "actorName": "Michael Chernus"
-  },
-  {
-    "characterName": "Hank Pym",
-    "actorName": "Michael Douglas"
-  },
-  {
-    "characterName": "Adrian Toomes",
-    "actorName": "Michael Keaton"
-  },
-  {
-    "characterName": "Mac Gargan",
-    "actorName": "Michael Mando"
-  },
-  {
-    "characterName": "Luis",
-    "actorName": "Michael Peña"
-  },
-  {
-    "characterName": "Yondu Udonta",
-    "actorName": "Michael Rooker"
-  },
-  {
-    "characterName": "Martinex",
-    "actorName": "Michael Rosenbaum"
-  },
-  {
-    "characterName": "Nicodemus West",
-    "actorName": "Michael Stuhlbarg"
-  },
-  {
-    "characterName": "Janet van Dyne",
-    "actorName": "Michelle Pfeiffer"
-  },
-  {
-    "characterName": "Aleta Ogord",
-    "actorName": "Michelle Yeoh"
-  },
-  {
-    "characterName": "Ivan Vanko",
-    "actorName": "Mickey Rourke"
-  },
-  {
-    "characterName": "Rodriguez",
-    "actorName": "Miguel Ferrer"
-  },
-  {
-    "characterName": "Scrote",
-    "actorName": "Mike Escamilla"
-  },
-  {
-    "characterName": "Mainframe",
-    "actorName": "Miley Cyrus"
-  },
-  {
-    "characterName": "Tilda Johnson",
-    "actorName": "Nabiyah Be"
-  },
-  {
-    "characterName": "Jane Foster",
-    "actorName": "Natalie Portman"
-  },
-  {
-    "characterName": "Timothy \"Dum Dum\"Dugan",
-    "actorName": "Neal McDonough"
-  },
-  {
-    "characterName": "Chess Roberts",
-    "actorName": "Olivia Munn"
-  },
-  {
-    "characterName": "Carina",
-    "actorName": "Ophelia Lovibond"
-  },
-  {
-    "characterName": "J.A.R.V.I.S.",
-    "actorName": "Paul Bettany"
-  },
-  {
-    "characterName": "Vision",
-    "actorName": "Paul Bettany"
-  },
-  {
-    "characterName": "Scott Lang",
-    "actorName": "Paul Rudd"
-  },
-  {
-    "characterName": "Garthan Saal",
-    "actorName": "Peter Serafinowicz"
-  },
-  {
-    "characterName": "Mantis",
-    "actorName": "Pom Klementieff"
-  },
-  {
-    "characterName": "Gideon Malick",
-    "actorName": "Powers Boothe"
-  },
-  {
-    "characterName": "Topaz",
-    "actorName": "Rachel House"
-  },
-  {
-    "characterName": "Christine Palmer",
-    "actorName": "Rachel McAdams"
-  },
-  {
-    "characterName": "Jimmy Woo",
-    "actorName": "Randall Park"
-  },
-  {
-    "characterName": "Volstagg",
-    "actorName": "Ray Stevenson"
-  },
-  {
-    "characterName": "Maya Hansen",
-    "actorName": "Rebecca Hall"
-  },
-  {
-    "characterName": "Frigga",
-    "actorName": "Rene Russo"
-  },
-  {
-    "characterName": "Heinz Kruger",
-    "actorName": "Richard Armitage"
-  },
-  {
-    "characterName": "Tony Stark",
-    "actorName": "Robert Downey Jr."
-  },
-  {
-    "characterName": "Alexander Pierce",
-    "actorName": "Robert Redford"
-  },
-  {
-    "characterName": "Justin Hammer",
-    "actorName": "Sam Rockwell"
-  },
-  {
-    "characterName": "Nick Fury",
-    "actorName": "Samuel L. Jackson"
-  },
-  {
-    "characterName": "Natasha Romanoff",
-    "actorName": "Scarlett Johansson"
-  },
-  {
-    "characterName": "Lucian",
-    "actorName": "Scott Adkins"
-  },
-  {
-    "characterName": "Kraglin",
-    "actorName": "Sean Gunn"
-  },
-  {
-    "characterName": "James \"Bucky\" Barnes",
-    "actorName": "Sebastian Stan"
-  },
-  {
-    "characterName": "Ms. Warren",
-    "actorName": "Selenis Leyva"
-  },
-  {
-    "characterName": "Howard the Duck",
-    "actorName": "Seth Green"
-  },
-  {
-    "characterName": "Ho Yinsen",
-    "actorName": "Shaun Toub"
-  },
-  {
-    "characterName": "Abraham Erskine",
-    "actorName": "Stanley Tucci"
-  },
-  {
-    "characterName": "Erik Selvig",
-    "actorName": "Stellan Skarsgård"
-  },
-  {
-    "characterName": "Ellen Brandt",
-    "actorName": "Stephanie Szostak"
-  },
-  {
-    "characterName": "Brahl",
-    "actorName": "Stephen Blackehart"
-  },
-  {
-    "characterName": "N'Jobu",
-    "actorName": "Sterling K. Brown"
-  },
-  {
-    "characterName": "Gef the Ravager",
-    "actorName": "Steve Agee"
-  },
-  {
-    "characterName": "Xoliswa",
-    "actorName": "Sydelle Noel"
-  },
-  {
-    "characterName": "Stakar Ogord",
-    "actorName": "Sylvester Stallone"
-  },
-  {
-    "characterName": "Hogun",
-    "actorName": "Tadanobu Asano"
-  },
-  {
-    "characterName": "Korg",
-    "actorName": "Taika Waititi"
-  },
-  {
-    "characterName": "Narblik",
-    "actorName": "Terence Rosemore"
-  },
-  {
-    "characterName": "James \"Rhodey\" Rhodes",
-    "actorName": "Terrence Howard"
-  },
-  {
-    "characterName": "Valkyrie",
-    "actorName": "Tessa Thompson"
-  },
-  {
-    "characterName": "Wolfgang von Strucker",
-    "actorName": "Thomas Kretschmann"
-  },
-  {
-    "characterName": "Cindy",
-    "actorName": "Tiffany Espensen"
-  },
-  {
-    "characterName": "Ancient One",
-    "actorName": "Tilda Swinton"
-  },
-  {
-    "characterName": "Samuel Sterns",
-    "actorName": "Tim Blake Nelson"
-  },
-  {
-    "characterName": "Emil Blonsky",
-    "actorName": "Tim Roth"
-  },
-  {
-    "characterName": "Dave",
-    "actorName": "T.I."
-  },
-  {
-    "characterName": "Arnim Zola",
-    "actorName": "Toby Jones"
-  },
-  {
-    "characterName": "Loki",
-    "actorName": "Tom Hiddleston"
-  },
-  {
-    "characterName": "Peter Parker",
-    "actorName": "Tom Holland"
-  },
-  {
-    "characterName": "Tullk",
-    "actorName": "Tommy Flanagan"
-  },
-  {
-    "characterName": "Chester Phillips",
-    "actorName": "Tommy Lee Jones"
-  },
-  {
-    "characterName": "Bor",
-    "actorName": "Tony Curran"
-  },
-  {
-    "characterName": "Eugene \"Flash\" Thompson",
-    "actorName": "Tony Revolori"
-  },
-  {
-    "characterName": "Hamir",
-    "actorName": "Topo Wresniwiro"
-  },
-  {
-    "characterName": "Mr. Cobbwell",
-    "actorName": "Tunde Adebimpe"
-  },
-  {
-    "characterName": "Leonard Samson",
-    "actorName": "Ty Burrell"
-  },
-  {
-    "characterName": "Harley Keener",
-    "actorName": "Ty Simpkins"
-  },
-  {
-    "characterName": "Anne Marie Hoag",
-    "actorName": "Tyne Daly"
-  },
-  {
-    "characterName": "Groot",
-    "actorName": "Vin Diesel"
-  },
-  {
-    "characterName": "Charlie-27",
-    "actorName": "Ving Rhames"
-  },
-  {
-    "characterName": "Sonny Burch",
-    "actorName": "Walton Goggins"
-  },
-  {
-    "characterName": "Wu",
-    "actorName": "Wang Xueqi"
-  },
-  {
-    "characterName": "Thaddeus \"Thunderbolt\" Ross",
-    "actorName": "William Hurt"
-  },
-  {
-    "characterName": "Matthew Ellis DS",
-    "actorName": "William Sadler"
-  },
-  {
-    "characterName": "M'Baku",
-    "actorName": "Winston Duke"
-  },
-  {
-    "characterName": "Gale",
-    "actorName": "Wood Harris"
-  },
-  {
-    "characterName": "Anton Vanko",
-    "actorName": "Yevgeni Lazarev"
-  },
-  {
-    "characterName": "Fandral",
-    "actorName": "Zachary Levi"
-  },
-  {
-    "characterName": "Michelle \"MJ\" Jones",
-    "actorName": "Zendaya"
-  },
-  {
-    "characterName": "Gamora",
-    "actorName": "Zoe Saldana"
+    "id": "actor-1",
+    "actorName": "Robert Downey Jr.",
+    "castPositionTotal": 40,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Tony Stark / Iron Man"
+      },
+      {
+        "title": "Iron Man 2",
+        "characterName": "Tony Stark"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Tony Stark / Iron Man"
+      },
+      {
+        "title": "Iron Man 3",
+        "characterName": "Tony Stark"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Tony Stark / Iron Man"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Tony Stark / Iron Man"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Tony Stark / Iron Man"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Tony Stark / Iron Man"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Tony Stark / Iron Man"
+      }
+    ]
+  },
+  {
+    "id": "actor-2",
+    "actorName": "Terrence Howard",
+    "castPositionTotal": 2,
+    "castPositionAverage": 2,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Rhodey"
+      }
+    ]
+  },
+  {
+    "id": "actor-3",
+    "actorName": "Jeff Bridges",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Obadiah Stane"
+      }
+    ]
+  },
+  {
+    "id": "actor-4",
+    "actorName": "Gwyneth Paltrow",
+    "castPositionTotal": 72,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Pepper Potts"
+      },
+      {
+        "title": "Iron Man 2",
+        "characterName": "Pepper Potts"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Pepper Potts"
+      },
+      {
+        "title": "Iron Man 3",
+        "characterName": "Pepper Potts"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Pepper Potts"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Pepper Potts"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Pepper Potts"
+      }
+    ]
+  },
+  {
+    "id": "actor-5",
+    "actorName": "Leslie Bibb",
+    "castPositionTotal": 18,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Christine Everhart"
+      },
+      {
+        "title": "Iron Man 2",
+        "characterName": "Christine Everhart"
+      }
+    ]
+  },
+  {
+    "id": "actor-6",
+    "actorName": "Shaun Toub",
+    "castPositionTotal": 24,
+    "castPositionAverage": 12,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Yinsen"
+      },
+      {
+        "title": "Iron Man 3",
+        "characterName": "Ho Yinsen"
+      }
+    ]
+  },
+  {
+    "id": "actor-7",
+    "actorName": "Faran Tahir",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Raza"
+      }
+    ]
+  },
+  {
+    "id": "actor-8",
+    "actorName": "Clark Gregg",
+    "castPositionTotal": 31,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Agent Coulson"
+      },
+      {
+        "title": "Iron Man 2",
+        "characterName": "Agent Coulson"
+      },
+      {
+        "title": "Thor",
+        "characterName": "Agent Coulson"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Agent Phil Coulson"
+      }
+    ]
+  },
+  {
+    "id": "actor-9",
+    "actorName": "Bill Smitrovich",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "General Gabriel"
+      }
+    ]
+  },
+  {
+    "id": "actor-10",
+    "actorName": "Sayed Badreya",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Abu Bakaar"
+      }
+    ]
+  },
+  {
+    "id": "actor-11",
+    "actorName": "Paul Bettany",
+    "castPositionTotal": 94,
+    "castPositionAverage": 13,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "JARVIS (voice)"
+      },
+      {
+        "title": "Iron Man 2",
+        "characterName": "JARVIS (voice)"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Jarvis (voice)"
+      },
+      {
+        "title": "Iron Man 3",
+        "characterName": "JARVIS (voice)"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Jarvis / Vision"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Vision"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Vision"
+      }
+    ]
+  },
+  {
+    "id": "actor-12",
+    "actorName": "Jon Favreau",
+    "castPositionTotal": 78,
+    "castPositionAverage": 13,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Hogan"
+      },
+      {
+        "title": "Iron Man 2",
+        "characterName": "Happy Hogan"
+      },
+      {
+        "title": "Iron Man 3",
+        "characterName": "Happy Hogan"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Happy Hogan"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Happy Hogan"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Happy Hogan"
+      }
+    ]
+  },
+  {
+    "id": "actor-51",
+    "actorName": "Stan Lee",
+    "castPositionTotal": 600,
+    "castPositionAverage": 40,
+    "filmsMcu": [
+      {
+        "title": "Iron Man",
+        "characterName": "Stan Lee"
+      },
+      {
+        "title": "Iron Man 2",
+        "characterName": "Stan Lee"
+      },
+      {
+        "title": "Thor",
+        "characterName": "Stan the Man"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Stan Lee"
+      },
+      {
+        "title": "Iron Man 3",
+        "characterName": "Pageant Judge"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Stan Lee"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Smithsonian Guard"
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Xandarian Ladies' Man"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Stan Lee"
+      },
+      {
+        "title": "Ant-Man",
+        "characterName": "Bartender"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "FedEx Driver"
+      },
+      {
+        "title": "Doctor Strange",
+        "characterName": "Bus Passenger"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Watcher Informant"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Gary"
+      },
+      {
+        "title": "Black Panther",
+        "characterName": "Thirsty Gambler"
+      }
+    ]
+  },
+  {
+    "id": "actor-62",
+    "actorName": "Edward Norton",
+    "castPositionTotal": 1,
+    "castPositionAverage": 1,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Bruce Banner"
+      }
+    ]
+  },
+  {
+    "id": "actor-63",
+    "actorName": "Liv Tyler",
+    "castPositionTotal": 2,
+    "castPositionAverage": 2,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Betty Ross"
+      }
+    ]
+  },
+  {
+    "id": "actor-64",
+    "actorName": "Tim Roth",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Emil Blonsky"
+      }
+    ]
+  },
+  {
+    "id": "actor-65",
+    "actorName": "William Hurt",
+    "castPositionTotal": 20,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "General 'Thunderbolt' Ross"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Secretary of State Thaddeus Ross"
+      }
+    ]
+  },
+  {
+    "id": "actor-66",
+    "actorName": "Tim Blake Nelson",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Samuel Sterns"
+      }
+    ]
+  },
+  {
+    "id": "actor-67",
+    "actorName": "Ty Burrell",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Leonard"
+      }
+    ]
+  },
+  {
+    "id": "actor-68",
+    "actorName": "Christina Cabot",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Major Kathleen Sparr"
+      }
+    ]
+  },
+  {
+    "id": "actor-69",
+    "actorName": "Peter Mensah",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "General Joe Greller"
+      }
+    ]
+  },
+  {
+    "id": "actor-70",
+    "actorName": "Lou Ferrigno",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Voice of The Incredible Hulk / Security Guard"
+      }
+    ]
+  },
+  {
+    "id": "actor-71",
+    "actorName": "Paul Soles",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "The Incredible Hulk",
+        "characterName": "Stanley"
+      }
+    ]
+  },
+  {
+    "id": "actor-129",
+    "actorName": "Don Cheadle",
+    "castPositionTotal": 57,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "characterName": "Lt. Col. James 'Rhodey' Rhodes"
+      },
+      {
+        "title": "Iron Man 3",
+        "characterName": "Colonel James Rhodes"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "James Rhodes / War Machine"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Lieutenant James Rhodes / War Machine"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "James Rhodes / War Machine"
+      }
+    ]
+  },
+  {
+    "id": "actor-130",
+    "actorName": "Scarlett Johansson",
+    "castPositionTotal": 32,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "characterName": "Natalie Rushman / Natasha Romanoff"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Natasha Romanoff / Black Widow"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Natasha Romanoff / Black Widow"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Natasha Romanoff / Black Widow"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Natasha Romanoff / Black Widow"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Natasha Romanoff / Black Widow"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Black Widow / Natasha Romanoff"
+      }
+    ]
+  },
+  {
+    "id": "actor-131",
+    "actorName": "Sam Rockwell",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "characterName": "Justin Hammer"
+      }
+    ]
+  },
+  {
+    "id": "actor-132",
+    "actorName": "Mickey Rourke",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "characterName": "Ivan Vanko"
+      }
+    ]
+  },
+  {
+    "id": "actor-133",
+    "actorName": "Samuel L. Jackson",
+    "castPositionTotal": 39,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "characterName": "Nick Fury"
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Nick Fury"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Nick Fury"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Nick Fury"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Nick Fury"
+      },
+      {
+        "title": "Captain Marvel",
+        "characterName": "Nick Fury"
+      }
+    ]
+  },
+  {
+    "id": "actor-134",
+    "actorName": "John Slattery",
+    "castPositionTotal": 43,
+    "castPositionAverage": 14,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "characterName": "Howard Stark"
+      },
+      {
+        "title": "Ant-Man",
+        "characterName": "Howard Stark"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Howard Stark"
+      }
+    ]
+  },
+  {
+    "id": "actor-135",
+    "actorName": "Garry Shandling",
+    "castPositionTotal": 29,
+    "castPositionAverage": 15,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 2",
+        "characterName": "Senator Stern"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Senator Stern"
+      }
+    ]
+  },
+  {
+    "id": "actor-179",
+    "actorName": "Chris Hemsworth",
+    "castPositionTotal": 27,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Thor"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Thor"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Thor"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Thor"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Thor"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Thor"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Thor"
+      }
+    ]
+  },
+  {
+    "id": "actor-180",
+    "actorName": "Natalie Portman",
+    "castPositionTotal": 4,
+    "castPositionAverage": 2,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Jane Foster"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Jane Foster"
+      }
+    ]
+  },
+  {
+    "id": "actor-181",
+    "actorName": "Tom Hiddleston",
+    "castPositionTotal": 30,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Loki"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Loki"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Loki"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Loki"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Loki"
+      }
+    ]
+  },
+  {
+    "id": "actor-182",
+    "actorName": "Anthony Hopkins",
+    "castPositionTotal": 17,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Odin"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Odin"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Odin"
+      }
+    ]
+  },
+  {
+    "id": "actor-183",
+    "actorName": "Stellan Skarsgård",
+    "castPositionTotal": 47,
+    "castPositionAverage": 12,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Erik Selvig"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Selvig"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Erik Selvig"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Erik Selvig"
+      }
+    ]
+  },
+  {
+    "id": "actor-184",
+    "actorName": "Kat Dennings",
+    "castPositionTotal": 19,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Darcy Lewis"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Darcy Lewis"
+      }
+    ]
+  },
+  {
+    "id": "actor-185",
+    "actorName": "Colm Feore",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "King Laufey"
+      }
+    ]
+  },
+  {
+    "id": "actor-186",
+    "actorName": "Idris Elba",
+    "castPositionTotal": 39,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Heimdall"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Heimdall"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Heimdall"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Heimdall"
+      }
+    ]
+  },
+  {
+    "id": "actor-187",
+    "actorName": "Ray Stevenson",
+    "castPositionTotal": 33,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Volstagg"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Volstagg"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Volstagg"
+      }
+    ]
+  },
+  {
+    "id": "actor-188",
+    "actorName": "Tadanobu Asano",
+    "castPositionTotal": 34,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Hogun"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Hogun"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Hogun"
+      }
+    ]
+  },
+  {
+    "id": "actor-190",
+    "actorName": "Jaimie Alexander",
+    "castPositionTotal": 19,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Sif"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Sif"
+      }
+    ]
+  },
+  {
+    "id": "actor-191",
+    "actorName": "Rene Russo",
+    "castPositionTotal": 25,
+    "castPositionAverage": 13,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Frigga"
+      },
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Frigga"
+      }
+    ]
+  },
+  {
+    "id": "actor-193",
+    "actorName": "Maximiliano Hernández",
+    "castPositionTotal": 53,
+    "castPositionAverage": 18,
+    "filmsMcu": [
+      {
+        "title": "Thor",
+        "characterName": "Agent Sitwell (as Maximiliano Hernandez)"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Agent Jasper Sitwell"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Jasper Sitwell (as Maximiliano Hernandez)"
+      }
+    ]
+  },
+  {
+    "id": "actor-225",
+    "actorName": "Chris Evans",
+    "castPositionTotal": 77,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Captain America / Steve Rogers"
+      },
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Steve Rogers / Captain America"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Steve Rogers / Captain America"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Steve Rogers / Captain America"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Steve Rogers / Captain America"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Steve Rogers / Captain America"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Steve Rogers"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Steve Rogers / Captain America"
+      }
+    ]
+  },
+  {
+    "id": "actor-226",
+    "actorName": "Hayley Atwell",
+    "castPositionTotal": 41,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Peggy Carter"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Peggy Carter"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Peggy Carter"
+      },
+      {
+        "title": "Ant-Man",
+        "characterName": "Peggy Carter"
+      }
+    ]
+  },
+  {
+    "id": "actor-227",
+    "actorName": "Sebastian Stan",
+    "castPositionTotal": 32,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "James Buchanan 'Bucky' Barnes"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Bucky Barnes / Winter Soldier"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Bucky Barnes / Winter Soldier"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Bucky Barnes / Winter Soldier"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Bucky Barnes / Winter Soldier"
+      }
+    ]
+  },
+  {
+    "id": "actor-228",
+    "actorName": "Tommy Lee Jones",
+    "castPositionTotal": 4,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Colonel Chester Phillips"
+      }
+    ]
+  },
+  {
+    "id": "actor-229",
+    "actorName": "Hugo Weaving",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Johann Schmidt / Red Skull"
+      }
+    ]
+  },
+  {
+    "id": "actor-230",
+    "actorName": "Dominic Cooper",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Howard Stark"
+      }
+    ]
+  },
+  {
+    "id": "actor-231",
+    "actorName": "Richard Armitage",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Heinz Kruger"
+      }
+    ]
+  },
+  {
+    "id": "actor-232",
+    "actorName": "Stanley Tucci",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Dr. Abraham Erskine"
+      }
+    ]
+  },
+  {
+    "id": "actor-233",
+    "actorName": "Toby Jones",
+    "castPositionTotal": 22,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Dr. Arnim Zola"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Dr. Arnim Zola"
+      }
+    ]
+  },
+  {
+    "id": "actor-236",
+    "actorName": "Kenneth Choi",
+    "castPositionTotal": 29,
+    "castPositionAverage": 15,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The First Avenger",
+        "characterName": "Jim Morita"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Principal Morita"
+      }
+    ]
+  },
+  {
+    "id": "actor-317",
+    "actorName": "Mark Ruffalo",
+    "castPositionTotal": 46,
+    "castPositionAverage": 12,
+    "filmsMcu": [
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Bruce Banner / The Hulk"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Bruce Banner / Hulk"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Bruce Banner / Hulk"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Bruce Banner / Hulk"
+      }
+    ]
+  },
+  {
+    "id": "actor-318",
+    "actorName": "Jeremy Renner",
+    "castPositionTotal": 57,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Clint Barton / Hawkeye"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Clint Barton / Hawkeye"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Clint Barton / Hawkeye"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Clint Barton / Hawkeye"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Clint Barton / Hawkeye"
+      }
+    ]
+  },
+  {
+    "id": "actor-319",
+    "actorName": "Cobie Smulders",
+    "castPositionTotal": 54,
+    "castPositionAverage": 14,
+    "filmsMcu": [
+      {
+        "title": "Marvel's The Avengers",
+        "characterName": "Agent Maria Hill"
+      },
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Maria Hill"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Maria Hill"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Maria Hill (rumored)"
+      }
+    ]
+  },
+  {
+    "id": "actor-356",
+    "actorName": "Guy Pearce",
+    "castPositionTotal": 4,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "characterName": "Aldrich Killian"
+      }
+    ]
+  },
+  {
+    "id": "actor-357",
+    "actorName": "Rebecca Hall",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "characterName": "Maya Hansen"
+      }
+    ]
+  },
+  {
+    "id": "actor-358",
+    "actorName": "Ben Kingsley",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "characterName": "Trevor Slattery"
+      }
+    ]
+  },
+  {
+    "id": "actor-359",
+    "actorName": "James Badge Dale",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "characterName": "Savin"
+      }
+    ]
+  },
+  {
+    "id": "actor-360",
+    "actorName": "Stephanie Szostak",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "characterName": "Brandt"
+      }
+    ]
+  },
+  {
+    "id": "actor-363",
+    "actorName": "Ty Simpkins",
+    "castPositionTotal": 27,
+    "castPositionAverage": 14,
+    "filmsMcu": [
+      {
+        "title": "Iron Man 3",
+        "characterName": "Harley Keener"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Harley Keener"
+      }
+    ]
+  },
+  {
+    "id": "actor-450",
+    "actorName": "Christopher Eccleston",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Malekith"
+      }
+    ]
+  },
+  {
+    "id": "actor-451",
+    "actorName": "Zachary Levi",
+    "castPositionTotal": 23,
+    "castPositionAverage": 12,
+    "filmsMcu": [
+      {
+        "title": "Thor: The Dark World",
+        "characterName": "Fandral"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Fandral"
+      }
+    ]
+  },
+  {
+    "id": "actor-477",
+    "actorName": "Robert Redford",
+    "castPositionTotal": 4,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Alexander Pierce"
+      }
+    ]
+  },
+  {
+    "id": "actor-478",
+    "actorName": "Anthony Mackie",
+    "castPositionTotal": 66,
+    "castPositionAverage": 13,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Sam Wilson / Falcon"
+      },
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Sam Wilson / Falcon"
+      },
+      {
+        "title": "Ant-Man",
+        "characterName": "Sam Wilson / Falcon"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Sam Wilson / Falcon"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Sam Wilson / Falcon"
+      }
+    ]
+  },
+  {
+    "id": "actor-479",
+    "actorName": "Frank Grillo",
+    "castPositionTotal": 23,
+    "castPositionAverage": 12,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Brock Rumlow"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Brock Rumlow / Crossbones"
+      }
+    ]
+  },
+  {
+    "id": "actor-480",
+    "actorName": "Emily VanCamp",
+    "castPositionTotal": 22,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Captain America: The Winter Soldier",
+        "characterName": "Kate / Agent 13"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Sharon Carter (as Emily Vancamp)"
+      }
+    ]
+  },
+  {
+    "id": "actor-530",
+    "actorName": "Chris Pratt",
+    "castPositionTotal": 20,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Peter Quill"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Peter Quill / Star-Lord"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Peter Quill / Star-Lord"
+      }
+    ]
+  },
+  {
+    "id": "actor-531",
+    "actorName": "Zoe Saldana",
+    "castPositionTotal": 23,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Gamora"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Gamora"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Gamora"
+      }
+    ]
+  },
+  {
+    "id": "actor-532",
+    "actorName": "Dave Bautista",
+    "castPositionTotal": 30,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Drax"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Drax"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Drax"
+      }
+    ]
+  },
+  {
+    "id": "actor-533",
+    "actorName": "Vin Diesel",
+    "castPositionTotal": 30,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Groot (voice)"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Baby Groot (voice)"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Groot (voice)"
+      }
+    ]
+  },
+  {
+    "id": "actor-534",
+    "actorName": "Bradley Cooper",
+    "castPositionTotal": 36,
+    "castPositionAverage": 12,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Rocket (voice)"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Rocket (voice)"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Rocket Raccoon (voice)"
+      }
+    ]
+  },
+  {
+    "id": "actor-535",
+    "actorName": "Lee Pace",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Ronan"
+      }
+    ]
+  },
+  {
+    "id": "actor-536",
+    "actorName": "Michael Rooker",
+    "castPositionTotal": 13,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Yondu Udonta"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Yondu"
+      }
+    ]
+  },
+  {
+    "id": "actor-537",
+    "actorName": "Karen Gillan",
+    "castPositionTotal": 25,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Nebula"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Nebula"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Nebula"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Nebula"
+      }
+    ]
+  },
+  {
+    "id": "actor-538",
+    "actorName": "Djimon Hounsou",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Korath"
+      }
+    ]
+  },
+  {
+    "id": "actor-539",
+    "actorName": "John C. Reilly",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Corpsman Dey"
+      }
+    ]
+  },
+  {
+    "id": "actor-597",
+    "actorName": "James Spader",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Ultron"
+      }
+    ]
+  },
+  {
+    "id": "actor-598",
+    "actorName": "Aaron Taylor-Johnson",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Pietro Maximoff / Quicksilver"
+      }
+    ]
+  },
+  {
+    "id": "actor-599",
+    "actorName": "Elizabeth Olsen",
+    "castPositionTotal": 25,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Wanda Maximoff / Scarlet Witch"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Wanda Maximoff / Scarlet Witch"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Wanda Maximoff / Scarlet Witch"
+      }
+    ]
+  },
+  {
+    "id": "actor-600",
+    "actorName": "Linda Cardellini",
+    "castPositionTotal": 27,
+    "castPositionAverage": 14,
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Laura Barton"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Laura Barton"
+      }
+    ]
+  },
+  {
+    "id": "actor-645",
+    "actorName": "Paul Rudd",
+    "castPositionTotal": 39,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Scott Lang / Ant-Man"
+      },
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Scott Lang / Ant-Man"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Scott Lang / Ant-Man"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Scott Lang / Ant-Man"
+      }
+    ]
+  },
+  {
+    "id": "actor-646",
+    "actorName": "Michael Douglas",
+    "castPositionTotal": 10,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Dr. Hank Pym"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Dr. Hank Pym"
+      }
+    ]
+  },
+  {
+    "id": "actor-647",
+    "actorName": "Evangeline Lilly",
+    "castPositionTotal": 9,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Hope van Dyne"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Hope van Dyne / The Wasp"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Hope van Dyne / The Wasp"
+      }
+    ]
+  },
+  {
+    "id": "actor-648",
+    "actorName": "Corey Stoll",
+    "castPositionTotal": 4,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Darren Cross / Yellowjacket"
+      }
+    ]
+  },
+  {
+    "id": "actor-649",
+    "actorName": "Bobby Cannavale",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Paxton"
+      }
+    ]
+  },
+  {
+    "id": "actor-650",
+    "actorName": "Judy Greer",
+    "castPositionTotal": 12,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Maggie Lang"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Maggie Lang"
+      }
+    ]
+  },
+  {
+    "id": "actor-651",
+    "actorName": "Abby Ryder Fortson",
+    "castPositionTotal": 20,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Cassie Lang"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Cassie Lang"
+      }
+    ]
+  },
+  {
+    "id": "actor-652",
+    "actorName": "Michael Peña",
+    "castPositionTotal": 16,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Luis"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Luis"
+      }
+    ]
+  },
+  {
+    "id": "actor-653",
+    "actorName": "David Dastmalchian",
+    "castPositionTotal": 20,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Kurt"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Kurt"
+      }
+    ]
+  },
+  {
+    "id": "actor-654",
+    "actorName": "T.I.",
+    "castPositionTotal": 27,
+    "castPositionAverage": 14,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man",
+        "characterName": "Dave (as Tip 'T.I.' Harris)"
+      },
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Dave"
+      }
+    ]
+  },
+  {
+    "id": "actor-704",
+    "actorName": "Chadwick Boseman",
+    "castPositionTotal": 11,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "T'Challa / Black Panther"
+      },
+      {
+        "title": "Black Panther",
+        "characterName": "T'Challa / Black Panther"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "T'Challa / Black Panther"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "T'Challa / Black Panther"
+      }
+    ]
+  },
+  {
+    "id": "actor-705",
+    "actorName": "Tom Holland",
+    "castPositionTotal": 23,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Peter Parker / Spider-Man"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Peter Parker / Spider-Man"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Peter Parker / Spider-Man"
+      }
+    ]
+  },
+  {
+    "id": "actor-707",
+    "actorName": "Martin Freeman",
+    "castPositionTotal": 22,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "Everett K. Ross"
+      },
+      {
+        "title": "Black Panther",
+        "characterName": "Everett K. Ross"
+      }
+    ]
+  },
+  {
+    "id": "actor-708",
+    "actorName": "Marisa Tomei",
+    "castPositionTotal": 22,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Captain America: Civil War",
+        "characterName": "May Parker"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "May Parker"
+      }
+    ]
+  },
+  {
+    "id": "actor-781",
+    "actorName": "Benedict Cumberbatch",
+    "castPositionTotal": 32,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Dr. Stephen Strange"
+      },
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Doctor Strange"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Dr. Stephen Strange"
+      }
+    ]
+  },
+  {
+    "id": "actor-782",
+    "actorName": "Chiwetel Ejiofor",
+    "castPositionTotal": 2,
+    "castPositionAverage": 2,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Mordo"
+      }
+    ]
+  },
+  {
+    "id": "actor-783",
+    "actorName": "Rachel McAdams",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Christine Palmer"
+      }
+    ]
+  },
+  {
+    "id": "actor-785",
+    "actorName": "Mads Mikkelsen",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Kaecilius"
+      }
+    ]
+  },
+  {
+    "id": "actor-786",
+    "actorName": "Tilda Swinton",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "The Ancient One"
+      }
+    ]
+  },
+  {
+    "id": "actor-787",
+    "actorName": "Michael Stuhlbarg",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Dr. Nicodemus West"
+      }
+    ]
+  },
+  {
+    "id": "actor-788",
+    "actorName": "Benjamin Bratt",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Jonathan Pangborn"
+      }
+    ]
+  },
+  {
+    "id": "actor-789",
+    "actorName": "Scott Adkins",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Lucian / Strong Zealot"
+      }
+    ]
+  },
+  {
+    "id": "actor-790",
+    "actorName": "Zara Phythian",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Brunette Zealot"
+      }
+    ]
+  },
+  {
+    "id": "actor-808",
+    "actorName": "Pom Klementieff",
+    "castPositionTotal": 21,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Mantis"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Mantis"
+      }
+    ]
+  },
+  {
+    "id": "actor-809",
+    "actorName": "Sylvester Stallone",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Stakar Ogord"
+      }
+    ]
+  },
+  {
+    "id": "actor-810",
+    "actorName": "Kurt Russell",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Ego"
+      }
+    ]
+  },
+  {
+    "id": "actor-842",
+    "actorName": "Michael Keaton",
+    "castPositionTotal": 2,
+    "castPositionAverage": 2,
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Adrian Toomes / Vulture"
+      }
+    ]
+  },
+  {
+    "id": "actor-843",
+    "actorName": "Zendaya",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Michelle"
+      }
+    ]
+  },
+  {
+    "id": "actor-844",
+    "actorName": "Donald Glover",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Aaron Davis"
+      }
+    ]
+  },
+  {
+    "id": "actor-845",
+    "actorName": "Jacob Batalon",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Ned"
+      }
+    ]
+  },
+  {
+    "id": "actor-846",
+    "actorName": "Laura Harrier",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
+    "filmsMcu": [
+      {
+        "title": "Spider-Man: Homecoming",
+        "characterName": "Liz"
+      }
+    ]
+  },
+  {
+    "id": "actor-892",
+    "actorName": "Cate Blanchett",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Hela"
+      }
+    ]
+  },
+  {
+    "id": "actor-893",
+    "actorName": "Jeff Goldblum",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Grandmaster"
+      }
+    ]
+  },
+  {
+    "id": "actor-894",
+    "actorName": "Tessa Thompson",
+    "castPositionTotal": 9,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Valkyrie"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Valkyrie (rumored)"
+      }
+    ]
+  },
+  {
+    "id": "actor-895",
+    "actorName": "Karl Urban",
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
+    "filmsMcu": [
+      {
+        "title": "Thor: Ragnarok",
+        "characterName": "Skurge"
+      }
+    ]
+  },
+  {
+    "id": "actor-921",
+    "actorName": "Michael B. Jordan",
+    "castPositionTotal": 2,
+    "castPositionAverage": 2,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "Erik Killmonger"
+      }
+    ]
+  },
+  {
+    "id": "actor-922",
+    "actorName": "Lupita Nyong'o",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "Nakia"
+      }
+    ]
+  },
+  {
+    "id": "actor-923",
+    "actorName": "Danai Gurira",
+    "castPositionTotal": 10,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "Okoye"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Okoye"
+      }
+    ]
+  },
+  {
+    "id": "actor-924",
+    "actorName": "Daniel Kaluuya",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "W'Kabi"
+      }
+    ]
+  },
+  {
+    "id": "actor-925",
+    "actorName": "Letitia Wright",
+    "castPositionTotal": 9,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "Shuri"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Shuri"
+      }
+    ]
+  },
+  {
+    "id": "actor-926",
+    "actorName": "Winston Duke",
+    "castPositionTotal": 22,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "M'Baku"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "M'Baku"
+      }
+    ]
+  },
+  {
+    "id": "actor-927",
+    "actorName": "Sterling K. Brown",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "N'Jobu"
+      }
+    ]
+  },
+  {
+    "id": "actor-928",
+    "actorName": "Angela Bassett",
+    "castPositionTotal": 27,
+    "castPositionAverage": 14,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "Ramonda"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Ramonda"
+      }
+    ]
+  },
+  {
+    "id": "actor-977",
+    "actorName": "Josh Brolin",
+    "castPositionTotal": 7,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Thanos"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Thanos"
+      }
+    ]
+  },
+  {
+    "id": "actor-1000",
+    "actorName": "Hannah John-Kamen",
+    "castPositionTotal": 2,
+    "castPositionAverage": 2,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Ghost"
+      }
+    ]
+  },
+  {
+    "id": "actor-1001",
+    "actorName": "Michelle Pfeiffer",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Janet van Dyne"
+      }
+    ]
+  },
+  {
+    "id": "actor-1002",
+    "actorName": "Walton Goggins",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Sonny Burch"
+      }
+    ]
+  },
+  {
+    "id": "actor-1003",
+    "actorName": "Laurence Fishburne",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Dr. Bill Foster / Goliath"
+      }
+    ]
+  },
+  {
+    "id": "actor-1086",
+    "actorName": "Brie Larson",
+    "castPositionTotal": 7,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "Carol Danvers / Captain Marvel"
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Carol Danvers / Captain Marvel"
+      }
+    ]
+  },
+  {
+    "id": "actor-1087",
+    "actorName": "Ben Mendelsohn",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": ""
+      }
+    ]
+  },
+  {
+    "id": "actor-1088",
+    "actorName": "Jude Law",
+    "castPositionTotal": 4,
+    "castPositionAverage": 4,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "Walter Lawson / Mar-Vell"
+      }
+    ]
+  },
+  {
+    "id": "actor-1089",
+    "actorName": "DeWanda Wise",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": ""
+      }
+    ]
   }
 ]

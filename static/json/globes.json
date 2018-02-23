@@ -1,98 +1,441 @@
 [
   {
-    "actorName": "Aaron Himelstein",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Aaron Taylor-Johnson",
+    "actorName": "Robert Downey Jr.",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Nocturnal Animals",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Sherlock Holmes",
         "winner": true,
-        "year": "2017"
+        "year": "2010"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Tropic Thunder",
+        "winner": false,
+        "year": "2009"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Ally McBeal",
+        "winner": true,
+        "year": "2001"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Chaplin",
+        "winner": false,
+        "year": "1993"
+      }
+    ],
+    "power": 8
+  },
+  {
+    "actorName": "Terrence Howard",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Hustle & Flow",
+        "winner": false,
+        "year": "2006"
       }
     ],
     "power": 2
   },
   {
-    "actorName": "Abby Ryder Fortson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Abraham Attah",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Adewale Akinnuoye-Agbaje",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Alexis Denisof",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Alfre Woodard",
+    "actorName": "Jeff Bridges",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Holiday Heart",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Hell or High Water",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Crazy Heart",
+        "winner": true,
+        "year": "2010"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Contender, The",
         "winner": false,
         "year": "2001"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Miss Evers' Boys",
-        "winner": true,
-        "year": "1998"
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Fisher King, The",
+        "winner": false,
+        "year": "1992"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Passion Fish",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "John Carpenter's Starman",
         "winner": false,
-        "year": "1993"
+        "year": "1985"
       }
     ],
-    "power": 6
+    "power": 9
   },
   {
-    "actorName": "Alice Krige",
+    "actorName": "Gwyneth Paltrow",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Proof",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Shakespeare in Love",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Leslie Bibb",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Andy Serkis",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Longford",
-        "winner": false,
-        "year": "2008"
-      }
-    ],
-    "power": 1
+    "actorName": "Shaun Toub",
+    "awards": [],
+    "power": 0
   },
   {
-    "actorName": "Angela Bassett",
+    "actorName": "Faran Tahir",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Clark Gregg",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bill Smitrovich",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sayed Badreya",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Bettany",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Jon Favreau",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stan Lee",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Edward Norton",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "What's Love Got To Do With It",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Birdman",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Primal Fear",
         "winner": true,
-        "year": "1994"
+        "year": "1997"
       }
     ],
     "power": 3
   },
   {
-    "actorName": "Angourie Rice",
+    "actorName": "Liv Tyler",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Tim Roth",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Rob Roy",
+        "winner": false,
+        "year": "1996"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "William Hurt",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Too Big To Fail",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Damages",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Broadcast News",
+        "winner": false,
+        "year": "1988"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Children of a Lesser God",
+        "winner": false,
+        "year": "1987"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Kiss of the Spider Woman",
+        "winner": false,
+        "year": "1986"
+      },
+      {
+        "category": "NEW STAR OF THE YEAR - ACTOR",
+        "title": "Altered States",
+        "winner": false,
+        "year": "1981"
+      }
+    ],
+    "power": 11
+  },
+  {
+    "actorName": "Tim Blake Nelson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ty Burrell",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Christina Cabot",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Peter Mensah",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lou Ferrigno",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Soles",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Don Cheadle",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "House of Lies",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "House of Lies",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "House of Lies",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Hotel Rwanda",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Rat Pack, The",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 11
+  },
+  {
+    "actorName": "Scarlett Johansson",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Match Point",
+        "winner": false,
+        "year": "2006"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Love Song For Bobby Long, A",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Lost in Translation",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Girl With a Pearl Earring",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 7
+  },
+  {
+    "actorName": "Sam Rockwell",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "winner": true,
+        "year": "2018"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Mickey Rourke",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Wrestler, The",
+        "winner": true,
+        "year": "2009"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Samuel L. Jackson",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Jackie Brown",
+        "winner": false,
+        "year": "1998"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Time to Kill, A",
+        "winner": false,
+        "year": "1997"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Against The Wall",
+        "winner": false,
+        "year": "1995"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Pulp Fiction",
+        "winner": false,
+        "year": "1995"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "John Slattery",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Garry Shandling",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Larry Sanders Show, The",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Larry Sanders Show, The",
+        "winner": false,
+        "year": "1995"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Chris Hemsworth",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Natalie Portman",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Jackie",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Black Swan",
+        "winner": true,
+        "year": "2011"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Closer",
+        "winner": true,
+        "year": "2005"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Anywhere But Here",
+        "winner": false,
+        "year": "2000"
+      }
+    ],
+    "power": 8
+  },
+  {
+    "actorName": "Tom Hiddleston",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "The Night Manager",
+        "winner": true,
+        "year": "2017"
+      }
+    ],
+    "power": 3
   },
   {
     "actorName": "Anthony Hopkins",
@@ -143,723 +486,17 @@
     "power": 13
   },
   {
-    "actorName": "Anthony Mackie",
+    "actorName": "Stellan Skarsgård",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Ashley Hamilton",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ben Kingsley",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Mrs. Harris",
-        "winner": false,
-        "year": "2007"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "House of Sand and Fog",
-        "winner": false,
-        "year": "2004"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Anne Frank: The Whole Story",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Sexy Beast",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Bugsy",
-        "winner": false,
-        "year": "1992"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Gandhi",
-        "winner": true,
-        "year": "1983"
-      }
-    ],
-    "power": 11
-  },
-  {
-    "actorName": "Benedict Cumberbatch",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Imitation Game, The",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Sherlock: Season 2 (Masterpiece)",
-        "winner": false,
-        "year": "2013"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Benedict Wong",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Benicio del Toro",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Traffic",
-        "winner": true,
-        "year": "2001"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Benjamin Bratt",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Bobby Cannavale",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Bokeem Woodbine",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Bradley Cooper",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "American Hustle",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Silver Linings Playbook",
-        "winner": false,
-        "year": "2013"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Brie Larson",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Room",
-        "winner": true,
-        "year": "2016"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Bruno Ricci",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Callan Mulvey",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Cate Blanchett",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Carol",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Blue Jasmine",
-        "winner": true,
-        "year": "2014"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "I'm Not There",
-        "winner": true,
-        "year": "2008"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Elizabeth: The Golden Age",
-        "winner": false,
-        "year": "2008"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Notes On a Scandal",
-        "winner": false,
-        "year": "2007"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Aviator, The",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Veronica Guerin",
-        "winner": false,
-        "year": "2004"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Bandits",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Elizabeth",
-        "winner": true,
-        "year": "1999"
-      }
-    ],
-    "power": 18
-  },
-  {
-    "actorName": "Chadwick Boseman",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chiwetel Ejiofor",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "12 Years a Slave",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Dancing on the Edge",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Endgame",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Kinky Boots",
-        "winner": false,
-        "year": "2007"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Tsunami, The Aftermath",
-        "winner": false,
-        "year": "2007"
-      }
-    ],
-    "power": 10
-  },
-  {
-    "actorName": "Chris Evans",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris Hemsworth",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris O'Dowd",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris Pratt",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Chris Sullivan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Christopher Eccleston",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Christopher Fairbank",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Clancy Brown",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Clark Gregg",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Claudia Kim",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Clive Russell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Cobie Smulders",
+    "actorName": "Kat Dennings",
     "awards": [],
     "power": 0
   },
   {
     "actorName": "Colm Feore",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Corey Stoll",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "House of Cards",
-        "winner": false,
-        "year": "2014"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Damion Poitier",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Danai Gurira",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Daniel Brühl",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Rush",
-        "winner": false,
-        "year": "2014"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Daniel Kaluuya",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Get Out",
-        "winner": false,
-        "year": "2018"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Dave Bautista",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "David Dastmalchian",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Derek Luke",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Djimon Hounsou",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Amistad",
-        "winner": false,
-        "year": "1998"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Dominic Cooper",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Don Cheadle",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
-        "title": "House of Lies",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
-        "title": "House of Lies",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
-        "title": "House of Lies",
-        "winner": true,
-        "year": "2013"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Hotel Rwanda",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Rat Pack, The",
-        "winner": true,
-        "year": "1999"
-      }
-    ],
-    "power": 11
-  },
-  {
-    "actorName": "Donald Glover",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
-        "title": "Atlanta",
-        "winner": true,
-        "year": "2017"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Edward Norton",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Birdman",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Primal Fear",
-        "winner": true,
-        "year": "1997"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Elizabeth Debicki",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Elizabeth Olsen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Emily VanCamp",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ethan Dizon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Evan Jones",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Evangeline Lilly",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Lost",
-        "winner": false,
-        "year": "2007"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Faran Tahir",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Florence Kasumba",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Forest Whitaker",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Last King of Scotland, The",
-        "winner": true,
-        "year": "2007"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Bird",
-        "winner": false,
-        "year": "1989"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Frank Grillo",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Garcelle Beauvais",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Garry Shandling",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
-        "title": "Larry Sanders Show, The",
-        "winner": false,
-        "year": "1996"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
-        "title": "Larry Sanders Show, The",
-        "winner": false,
-        "year": "1995"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Georges St-Pierre",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Gerard Sanders",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Glenn Close",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Damages",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Albert Nobbs",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Damages",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Damages",
-        "winner": true,
-        "year": "2008"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Shield, The",
-        "winner": false,
-        "year": "2006"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Lion In Winter (2004), The",
-        "winner": true,
-        "year": "2005"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "101 Dalmatians",
-        "winner": false,
-        "year": "1997"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Serving In Silence: The Margarethe Cammermeyer Story",
-        "winner": false,
-        "year": "1996"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Sarah, Plain and Tall",
-        "winner": false,
-        "year": "1992"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Fatal Attraction",
-        "winner": false,
-        "year": "1988"
-      }
-    ],
-    "power": 22
-  },
-  {
-    "actorName": "Gregg Henry",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Gregg Turkington",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Guy Pearce",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Mildred Pierce",
-        "winner": false,
-        "year": "2012"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Gwyneth Paltrow",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Proof",
-        "winner": false,
-        "year": "2006"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Shakespeare in Love",
-        "winner": true,
-        "year": "1999"
-      }
-    ],
-    "power": 5
-  },
-  {
-    "actorName": "Hannah John-Kamen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hannibal Buress",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hayley Atwell",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Pillars Of The Earth",
-        "winner": false,
-        "year": "2011"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Hayley Lovitt",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hemky Madera",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Henry Goodman",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Hope Davis",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Special Relationship, The",
-        "winner": false,
-        "year": "2011"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "American Splendor",
-        "winner": false,
-        "year": "2004"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Hugo Weaving",
     "awards": [],
     "power": 0
   },
@@ -906,22 +543,12 @@
     "power": 12
   },
   {
-    "actorName": "Isabella Amara",
+    "actorName": "Ray Stevenson",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "J.J. Totah",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "JJ Feild",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jacob Batalon",
+    "actorName": "Tadanobu Asano",
     "awards": [],
     "power": 0
   },
@@ -931,331 +558,120 @@
     "power": 0
   },
   {
-    "actorName": "James Badge Dale",
+    "actorName": "Rene Russo",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "James Spader",
+    "actorName": "Maximiliano Hernández",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Evans",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Hayley Atwell",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
-        "title": "Blacklist, The",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Pillars Of The Earth",
         "winner": false,
-        "year": "2015"
+        "year": "2011"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Sebastian Stan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tommy Lee Jones",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Lincoln",
+        "winner": false,
+        "year": "2013"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
-        "title": "Blacklist, The",
-        "winner": false,
-        "year": "2014"
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Fugitive, The",
+        "winner": true,
+        "year": "1994"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
-        "title": "Boston Legal",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Lonesome Dove",
         "winner": false,
-        "year": "2005"
+        "year": "1990"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Coal Miner's Daughter",
+        "winner": false,
+        "year": "1981"
       }
     ],
     "power": 6
   },
   {
-    "actorName": "Jeff Bridges",
+    "actorName": "Hugo Weaving",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Dominic Cooper",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Richard Armitage",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stanley Tucci",
     "awards": [
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Hell or High Water",
+        "title": "Lovely Bones, The",
         "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Crazy Heart",
-        "winner": true,
         "year": "2010"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Contender, The",
-        "winner": false,
-        "year": "2001"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Fisher King, The",
-        "winner": false,
-        "year": "1992"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "John Carpenter's Starman",
-        "winner": false,
-        "year": "1985"
-      }
-    ],
-    "power": 9
-  },
-  {
-    "actorName": "Jeff Goldblum",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jennifer Connelly",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Beautiful Mind, A",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Conspiracy",
         "winner": true,
         "year": "2002"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Jenny Agutter",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jeremy Renner",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Town, The",
-        "winner": false,
-        "year": "2011"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Jerzy Skolimowski",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jimmy Urine",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Joe Fria",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "John C. Reilly",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Walk Hard: The Dewey Cox Story",
-        "winner": false,
-        "year": "2008"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Chicago",
-        "winner": false,
-        "year": "2003"
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Winchell",
+        "winner": true,
+        "year": "1999"
       }
     ],
-    "power": 3
+    "power": 6
   },
   {
-    "actorName": "John Kani",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "John Penick",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "John Slattery",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jon Favreau",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jonathan Howard",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Jorge Lendeborg Jr.",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Josh Brolin",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Josh Dallas",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Judy Greer",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Karen Gillan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Karl Urban",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kat Dennings",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kenneth Choi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kerry Condon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Kurt Russell",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Silkwood",
-        "winner": false,
-        "year": "1984"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Laura Haddock",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Laura Harrier",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Laurence Fishburne",
+    "actorName": "Toby Jones",
     "awards": [
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Tuskegee Airmen, The",
+        "title": "Girl, The",
         "winner": false,
-        "year": "1996"
+        "year": "2013"
       }
     ],
     "power": 2
   },
   {
-    "actorName": "Lee Pace",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
-        "title": "Pushing Daisies",
-        "winner": false,
-        "year": "2008"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Soldier's Girl",
-        "winner": false,
-        "year": "2004"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Leslie Bibb",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Letitia Wright",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Lex Shrapnel",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Linda Cardellini",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Linda Louise Duan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Liv Tyler",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Logan Marshall-Green",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Lupita Nyong'o",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "12 Years a Slave",
-        "winner": false,
-        "year": "2014"
-      }
-    ],
-    "power": 1
-  },
-  {
-    "actorName": "Mads Mikkelsen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Marisa Tomei",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Wrestler, The",
-        "winner": false,
-        "year": "2009"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "In The Bedroom",
-        "winner": false,
-        "year": "2002"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Mark Anthony Brighton",
+    "actorName": "Kenneth Choi",
     "awards": [],
     "power": 0
   },
@@ -1284,341 +700,33 @@
     "power": 5
   },
   {
-    "actorName": "Martin Donovan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Martin Freeman",
+    "actorName": "Jeremy Renner",
     "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Fargo (TV show)",
-        "winner": false,
-        "year": "2015"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Martin Starr",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Maximiliano Hernández",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Melia Kreiling",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael B. Jordan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Barbieri",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Brandon",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Chernus",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Douglas",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Behind the Candelabra",
-        "winner": true,
-        "year": "2014"
-      },
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Wall Street: Money Never Sleeps",
+        "title": "Town, The",
         "winner": false,
         "year": "2011"
-      },
-      {
-        "category": "CECIL B. DEMILLE AWARD",
-        "title": "Michael Douglas",
-        "winner": false,
-        "year": "2004"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Wonder Boys",
-        "winner": false,
-        "year": "2001"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "American President, The",
-        "winner": false,
-        "year": "1996"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "War of The Roses, The",
-        "winner": false,
-        "year": "1990"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Wall Street",
-        "winner": true,
-        "year": "1988"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
-        "title": "Streets of San Francisco, The",
-        "winner": false,
-        "year": "1975"
-      },
-      {
-        "category": "NEW STAR OF THE YEAR - ACTOR",
-        "title": "Hail, Hero!",
-        "winner": false,
-        "year": "1970"
       }
     ],
-    "power": 19
+    "power": 1
   },
   {
-    "actorName": "Michael Keaton",
+    "actorName": "Cobie Smulders",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Guy Pearce",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Birdman",
-        "winner": true,
-        "year": "2015"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Live from Baghdad",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Mildred Pierce",
         "winner": false,
-        "year": "2003"
+        "year": "2012"
       }
     ],
-    "power": 5
-  },
-  {
-    "actorName": "Michael Mando",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Peña",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Rooker",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Rosenbaum",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Stuhlbarg",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Serious Man, A",
-        "winner": false,
-        "year": "2010"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Michelle Pfeiffer",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Wizard of Lies, The",
-        "winner": false,
-        "year": "2018"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Age of Innocence, The",
-        "winner": false,
-        "year": "1994"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Love Field",
-        "winner": false,
-        "year": "1993"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Frankie & Johnny",
-        "winner": false,
-        "year": "1992"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Russia House, The",
-        "winner": false,
-        "year": "1991"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Fabulous Baker Boys, The",
-        "winner": true,
-        "year": "1990"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Married To The Mob",
-        "winner": false,
-        "year": "1989"
-      }
-    ],
-    "power": 14
-  },
-  {
-    "actorName": "Michelle Yeoh",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mickey Rourke",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Wrestler, The",
-        "winner": true,
-        "year": "2009"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Miguel Ferrer",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Mike Escamilla",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Miley Cyrus",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Nabiyah Be",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Natalie Portman",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Jackie",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Black Swan",
-        "winner": true,
-        "year": "2011"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Closer",
-        "winner": true,
-        "year": "2005"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Anywhere But Here",
-        "winner": false,
-        "year": "2000"
-      }
-    ],
-    "power": 8
-  },
-  {
-    "actorName": "Neal McDonough",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Olivia Munn",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ophelia Lovibond",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Paul Bettany",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Paul Rudd",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Peter Serafinowicz",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Pom Klementieff",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Powers Boothe",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Rachel House",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Rachel McAdams",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Randall Park",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ray Stevenson",
-    "awards": [],
-    "power": 0
+    "power": 1
   },
   {
     "actorName": "Rebecca Hall",
@@ -1633,44 +741,71 @@
     "power": 2
   },
   {
-    "actorName": "Rene Russo",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Richard Armitage",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Robert Downey Jr.",
+    "actorName": "Ben Kingsley",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Sherlock Holmes",
-        "winner": true,
-        "year": "2010"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Tropic Thunder",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Mrs. Harris",
         "winner": false,
-        "year": "2009"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Ally McBeal",
-        "winner": true,
-        "year": "2001"
+        "year": "2007"
       },
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Chaplin",
+        "title": "House of Sand and Fog",
         "winner": false,
-        "year": "1993"
+        "year": "2004"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Anne Frank: The Whole Story",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Sexy Beast",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Bugsy",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Gandhi",
+        "winner": true,
+        "year": "1983"
       }
     ],
-    "power": 8
+    "power": 11
+  },
+  {
+    "actorName": "James Badge Dale",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Stephanie Szostak",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ty Simpkins",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Christopher Eccleston",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zachary Levi",
+    "awards": [],
+    "power": 0
   },
   {
     "actorName": "Robert Redford",
@@ -1739,76 +874,419 @@
     "power": 25
   },
   {
-    "actorName": "Sam Rockwell",
+    "actorName": "Anthony Mackie",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Frank Grillo",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Emily VanCamp",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Pratt",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Zoe Saldana",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Dave Bautista",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Vin Diesel",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Bradley Cooper",
     "awards": [
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Three Billboards Outside Ebbing, Missouri",
-        "winner": true,
-        "year": "2018"
+        "title": "American Hustle",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Silver Linings Playbook",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Lee Pace",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Pushing Daisies",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Soldier's Girl",
+        "winner": false,
+        "year": "2004"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Michael Rooker",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Karen Gillan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Djimon Hounsou",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Amistad",
+        "winner": false,
+        "year": "1998"
       }
     ],
     "power": 2
   },
   {
-    "actorName": "Samuel L. Jackson",
+    "actorName": "John C. Reilly",
     "awards": [
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Jackie Brown",
+        "title": "Walk Hard: The Dewey Cox Story",
         "winner": false,
-        "year": "1998"
+        "year": "2008"
       },
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Time to Kill, A",
+        "title": "Chicago",
         "winner": false,
-        "year": "1997"
+        "year": "2003"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "James Spader",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Blacklist, The",
+        "winner": false,
+        "year": "2015"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Against The Wall",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Blacklist, The",
         "winner": false,
-        "year": "1995"
+        "year": "2014"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Pulp Fiction",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Boston Legal",
         "winner": false,
-        "year": "1995"
+        "year": "2005"
       }
     ],
     "power": 6
   },
   {
-    "actorName": "Scarlett Johansson",
+    "actorName": "Aaron Taylor-Johnson",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Nocturnal Animals",
+        "winner": true,
+        "year": "2017"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Elizabeth Olsen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Linda Cardellini",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Paul Rudd",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Douglas",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Behind the Candelabra",
+        "winner": true,
+        "year": "2014"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Wall Street: Money Never Sleeps",
+        "winner": false,
+        "year": "2011"
+      },
+      {
+        "category": "CECIL B. DEMILLE AWARD",
+        "title": "Michael Douglas",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Wonder Boys",
+        "winner": false,
+        "year": "2001"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "American President, The",
+        "winner": false,
+        "year": "1996"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "War of The Roses, The",
+        "winner": false,
+        "year": "1990"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Wall Street",
+        "winner": true,
+        "year": "1988"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "Streets of San Francisco, The",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "category": "NEW STAR OF THE YEAR - ACTOR",
+        "title": "Hail, Hero!",
+        "winner": false,
+        "year": "1970"
+      }
+    ],
+    "power": 19
+  },
+  {
+    "actorName": "Evangeline Lilly",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
+        "title": "Lost",
+        "winner": false,
+        "year": "2007"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Corey Stoll",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "House of Cards",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Bobby Cannavale",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Judy Greer",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Abby Ryder Fortson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael Peña",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "David Dastmalchian",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "T.I.",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chadwick Boseman",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tom Holland",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Martin Freeman",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Fargo (TV show)",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Marisa Tomei",
     "awards": [
       {
         "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Match Point",
+        "title": "Wrestler, The",
         "winner": false,
-        "year": "2006"
+        "year": "2009"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Love Song For Bobby Long, A",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "In The Bedroom",
         "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Lost in Translation",
-        "winner": false,
-        "year": "2004"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Girl With a Pearl Earring",
-        "winner": false,
-        "year": "2004"
+        "year": "2002"
       }
     ],
-    "power": 7
+    "power": 2
+  },
+  {
+    "actorName": "Benedict Cumberbatch",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Imitation Game, The",
+        "winner": false,
+        "year": "2015"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Sherlock: Season 2 (Masterpiece)",
+        "winner": false,
+        "year": "2013"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Chiwetel Ejiofor",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Dancing on the Edge",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Endgame",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Kinky Boots",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Tsunami, The Aftermath",
+        "winner": false,
+        "year": "2007"
+      }
+    ],
+    "power": 10
+  },
+  {
+    "actorName": "Rachel McAdams",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Mads Mikkelsen",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tilda Swinton",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "We Need To Talk About Kevin",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Michael Clayton",
+        "winner": false,
+        "year": "2008"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Michael Stuhlbarg",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Serious Man, A",
+        "winner": false,
+        "year": "2010"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Benjamin Bratt",
+    "awards": [],
+    "power": 0
   },
   {
     "actorName": "Scott Adkins",
@@ -1816,94 +1294,12 @@
     "power": 0
   },
   {
-    "actorName": "Sean Gunn",
+    "actorName": "Zara Phythian",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Sebastian Stan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Selenis Leyva",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Seth Green",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Shaun Toub",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Stanley Tucci",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Lovely Bones, The",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Conspiracy",
-        "winner": true,
-        "year": "2002"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Winchell",
-        "winner": true,
-        "year": "1999"
-      }
-    ],
-    "power": 6
-  },
-  {
-    "actorName": "Stellan Skarsgård",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Stephanie Szostak",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Stephen Blackehart",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sterling K. Brown",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
-        "title": "This Is Us",
-        "winner": true,
-        "year": "2018"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "The People v. O.J. Simpson: American Crime Story",
-        "winner": false,
-        "year": "2017"
-      }
-    ],
-    "power": 4
-  },
-  {
-    "actorName": "Steve Agee",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sydelle Noel",
+    "actorName": "Pom Klementieff",
     "awards": [],
     "power": 0
   },
@@ -1932,105 +1328,46 @@
     "power": 6
   },
   {
-    "actorName": "Tadanobu Asano",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Taika Waititi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Terence Rosemore",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Terrence Howard",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Hustle & Flow",
-        "winner": false,
-        "year": "2006"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Tessa Thompson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Thomas Kretschmann",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tiffany Espensen",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tilda Swinton",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "We Need To Talk About Kevin",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Michael Clayton",
-        "winner": false,
-        "year": "2008"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Tim Blake Nelson",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tim Roth",
+    "actorName": "Kurt Russell",
     "awards": [
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Rob Roy",
+        "title": "Silkwood",
         "winner": false,
-        "year": "1996"
+        "year": "1984"
       }
     ],
     "power": 1
   },
   {
-    "actorName": "T.I.",
+    "actorName": "Michael Keaton",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Birdman",
+        "winner": true,
+        "year": "2015"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Live from Baghdad",
+        "winner": false,
+        "year": "2003"
+      }
+    ],
+    "power": 5
+  },
+  {
+    "actorName": "Zendaya",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Toby Jones",
+    "actorName": "Donald Glover",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Girl, The",
-        "winner": false,
-        "year": "2013"
-      }
-    ],
-    "power": 2
-  },
-  {
-    "actorName": "Tom Hiddleston",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "The Night Manager",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - MUSICAL OR COMEDY",
+        "title": "Atlanta",
         "winner": true,
         "year": "2017"
       }
@@ -2038,182 +1375,126 @@
     "power": 3
   },
   {
-    "actorName": "Tom Holland",
+    "actorName": "Jacob Batalon",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Tommy Flanagan",
+    "actorName": "Laura Harrier",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Tommy Lee Jones",
+    "actorName": "Cate Blanchett",
     "awards": [
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Lincoln",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Carol",
         "winner": false,
-        "year": "2013"
+        "year": "2016"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
-        "title": "Fugitive, The",
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Blue Jasmine",
         "winner": true,
-        "year": "1994"
+        "year": "2014"
       },
       {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Lonesome Dove",
-        "winner": false,
-        "year": "1990"
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "I'm Not There",
+        "winner": true,
+        "year": "2008"
       },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Elizabeth: The Golden Age",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Notes On a Scandal",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Aviator, The",
+        "winner": false,
+        "year": "2005"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Veronica Guerin",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Bandits",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Elizabeth",
+        "winner": true,
+        "year": "1999"
+      }
+    ],
+    "power": 18
+  },
+  {
+    "actorName": "Jeff Goldblum",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Tessa Thompson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Karl Urban",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Michael B. Jordan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Lupita Nyong'o",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "12 Years a Slave",
+        "winner": false,
+        "year": "2014"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Danai Gurira",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Daniel Kaluuya",
+    "awards": [
       {
         "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Coal Miner's Daughter",
+        "title": "Get Out",
         "winner": false,
-        "year": "1981"
+        "year": "2018"
       }
     ],
-    "power": 6
+    "power": 2
   },
   {
-    "actorName": "Tony Curran",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tony Revolori",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Topo Wresniwiro",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tunde Adebimpe",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ty Burrell",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ty Simpkins",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Tyne Daly",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Christy",
-        "winner": false,
-        "year": "1995"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Cagney and Lacey",
-        "winner": false,
-        "year": "1987"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Cagney and Lacey",
-        "winner": true,
-        "year": "1986"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Cagney and Lacey",
-        "winner": false,
-        "year": "1985"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A TELEVISION SERIES - DRAMA",
-        "title": "Cagney and Lacey",
-        "winner": false,
-        "year": "1984"
-      }
-    ],
-    "power": 10
-  },
-  {
-    "actorName": "Vin Diesel",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Ving Rhames",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Don King: Only In America",
-        "winner": true,
-        "year": "1998"
-      }
-    ],
-    "power": 3
-  },
-  {
-    "actorName": "Walton Goggins",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Wang Xueqi",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "William Hurt",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Too Big To Fail",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Damages",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
-        "title": "Broadcast News",
-        "winner": false,
-        "year": "1988"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Children of a Lesser God",
-        "winner": false,
-        "year": "1987"
-      },
-      {
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
-        "title": "Kiss of the Spider Woman",
-        "winner": false,
-        "year": "1986"
-      },
-      {
-        "category": "NEW STAR OF THE YEAR - ACTOR",
-        "title": "Altered States",
-        "winner": false,
-        "year": "1981"
-      }
-    ],
-    "power": 11
-  },
-  {
-    "actorName": "William Sadler",
+    "actorName": "Letitia Wright",
     "awards": [],
     "power": 0
   },
@@ -2223,27 +1504,166 @@
     "power": 0
   },
   {
-    "actorName": "Wood Harris",
+    "actorName": "Sterling K. Brown",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A TELEVISION SERIES - DRAMA",
+        "title": "This Is Us",
+        "winner": true,
+        "year": "2018"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "The People v. O.J. Simpson: American Crime Story",
+        "winner": false,
+        "year": "2017"
+      }
+    ],
+    "power": 4
+  },
+  {
+    "actorName": "Angela Bassett",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "What's Love Got To Do With It",
+        "winner": true,
+        "year": "1994"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Josh Brolin",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Yevgeni Lazarev",
+    "actorName": "Hannah John-Kamen",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Zachary Levi",
+    "actorName": "Michelle Pfeiffer",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Wizard of Lies, The",
+        "winner": false,
+        "year": "2018"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Age of Innocence, The",
+        "winner": false,
+        "year": "1994"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Love Field",
+        "winner": false,
+        "year": "1993"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Frankie & Johnny",
+        "winner": false,
+        "year": "1992"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Russia House, The",
+        "winner": false,
+        "year": "1991"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Fabulous Baker Boys, The",
+        "winner": true,
+        "year": "1990"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - MUSICAL OR COMEDY",
+        "title": "Married To The Mob",
+        "winner": false,
+        "year": "1989"
+      }
+    ],
+    "power": 14
+  },
+  {
+    "actorName": "Walton Goggins",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "Zendaya",
-    "awards": [],
-    "power": 0
+    "actorName": "Laurence Fishburne",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Tuskegee Airmen, The",
+        "winner": false,
+        "year": "1996"
+      }
+    ],
+    "power": 2
   },
   {
-    "actorName": "Zoe Saldana",
+    "actorName": "Brie Larson",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Room",
+        "winner": true,
+        "year": "2016"
+      }
+    ],
+    "power": 3
+  },
+  {
+    "actorName": "Ben Mendelsohn",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Bloodline",
+        "winner": false,
+        "year": "2016"
+      }
+    ],
+    "power": 1
+  },
+  {
+    "actorName": "Jude Law",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A LIMITED SERIES OR A MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Young Pope, The",
+        "winner": false,
+        "year": "2018"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Cold Mountain",
+        "winner": false,
+        "year": "2004"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "A. I.: Artificial Intelligence",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
+        "title": "Talented Mr. Ripley, The",
+        "winner": false,
+        "year": "2000"
+      }
+    ],
+    "power": 6
+  },
+  {
+    "actorName": "DeWanda Wise",
     "awards": [],
     "power": 0
   }
