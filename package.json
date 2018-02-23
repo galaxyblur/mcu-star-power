@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@nuxtjs/axios": "^5.0.1",
+    "@nuxtjs/font-awesome": "^1.0.3",
     "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",
     "lodash": "^4.17.5",

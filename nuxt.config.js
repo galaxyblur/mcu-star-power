@@ -3,11 +3,11 @@ module.exports = {
    * Headers of the page
    */
   head: {
-    title: 'MCU Star Power',
+    title: 'MCU Power',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Star Power in the Marvel Cinematic Universe' }
+      { hid: 'description', name: 'description', content: 'Power Rankings for the Marvel Cinematic Universe' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -21,6 +21,7 @@ module.exports = {
 
   modules: [
     '@nuxtjs/axios',
+    '@nuxtjs/font-awesome',
   ],
 
   css: ['uikit/dist/css/uikit.css'],
