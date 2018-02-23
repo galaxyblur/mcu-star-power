@@ -1,11 +1,17 @@
 <template>
-  <div class="uk-container uk-container-expand">
+  <div>
+    <app-nav />
     <nuxt/>
   </div>
 </template>
 
 <script>
+import AppNav from '../components/AppNav';
+
 export default {
+  components: {
+    AppNav,
+  },
 };
 </script>
 
