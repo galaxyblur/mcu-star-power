@@ -1,0 +1,59 @@
+@import "../../node_modules/uikit/src/less/uikit.theme.less";
+
+//
+// Colors
+//
+
+@global-color:                                  #eee;
+@global-emphasis-color:                         #fff;
+@global-muted-color:                            #bbb;;
+
+@global-link-color:                             #1e87f0;
+@global-link-hover-color:                       #0f6ecd;
+
+@global-inverse-color:                          #ccc;
+
+//
+// Backgrounds
+//
+@global-background: #070612;
+
+@global-muted-background: #38284F;
+@global-primary-background: #984E85;
+@global-secondary-background: #F7EEF3;
+
+@global-success-background: #3ABF80;
+@global-warning-background: #CEA0AA;
+@global-danger-background: #D7B787;
+
+@global-border: #999;
+
+//
+// Box-Shadows
+//
+
+@global-small-box-shadow:                       0 2px 8px rgba(255,255,255,0.08);
+@global-medium-box-shadow:                      0 5px 15px rgba(255,255,255,0.08);
+@global-large-box-shadow:                       0 14px 25px rgba(255,255,255,0.16);
+@global-xlarge-box-shadow:                      0 28px 50px rgba(255,255,255,0.16);
+
+.actor-card-bg-fade {
+  background-color: transparent;
+    /* IE10+ */
+  background-image: -ms-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* Mozilla Firefox */
+  background-image: -moz-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* Opera */
+  background-image: -o-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* Webkit (Safari/Chrome 10) */
+  background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, rgba(0,0,0,0)), color-stop(100, #000000));
+
+  /* Webkit (Chrome 11+) */
+  background-image: -webkit-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* W3C Markup */
+  background-image: linear-gradient(to bottom right, rgba(0,0,0,0) 0%, #000000 100%);
+}

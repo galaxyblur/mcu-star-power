@@ -20,18 +20,20 @@
     "babel-polyfill": "^6.26.0",
     "lodash": "^4.17.5",
     "nightmare": "^2.10.0",
-    "nuxt": "^1.0.0",
-    "uikit": "^3.0.0-beta.40",
+    "nuxt": "^1.4.0",
+    "uikit": "^3.0.0-beta.42",
     "vo": "^4.0.2"
   },
   "devDependencies": {
+    "babel-eslint": "^8.2.1",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.26.0",
-    "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-loader": "^1.7.1",
-    "eslint-plugin-vue": "^4.0.0"
+    "eslint-plugin-vue": "^4.0.0",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0"
   }
 }

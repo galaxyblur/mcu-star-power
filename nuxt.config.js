@@ -24,7 +24,10 @@ module.exports = {
     '@nuxtjs/font-awesome',
   ],
 
-  css: ['uikit/dist/css/uikit.css'],
+  css: [
+    'uikit/dist/css/uikit.css',
+    '@/assets/less/index.less',
+  ],
 
   plugins: [
     { src: '~/plugins/uikit.js', ssr: false },
