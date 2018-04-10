@@ -2,6 +2,7 @@ import vo from 'vo';
 
 import {
   loadActorsFromFile,
+  loadactorsMetaFromFile,
   loadBaftasFromFile,
   loadOscarsFromFile,
   loadGlobesFromFile,
@@ -16,6 +17,7 @@ import {
 
 const loadData = async () => {
   const actors = await loadActorsFromFile();
+  const actorsMeta = await loadactorsMetaFromFile();
   const baftas = await loadBaftasFromFile();
   const oscars = await loadOscarsFromFile();
   const globes = await loadGlobesFromFile();
@@ -24,6 +26,7 @@ const loadData = async () => {
 
   return {
     actors,
+    actorsMeta,
     baftas,
     oscars,
     globes,
@@ -37,11 +40,25 @@ loadData().catch(console.error).then((allData) => {
 
   allData.actors.forEach((actor) => {
     let awards = [];
-    let img;
     let filmsMcu = actor.filmsMcu;
     let filmsCount = 0;
     let powerCareer = 0;
     let powerMcu = filmsMcu.length;
+
+    const [metaObj] = allData.actorsMeta.filter(a => a.actorName === actor.actorName);
+    let img, characterDisplayName;
+
+    if (metaObj) {
+      img = metaObj.image ? `img/stars/${metaObj.image}` : undefined;
+
+      if (metaObj.characterName) {
+        characterDisplayName = metaObj.characterName;
+
+        if (metaObj.characterAlias) {
+          characterDisplayName = `${characterDisplayName} / ${metaObj.characterAlias}`;
+        }
+      }
+    }
 
     const [baftas] = allData.baftas.filter(a => a.actorName === actor.actorName);
     const [oscars] = allData.oscars.filter(a => a.actorName === actor.actorName);
@@ -70,7 +87,10 @@ loadData().catch(console.error).then((allData) => {
     }
 
     if (imdb) {
-      img = imdb.img;
+      if (!img) {
+        img = imdb.img;
+      }
+
       filmsCount = imdb.filmsCount;
       powerCareer += imdb.power;
     }
@@ -78,6 +98,7 @@ loadData().catch(console.error).then((allData) => {
     aggregateData.push(
       Object.assign({
         awards,
+        characterDisplayName,
         img,
         filmsMcu,
         filmsCount,
