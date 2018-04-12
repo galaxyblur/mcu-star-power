@@ -4,10 +4,12 @@
     <icons />
 
     <div class="uk-text-center">
-      <h2>Who are the biggest stars in the Marvel Cinematic Universe?</h2>
     </div>
 
     <section class="uk-section">
+      <h2 class="uk-h4 uk-float-right uk-margin-top">
+        Who are the biggest stars in the Marvel Cinematic Universe?
+      </h2>
       <ul class="uk-subnav uk-subnav-pill" uk-margin>
         <li :class="{ 'uk-active': this.sort === 'powerCareer' }"><a href="#" @click.prevent="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></a></li>
         <li :class="{ 'uk-active': this.sort === 'powerMcu' }"><a href="#" @click.prevent="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></a></li>
@@ -16,41 +18,45 @@
         <div v-for="(a, ai) in actorsSorted" :key="ai" class="actor-card uk-padding-small">
           <div class="uk-card uk-card-default uk-height-1-1 uk-box-shadow-large" uk-toggle="target:#modal-selected-actor" @click="selectedActor = a">
             <div class="uk-card-body uk-height-1-1 uk-background-cover uk-background-blend-overlay" :style="'background-image:url('+a.img+')'">
+              <div class="actor-card-accolades uk-overlay uk-position-top-left uk-text-small">
+                <div uk-tooltip="title: Career films | MCU films">
+                  <i class="fa fa-film"></i>
+                  {{ a.filmsCount }} | {{ a.filmsMcu.length }}*
+                </div>
+                <div uk-tooltip="title: Oscar Wins/Nominations">
+                  <svg class="icon icon-oscars"><use xlink:href="#icon-oscars"></use></svg>
+                  {{ getWinsForActor('OSCARS', a).length }}/{{ getNomsForActor('OSCARS', a).length }}
+                </div>
+                <div uk-tooltip="title: Golden Globe Wins/Nominations">
+                  <svg class="icon icon-golden-globes"><use xlink:href="#icon-golden-globe"></use></svg>
+                  {{ getWinsForActor('GOLDEN_GLOBES', a).length }}/{{ getNomsForActor('GOLDEN_GLOBES', a).length }}
+                </div>
+                <div uk-tooltip="title: Emmy Wins/Nominations">
+                  <svg class="icon icon-emmys"><use xlink:href="#icon-emmys"></use></svg>
+                  {{ getWinsForActor('EMMYS', a).length }}/{{ getNomsForActor('EMMYS', a).length }}
+                </div>
+                <div uk-tooltip="title: BAFTA Wins/Nominations">
+                  <svg class="icon icon-baftas"><use xlink:href="#icon-baftas"></use></svg>
+                  {{ getWinsForActor('BAFTAS', a).length }}/{{ getNomsForActor('BAFTAS', a).length }}
+                </div>
+              </div>
               <div class="uk-overlay uk-width-1-1 uk-position-bottom-center">
                 <div class="uk-text-center uk-flex">
-                  <div class="uk-width-1-5"><i class="fa fa-star" aria-hidden="true"></i><br>{{ a.powerCareer }}</div>
+                  <div class="uk-width-1-5" uk-tooltip="title: Career Power">
+                    <i class="fa fa-star" aria-hidden="true"></i><br>
+                    {{ a.powerCareer }}
+                  </div>
                   <div class="uk-width-3-5">
                     {{ a.actorName }}<br>
                     <i class="uk-text-meta">{{ getCharacterDisplayNameForActor(a) }}</i>
                   </div>
-                  <div class="uk-width-1-5"><svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg><br>{{ a.powerMcu }}</div>
+                  <div class="uk-width-1-5" uk-tooltip="title: MCU Power">
+                    <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg><br>
+                    {{ a.powerMcu }}
+                  </div>
                 </div>
-              </div>
-              <div class="actor-card-accolades uk-overlay uk-position-top-left uk-text-small">
-                <div>
-                  <svg class="icon icon-video-camera"><use xlink:href="#icon-video-camera"></use></svg>
-                  {{ a.filmsCount }}
-                </div>
-                <div>
-                  <svg class="icon icon-oscars"><use xlink:href="#icon-oscars"></use></svg>
-                  {{ getWinsForActor('OSCARS', a).length }}/{{ getNomsForActor('OSCARS', a).length }}
-                </div>
-                <div>
-                  <svg class="icon icon-emmys"><use xlink:href="#icon-emmys"></use></svg>
-                  {{ getWinsForActor('EMMYS', a).length }}/{{ getNomsForActor('EMMYS', a).length }}</div>
-              </div>
-              <div class="actor-card-accolades uk-overlay uk-position-top-right uk-text-right uk-text-small">
-                <div>
-                  {{ a.filmsMcu.length }}
-                  <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg>
-                </div>
-                <div>
-                  {{ getWinsForActor('GOLDEN_GLOBES', a).length }}/{{ getNomsForActor('GOLDEN_GLOBES', a).length }}
-                  <svg class="icon icon-golden-globes"><use xlink:href="#icon-golden-globe"></use></svg>
-                </div>
-                <div>
-                  {{ getWinsForActor('BAFTAS', a).length }}/{{ getNomsForActor('BAFTAS', a).length }}
-                  <svg class="icon icon-baftas"><use xlink:href="#icon-baftas"></use></svg>
+                <div class="actor-card-last-seen uk-margin-top uk-text-center uk-text-small">
+                  Last seen in <span v-html="getLastMcuFilmElForActor(a)" @click.stop></span>
                 </div>
               </div>
             </div>
@@ -75,7 +81,7 @@
               <strong>{{ selectedActor.actorName }}</strong> has appeared in <strong>{{ selectedActor.filmsCount }}</strong> films,
               including <strong>{{ selectedActor.filmsMcu.length }}</strong> in the Marvel Cinematic Universe.
             </p>
-            <p class="uk-text-meta" v-html="'<i>' + getMcuListForActor(selectedActor) + '</i>'"></p>
+            <p id="modal-selected-actor-mcu-list" class="uk-text-meta" v-html="getMcuListForActor(selectedActor)"></p>
             <p>
               Career Power: {{ selectedActor.powerCareer }}<br>
               MCU Power: {{ selectedActor.powerMcu }}
@@ -123,15 +129,18 @@ export default {
     Icons,
   },
   async asyncData({ app }) {
-    let { data } = await app.$axios.get('json/aggregate.json');
+    const aggregate = await app.$axios.get('json/aggregate.json');
+    const affLinks = await app.$axios.get('json/aff-links.json');
 
     return {
-      actors: data,
+      actors: aggregate.data,
+      aff: affLinks.data,
     };
   },
   data() {
     return {
       actors: [],
+      aff: [],
       selectedActor: undefined,
       sort: 'powerCareer',
     };
@@ -146,14 +155,29 @@ export default {
     },
   },
   methods: {
+    getInlineElementForFilm(film) {
+      const t = film.title;
+      const [ link ] = this.aff.filter(l => l.filmTitle === film.title);
+      let el = `<span>${t}</span>`;
+
+      if (link) {
+        const l = link.affiliateLink;
+        el = `<a href="${l}" target="_blank"><i class="fa fa-play-circle"></i> ${t}</a>`;
+      }
+
+      return el;
+    },
     getMcuListForActor(actor) {
       const films = [];
 
       actor.filmsMcu.forEach((f) => {
-        films.push(`<span>${f.title}</span>`);
+        films.push(this.getInlineElementForFilm(f));
       });
 
       return films.join(', ');
+    },
+    getLastMcuFilmElForActor(actor) {
+      return this.getInlineElementForFilm(actor.filmsMcu[actor.filmsMcu.length - 1]);
     },
     getCharacterDisplayNameForActor(actor) {
       return actor.characterDisplayName || actor.filmsMcu[0].characterName;
@@ -172,8 +196,14 @@ export default {
 </script>
 
 <style>
+.icon {
+  width: 24px;
+  height: 24px;
+  fill: #ccc;
+}
+
 .actor-card {
-  height: 400px;
+  height: 500px;
 }
 
 .actor-card > div {
@@ -184,6 +214,19 @@ export default {
   background-color: #333;
 }
 
+.actor-card .actor-card-accolades > div {
+  margin: 12px 0;
+}
+
+.actor-card .actor-card-last-seen a {
+  color: #F0C668;
+  padding: 3px;
+}
+
+.actor-card .actor-card-last-seen span > span {
+  font-style: italic;
+}
+
 .actor-card:active .uk-card-body,
 .actor-card:focus .uk-card-body,
 .actor-card:hover .uk-card-body {
@@ -191,14 +234,11 @@ export default {
   background-blend-mode: hard-light;
 }
 
-.actor-card .actor-card-accolades > div {
-  margin: 12px 0;
-}
-
-.icon {
-  width: 24px;
-  height: 24px;
-  fill: #ccc;
+.actor-card:active .uk-card-body .actor-card-last-seen a,
+.actor-card:focus .uk-card-body .actor-card-last-seen a,
+.actor-card:hover .uk-card-body .actor-card-last-seen a {
+  background-color: #F0C668;
+  color: #222;
 }
 
 .actor-card:active .uk-card-body .icon,
@@ -215,5 +255,13 @@ export default {
 
 .uk-subnav .icon {
   fill: #ccc;
+}
+
+#modal-selected-actor-mcu-list {
+  font-style: italic;
+}
+
+#modal-selected-actor-mcu-list a {
+  text-decoration: underline;
 }
 </style>
