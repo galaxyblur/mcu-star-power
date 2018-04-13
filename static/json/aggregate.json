@@ -72,39 +72,48 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Tony Stark / Iron Man"
+        "characterName": "Tony Stark / Iron Man",
+        "isReleased": true
       },
       {
         "title": "Iron Man 2",
-        "characterName": "Tony Stark"
+        "characterName": "Tony Stark",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Tony Stark / Iron Man"
+        "characterName": "Tony Stark / Iron Man",
+        "isReleased": true
       },
       {
         "title": "Iron Man 3",
-        "characterName": "Tony Stark"
+        "characterName": "Tony Stark",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Tony Stark / Iron Man"
+        "characterName": "Tony Stark / Iron Man",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Tony Stark / Iron Man"
+        "characterName": "Tony Stark / Iron Man",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Tony Stark / Iron Man"
+        "characterName": "Tony Stark / Iron Man",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Tony Stark / Iron Man"
+        "characterName": "Tony Stark / Iron Man",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Tony Stark / Iron Man"
+        "characterName": "Tony Stark / Iron Man",
+        "isReleased": false
       }
     ],
     "filmsCount": 90,
@@ -138,7 +147,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Rhodey"
+        "characterName": "Rhodey",
+        "isReleased": true
       }
     ],
     "filmsCount": 91,
@@ -283,7 +293,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Obadiah Stane"
+        "characterName": "Obadiah Stane",
+        "isReleased": true
       }
     ],
     "filmsCount": 89,
@@ -344,31 +355,38 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Pepper Potts"
+        "characterName": "Pepper Potts",
+        "isReleased": true
       },
       {
         "title": "Iron Man 2",
-        "characterName": "Pepper Potts"
+        "characterName": "Pepper Potts",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Pepper Potts"
+        "characterName": "Pepper Potts",
+        "isReleased": true
       },
       {
         "title": "Iron Man 3",
-        "characterName": "Pepper Potts"
+        "characterName": "Pepper Potts",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Pepper Potts"
+        "characterName": "Pepper Potts",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Pepper Potts"
+        "characterName": "Pepper Potts",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Pepper Potts"
+        "characterName": "Pepper Potts",
+        "isReleased": false
       }
     ],
     "filmsCount": 56,
@@ -385,11 +403,13 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Christine Everhart"
+        "characterName": "Christine Everhart",
+        "isReleased": true
       },
       {
         "title": "Iron Man 2",
-        "characterName": "Christine Everhart"
+        "characterName": "Christine Everhart",
+        "isReleased": true
       }
     ],
     "filmsCount": 67,
@@ -406,11 +426,13 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Yinsen"
+        "characterName": "Yinsen",
+        "isReleased": true
       },
       {
         "title": "Iron Man 3",
-        "characterName": "Ho Yinsen"
+        "characterName": "Ho Yinsen",
+        "isReleased": true
       }
     ],
     "filmsCount": 93,
@@ -427,7 +449,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Raza"
+        "characterName": "Raza",
+        "isReleased": true
       }
     ],
     "filmsCount": 83,
@@ -444,19 +467,23 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Agent Coulson"
+        "characterName": "Agent Coulson",
+        "isReleased": true
       },
       {
         "title": "Iron Man 2",
-        "characterName": "Agent Coulson"
+        "characterName": "Agent Coulson",
+        "isReleased": true
       },
       {
         "title": "Thor",
-        "characterName": "Agent Coulson"
+        "characterName": "Agent Coulson",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Agent Phil Coulson"
+        "characterName": "Agent Phil Coulson",
+        "isReleased": true
       }
     ],
     "filmsCount": 78,
@@ -473,7 +500,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "General Gabriel"
+        "characterName": "General Gabriel",
+        "isReleased": true
       }
     ],
     "filmsCount": 108,
@@ -490,7 +518,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Abu Bakaar"
+        "characterName": "Abu Bakaar",
+        "isReleased": true
       }
     ],
     "filmsCount": 60,
@@ -516,31 +545,38 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "JARVIS (voice)"
+        "characterName": "JARVIS (voice)",
+        "isReleased": true
       },
       {
         "title": "Iron Man 2",
-        "characterName": "JARVIS (voice)"
+        "characterName": "JARVIS (voice)",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Jarvis (voice)"
+        "characterName": "Jarvis (voice)",
+        "isReleased": true
       },
       {
         "title": "Iron Man 3",
-        "characterName": "JARVIS (voice)"
+        "characterName": "JARVIS (voice)",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Jarvis / Vision"
+        "characterName": "Jarvis / Vision",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Vision"
+        "characterName": "Vision",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Vision"
+        "characterName": "Vision",
+        "isReleased": false
       }
     ],
     "filmsCount": 47,
@@ -573,27 +609,33 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Hogan"
+        "characterName": "Hogan",
+        "isReleased": true
       },
       {
         "title": "Iron Man 2",
-        "characterName": "Happy Hogan"
+        "characterName": "Happy Hogan",
+        "isReleased": true
       },
       {
         "title": "Iron Man 3",
-        "characterName": "Happy Hogan"
+        "characterName": "Happy Hogan",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Happy Hogan"
+        "characterName": "Happy Hogan",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Happy Hogan"
+        "characterName": "Happy Hogan",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Happy Hogan"
+        "characterName": "Happy Hogan",
+        "isReleased": false
       }
     ],
     "filmsCount": 69,
@@ -618,63 +660,78 @@
     "filmsMcu": [
       {
         "title": "Iron Man",
-        "characterName": "Stan Lee"
+        "characterName": "Stan Lee",
+        "isReleased": true
       },
       {
         "title": "Iron Man 2",
-        "characterName": "Stan Lee"
+        "characterName": "Stan Lee",
+        "isReleased": true
       },
       {
         "title": "Thor",
-        "characterName": "Stan the Man"
+        "characterName": "Stan the Man",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Stan Lee"
+        "characterName": "Stan Lee",
+        "isReleased": true
       },
       {
         "title": "Iron Man 3",
-        "characterName": "Pageant Judge"
+        "characterName": "Pageant Judge",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Stan Lee"
+        "characterName": "Stan Lee",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Smithsonian Guard"
+        "characterName": "Smithsonian Guard",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Xandarian Ladies' Man"
+        "characterName": "Xandarian Ladies' Man",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Stan Lee"
+        "characterName": "Stan Lee",
+        "isReleased": true
       },
       {
         "title": "Ant-Man",
-        "characterName": "Bartender"
+        "characterName": "Bartender",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "FedEx Driver"
+        "characterName": "FedEx Driver",
+        "isReleased": true
       },
       {
         "title": "Doctor Strange",
-        "characterName": "Bus Passenger"
+        "characterName": "Bus Passenger",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Watcher Informant"
+        "characterName": "Watcher Informant",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Gary"
+        "characterName": "Gary",
+        "isReleased": true
       },
       {
         "title": "Black Panther",
-        "characterName": "Thirsty Gambler"
+        "characterName": "Thirsty Gambler",
+        "isReleased": true
       }
     ],
     "filmsCount": 114,
@@ -759,7 +816,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Bruce Banner"
+        "characterName": "Bruce Banner",
+        "isReleased": true
       }
     ],
     "filmsCount": 41,
@@ -776,7 +834,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Betty Ross"
+        "characterName": "Betty Ross",
+        "isReleased": true
       }
     ],
     "filmsCount": 34,
@@ -824,7 +883,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Emil Blonsky"
+        "characterName": "Emil Blonsky",
+        "isReleased": true
       }
     ],
     "filmsCount": 101,
@@ -937,11 +997,13 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "General 'Thunderbolt' Ross"
+        "characterName": "General 'Thunderbolt' Ross",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Secretary of State Thaddeus Ross"
+        "characterName": "Secretary of State Thaddeus Ross",
+        "isReleased": true
       }
     ],
     "filmsCount": 100,
@@ -958,7 +1020,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Samuel Sterns"
+        "characterName": "Samuel Sterns",
+        "isReleased": true
       }
     ],
     "filmsCount": 81,
@@ -1040,7 +1103,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Leonard"
+        "characterName": "Leonard",
+        "isReleased": true
       }
     ],
     "filmsCount": 40,
@@ -1057,7 +1121,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Major Kathleen Sparr"
+        "characterName": "Major Kathleen Sparr",
+        "isReleased": true
       }
     ],
     "filmsCount": 19,
@@ -1074,7 +1139,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "General Joe Greller"
+        "characterName": "General Joe Greller",
+        "isReleased": true
       }
     ],
     "filmsCount": 47,
@@ -1091,7 +1157,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Voice of The Incredible Hulk / Security Guard"
+        "characterName": "Voice of The Incredible Hulk / Security Guard",
+        "isReleased": true
       }
     ],
     "filmsCount": 62,
@@ -1107,7 +1174,8 @@
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
-        "characterName": "Stanley"
+        "characterName": "Stanley",
+        "isReleased": true
       }
     ],
     "filmsCount": 93,
@@ -1246,23 +1314,28 @@
     "filmsMcu": [
       {
         "title": "Iron Man 2",
-        "characterName": "Lt. Col. James 'Rhodey' Rhodes"
+        "characterName": "Lt. Col. James 'Rhodey' Rhodes",
+        "isReleased": true
       },
       {
         "title": "Iron Man 3",
-        "characterName": "Colonel James Rhodes"
+        "characterName": "Colonel James Rhodes",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "James Rhodes / War Machine"
+        "characterName": "James Rhodes / War Machine",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Lieutenant James Rhodes / War Machine"
+        "characterName": "Lieutenant James Rhodes / War Machine",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "James Rhodes / War Machine"
+        "characterName": "James Rhodes / War Machine",
+        "isReleased": false
       }
     ],
     "filmsCount": 84,
@@ -1316,31 +1389,38 @@
     "filmsMcu": [
       {
         "title": "Iron Man 2",
-        "characterName": "Natalie Rushman / Natasha Romanoff"
+        "characterName": "Natalie Rushman / Natasha Romanoff",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Natasha Romanoff / Black Widow"
+        "characterName": "Natasha Romanoff / Black Widow",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Natasha Romanoff / Black Widow"
+        "characterName": "Natasha Romanoff / Black Widow",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Natasha Romanoff / Black Widow"
+        "characterName": "Natasha Romanoff / Black Widow",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Natasha Romanoff / Black Widow"
+        "characterName": "Natasha Romanoff / Black Widow",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Natasha Romanoff / Black Widow"
+        "characterName": "Natasha Romanoff / Black Widow",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Black Widow / Natasha Romanoff"
+        "characterName": "Black Widow / Natasha Romanoff",
+        "isReleased": false
       }
     ],
     "filmsCount": 61,
@@ -1372,7 +1452,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man 2",
-        "characterName": "Justin Hammer"
+        "characterName": "Justin Hammer",
+        "isReleased": true
       }
     ],
     "filmsCount": 99,
@@ -1412,7 +1493,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man 2",
-        "characterName": "Ivan Vanko"
+        "characterName": "Ivan Vanko",
+        "isReleased": true
       }
     ],
     "filmsCount": 83,
@@ -1487,27 +1569,33 @@
     "filmsMcu": [
       {
         "title": "Iron Man 2",
-        "characterName": "Nick Fury"
+        "characterName": "Nick Fury",
+        "isReleased": true
       },
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Nick Fury"
+        "characterName": "Nick Fury",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Nick Fury"
+        "characterName": "Nick Fury",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Nick Fury"
+        "characterName": "Nick Fury",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Nick Fury"
+        "characterName": "Nick Fury",
+        "isReleased": true
       },
       {
         "title": "Captain Marvel",
-        "characterName": "Nick Fury"
+        "characterName": "Nick Fury",
+        "isReleased": false
       }
     ],
     "filmsCount": 176,
@@ -1553,15 +1641,18 @@
     "filmsMcu": [
       {
         "title": "Iron Man 2",
-        "characterName": "Howard Stark"
+        "characterName": "Howard Stark",
+        "isReleased": true
       },
       {
         "title": "Ant-Man",
-        "characterName": "Howard Stark"
+        "characterName": "Howard Stark",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Howard Stark"
+        "characterName": "Howard Stark",
+        "isReleased": true
       }
     ],
     "filmsCount": 73,
@@ -1670,11 +1761,13 @@
     "filmsMcu": [
       {
         "title": "Iron Man 2",
-        "characterName": "Senator Stern"
+        "characterName": "Senator Stern",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Senator Stern"
+        "characterName": "Senator Stern",
+        "isReleased": true
       }
     ],
     "filmsCount": 25,
@@ -1700,31 +1793,38 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Thor"
+        "characterName": "Thor",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Thor"
+        "characterName": "Thor",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Thor"
+        "characterName": "Thor",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Thor"
+        "characterName": "Thor",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Thor"
+        "characterName": "Thor",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Thor"
+        "characterName": "Thor",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Thor"
+        "characterName": "Thor",
+        "isReleased": false
       }
     ],
     "filmsCount": 37,
@@ -1815,11 +1915,13 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Jane Foster"
+        "characterName": "Jane Foster",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Jane Foster"
+        "characterName": "Jane Foster",
+        "isReleased": true
       }
     ],
     "filmsCount": 58,
@@ -1866,23 +1968,28 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Loki"
+        "characterName": "Loki",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Loki"
+        "characterName": "Loki",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Loki"
+        "characterName": "Loki",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Loki"
+        "characterName": "Loki",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Loki"
+        "characterName": "Loki",
+        "isReleased": false
       }
     ],
     "filmsCount": 44,
@@ -2079,15 +2186,18 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Odin"
+        "characterName": "Odin",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Odin"
+        "characterName": "Odin",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Odin"
+        "characterName": "Odin",
+        "isReleased": true
       }
     ],
     "filmsCount": 132,
@@ -2104,19 +2214,23 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Erik Selvig"
+        "characterName": "Erik Selvig",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Selvig"
+        "characterName": "Selvig",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Erik Selvig"
+        "characterName": "Erik Selvig",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Erik Selvig"
+        "characterName": "Erik Selvig",
+        "isReleased": true
       }
     ],
     "filmsCount": 141,
@@ -2133,11 +2247,13 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Darcy Lewis"
+        "characterName": "Darcy Lewis",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Darcy Lewis"
+        "characterName": "Darcy Lewis",
+        "isReleased": true
       }
     ],
     "filmsCount": 40,
@@ -2154,7 +2270,8 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "King Laufey"
+        "characterName": "King Laufey",
+        "isReleased": true
       }
     ],
     "filmsCount": 150,
@@ -2270,19 +2387,23 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Heimdall"
+        "characterName": "Heimdall",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Heimdall"
+        "characterName": "Heimdall",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Heimdall"
+        "characterName": "Heimdall",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Heimdall"
+        "characterName": "Heimdall",
+        "isReleased": true
       }
     ],
     "filmsCount": 86,
@@ -2299,15 +2420,18 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Volstagg"
+        "characterName": "Volstagg",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Volstagg"
+        "characterName": "Volstagg",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Volstagg"
+        "characterName": "Volstagg",
+        "isReleased": true
       }
     ],
     "filmsCount": 53,
@@ -2324,15 +2448,18 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Hogun"
+        "characterName": "Hogun",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Hogun"
+        "characterName": "Hogun",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Hogun"
+        "characterName": "Hogun",
+        "isReleased": true
       }
     ],
     "filmsCount": 104,
@@ -2349,11 +2476,13 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Sif"
+        "characterName": "Sif",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Sif"
+        "characterName": "Sif",
+        "isReleased": true
       }
     ],
     "filmsCount": 30,
@@ -2378,11 +2507,13 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Frigga"
+        "characterName": "Frigga",
+        "isReleased": true
       },
       {
         "title": "Thor: The Dark World",
-        "characterName": "Frigga"
+        "characterName": "Frigga",
+        "isReleased": true
       }
     ],
     "filmsCount": 29,
@@ -2399,15 +2530,18 @@
     "filmsMcu": [
       {
         "title": "Thor",
-        "characterName": "Agent Sitwell (as Maximiliano Hernandez)"
+        "characterName": "Agent Sitwell (as Maximiliano Hernandez)",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Agent Jasper Sitwell"
+        "characterName": "Agent Jasper Sitwell",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Jasper Sitwell (as Maximiliano Hernandez)"
+        "characterName": "Jasper Sitwell (as Maximiliano Hernandez)",
+        "isReleased": true
       }
     ],
     "filmsCount": 38,
@@ -2461,35 +2595,43 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Captain America / Steve Rogers"
+        "characterName": "Captain America / Steve Rogers",
+        "isReleased": true
       },
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Steve Rogers / Captain America"
+        "characterName": "Steve Rogers / Captain America",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Steve Rogers / Captain America"
+        "characterName": "Steve Rogers / Captain America",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Steve Rogers / Captain America"
+        "characterName": "Steve Rogers / Captain America",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Steve Rogers / Captain America"
+        "characterName": "Steve Rogers / Captain America",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Steve Rogers / Captain America"
+        "characterName": "Steve Rogers / Captain America",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Steve Rogers"
+        "characterName": "Steve Rogers",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Steve Rogers / Captain America"
+        "characterName": "Steve Rogers / Captain America",
+        "isReleased": false
       }
     ],
     "filmsCount": 48,
@@ -2514,19 +2656,23 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Peggy Carter"
+        "characterName": "Peggy Carter",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Peggy Carter"
+        "characterName": "Peggy Carter",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Peggy Carter"
+        "characterName": "Peggy Carter",
+        "isReleased": true
       },
       {
         "title": "Ant-Man",
-        "characterName": "Peggy Carter"
+        "characterName": "Peggy Carter",
+        "isReleased": true
       }
     ],
     "filmsCount": 41,
@@ -2544,23 +2690,28 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "James Buchanan 'Bucky' Barnes"
+        "characterName": "James Buchanan 'Bucky' Barnes",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Bucky Barnes / Winter Soldier"
+        "characterName": "Bucky Barnes / Winter Soldier",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Bucky Barnes / Winter Soldier"
+        "characterName": "Bucky Barnes / Winter Soldier",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Bucky Barnes / Winter Soldier"
+        "characterName": "Bucky Barnes / Winter Soldier",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Bucky Barnes / Winter Soldier"
+        "characterName": "Bucky Barnes / Winter Soldier",
+        "isReleased": false
       }
     ],
     "filmsCount": 39,
@@ -2680,7 +2831,8 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Colonel Chester Phillips"
+        "characterName": "Colonel Chester Phillips",
+        "isReleased": true
       }
     ],
     "filmsCount": 82,
@@ -2697,7 +2849,8 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Johann Schmidt / Red Skull"
+        "characterName": "Johann Schmidt / Red Skull",
+        "isReleased": true
       }
     ],
     "filmsCount": 87,
@@ -2722,7 +2875,8 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Howard Stark"
+        "characterName": "Howard Stark",
+        "isReleased": true
       }
     ],
     "filmsCount": 55,
@@ -2739,7 +2893,8 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Heinz Kruger"
+        "characterName": "Heinz Kruger",
+        "isReleased": true
       }
     ],
     "filmsCount": 46,
@@ -2849,7 +3004,8 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Dr. Abraham Erskine"
+        "characterName": "Dr. Abraham Erskine",
+        "isReleased": true
       }
     ],
     "filmsCount": 125,
@@ -2916,11 +3072,13 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Dr. Arnim Zola"
+        "characterName": "Dr. Arnim Zola",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Dr. Arnim Zola"
+        "characterName": "Dr. Arnim Zola",
+        "isReleased": true
       }
     ],
     "filmsCount": 108,
@@ -2937,11 +3095,13 @@
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
-        "characterName": "Jim Morita"
+        "characterName": "Jim Morita",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Principal Morita"
+        "characterName": "Principal Morita",
+        "isReleased": true
       }
     ],
     "filmsCount": 80,
@@ -3047,19 +3207,23 @@
     "filmsMcu": [
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Bruce Banner / The Hulk"
+        "characterName": "Bruce Banner / The Hulk",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Bruce Banner / Hulk"
+        "characterName": "Bruce Banner / Hulk",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Bruce Banner / Hulk"
+        "characterName": "Bruce Banner / Hulk",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Bruce Banner / Hulk"
+        "characterName": "Bruce Banner / Hulk",
+        "isReleased": false
       }
     ],
     "filmsCount": 66,
@@ -3108,23 +3272,28 @@
     "filmsMcu": [
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Clint Barton / Hawkeye"
+        "characterName": "Clint Barton / Hawkeye",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Clint Barton / Hawkeye"
+        "characterName": "Clint Barton / Hawkeye",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Clint Barton / Hawkeye"
+        "characterName": "Clint Barton / Hawkeye",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Clint Barton / Hawkeye"
+        "characterName": "Clint Barton / Hawkeye",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Clint Barton / Hawkeye"
+        "characterName": "Clint Barton / Hawkeye",
+        "isReleased": false
       }
     ],
     "filmsCount": 54,
@@ -3141,19 +3310,23 @@
     "filmsMcu": [
       {
         "title": "Marvel's The Avengers",
-        "characterName": "Agent Maria Hill"
+        "characterName": "Agent Maria Hill",
+        "isReleased": true
       },
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Maria Hill"
+        "characterName": "Maria Hill",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Maria Hill"
+        "characterName": "Maria Hill",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Maria Hill (rumored)"
+        "characterName": "Maria Hill (rumored)",
+        "isReleased": false
       }
     ],
     "filmsCount": 41,
@@ -3192,7 +3365,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man 3",
-        "characterName": "Aldrich Killian"
+        "characterName": "Aldrich Killian",
+        "isReleased": true
       }
     ],
     "filmsCount": 71,
@@ -3252,7 +3426,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man 3",
-        "characterName": "Maya Hansen"
+        "characterName": "Maya Hansen",
+        "isReleased": true
       }
     ],
     "filmsCount": 38,
@@ -3415,7 +3590,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man 3",
-        "characterName": "Trevor Slattery"
+        "characterName": "Trevor Slattery",
+        "isReleased": true
       }
     ],
     "filmsCount": 137,
@@ -3432,7 +3608,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man 3",
-        "characterName": "Savin"
+        "characterName": "Savin",
+        "isReleased": true
       }
     ],
     "filmsCount": 40,
@@ -3449,7 +3626,8 @@
     "filmsMcu": [
       {
         "title": "Iron Man 3",
-        "characterName": "Brandt"
+        "characterName": "Brandt",
+        "isReleased": true
       }
     ],
     "filmsCount": 32,
@@ -3466,11 +3644,13 @@
     "filmsMcu": [
       {
         "title": "Iron Man 3",
-        "characterName": "Harley Keener"
+        "characterName": "Harley Keener",
+        "isReleased": true
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Harley Keener"
+        "characterName": "Harley Keener",
+        "isReleased": false
       }
     ],
     "filmsCount": 30,
@@ -3509,7 +3689,8 @@
     "filmsMcu": [
       {
         "title": "Thor: The Dark World",
-        "characterName": "Malekith"
+        "characterName": "Malekith",
+        "isReleased": true
       }
     ],
     "filmsCount": 76,
@@ -3526,11 +3707,13 @@
     "filmsMcu": [
       {
         "title": "Thor: The Dark World",
-        "characterName": "Fandral"
+        "characterName": "Fandral",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Fandral"
+        "characterName": "Fandral",
+        "isReleased": true
       }
     ],
     "filmsCount": 54,
@@ -3654,7 +3837,8 @@
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Alexander Pierce"
+        "characterName": "Alexander Pierce",
+        "isReleased": true
       }
     ],
     "filmsCount": 79,
@@ -3672,23 +3856,28 @@
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Sam Wilson / Falcon"
+        "characterName": "Sam Wilson / Falcon",
+        "isReleased": true
       },
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Sam Wilson / Falcon"
+        "characterName": "Sam Wilson / Falcon",
+        "isReleased": true
       },
       {
         "title": "Ant-Man",
-        "characterName": "Sam Wilson / Falcon"
+        "characterName": "Sam Wilson / Falcon",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Sam Wilson / Falcon"
+        "characterName": "Sam Wilson / Falcon",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Sam Wilson / Falcon"
+        "characterName": "Sam Wilson / Falcon",
+        "isReleased": false
       }
     ],
     "filmsCount": 57,
@@ -3706,11 +3895,13 @@
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Brock Rumlow"
+        "characterName": "Brock Rumlow",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Brock Rumlow / Crossbones"
+        "characterName": "Brock Rumlow / Crossbones",
+        "isReleased": true
       }
     ],
     "filmsCount": 66,
@@ -3728,11 +3919,13 @@
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
-        "characterName": "Kate / Agent 13"
+        "characterName": "Kate / Agent 13",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Sharon Carter (as Emily Vancamp)"
+        "characterName": "Sharon Carter (as Emily Vancamp)",
+        "isReleased": true
       }
     ],
     "filmsCount": 27,
@@ -3765,15 +3958,18 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Peter Quill"
+        "characterName": "Peter Quill",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Peter Quill / Star-Lord"
+        "characterName": "Peter Quill / Star-Lord",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Peter Quill / Star-Lord"
+        "characterName": "Peter Quill / Star-Lord",
+        "isReleased": false
       }
     ],
     "filmsCount": 48,
@@ -3791,15 +3987,18 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Gamora"
+        "characterName": "Gamora",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Gamora"
+        "characterName": "Gamora",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Gamora"
+        "characterName": "Gamora",
+        "isReleased": false
       }
     ],
     "filmsCount": 54,
@@ -3817,15 +4016,18 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Drax"
+        "characterName": "Drax",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Drax"
+        "characterName": "Drax",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Drax"
+        "characterName": "Drax",
+        "isReleased": false
       }
     ],
     "filmsCount": 54,
@@ -3843,15 +4045,18 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Groot (voice)"
+        "characterName": "Groot (voice)",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Baby Groot (voice)"
+        "characterName": "Baby Groot (voice)",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Groot (voice)"
+        "characterName": "Groot (voice)",
+        "isReleased": false
       }
     ],
     "filmsCount": 43,
@@ -3922,15 +4127,18 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Rocket (voice)"
+        "characterName": "Rocket (voice)",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Rocket (voice)"
+        "characterName": "Rocket (voice)",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Rocket Raccoon (voice)"
+        "characterName": "Rocket Raccoon (voice)",
+        "isReleased": false
       }
     ],
     "filmsCount": 60,
@@ -3969,7 +4177,8 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Ronan"
+        "characterName": "Ronan",
+        "isReleased": true
       }
     ],
     "filmsCount": 34,
@@ -3986,11 +4195,13 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Yondu Udonta"
+        "characterName": "Yondu Udonta",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Yondu"
+        "characterName": "Yondu",
+        "isReleased": true
       }
     ],
     "filmsCount": 119,
@@ -4008,19 +4219,23 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Nebula"
+        "characterName": "Nebula",
+        "isReleased": true
       },
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Nebula"
+        "characterName": "Nebula",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Nebula"
+        "characterName": "Nebula",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Nebula"
+        "characterName": "Nebula",
+        "isReleased": false
       }
     ],
     "filmsCount": 51,
@@ -4061,7 +4276,8 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Korath"
+        "characterName": "Korath",
+        "isReleased": true
       }
     ],
     "filmsCount": 50,
@@ -4108,7 +4324,8 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
-        "characterName": "Corpsman Dey"
+        "characterName": "Corpsman Dey",
+        "isReleased": true
       }
     ],
     "filmsCount": 101,
@@ -4175,7 +4392,8 @@
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Ultron"
+        "characterName": "Ultron",
+        "isReleased": true
       }
     ],
     "filmsCount": 54,
@@ -4207,7 +4425,8 @@
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Pietro Maximoff / Quicksilver"
+        "characterName": "Pietro Maximoff / Quicksilver",
+        "isReleased": true
       }
     ],
     "filmsCount": 40,
@@ -4233,15 +4452,18 @@
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Wanda Maximoff / Scarlet Witch"
+        "characterName": "Wanda Maximoff / Scarlet Witch",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Wanda Maximoff / Scarlet Witch"
+        "characterName": "Wanda Maximoff / Scarlet Witch",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Wanda Maximoff / Scarlet Witch"
+        "characterName": "Wanda Maximoff / Scarlet Witch",
+        "isReleased": false
       }
     ],
     "filmsCount": 22,
@@ -4266,11 +4488,13 @@
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
-        "characterName": "Laura Barton"
+        "characterName": "Laura Barton",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Laura Barton"
+        "characterName": "Laura Barton",
+        "isReleased": false
       }
     ],
     "filmsCount": 67,
@@ -4287,19 +4511,23 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Scott Lang / Ant-Man"
+        "characterName": "Scott Lang / Ant-Man",
+        "isReleased": true
       },
       {
         "title": "Captain America: Civil War",
-        "characterName": "Scott Lang / Ant-Man"
+        "characterName": "Scott Lang / Ant-Man",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Scott Lang / Ant-Man"
+        "characterName": "Scott Lang / Ant-Man",
+        "isReleased": false
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Scott Lang / Ant-Man"
+        "characterName": "Scott Lang / Ant-Man",
+        "isReleased": false
       }
     ],
     "filmsCount": 109,
@@ -4480,11 +4708,13 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Dr. Hank Pym"
+        "characterName": "Dr. Hank Pym",
+        "isReleased": true
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Dr. Hank Pym"
+        "characterName": "Dr. Hank Pym",
+        "isReleased": false
       }
     ],
     "filmsCount": 77,
@@ -4509,15 +4739,18 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Hope van Dyne"
+        "characterName": "Hope van Dyne",
+        "isReleased": true
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Hope van Dyne / The Wasp"
+        "characterName": "Hope van Dyne / The Wasp",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Hope van Dyne / The Wasp"
+        "characterName": "Hope van Dyne / The Wasp",
+        "isReleased": false
       }
     ],
     "filmsCount": 19,
@@ -4542,7 +4775,8 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Darren Cross / Yellowjacket"
+        "characterName": "Darren Cross / Yellowjacket",
+        "isReleased": true
       }
     ],
     "filmsCount": 54,
@@ -4588,7 +4822,8 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Paxton"
+        "characterName": "Paxton",
+        "isReleased": true
       }
     ],
     "filmsCount": 96,
@@ -4605,11 +4840,13 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Maggie Lang"
+        "characterName": "Maggie Lang",
+        "isReleased": true
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Maggie Lang"
+        "characterName": "Maggie Lang",
+        "isReleased": false
       }
     ],
     "filmsCount": 129,
@@ -4626,11 +4863,13 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Cassie Lang"
+        "characterName": "Cassie Lang",
+        "isReleased": true
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Cassie Lang"
+        "characterName": "Cassie Lang",
+        "isReleased": false
       }
     ],
     "filmsCount": 12,
@@ -4647,11 +4886,13 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Luis"
+        "characterName": "Luis",
+        "isReleased": true
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Luis"
+        "characterName": "Luis",
+        "isReleased": false
       }
     ],
     "filmsCount": 86,
@@ -4668,11 +4909,13 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Kurt"
+        "characterName": "Kurt",
+        "isReleased": true
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Kurt"
+        "characterName": "Kurt",
+        "isReleased": false
       }
     ],
     "filmsCount": 60,
@@ -4689,11 +4932,13 @@
     "filmsMcu": [
       {
         "title": "Ant-Man",
-        "characterName": "Dave (as Tip 'T.I.' Harris)"
+        "characterName": "Dave (as Tip 'T.I.' Harris)",
+        "isReleased": true
       },
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Dave"
+        "characterName": "Dave",
+        "isReleased": false
       }
     ],
     "filmsCount": 33,
@@ -4711,19 +4956,23 @@
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
-        "characterName": "T'Challa / Black Panther"
+        "characterName": "T'Challa / Black Panther",
+        "isReleased": true
       },
       {
         "title": "Black Panther",
-        "characterName": "T'Challa / Black Panther"
+        "characterName": "T'Challa / Black Panther",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "T'Challa / Black Panther"
+        "characterName": "T'Challa / Black Panther",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "T'Challa / Black Panther"
+        "characterName": "T'Challa / Black Panther",
+        "isReleased": false
       }
     ],
     "filmsCount": 30,
@@ -4798,15 +5047,18 @@
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
-        "characterName": "Peter Parker / Spider-Man"
+        "characterName": "Peter Parker / Spider-Man",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Peter Parker / Spider-Man"
+        "characterName": "Peter Parker / Spider-Man",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Peter Parker / Spider-Man"
+        "characterName": "Peter Parker / Spider-Man",
+        "isReleased": false
       }
     ],
     "filmsCount": 23,
@@ -4880,11 +5132,13 @@
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
-        "characterName": "Everett K. Ross"
+        "characterName": "Everett K. Ross",
+        "isReleased": true
       },
       {
         "title": "Black Panther",
-        "characterName": "Everett K. Ross"
+        "characterName": "Everett K. Ross",
+        "isReleased": true
       }
     ],
     "filmsCount": 77,
@@ -4947,11 +5201,13 @@
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
-        "characterName": "May Parker"
+        "characterName": "May Parker",
+        "isReleased": true
       },
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "May Parker"
+        "characterName": "May Parker",
+        "isReleased": true
       }
     ],
     "filmsCount": 77,
@@ -5083,15 +5339,18 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Dr. Stephen Strange"
+        "characterName": "Dr. Stephen Strange",
+        "isReleased": true
       },
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Doctor Strange"
+        "characterName": "Doctor Strange",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Dr. Stephen Strange"
+        "characterName": "Dr. Stephen Strange",
+        "isReleased": false
       }
     ],
     "filmsCount": 72,
@@ -5174,7 +5433,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Mordo"
+        "characterName": "Mordo",
+        "isReleased": true
       }
     ],
     "filmsCount": 49,
@@ -5207,7 +5467,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Christine Palmer"
+        "characterName": "Christine Palmer",
+        "isReleased": true
       }
     ],
     "filmsCount": 36,
@@ -5224,7 +5485,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Kaecilius"
+        "characterName": "Kaecilius",
+        "isReleased": true
       }
     ],
     "filmsCount": 51,
@@ -5292,7 +5554,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "The Ancient One"
+        "characterName": "The Ancient One",
+        "isReleased": true
       }
     ],
     "filmsCount": 75,
@@ -5317,7 +5580,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Dr. Nicodemus West"
+        "characterName": "Dr. Nicodemus West",
+        "isReleased": true
       }
     ],
     "filmsCount": 46,
@@ -5342,7 +5606,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Jonathan Pangborn"
+        "characterName": "Jonathan Pangborn",
+        "isReleased": true
       }
     ],
     "filmsCount": 64,
@@ -5359,7 +5624,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Lucian / Strong Zealot"
+        "characterName": "Lucian / Strong Zealot",
+        "isReleased": true
       }
     ],
     "filmsCount": 57,
@@ -5376,7 +5642,8 @@
     "filmsMcu": [
       {
         "title": "Doctor Strange",
-        "characterName": "Brunette Zealot"
+        "characterName": "Brunette Zealot",
+        "isReleased": true
       }
     ],
     "filmsCount": 18,
@@ -5394,11 +5661,13 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Mantis"
+        "characterName": "Mantis",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Mantis"
+        "characterName": "Mantis",
+        "isReleased": false
       }
     ],
     "filmsCount": 26,
@@ -5467,7 +5736,8 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Stakar Ogord"
+        "characterName": "Stakar Ogord",
+        "isReleased": true
       }
     ],
     "filmsCount": 80,
@@ -5499,7 +5769,8 @@
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy Vol. 2",
-        "characterName": "Ego"
+        "characterName": "Ego",
+        "isReleased": true
       }
     ],
     "filmsCount": 96,
@@ -5567,7 +5838,8 @@
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Adrian Toomes / Vulture"
+        "characterName": "Adrian Toomes / Vulture",
+        "isReleased": true
       }
     ],
     "filmsCount": 77,
@@ -5584,7 +5856,8 @@
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Michelle"
+        "characterName": "Michelle",
+        "isReleased": true
       }
     ],
     "filmsCount": 35,
@@ -5637,7 +5910,8 @@
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Aaron Davis"
+        "characterName": "Aaron Davis",
+        "isReleased": true
       }
     ],
     "filmsCount": 82,
@@ -5655,7 +5929,8 @@
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Ned"
+        "characterName": "Ned",
+        "isReleased": true
       }
     ],
     "filmsCount": 10,
@@ -5672,7 +5947,8 @@
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
-        "characterName": "Liz"
+        "characterName": "Liz",
+        "isReleased": true
       }
     ],
     "filmsCount": 9,
@@ -5850,7 +6126,8 @@
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Hela"
+        "characterName": "Hela",
+        "isReleased": true
       }
     ],
     "filmsCount": 69,
@@ -5875,7 +6152,8 @@
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Grandmaster"
+        "characterName": "Grandmaster",
+        "isReleased": true
       }
     ],
     "filmsCount": 121,
@@ -5900,11 +6178,13 @@
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Valkyrie"
+        "characterName": "Valkyrie",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Valkyrie (rumored)"
+        "characterName": "Valkyrie (rumored)",
+        "isReleased": false
       }
     ],
     "filmsCount": 47,
@@ -5921,7 +6201,8 @@
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
-        "characterName": "Skurge"
+        "characterName": "Skurge",
+        "isReleased": true
       }
     ],
     "filmsCount": 46,
@@ -5938,7 +6219,8 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "Erik Killmonger"
+        "characterName": "Erik Killmonger",
+        "isReleased": true
       }
     ],
     "filmsCount": 42,
@@ -5985,7 +6267,8 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "Nakia"
+        "characterName": "Nakia",
+        "isReleased": true
       }
     ],
     "filmsCount": 20,
@@ -6003,11 +6286,13 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "Okoye"
+        "characterName": "Okoye",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Okoye"
+        "characterName": "Okoye",
+        "isReleased": false
       }
     ],
     "filmsCount": 18,
@@ -6046,7 +6331,8 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "W'Kabi"
+        "characterName": "W'Kabi",
+        "isReleased": true
       }
     ],
     "filmsCount": 40,
@@ -6064,11 +6350,13 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "Shuri"
+        "characterName": "Shuri",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Shuri"
+        "characterName": "Shuri",
+        "isReleased": false
       }
     ],
     "filmsCount": 19,
@@ -6085,11 +6373,13 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "M'Baku"
+        "characterName": "M'Baku",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "M'Baku"
+        "characterName": "M'Baku",
+        "isReleased": false
       }
     ],
     "filmsCount": 7,
@@ -6135,7 +6425,8 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "N'Jobu"
+        "characterName": "N'Jobu",
+        "isReleased": true
       }
     ],
     "filmsCount": 47,
@@ -6196,11 +6487,13 @@
     "filmsMcu": [
       {
         "title": "Black Panther",
-        "characterName": "Ramonda"
+        "characterName": "Ramonda",
+        "isReleased": true
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Ramonda"
+        "characterName": "Ramonda",
+        "isReleased": false
       }
     ],
     "filmsCount": 91,
@@ -6227,11 +6520,13 @@
     "filmsMcu": [
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Thanos"
+        "characterName": "Thanos",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Thanos"
+        "characterName": "Thanos",
+        "isReleased": false
       }
     ],
     "filmsCount": 67,
@@ -6248,7 +6543,8 @@
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Ghost"
+        "characterName": "Ghost",
+        "isReleased": false
       }
     ],
     "filmsCount": 21,
@@ -6367,7 +6663,8 @@
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Janet van Dyne"
+        "characterName": "Janet van Dyne",
+        "isReleased": false
       }
     ],
     "filmsCount": 61,
@@ -6392,7 +6689,8 @@
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Sonny Burch"
+        "characterName": "Sonny Burch",
+        "isReleased": false
       }
     ],
     "filmsCount": 81,
@@ -6488,7 +6786,8 @@
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
-        "characterName": "Dr. Bill Foster / Goliath"
+        "characterName": "Dr. Bill Foster / Goliath",
+        "isReleased": false
       }
     ],
     "filmsCount": 108,
@@ -6535,11 +6834,13 @@
     "filmsMcu": [
       {
         "title": "Captain Marvel",
-        "characterName": "Carol Danvers / Captain Marvel"
+        "characterName": "Carol Danvers / Captain Marvel",
+        "isReleased": false
       },
       {
         "title": "Untitled Avengers film",
-        "characterName": "Carol Danvers / Captain Marvel"
+        "characterName": "Carol Danvers / Captain Marvel",
+        "isReleased": false
       }
     ],
     "filmsCount": 57,
@@ -6585,7 +6886,8 @@
     "filmsMcu": [
       {
         "title": "Captain Marvel",
-        "characterName": ""
+        "characterName": "",
+        "isReleased": false
       }
     ],
     "filmsCount": 77,
@@ -6653,7 +6955,8 @@
     "filmsMcu": [
       {
         "title": "Captain Marvel",
-        "characterName": "Walter Lawson / Mar-Vell"
+        "characterName": "Walter Lawson / Mar-Vell",
+        "isReleased": false
       }
     ],
     "filmsCount": 70,
@@ -6670,7 +6973,8 @@
     "filmsMcu": [
       {
         "title": "Captain Marvel",
-        "characterName": ""
+        "characterName": "",
+        "isReleased": false
       }
     ],
     "filmsCount": 32,

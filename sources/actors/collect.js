@@ -31,6 +31,7 @@ loadData().catch(console.error).then((allData) => {
       const filmInfo = {
         title: film.title,
         characterName: actor.characterName,
+        isReleased: film.status === 'Released',
       };
 
       if (existing) {

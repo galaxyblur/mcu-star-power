@@ -2,7 +2,7 @@ import vo from 'vo';
 
 import {
   loadActorsFromFile,
-  loadactorsMetaFromFile,
+  loadActorsMetaFromFile,
   loadBaftasFromFile,
   loadOscarsFromFile,
   loadGlobesFromFile,
@@ -17,7 +17,7 @@ import {
 
 const loadData = async () => {
   const actors = await loadActorsFromFile();
-  const actorsMeta = await loadactorsMetaFromFile();
+  const actorsMeta = await loadActorsMetaFromFile();
   const baftas = await loadBaftasFromFile();
   const oscars = await loadOscarsFromFile();
   const globes = await loadGlobesFromFile();
