@@ -6,7 +6,7 @@
     <section class="uk-section">
 
       <h2 class="uk-h4 uk-float-left uk-margin-top">
-        The most epic franchise in film history. The biggest movie ever. Avengers: Infinity War.
+        The most epic franchise in film history. The biggest movie ever.
       </h2>
 
       <ul class="uk-subnav uk-subnav-pill uk-flex-right" uk-margin>
