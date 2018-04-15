@@ -1,5 +1,9 @@
 [
   {
+    "actorName": "Stan Lee",
+    "image": "stan-lee.png"
+  },
+  {
     "actorName": "Robert Downey Jr.",
     "characterName": "Tony Stark",
     "characterAlias": "Iron Man",
@@ -36,6 +40,41 @@
     "actorName": "Tom Hiddleston",
     "characterName": "Loki",
     "image": "loki.jpg"
+  },
+  {
+    "actorName": "Cate Blanchett",
+    "characterName": "Hela",
+    "image": "hela.jpg"
+  },
+  {
+    "actorName": "Anthony Hopkins",
+    "characterName": "Odin",
+    "image": "odin.jpg"
+  },
+  {
+    "actorName": "Idris Elba",
+    "characterName": "Heimdall",
+    "image": "heimdall.png"
+  },
+  {
+    "actorName": "Samuel L. Jackson",
+    "characterName": "Nick Fury",
+    "image": "nick-fury.jpg"
+  },
+  {
+    "actorName": "Robert Redford",
+    "characterName": "Alexander Pierce",
+    "image": "alexander-pierce.jpg"
+  },
+  {
+    "actorName": "Gwyneth Paltrow",
+    "characterName": "Pepper Potts",
+    "image": "pepper-potts.png"
+  },
+  {
+    "actorName": "Garry Shandling",
+    "characterName": "Samuel Stern",
+    "image": "samuel-stern.png"
   },
   {
     "actorName": "Chris Evans",
@@ -163,17 +202,14 @@
   {
     "actorName": "Jeff Bridges",
     "characterName": "Obadiah Stane",
-    "characterAlias": "Iron Monger"
-  },
-  {
-    "actorName": "Jeff Bridges",
-    "characterName": "Obadiah Stane",
-    "characterAlias": "Iron Monger"
+    "characterAlias": "Iron Monger",
+    "image": "obadiah-stane.png"
   },
   {
     "actorName": "Ben Kingsley",
     "characterName": "Trevor Slattery",
-    "characterAlias": "'The Mandarin'"
+    "characterAlias": "'The Mandarin'",
+    "image": "mandarin.png"
   },
   {
     "actorName": "Jon Favreau",
