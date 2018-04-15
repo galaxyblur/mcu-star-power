@@ -511,19 +511,6 @@
     ]
   },
   {
-    "id": "actor-71",
-    "actorName": "Paul Soles",
-    "castPositionTotal": 10,
-    "castPositionAverage": 10,
-    "filmsMcu": [
-      {
-        "title": "The Incredible Hulk",
-        "characterName": "Stanley",
-        "isReleased": true
-      }
-    ]
-  },
-  {
     "id": "actor-129",
     "actorName": "Don Cheadle",
     "castPositionTotal": 57,

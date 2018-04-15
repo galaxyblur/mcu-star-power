@@ -9,19 +9,31 @@
           </div>
           <div uk-tooltip="title: Oscar Wins/Nominations">
             <svg class="icon icon-oscars"><use xlink:href="#icon-oscars"></use></svg>
-            {{ getWinsForEvent('OSCARS').length }}/{{ getNomsForEvent('OSCARS').length }}
+            <template v-if="getNomsForEvent('OSCARS').length > 0">
+              <span class="uk-text-large">{{ getWinsForEvent('OSCARS').length }}</span> / {{ getNomsForEvent('OSCARS').length }}
+            </template>
+            <span v-else class="uk-text-large">0</span>
           </div>
           <div uk-tooltip="title: Golden Globe Wins/Nominations">
             <svg class="icon icon-golden-globes"><use xlink:href="#icon-golden-globe"></use></svg>
-            {{ getWinsForEvent('GOLDEN_GLOBES').length }}/{{ getNomsForEvent('GOLDEN_GLOBES').length }}
+            <template v-if="getNomsForEvent('GOLDEN_GLOBES').length > 0">
+              <span class="uk-text-large">{{ getWinsForEvent('GOLDEN_GLOBES').length }}</span> / {{ getNomsForEvent('GOLDEN_GLOBES').length }}
+            </template>
+            <span v-else class="uk-text-large">0</span>
           </div>
           <div uk-tooltip="title: Emmy Wins/Nominations">
             <svg class="icon icon-emmys"><use xlink:href="#icon-emmys"></use></svg>
-            {{ getWinsForEvent('EMMYS').length }}/{{ getNomsForEvent('EMMYS').length }}
+            <template v-if="getNomsForEvent('EMMYS').length > 0">
+              <span class="uk-text-large">{{ getWinsForEvent('EMMYS').length }}</span> / {{ getNomsForEvent('EMMYS').length }}
+            </template>
+            <span v-else class="uk-text-large">0</span>
           </div>
           <div uk-tooltip="title: BAFTA Wins/Nominations">
             <svg class="icon icon-baftas"><use xlink:href="#icon-baftas"></use></svg>
-            {{ getWinsForEvent('BAFTAS').length }}/{{ getNomsForEvent('BAFTAS').length }}
+            <template v-if="getNomsForEvent('BAFTAS').length > 0">
+              <span class="uk-text-large">{{ getWinsForEvent('BAFTAS').length }}</span> / {{ getNomsForEvent('BAFTAS').length }}
+            </template>
+            <span v-else class="uk-text-large">0</span>
           </div>
         </div>
         <div class="uk-overlay uk-width-1-1 uk-position-bottom-center">
@@ -95,6 +107,7 @@ export default {
 
 .actor-card .actor-card-accolades > div {
   margin: 12px 0;
+  height: 24px;
 }
 
 .actor-card >>> .actor-card-last-seen a {

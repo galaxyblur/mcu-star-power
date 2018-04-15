@@ -12,6 +12,7 @@ import {
 } from 'lodash';
 
 const alwaysIncludeActors = [ 'Stan Lee' ];
+const neverIncludeActors = [ 'Paul Soles' ];
 
 const loadData = async () => {
   const films = await loadImdbFilmsFromFile();
@@ -53,6 +54,10 @@ loadData().catch(console.error).then((allData) => {
   remove(actors, (actor) => {
     if (alwaysIncludeActors.indexOf(actor.actorName) >= 0) {
       return false;
+    }
+
+    if (neverIncludeActors.indexOf(actor.actorName) >= 0) {
+      return true
     }
 
     let rmv = false;

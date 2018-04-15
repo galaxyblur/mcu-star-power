@@ -57,6 +57,11 @@
     "image": "heimdall.png"
   },
   {
+    "actorName": "Natalie Portman",
+    "characterName": "Jane Foster",
+    "image": "jane-foster.png"
+  },
+  {
     "actorName": "Samuel L. Jackson",
     "characterName": "Nick Fury",
     "image": "nick-fury.jpg"
@@ -93,6 +98,22 @@
     "characterName": "Bruce Banner",
     "characterAlias": "The Hulk",
     "image": "hulk.jpg"
+  },
+  {
+    "actorName": "Edward Norton",
+    "characterName": "Bruce Banner",
+    "characterAlias": "The Hulk",
+    "image": "hulk2.png"
+  },
+  {
+    "actorName": "Rebecca Hall",
+    "characterName": "Maya Hansen",
+    "image": "maya-hansen.png"
+  },
+  {
+    "actorName": "Guy Pearce",
+    "characterName": "Aldrich Killian",
+    "image": "aldrich-killian.png"
   },
   {
     "actorName": "Anthony Mackie",
@@ -178,7 +199,50 @@
   {
     "actorName": "Jeremy Renner",
     "characterName": "Clint Barton",
-    "characterAlias": "Hawkeye"
+    "characterAlias": "Hawkeye",
+    "image": "hawkeye.jpg"
+  },
+  {
+    "actorName": "Cobie Smulders",
+    "characterName": "Maria Hill",
+    "image": "maria-hill.png"
+  },
+  {
+    "actorName": "Hayley Atwell",
+    "characterName": "Peggy Carter",
+    "image": "peggy-carter.png"
+  },
+  {
+    "actorName": "Stanley Tucci",
+    "characterName": "Dr. Abraham Erskine",
+    "image": "abraham-erskine.png"
+  },
+  {
+    "actorName": "Tommy Lee Jones",
+    "characterName": "Colonel Chester Phillips",
+    "image": "chester-phillips.png"
+  },
+  {
+    "actorName": "Toby Jones",
+    "characterName": "Arnim Zola",
+    "image": "arnim-zola.png"
+  },
+  {
+    "actorName": "William Hurt",
+    "characterName": "General Thaddeus 'Thunderbolt' Ross",
+    "image": "thaddeus-ross.png"
+  },
+  {
+    "actorName": "Michael Keaton",
+    "characterName": "Adrian Toomes",
+    "characterAlias": "Vulture",
+    "image": "vulture.png"
+  },
+  {
+    "actorName": "Paul Rudd",
+    "characterName": "Scott Lang",
+    "characterAlias": "Ant-Man",
+    "image": "ant-man.png"
   },
   {
     "actorName": "Michael Douglas",
@@ -213,11 +277,28 @@
   },
   {
     "actorName": "Jon Favreau",
-    "characterName": "Harold 'Happy' Hogan"
+    "characterName": "Harold 'Happy' Hogan",
+    "image": "happy-hogan.png"
   },
   {
     "actorName": "Chiwetel Ejiofor",
-    "characterName": "Karl Mordo"
+    "characterName": "Karl Mordo",
+    "image": "karl-mordo.png"
+  },
+  {
+    "actorName": "Tilda Swinton",
+    "characterName": "The Ancient One",
+    "image": "the-ancient-one.png"
+  },
+  {
+    "actorName": "Martin Freeman",
+    "characterName": "Everett Ross",
+    "image": "everett-ross.png"
+  },
+  {
+    "actorName": "James Spader",
+    "characterName": "Ultron",
+    "image": "ultron.png"
   },
   {
     "actorName": "Emily VanCamp",
@@ -232,6 +313,21 @@
   {
     "actorName": "Jacob Batalon",
     "characterName": "Ned Leeds"
+  },
+  {
+    "actorName": "Donald Glover",
+    "characterName": "Aaron Davis",
+    "image": "aaron-davis.png"
+  },
+  {
+    "actorName": "Sylvester Stallone",
+    "characterName": "Stakar Ogord",
+    "image": "stakar-ogord.png"
+  },
+  {
+    "actorName": "Angela Bassett",
+    "characterName": "Ramonda",
+    "image": "ramonda.png"
   },
   {
     "actorName": "Josh Brolin",
