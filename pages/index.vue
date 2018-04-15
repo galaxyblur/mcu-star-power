@@ -5,11 +5,11 @@
 
     <section class="uk-section">
 
-      <h2 class="uk-h4 uk-float-right uk-margin-top">
-        The biggest stars in the Marvel Cinematic Universe
+      <h2 class="uk-h4 uk-float-left uk-margin-top">
+        The most epic franchise in film history. The biggest movie ever. Avengers: Infinity War.
       </h2>
 
-      <ul class="uk-subnav uk-subnav-pill" uk-margin>
+      <ul class="uk-subnav uk-subnav-pill uk-flex-right" uk-margin>
         <li :class="{ 'uk-active': this.sort === 'powerCareer' }"><a href="#" @click.prevent="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></a></li>
         <li :class="{ 'uk-active': this.sort === 'powerMcu' }"><a href="#" @click.prevent="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></a></li>
       </ul>
