@@ -68,7 +68,7 @@
       }
     ],
     "characterDisplayName": "Tony Stark / Iron Man",
-    "img": "img/stars/iron-man.jpg",
+    "img": "iron-man.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -289,7 +289,7 @@
       }
     ],
     "characterDisplayName": "Obadiah Stane / Iron Monger",
-    "img": "img/stars/obadiah-stane.png",
+    "img": "obadiah-stane.png",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -352,7 +352,7 @@
       }
     ],
     "characterDisplayName": "Pepper Potts",
-    "img": "img/stars/pepper-potts.png",
+    "img": "pepper-potts.png",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -542,7 +542,7 @@
       }
     ],
     "characterDisplayName": "Vision",
-    "img": "img/stars/vision.jpg",
+    "img": "vision.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -657,7 +657,7 @@
         "year": "2017"
       }
     ],
-    "img": "img/stars/stan-lee.png",
+    "img": "stan-lee.png",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -1311,7 +1311,7 @@
       }
     ],
     "characterDisplayName": "Lt. Col. James 'Rhodey' Rhodes / War Machine",
-    "img": "img/stars/war-machine.jpg",
+    "img": "war-machine.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -1386,7 +1386,7 @@
       }
     ],
     "characterDisplayName": "Natasha Romanoff / Black Widow",
-    "img": "img/stars/black-widow.jpg",
+    "img": "black-widow.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -1567,7 +1567,7 @@
       }
     ],
     "characterDisplayName": "Nick Fury",
-    "img": "img/stars/nick-fury.jpg",
+    "img": "nick-fury.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -1760,7 +1760,7 @@
       }
     ],
     "characterDisplayName": "Samuel Stern",
-    "img": "img/stars/samuel-stern.png",
+    "img": "samuel-stern.png",
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -1792,7 +1792,7 @@
       }
     ],
     "characterDisplayName": "Thor",
-    "img": "img/stars/thor.jpg",
+    "img": "thor.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -1967,7 +1967,7 @@
       }
     ],
     "characterDisplayName": "Loki",
-    "img": "img/stars/loki.jpg",
+    "img": "loki.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2186,7 +2186,7 @@
       }
     ],
     "characterDisplayName": "Odin",
-    "img": "img/stars/odin.jpg",
+    "img": "odin.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2388,7 +2388,7 @@
       }
     ],
     "characterDisplayName": "Heimdall",
-    "img": "img/stars/heimdall.png",
+    "img": "heimdall.png",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2596,7 +2596,7 @@
       }
     ],
     "characterDisplayName": "Steve Rogers / Captain America",
-    "img": "img/stars/captain-america.jpg",
+    "img": "captain-america.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -2691,7 +2691,7 @@
   {
     "awards": [],
     "characterDisplayName": "James Buchanan 'Bucky' Barnes / The Winter Soldier",
-    "img": "img/stars/winter-soldier.jpg",
+    "img": "winter-soldier.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -3208,7 +3208,7 @@
       }
     ],
     "characterDisplayName": "Bruce Banner / The Hulk",
-    "img": "img/stars/hulk.jpg",
+    "img": "hulk.jpg",
     "filmsMcu": [
       {
         "title": "Marvel's The Avengers",
@@ -3591,7 +3591,7 @@
       }
     ],
     "characterDisplayName": "Trevor Slattery / 'The Mandarin'",
-    "img": "img/stars/mandarin.png",
+    "img": "mandarin.png",
     "filmsMcu": [
       {
         "title": "Iron Man 3",
@@ -3839,7 +3839,7 @@
       }
     ],
     "characterDisplayName": "Alexander Pierce",
-    "img": "img/stars/alexander-pierce.jpg",
+    "img": "alexander-pierce.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
@@ -3858,7 +3858,7 @@
   {
     "awards": [],
     "characterDisplayName": "Sam Wilson / Falcon",
-    "img": "img/stars/falcon.jpg",
+    "img": "falcon.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
@@ -3960,7 +3960,7 @@
       }
     ],
     "characterDisplayName": "Peter Quill / Star-Lord",
-    "img": "img/stars/star-lord.jpg",
+    "img": "star-lord.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -3989,7 +3989,7 @@
   {
     "awards": [],
     "characterDisplayName": "Gamora",
-    "img": "img/stars/gamora.jpg",
+    "img": "gamora.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -4018,7 +4018,7 @@
   {
     "awards": [],
     "characterDisplayName": "Drax",
-    "img": "img/stars/drax.jpg",
+    "img": "drax.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -4047,7 +4047,7 @@
   {
     "awards": [],
     "characterDisplayName": "Groot",
-    "img": "img/stars/groot-rocket.jpg",
+    "img": "groot-rocket.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -4129,7 +4129,7 @@
       }
     ],
     "characterDisplayName": "Rocket",
-    "img": "img/stars/groot-rocket.jpg",
+    "img": "groot-rocket.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -4221,7 +4221,7 @@
   {
     "awards": [],
     "characterDisplayName": "Nebula",
-    "img": "img/stars/nebula.jpg",
+    "img": "nebula.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -4454,7 +4454,7 @@
       }
     ],
     "characterDisplayName": "Wanda Maximoff / Scarlet Witch",
-    "img": "img/stars/scarlet-witch.jpg",
+    "img": "scarlet-witch.jpg",
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
@@ -4710,7 +4710,7 @@
       }
     ],
     "characterDisplayName": "Hank Pym",
-    "img": "img/stars/hank-pym.png",
+    "img": "hank-pym.png",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4958,7 +4958,7 @@
   {
     "awards": [],
     "characterDisplayName": "T'Challa / Black Panther",
-    "img": "img/stars/black-panther.jpg",
+    "img": "black-panther.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
@@ -5049,7 +5049,7 @@
       }
     ],
     "characterDisplayName": "Peter Parker / Spider-Man",
-    "img": "img/stars/spider-man.jpg",
+    "img": "spider-man.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
@@ -5341,7 +5341,7 @@
       }
     ],
     "characterDisplayName": "Dr. Stephen Strange / Doctor Strange",
-    "img": "img/stars/doctor-strange.jpg",
+    "img": "doctor-strange.jpg",
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -5663,7 +5663,7 @@
   {
     "awards": [],
     "characterDisplayName": "Mantis",
-    "img": "img/stars/mantis.jpg",
+    "img": "mantis.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy Vol. 2",
@@ -6129,7 +6129,7 @@
       }
     ],
     "characterDisplayName": "Hela",
-    "img": "img/stars/hela.jpg",
+    "img": "hela.jpg",
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
@@ -6289,7 +6289,7 @@
   {
     "awards": [],
     "characterDisplayName": "Okoye",
-    "img": "img/stars/okoye.jpg",
+    "img": "okoye.jpg",
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -6353,7 +6353,7 @@
   {
     "awards": [],
     "characterDisplayName": "Shuri",
-    "img": "img/stars/shuri.jpg",
+    "img": "shuri.jpg",
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -6523,7 +6523,7 @@
       }
     ],
     "characterDisplayName": "Thanos",
-    "img": "img/stars/thanos.jpg",
+    "img": "thanos.jpg",
     "filmsMcu": [
       {
         "title": "Avengers: Infinity War",

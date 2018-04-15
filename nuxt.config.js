@@ -37,18 +37,31 @@ module.exports = {
    * Build configuration
    */
   build: {
+
     /*
      * Run ESLint on save
      */
-    extend (config, { isDev, isClient }) {
+    extend(config, { isDev, isClient }) {
       if (isDev && isClient) {
         config.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,
           loader: 'eslint-loader',
-          exclude: /(node_modules)/
-        })
+          exclude: /(node_modules)/,
+        });
       }
+
+      config.module.rules.find(
+        rule => rule.loader === 'url-loader'
+      ).exclude = /\.(jpe?g|png)$/;
+
+      config.module.rules.push({
+        test: /\.(jpe?g|png)$/i,
+        loader: "responsive-loader",
+        options: {
+          format: 'png',
+        },
+      });
     },
   }
 }

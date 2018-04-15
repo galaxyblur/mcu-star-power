@@ -10,7 +10,7 @@
           </h2>
         </div>
         <div class="uk-modal-body">
-          <img :src="actor.img" class="uk-align-left uk-height-medium">
+          <img :src="actorImg" class="uk-align-left uk-height-medium">
           <p>
             <strong>{{ actor.actorName }}</strong> has appeared in <strong>{{ actor.filmsCount }}</strong> films,
             including <strong>{{ actor.filmsMcu.length }}</strong> in the Marvel Cinematic Universe.
@@ -54,6 +54,16 @@ export default {
     'actor-mcu-list',
   ],
   computed: {
+    actorImg() {
+      const imgPath = this.actor.img;
+      let img = imgPath;
+
+      if (imgPath && imgPath.indexOf('http') < 0) {
+        img = require('~/assets/stars/' + imgPath);
+      }
+
+      return img;
+    },
     characterDisplayName() {
       return this.actor.characterDisplayName || this.actor.filmsMcu[0].characterName;
     },

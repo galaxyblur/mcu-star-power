@@ -49,7 +49,7 @@ loadData().catch(console.error).then((allData) => {
     let img, characterDisplayName;
 
     if (metaObj) {
-      img = metaObj.image ? `img/stars/${metaObj.image}` : undefined;
+      img = metaObj.image ? metaObj.image : undefined;
 
       if (metaObj.characterName) {
         characterDisplayName = metaObj.characterName;

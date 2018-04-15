@@ -1,7 +1,7 @@
 <template>
   <div class="actor-card uk-padding-small">
     <div class="uk-card uk-card-default uk-height-1-1 uk-box-shadow-large" uk-toggle="target:#modal-selected-actor" @click="$emit('select-actor', actor)">
-      <div class="uk-card-body uk-height-1-1 uk-background-cover uk-background-blend-overlay" :style="'background-image:url('+actor.img+')'">
+      <div class="uk-card-body uk-height-1-1 uk-background-cover uk-background-blend-overlay" :style="'background-image:url('+actorImg+')'">
         <div class="actor-card-accolades uk-overlay uk-position-top-left uk-text-small">
           <div uk-tooltip="title: Career films | MCU films">
             <i class="fa fa-film"></i>
@@ -55,6 +55,16 @@ export default {
     'actorLastSeenEl',
   ],
   computed: {
+    actorImg() {
+      const imgPath = this.actor.img;
+      let img = imgPath;
+
+      if (imgPath && imgPath.indexOf('http') < 0) {
+        img = require('~/assets/stars/' + imgPath);
+      }
+
+      return img;
+    },
     characterDisplayName() {
       return this.actor.characterDisplayName || this.actor.filmsMcu[0].characterName;
     },
