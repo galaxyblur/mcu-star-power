@@ -5,17 +5,22 @@
 
     <section class="uk-section">
 
-      <h2 class="uk-h4 uk-float-left uk-margin-top">
-        The most epic franchise in film history. The biggest movie ever.
-      </h2>
+      <tabs />
 
-      <ul class="uk-subnav uk-subnav-pill uk-flex-right" uk-margin>
-        <li :class="{ 'uk-active': this.sort === 'powerCareer' }"><a href="#" @click.prevent="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></a></li>
-        <li :class="{ 'uk-active': this.sort === 'powerMcu' }"><a href="#" @click.prevent="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></a></li>
-      </ul>
+      <div>
+        <div class="uk-flex">
+          <ul class="uk-width-auto@m uk-width-1-1@s uk-subnav uk-subnav-pill uk-margin-top">
+            <li :class="{ 'uk-active': this.sort === 'powerCareer' }"><a href="#" @click.prevent="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></a></li>
+            <li :class="{ 'uk-active': this.sort === 'powerMcu' }"><a href="#" @click.prevent="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></a></li>
+          </ul>
+          <h5 class="uk-width-expand@m uk-width-1-1@s uk-margin-top uk-text-right@m">
+            <i>The most epic franchise in film history. The biggest movie ever.</i>
+          </h5>
+        </div>
 
-      <div class="uk-flex uk-flex-wrap uk-child-width-1-5@xl uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-2@s">
-        <actor-card v-for="(a, ai) in actorsSorted" :key="ai" :actor="a" :actor-last-seen-el="getLastMcuFilmElForActor(a)" @select-actor="handleSelectActor" />
+        <div class="uk-flex uk-flex-wrap uk-child-width-1-5@xl uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-2@s">
+          <actor-card v-for="(a, ai) in actorsSorted" :key="ai" :actor="a" :actor-last-seen-el="getLastMcuFilmElForActor(a)" @select-actor="handleSelectActor" />
+        </div>
       </div>
 
     </section>
@@ -35,12 +40,14 @@ import {
 import ActorCard from '../components/ActorCard';
 import ActorModal from '../components/ActorModal';
 import Icons from '../components/Icons';
+import Tabs from '../components/Tabs';
 
 export default {
   components: {
     ActorCard,
     ActorModal,
     Icons,
+    Tabs,
   },
   async asyncData({ app }) {
     const aggregate = await app.$axios.get('json/aggregate.json');
@@ -71,12 +78,14 @@ export default {
   methods: {
     getInlineElementForFilm(film) {
       const t = film.title;
-      const [ link ] = this.aff.filter(l => l.filmTitle === film.title);
+      const [ link ] = this.aff.filter((l) => {
+        return l.type === 'film' && l.title === film.title;
+      });
+
       let el = `<span>${t}</span>`;
 
       if (link) {
-        const l = link.affiliateLink;
-        el = `<a href="${l}" target="_blank"><i class="fa fa-play-circle"></i> ${t}</a>`;
+        el = `<a href="${link.link}" target="_blank"><i class="fa fa-play-circle"></i> ${t}</a>`;
       }
 
       return el;
