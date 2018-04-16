@@ -59,7 +59,7 @@ module.exports = {
         test: /\.(jpe?g|png)$/i,
         loader: "responsive-loader",
         options: {
-          size: 575,
+          size: 350,
           format: 'png',
         },
       });
