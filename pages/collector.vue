@@ -21,6 +21,14 @@ import AffiliateCard from '../components/AffiliateCard';
 import Tabs from '../components/Tabs';
 
 export default {
+  head () {
+    return {
+      title: 'Collect the Essentials of Avengers: Infinity War and the Marvel Cinematic Universe | MCU Power',
+      meta: [
+        { hid: 'description', name: 'description', content: 'Collect the essential films and more in the Marvel Cinematic Universe, including Avengers: Infinity War!' },
+      ]
+    }
+  },
   components: {
     AffiliateCard,
     Tabs,
