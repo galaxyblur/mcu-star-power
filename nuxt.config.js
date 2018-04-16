@@ -28,6 +28,7 @@ module.exports = {
 
   sitemap: {
     generate: true,
+    hostname: 'https://www.mcupower.com/',
   },
 
   css: [
