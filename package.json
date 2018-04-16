@@ -25,6 +25,7 @@
     "vo": "^4.0.2"
   },
   "devDependencies": {
+    "@nuxtjs/sitemap": "^0.1.1",
     "babel-eslint": "^8.2.1",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",

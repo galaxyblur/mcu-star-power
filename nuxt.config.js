@@ -23,6 +23,7 @@ module.exports = {
   modules: [
     '@nuxtjs/axios',
     '@nuxtjs/font-awesome',
+    '@nuxtjs/sitemap',
   ],
 
   css: [
