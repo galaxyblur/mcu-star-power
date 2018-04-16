@@ -13,9 +13,6 @@
             <li :class="{ 'uk-active': this.sort === 'powerCareer' }"><a href="#" @click.prevent="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></a></li>
             <li :class="{ 'uk-active': this.sort === 'powerMcu' }"><a href="#" @click.prevent="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></a></li>
           </ul>
-          <h5 class="uk-width-expand@m uk-width-1-1@s uk-margin-top uk-text-right@m">
-            <i>The most epic franchise in film history. The biggest movie ever.</i>
-          </h5>
         </div>
 
         <div class="uk-flex uk-flex-wrap uk-child-width-1-5@xl uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-2@s">
