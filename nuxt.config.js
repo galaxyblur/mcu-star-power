@@ -26,6 +26,10 @@ module.exports = {
     '@nuxtjs/sitemap',
   ],
 
+  sitemap: {
+    generate: true,
+  },
+
   css: [
     'uikit/dist/css/uikit.css',
     '@/assets/less/index.less',
