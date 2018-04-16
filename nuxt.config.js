@@ -7,7 +7,8 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Power Rankings of actors and films in the Marvel Cinematic Universe, including Avengers: Infinity War!' }
+      { hid: 'description', name: 'description', content: 'Power Rankings of actors and films in the Marvel Cinematic Universe, including Avengers: Infinity War!' },
+      { name: 'google-site-verification', content: 'N3xu6QlIu2uUYtlVcqOqO8YoFDSjJs_QAuWPYHTnBrg' },
     ],
     link: [
       // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
