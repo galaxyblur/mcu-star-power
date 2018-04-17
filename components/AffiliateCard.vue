@@ -1,14 +1,14 @@
 <template>
   <div class="affiliate-card uk-padding-small">
     <div class="uk-card uk-card-default uk-height-1-1 uk-box-shadow-large">
-      <div class="uk-card-header">
+      <div class="uk-card-header uk-text-center">
         <h4 class="uk-card-title">{{ affiliateItem.title }}</h4>
       </div>
-      <div class="uk-card-body">
+      <div class="uk-card-body uk-text-center">
         <img :src="affiliateItem.image">
       </div>
-      <div class="uk-card-footer">
-        <a class="uk-button uk-button-primary" :href="affiliateItem.link" target="_blank">Buy on Amazon</a>
+      <div class="uk-card-footer uk-text-center">
+        <a class="uk-button uk-button-primary" :href="affiliateItem.link" target="_blank">Buy it on Amazon</a>
       </div>
     </div>
   </div>
