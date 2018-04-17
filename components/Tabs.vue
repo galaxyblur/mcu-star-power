@@ -6,6 +6,7 @@
       <nuxt-link tag="li" to="/" active-class="uk-active" exact><a>Power Rankings</a></nuxt-link>
       <nuxt-link tag="li" to="/collector" active-class="uk-active"><a>For the Collector</a></nuxt-link>
       <nuxt-link tag="li" to="/grandmaster" active-class="uk-active"><a>For the Grandmaster</a></nuxt-link>
+      <nuxt-link tag="li" to="/team-ups" active-class="uk-active"><a>Team-Ups</a></nuxt-link>
     </ul>
   </div>
 </template>
