@@ -250,11 +250,6 @@
     "power": 0
   },
   {
-    "actorName": "Paul Soles",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Don Cheadle",
     "awards": [
       {
@@ -274,8 +269,16 @@
   },
   {
     "actorName": "Sam Rockwell",
-    "awards": [],
-    "power": 0
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Dixon\"}",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "winner": true,
+        "year": "2017 (90th)"
+      }
+    ],
+    "power": 2
   },
   {
     "actorName": "Mickey Rourke",
@@ -781,6 +784,11 @@
     "power": 0
   },
   {
+    "actorName": "Andy Serkis",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Paul Rudd",
     "awards": [],
     "power": 0
@@ -1108,8 +1116,16 @@
   },
   {
     "actorName": "Daniel Kaluuya",
-    "awards": [],
-    "power": 0
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Chris Washington\"}",
+        "title": "Get Out",
+        "winner": false,
+        "year": "2017 (90th)"
+      }
+    ],
+    "power": 2
   },
   {
     "actorName": "Letitia Wright",
@@ -1138,6 +1154,19 @@
       }
     ],
     "power": 2
+  },
+  {
+    "actorName": "Forest Whitaker",
+    "awards": [
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Idi Amin\"}",
+        "title": "The Last King of Scotland",
+        "winner": true,
+        "year": "2006 (79th)"
+      }
+    ],
+    "power": 3
   },
   {
     "actorName": "Josh Brolin",
@@ -1190,6 +1219,11 @@
     "power": 0
   },
   {
+    "actorName": "Joshua Mikel",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Laurence Fishburne",
     "awards": [
       {
@@ -1201,6 +1235,11 @@
       }
     ],
     "power": 2
+  },
+  {
+    "actorName": "Ben Mendelsohn",
+    "awards": [],
+    "power": 0
   },
   {
     "actorName": "Brie Larson",
@@ -1216,11 +1255,6 @@
     "power": 3
   },
   {
-    "actorName": "Ben Mendelsohn",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Jude Law",
     "awards": [
       {
@@ -1229,12 +1263,29 @@
         "title": "The Talented Mr. Ripley",
         "winner": false,
         "year": "1999 (72nd)"
+      },
+      {
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Inman\"}",
+        "title": "Cold Mountain",
+        "winner": false,
+        "year": "2003 (76th)"
       }
     ],
-    "power": 1
+    "power": 3
   },
   {
-    "actorName": "DeWanda Wise",
+    "actorName": "Mckenna Grace",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Gemma Chan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Robert Kazinsky",
     "awards": [],
     "power": 0
   }

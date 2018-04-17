@@ -243,11 +243,6 @@
     "power": 0
   },
   {
-    "actorName": "Paul Soles",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Don Cheadle",
     "awards": [
       {
@@ -1031,6 +1026,18 @@
     "power": 0
   },
   {
+    "actorName": "Andy Serkis",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Longford",
+        "winner": false,
+        "year": "2008"
+      }
+    ],
+    "power": 1
+  },
+  {
     "actorName": "Paul Rudd",
     "awards": [],
     "power": 0
@@ -1534,6 +1541,24 @@
     "power": 3
   },
   {
+    "actorName": "Forest Whitaker",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Last King of Scotland, The",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Bird",
+        "winner": false,
+        "year": "1989"
+      }
+    ],
+    "power": 5
+  },
+  {
     "actorName": "Josh Brolin",
     "awards": [],
     "power": 0
@@ -1597,6 +1622,11 @@
     "power": 0
   },
   {
+    "actorName": "Joshua Mikel",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Laurence Fishburne",
     "awards": [
       {
@@ -1609,18 +1639,6 @@
     "power": 2
   },
   {
-    "actorName": "Brie Larson",
-    "awards": [
-      {
-        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
-        "title": "Room",
-        "winner": true,
-        "year": "2016"
-      }
-    ],
-    "power": 3
-  },
-  {
     "actorName": "Ben Mendelsohn",
     "awards": [
       {
@@ -1631,6 +1649,18 @@
       }
     ],
     "power": 1
+  },
+  {
+    "actorName": "Brie Larson",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTRESS IN A MOTION PICTURE - DRAMA",
+        "title": "Room",
+        "winner": true,
+        "year": "2016"
+      }
+    ],
+    "power": 3
   },
   {
     "actorName": "Jude Law",
@@ -1663,7 +1693,17 @@
     "power": 6
   },
   {
-    "actorName": "DeWanda Wise",
+    "actorName": "Mckenna Grace",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Gemma Chan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Robert Kazinsky",
     "awards": [],
     "power": 0
   }

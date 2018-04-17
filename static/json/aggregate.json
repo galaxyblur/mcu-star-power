@@ -117,12 +117,12 @@
       }
     ],
     "filmsCount": 90,
-    "powerCareer": 45,
+    "powerCareer": 36,
     "powerMcu": 9,
     "id": "actor-1",
     "actorName": "Robert Downey Jr.",
-    "castPositionTotal": 40,
-    "castPositionAverage": 4
+    "castPositionTotal": 14,
+    "castPositionAverage": 2
   },
   {
     "awards": [
@@ -143,7 +143,7 @@
       }
     ],
     "characterDisplayName": "Lt. Col. James 'Rhodey' Rhodes / War Machine",
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTY4NzgyOV5BMl5BanBnXkFtZTcwODEzNTkxNg@@._V1_UY317_CR24,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk3NTY4NzgyOV5BMl5BanBnXkFtZTcwODEzNTkxNg@@._V1_UY317_CR24,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -152,7 +152,7 @@
       }
     ],
     "filmsCount": 91,
-    "powerCareer": 7,
+    "powerCareer": 22,
     "powerMcu": 1,
     "id": "actor-2",
     "actorName": "Terrence Howard",
@@ -298,7 +298,7 @@
       }
     ],
     "filmsCount": 89,
-    "powerCareer": 33,
+    "powerCareer": 48,
     "powerMcu": 1,
     "id": "actor-3",
     "actorName": "Jeff Bridges",
@@ -391,16 +391,16 @@
       }
     ],
     "filmsCount": 56,
-    "powerCareer": 36,
+    "powerCareer": 26,
     "powerMcu": 7,
     "id": "actor-4",
     "actorName": "Gwyneth Paltrow",
-    "castPositionTotal": 72,
+    "castPositionTotal": 67,
     "castPositionAverage": 10
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NzAzNzE5N15BMl5BanBnXkFtZTcwMjMyODM0MQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg2NzAzNzE5N15BMl5BanBnXkFtZTcwMjMyODM0MQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -413,8 +413,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 67,
-    "powerCareer": 6,
+    "filmsCount": 69,
+    "powerCareer": 14,
     "powerMcu": 2,
     "id": "actor-5",
     "actorName": "Leslie Bibb",
@@ -423,7 +423,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjVmYTE0ZmItYzZhMC00OTA2LWIxYWEtYjQ4NGQ2OTQyZGY2XkEyXkFqcGdeQXVyMTE2MzE4NzQ@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BZjVmYTE0ZmItYzZhMC00OTA2LWIxYWEtYjQ4NGQ2OTQyZGY2XkEyXkFqcGdeQXVyMTE2MzE4NzQ@._V1_UY317_CR20,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -436,8 +436,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 93,
-    "powerCareer": 6,
+    "filmsCount": 94,
+    "powerCareer": 19,
     "powerMcu": 2,
     "id": "actor-6",
     "actorName": "Shaun Toub",
@@ -446,7 +446,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNjM4NjQwM15BMl5BanBnXkFtZTcwODk4OTMyMw@@._V1_UY317_CR121,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjAzNjM4NjQwM15BMl5BanBnXkFtZTcwODk4OTMyMw@@._V1_UY317_CR121,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -455,7 +455,7 @@
       }
     ],
     "filmsCount": 83,
-    "powerCareer": 3,
+    "powerCareer": 17,
     "powerMcu": 1,
     "id": "actor-7",
     "actorName": "Faran Tahir",
@@ -464,7 +464,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjYyNjAwNDUyOV5BMl5BanBnXkFtZTgwOTc5NzgyNjE@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjYyNjAwNDUyOV5BMl5BanBnXkFtZTgwOTc5NzgyNjE@._V1_UY317_CR12,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -485,19 +485,24 @@
         "title": "Marvel's The Avengers",
         "characterName": "Agent Phil Coulson",
         "isReleased": true
+      },
+      {
+        "title": "Captain Marvel",
+        "characterName": "Coulson",
+        "isReleased": false
       }
     ],
-    "filmsCount": 78,
-    "powerCareer": 12,
-    "powerMcu": 4,
+    "filmsCount": 79,
+    "powerCareer": 16,
+    "powerMcu": 5,
     "id": "actor-8",
     "actorName": "Clark Gregg",
-    "castPositionTotal": 31,
+    "castPositionTotal": 38,
     "castPositionAverage": 8
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTI1NTg2M15BMl5BanBnXkFtZTgwNTcyMzkwMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUzNTI1NTg2M15BMl5BanBnXkFtZTgwNTcyMzkwMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -506,7 +511,7 @@
       }
     ],
     "filmsCount": 108,
-    "powerCareer": 3,
+    "powerCareer": 22,
     "powerMcu": 1,
     "id": "actor-9",
     "actorName": "Bill Smitrovich",
@@ -515,7 +520,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzFlMjNkMmUtNDRjOS00NGFmLThkYzktYTA4MDFiNjlhOTA2XkEyXkFqcGdeQXVyMjUzNTM0Ng@@._V1_UY317_CR25,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzFlMjNkMmUtNDRjOS00NGFmLThkYzktYTA4MDFiNjlhOTA2XkEyXkFqcGdeQXVyMjUzNTM0Ng@@._V1_UY317_CR25,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -523,8 +528,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 60,
-    "powerCareer": 3,
+    "filmsCount": 61,
+    "powerCareer": 12,
     "powerMcu": 1,
     "id": "actor-10",
     "actorName": "Sayed Badreya",
@@ -581,11 +586,11 @@
       }
     ],
     "filmsCount": 47,
-    "powerCareer": 22,
+    "powerCareer": 10,
     "powerMcu": 7,
     "id": "actor-11",
     "actorName": "Paul Bettany",
-    "castPositionTotal": 94,
+    "castPositionTotal": 92,
     "castPositionAverage": 13
   },
   {
@@ -640,11 +645,11 @@
       }
     ],
     "filmsCount": 69,
-    "powerCareer": 22,
+    "powerCareer": 18,
     "powerMcu": 6,
     "id": "actor-12",
     "actorName": "Jon Favreau",
-    "castPositionTotal": 78,
+    "castPositionTotal": 80,
     "castPositionAverage": 13
   },
   {
@@ -735,8 +740,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 114,
-    "powerCareer": 47,
+    "filmsCount": 115,
+    "powerCareer": 25,
     "powerMcu": 15,
     "id": "actor-51",
     "actorName": "Stan Lee",
@@ -822,7 +827,7 @@
       }
     ],
     "filmsCount": 41,
-    "powerCareer": 16,
+    "powerCareer": 21,
     "powerMcu": 1,
     "id": "actor-62",
     "actorName": "Edward Norton",
@@ -831,7 +836,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NjQxMjc5MF5BMl5BanBnXkFtZTcwMzg5Mzg4Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY4NjQxMjc5MF5BMl5BanBnXkFtZTcwMzg5Mzg4Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -840,7 +845,7 @@
       }
     ],
     "filmsCount": 34,
-    "powerCareer": 3,
+    "powerCareer": 7,
     "powerMcu": 1,
     "id": "actor-63",
     "actorName": "Liv Tyler",
@@ -880,7 +885,7 @@
       }
     ],
     "characterDisplayName": "Emil Blonsky / The Abomination",
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -889,7 +894,7 @@
       }
     ],
     "filmsCount": 101,
-    "powerCareer": 9,
+    "powerCareer": 26,
     "powerMcu": 1,
     "id": "actor-64",
     "actorName": "Tim Roth",
@@ -1008,8 +1013,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 100,
-    "powerCareer": 31,
+    "filmsCount": 99,
+    "powerCareer": 45,
     "powerMcu": 2,
     "id": "actor-65",
     "actorName": "William Hurt",
@@ -1018,7 +1023,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0ODkwNjM5M15BMl5BanBnXkFtZTcwNzQ3NjgyMw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk0ODkwNjM5M15BMl5BanBnXkFtZTcwNzQ3NjgyMw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -1026,8 +1031,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 81,
-    "powerCareer": 3,
+    "filmsCount": 82,
+    "powerCareer": 16,
     "powerMcu": 1,
     "id": "actor-66",
     "actorName": "Tim Blake Nelson",
@@ -1101,7 +1106,7 @@
       }
     ],
     "characterDisplayName": "Leonard Samson",
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MjE1NzIxNl5BMl5BanBnXkFtZTcwNTY4NjI4NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM2MjE1NzIxNl5BMl5BanBnXkFtZTcwNTY4NjI4NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -1110,7 +1115,7 @@
       }
     ],
     "filmsCount": 40,
-    "powerCareer": 15,
+    "powerCareer": 20,
     "powerMcu": 1,
     "id": "actor-67",
     "actorName": "Ty Burrell",
@@ -1119,7 +1124,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGNhNjZkMDQtN2ZlMi00YTdiLWJhYmQtZTNjZDJkNDM1NjFlXkEyXkFqcGdeQXVyMTA4MDk0NDQ@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMGNhNjZkMDQtN2ZlMi00YTdiLWJhYmQtZTNjZDJkNDM1NjFlXkEyXkFqcGdeQXVyMTA4MDk0NDQ@._V1_UY317_CR11,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -1128,7 +1133,7 @@
       }
     ],
     "filmsCount": 19,
-    "powerCareer": 3,
+    "powerCareer": 4,
     "powerMcu": 1,
     "id": "actor-68",
     "actorName": "Christina Cabot",
@@ -1137,7 +1142,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyMjE3MTIyNTleQTJeQWpwZ15BbWU3MDc2MDI5ODc@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTEyMjE3MTIyNTleQTJeQWpwZ15BbWU3MDc2MDI5ODc@._V1_UY317_CR1,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -1145,8 +1150,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 47,
-    "powerCareer": 3,
+    "filmsCount": 48,
+    "powerCareer": 10,
     "powerMcu": 1,
     "id": "actor-69",
     "actorName": "Peter Mensah",
@@ -1155,7 +1160,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NTcwNjQzNV5BMl5BanBnXkFtZTYwNDI0MzM1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM5NTcwNjQzNV5BMl5BanBnXkFtZTYwNDI0MzM1._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -1164,7 +1169,7 @@
       }
     ],
     "filmsCount": 62,
-    "powerCareer": 3,
+    "powerCareer": 12,
     "powerMcu": 1,
     "id": "actor-70",
     "actorName": "Lou Ferrigno",
@@ -1323,13 +1328,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 84,
-    "powerCareer": 48,
+    "filmsCount": 85,
+    "powerCareer": 50,
     "powerMcu": 5,
     "id": "actor-129",
     "actorName": "Don Cheadle",
-    "castPositionTotal": 57,
-    "castPositionAverage": 11
+    "castPositionTotal": 58,
+    "castPositionAverage": 12
   },
   {
     "awards": [
@@ -1409,12 +1414,12 @@
       }
     ],
     "filmsCount": 61,
-    "powerCareer": 31,
+    "powerCareer": 22,
     "powerMcu": 7,
     "id": "actor-130",
     "actorName": "Scarlett Johansson",
-    "castPositionTotal": 32,
-    "castPositionAverage": 5
+    "castPositionTotal": 28,
+    "castPositionAverage": 4
   },
   {
     "awards": [
@@ -1426,6 +1431,14 @@
         "year": "2018"
       },
       {
+        "event": "OSCARS",
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "{\"Dixon\"}",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "winner": true,
+        "year": "2017 (90th)"
+      },
+      {
         "event": "GOLDEN_GLOBES",
         "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN ANY MOTION PICTURE",
         "title": "Three Billboards Outside Ebbing, Missouri",
@@ -1433,7 +1446,7 @@
         "year": "2018"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -1442,7 +1455,7 @@
       }
     ],
     "filmsCount": 99,
-    "powerCareer": 7,
+    "powerCareer": 26,
     "powerMcu": 1,
     "id": "actor-131",
     "actorName": "Sam Rockwell",
@@ -1474,7 +1487,7 @@
         "year": "2009"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MzYwNDA2MF5BMl5BanBnXkFtZTcwNDYzMjg4Mw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM0MzYwNDA2MF5BMl5BanBnXkFtZTcwNDYzMjg4Mw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -1483,7 +1496,7 @@
       }
     ],
     "filmsCount": 83,
-    "powerCareer": 11,
+    "powerCareer": 25,
     "powerMcu": 1,
     "id": "actor-132",
     "actorName": "Mickey Rourke",
@@ -1585,11 +1598,11 @@
       }
     ],
     "filmsCount": 176,
-    "powerCareer": 32,
+    "powerCareer": 49,
     "powerMcu": 6,
     "id": "actor-133",
     "actorName": "Samuel L. Jackson",
-    "castPositionTotal": 39,
+    "castPositionTotal": 41,
     "castPositionAverage": 7
   },
   {
@@ -1623,7 +1636,7 @@
         "year": "2008"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTIyNDY5MV5BMl5BanBnXkFtZTgwODM2OTQyMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc4OTIyNDY5MV5BMl5BanBnXkFtZTgwODM2OTQyMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -1642,7 +1655,7 @@
       }
     ],
     "filmsCount": 73,
-    "powerCareer": 13,
+    "powerCareer": 19,
     "powerMcu": 3,
     "id": "actor-134",
     "actorName": "John Slattery",
@@ -1757,8 +1770,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 25,
-    "powerCareer": 34,
+    "filmsCount": 26,
+    "powerCareer": 33,
     "powerMcu": 2,
     "id": "actor-135",
     "actorName": "Garry Shandling",
@@ -1814,13 +1827,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 37,
-    "powerCareer": 23,
+    "filmsCount": 38,
+    "powerCareer": 10,
     "powerMcu": 7,
     "id": "actor-179",
     "actorName": "Chris Hemsworth",
-    "castPositionTotal": 27,
-    "castPositionAverage": 4
+    "castPositionTotal": 24,
+    "castPositionAverage": 3
   },
   {
     "awards": [
@@ -1912,8 +1925,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 58,
-    "powerCareer": 26,
+    "filmsCount": 59,
+    "powerCareer": 32,
     "powerMcu": 2,
     "id": "actor-180",
     "actorName": "Natalie Portman",
@@ -1981,11 +1994,11 @@
       }
     ],
     "filmsCount": 44,
-    "powerCareer": 24,
+    "powerCareer": 18,
     "powerMcu": 5,
     "id": "actor-181",
     "actorName": "Tom Hiddleston",
-    "castPositionTotal": 30,
+    "castPositionTotal": 28,
     "castPositionAverage": 6
   },
   {
@@ -2189,8 +2202,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 132,
-    "powerCareer": 63,
+    "filmsCount": 131,
+    "powerCareer": 80,
     "powerMcu": 3,
     "id": "actor-182",
     "actorName": "Anthony Hopkins",
@@ -2199,7 +2212,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDUzOTY0N15BMl5BanBnXkFtZTYwNjYxODE0._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg4NDUzOTY0N15BMl5BanBnXkFtZTYwNjYxODE0._V1_UY317_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2223,7 +2236,7 @@
       }
     ],
     "filmsCount": 141,
-    "powerCareer": 12,
+    "powerCareer": 28,
     "powerMcu": 4,
     "id": "actor-183",
     "actorName": "Stellan Skarsgård",
@@ -2232,7 +2245,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNjk2NzA5Ml5BMl5BanBnXkFtZTcwNzIxMDcwOQ@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTcxNjk2NzA5Ml5BMl5BanBnXkFtZTcwNzIxMDcwOQ@@._V1_UY317_CR1,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2245,8 +2258,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 40,
-    "powerCareer": 6,
+    "filmsCount": 41,
+    "powerCareer": 8,
     "powerMcu": 2,
     "id": "actor-184",
     "actorName": "Kat Dennings",
@@ -2255,7 +2268,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2264,7 +2277,7 @@
       }
     ],
     "filmsCount": 150,
-    "powerCareer": 3,
+    "powerCareer": 30,
     "powerMcu": 1,
     "id": "actor-185",
     "actorName": "Colm Feore",
@@ -2394,19 +2407,24 @@
         "title": "Thor: Ragnarok",
         "characterName": "Heimdall",
         "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Heimdall",
+        "isReleased": false
       }
     ],
-    "filmsCount": 86,
-    "powerCareer": 40,
-    "powerMcu": 4,
+    "filmsCount": 85,
+    "powerCareer": 45,
+    "powerMcu": 5,
     "id": "actor-186",
     "actorName": "Idris Elba",
-    "castPositionTotal": 39,
-    "castPositionAverage": 10
+    "castPositionTotal": 54,
+    "castPositionAverage": 11
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MjczMDYzMV5BMl5BanBnXkFtZTcwMDQzMDIzMQ@@._V1_UY317_CR18,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg4MjczMDYzMV5BMl5BanBnXkFtZTcwMDQzMDIzMQ@@._V1_UY317_CR18,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2425,7 +2443,7 @@
       }
     ],
     "filmsCount": 53,
-    "powerCareer": 9,
+    "powerCareer": 11,
     "powerMcu": 3,
     "id": "actor-187",
     "actorName": "Ray Stevenson",
@@ -2434,7 +2452,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzM5MTk5OV5BMl5BanBnXkFtZTgwMTcxMTY1MDE@._V1_UY317_CR3,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY5MzM5MTk5OV5BMl5BanBnXkFtZTgwMTcxMTY1MDE@._V1_UY317_CR3,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2452,8 +2470,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 104,
-    "powerCareer": 9,
+    "filmsCount": 105,
+    "powerCareer": 21,
     "powerMcu": 3,
     "id": "actor-188",
     "actorName": "Tadanobu Asano",
@@ -2462,7 +2480,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MzU1MTEzMl5BMl5BanBnXkFtZTgwMDY3OTA2MDE@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY0MzU1MTEzMl5BMl5BanBnXkFtZTgwMDY3OTA2MDE@._V1_UY317_CR11,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2493,7 +2511,7 @@
         "year": "2015"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDI4MDE3MF5BMl5BanBnXkFtZTYwNzI3NjE0._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMWJmMTZmMTgtMDEwYy00MjcxLWEyMzItZTg0NDE0N2YyYTAxXkEyXkFqcGdeQXVyODU5NzE0NDU@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2516,7 +2534,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDAyOTQ3MDg3OV5BMl5BanBnXkFtZTcwNjQ0NTcyMQ@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDAyOTQ3MDg3OV5BMl5BanBnXkFtZTcwNjQ0NTcyMQ@@._V1_UY317_CR11,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor",
@@ -2535,7 +2553,7 @@
       }
     ],
     "filmsCount": 38,
-    "powerCareer": 9,
+    "powerCareer": 8,
     "powerMcu": 3,
     "id": "actor-193",
     "actorName": "Maximiliano Hernández",
@@ -2625,12 +2643,12 @@
       }
     ],
     "filmsCount": 48,
-    "powerCareer": 37,
+    "powerCareer": 23,
     "powerMcu": 8,
     "id": "actor-225",
     "actorName": "Chris Evans",
-    "castPositionTotal": 77,
-    "castPositionAverage": 10
+    "castPositionTotal": 63,
+    "castPositionAverage": 8
   },
   {
     "awards": [
@@ -2666,8 +2684,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 41,
-    "powerCareer": 14,
+    "filmsCount": 42,
+    "powerCareer": 10,
     "powerMcu": 4,
     "id": "actor-226",
     "actorName": "Hayley Atwell",
@@ -2696,7 +2714,7 @@
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Bucky Barnes / Winter Soldier",
+        "characterName": "Bucky Barnes / White Wolf",
         "isReleased": false
       },
       {
@@ -2706,11 +2724,11 @@
       }
     ],
     "filmsCount": 39,
-    "powerCareer": 15,
+    "powerCareer": 8,
     "powerMcu": 5,
     "id": "actor-227",
     "actorName": "Sebastian Stan",
-    "castPositionTotal": 32,
+    "castPositionTotal": 29,
     "castPositionAverage": 6
   },
   {
@@ -2828,7 +2846,7 @@
       }
     ],
     "filmsCount": 82,
-    "powerCareer": 24,
+    "powerCareer": 37,
     "powerMcu": 1,
     "id": "actor-228",
     "actorName": "Tommy Lee Jones",
@@ -2837,7 +2855,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -2845,8 +2863,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 87,
-    "powerCareer": 3,
+    "filmsCount": 88,
+    "powerCareer": 18,
     "powerMcu": 1,
     "id": "actor-229",
     "actorName": "Hugo Weaving",
@@ -2863,7 +2881,7 @@
         "year": "2016"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2OTk2NDc1Ml5BMl5BanBnXkFtZTcwNTUyNzc4Mg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU2OTk2NDc1Ml5BMl5BanBnXkFtZTcwNTUyNzc4Mg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -2871,8 +2889,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 55,
-    "powerCareer": 5,
+    "filmsCount": 54,
+    "powerCareer": 13,
     "powerMcu": 1,
     "id": "actor-230",
     "actorName": "Dominic Cooper",
@@ -2881,7 +2899,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDU1N2VmMjEtY2M1ZS00N2M4LWI4NGMtYjkwYTgxMzY4YTFhL2ltYWdlXkEyXkFqcGdeQXVyMjQxODUxMjA@._V1_UY317_CR37,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDU1N2VmMjEtY2M1ZS00N2M4LWI4NGMtYjkwYTgxMzY4YTFhL2ltYWdlXkEyXkFqcGdeQXVyMjQxODUxMjA@._V1_UY317_CR37,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -2890,7 +2908,7 @@
       }
     ],
     "filmsCount": 46,
-    "powerCareer": 3,
+    "powerCareer": 9,
     "powerMcu": 1,
     "id": "actor-231",
     "actorName": "Richard Armitage",
@@ -3001,8 +3019,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 125,
-    "powerCareer": 27,
+    "filmsCount": 126,
+    "powerCareer": 49,
     "powerMcu": 1,
     "id": "actor-232",
     "actorName": "Stanley Tucci",
@@ -3011,6 +3029,13 @@
   },
   {
     "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Television | Male Performance in a Comedy Programme",
+        "title": "Detectorists",
+        "winner": false,
+        "year": "2018"
+      },
       {
         "event": "BAFTAS",
         "category": "Television | Male Performance In A Comedy Programme",
@@ -3076,7 +3101,7 @@
       }
     ],
     "filmsCount": 108,
-    "powerCareer": 20,
+    "powerCareer": 38,
     "powerMcu": 2,
     "id": "actor-233",
     "actorName": "Toby Jones",
@@ -3085,7 +3110,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjQ4ZTFmMzktNmY1Mi00ZjgzLWFiOTctYmZhM2JlOWI4ZTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BYjQ4ZTFmMzktNmY1Mi00ZjgzLWFiOTctYmZhM2JlOWI4ZTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -3099,7 +3124,7 @@
       }
     ],
     "filmsCount": 80,
-    "powerCareer": 6,
+    "powerCareer": 16,
     "powerMcu": 2,
     "id": "actor-236",
     "actorName": "Kenneth Choi",
@@ -3220,13 +3245,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 66,
-    "powerCareer": 31,
+    "filmsCount": 67,
+    "powerCareer": 32,
     "powerMcu": 4,
     "id": "actor-317",
     "actorName": "Mark Ruffalo",
-    "castPositionTotal": 46,
-    "castPositionAverage": 12
+    "castPositionTotal": 44,
+    "castPositionAverage": 11
   },
   {
     "awards": [
@@ -3291,11 +3316,11 @@
       }
     ],
     "filmsCount": 54,
-    "powerCareer": 21,
+    "powerCareer": 17,
     "powerMcu": 5,
     "id": "actor-318",
     "actorName": "Jeremy Renner",
-    "castPositionTotal": 57,
+    "castPositionTotal": 53,
     "castPositionAverage": 11
   },
   {
@@ -3317,20 +3342,15 @@
         "title": "Avengers: Age of Ultron",
         "characterName": "Maria Hill",
         "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Maria Hill (rumored)",
-        "isReleased": false
       }
     ],
-    "filmsCount": 41,
-    "powerCareer": 12,
-    "powerMcu": 4,
+    "filmsCount": 40,
+    "powerCareer": 8,
+    "powerMcu": 3,
     "id": "actor-319",
     "actorName": "Cobie Smulders",
-    "castPositionTotal": 54,
-    "castPositionAverage": 14
+    "castPositionTotal": 29,
+    "castPositionAverage": 10
   },
   {
     "awards": [
@@ -3365,8 +3385,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 71,
-    "powerCareer": 8,
+    "filmsCount": 70,
+    "powerCareer": 19,
     "powerMcu": 1,
     "id": "actor-356",
     "actorName": "Guy Pearce",
@@ -3428,7 +3448,7 @@
       }
     ],
     "filmsCount": 38,
-    "powerCareer": 15,
+    "powerCareer": 20,
     "powerMcu": 1,
     "id": "actor-357",
     "actorName": "Rebecca Hall",
@@ -3591,8 +3611,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 137,
-    "powerCareer": 42,
+    "filmsCount": 138,
+    "powerCareer": 67,
     "powerMcu": 1,
     "id": "actor-358",
     "actorName": "Ben Kingsley",
@@ -3601,7 +3621,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 3",
@@ -3609,8 +3629,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 40,
-    "powerCareer": 3,
+    "filmsCount": 41,
+    "powerCareer": 8,
     "powerMcu": 1,
     "id": "actor-359",
     "actorName": "James Badge Dale",
@@ -3619,7 +3639,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1MTYyNzkwN15BMl5BanBnXkFtZTgwMTkxNDk0MDI@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjM1MTYyNzkwN15BMl5BanBnXkFtZTgwMTkxNDk0MDI@._V1_UY317_CR2,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 3",
@@ -3627,8 +3647,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 32,
-    "powerCareer": 3,
+    "filmsCount": 33,
+    "powerCareer": 7,
     "powerMcu": 1,
     "id": "actor-360",
     "actorName": "Stephanie Szostak",
@@ -3637,7 +3657,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODYxMDI3OWYtOWFhYi00Nzk3LTkzMmQtNmNhZTI5YWVkODk5XkEyXkFqcGdeQXVyMTAxNjMxMjg@._V1_UY317_CR45,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BODYxMDI3OWYtOWFhYi00Nzk3LTkzMmQtNmNhZTI5YWVkODk5XkEyXkFqcGdeQXVyMTAxNjMxMjg@._V1_UY317_CR45,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Iron Man 3",
@@ -3655,7 +3675,7 @@
     "powerMcu": 2,
     "id": "actor-363",
     "actorName": "Ty Simpkins",
-    "castPositionTotal": 27,
+    "castPositionTotal": 28,
     "castPositionAverage": 14
   },
   {
@@ -3682,7 +3702,7 @@
         "year": "1997"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwOTI1NjUxMl5BMl5BanBnXkFtZTYwMTAzNjI3._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTIwOTI1NjUxMl5BMl5BanBnXkFtZTYwMTAzNjI3._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor: The Dark World",
@@ -3691,7 +3711,7 @@
       }
     ],
     "filmsCount": 76,
-    "powerCareer": 9,
+    "powerCareer": 21,
     "powerMcu": 1,
     "id": "actor-450",
     "actorName": "Christopher Eccleston",
@@ -3700,7 +3720,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor: The Dark World",
@@ -3714,7 +3734,7 @@
       }
     ],
     "filmsCount": 54,
-    "powerCareer": 6,
+    "powerCareer": 11,
     "powerMcu": 2,
     "id": "actor-451",
     "actorName": "Zachary Levi",
@@ -3839,8 +3859,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 79,
-    "powerCareer": 37,
+    "filmsCount": 78,
+    "powerCareer": 50,
     "powerMcu": 1,
     "id": "actor-477",
     "actorName": "Robert Redford",
@@ -3878,18 +3898,18 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 57,
-    "powerCareer": 15,
+    "filmsCount": 58,
+    "powerCareer": 12,
     "powerMcu": 5,
     "id": "actor-478",
     "actorName": "Anthony Mackie",
-    "castPositionTotal": 66,
-    "castPositionAverage": 13
+    "castPositionTotal": 69,
+    "castPositionAverage": 14
   },
   {
     "awards": [],
     "characterDisplayName": "Brock Rumlow / Crossbones",
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_UY317_CR100,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_UY317_CR100,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
@@ -3903,7 +3923,7 @@
       }
     ],
     "filmsCount": 66,
-    "powerCareer": 6,
+    "powerCareer": 13,
     "powerMcu": 2,
     "id": "actor-479",
     "actorName": "Frank Grillo",
@@ -3913,7 +3933,7 @@
   {
     "awards": [],
     "characterDisplayName": "Sharon Carter / Agent 13",
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MDc4MDk4NF5BMl5BanBnXkFtZTgwMjkwMTYwOTE@._V1_UY317_CR28,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ5MDc4MDk4NF5BMl5BanBnXkFtZTgwMjkwMTYwOTE@._V1_UY317_CR28,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
@@ -3927,7 +3947,7 @@
       }
     ],
     "filmsCount": 27,
-    "powerCareer": 6,
+    "powerCareer": 5,
     "powerMcu": 2,
     "id": "actor-480",
     "actorName": "Emily VanCamp",
@@ -3970,13 +3990,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 48,
-    "powerCareer": 13,
+    "filmsCount": 49,
+    "powerCareer": 14,
     "powerMcu": 3,
     "id": "actor-530",
     "actorName": "Chris Pratt",
-    "castPositionTotal": 20,
-    "castPositionAverage": 7
+    "castPositionTotal": 18,
+    "castPositionAverage": 6
   },
   {
     "awards": [],
@@ -3999,13 +4019,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 54,
-    "powerCareer": 9,
+    "filmsCount": 56,
+    "powerCareer": 11,
     "powerMcu": 3,
     "id": "actor-531",
     "actorName": "Zoe Saldana",
-    "castPositionTotal": 23,
-    "castPositionAverage": 8
+    "castPositionTotal": 14,
+    "castPositionAverage": 5
   },
   {
     "awards": [],
@@ -4026,15 +4046,20 @@
         "title": "Avengers: Infinity War",
         "characterName": "Drax",
         "isReleased": false
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Drax",
+        "isReleased": false
       }
     ],
-    "filmsCount": 54,
-    "powerCareer": 9,
-    "powerMcu": 3,
+    "filmsCount": 56,
+    "powerCareer": 11,
+    "powerMcu": 4,
     "id": "actor-532",
     "actorName": "Dave Bautista",
-    "castPositionTotal": 30,
-    "castPositionAverage": 10
+    "castPositionTotal": 37,
+    "castPositionAverage": 9
   },
   {
     "awards": [],
@@ -4057,12 +4082,12 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 43,
+    "filmsCount": 44,
     "powerCareer": 9,
     "powerMcu": 3,
     "id": "actor-533",
     "actorName": "Vin Diesel",
-    "castPositionTotal": 30,
+    "castPositionTotal": 29,
     "castPositionAverage": 10
   },
   {
@@ -4135,16 +4160,16 @@
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Rocket Raccoon (voice)",
+        "characterName": "Rocket (voice)",
         "isReleased": false
       }
     ],
     "filmsCount": 60,
-    "powerCareer": 20,
+    "powerCareer": 23,
     "powerMcu": 3,
     "id": "actor-534",
     "actorName": "Bradley Cooper",
-    "castPositionTotal": 36,
+    "castPositionTotal": 37,
     "castPositionAverage": 12
   },
   {
@@ -4171,25 +4196,30 @@
         "year": "2008"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk2NjE4NDgzNl5BMl5BanBnXkFtZTcwNTI3NTEzMQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMzk2NjE4NDgzNl5BMl5BanBnXkFtZTcwNTI3NTEzMQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
         "characterName": "Ronan",
         "isReleased": true
+      },
+      {
+        "title": "Captain Marvel",
+        "characterName": "Ronan",
+        "isReleased": false
       }
     ],
-    "filmsCount": 34,
-    "powerCareer": 8,
-    "powerMcu": 1,
+    "filmsCount": 35,
+    "powerCareer": 12,
+    "powerMcu": 2,
     "id": "actor-535",
     "actorName": "Lee Pace",
-    "castPositionTotal": 6,
-    "castPositionAverage": 6
+    "castPositionTotal": 9,
+    "castPositionAverage": 5
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNDI5MjQ5MF5BMl5BanBnXkFtZTYwMjI1MTgz._V1_UY317_CR22,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTkwNDI5MjQ5MF5BMl5BanBnXkFtZTYwMjI1MTgz._V1_UY317_CR22,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -4203,7 +4233,7 @@
       }
     ],
     "filmsCount": 119,
-    "powerCareer": 6,
+    "powerCareer": 24,
     "powerMcu": 2,
     "id": "actor-536",
     "actorName": "Michael Rooker",
@@ -4237,12 +4267,12 @@
       }
     ],
     "filmsCount": 51,
-    "powerCareer": 12,
+    "powerCareer": 10,
     "powerMcu": 4,
     "id": "actor-537",
     "actorName": "Karen Gillan",
-    "castPositionTotal": 25,
-    "castPositionAverage": 6
+    "castPositionTotal": 17,
+    "castPositionAverage": 4
   },
   {
     "awards": [
@@ -4270,20 +4300,25 @@
         "year": "1998"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_UY317_CR10,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
         "characterName": "Korath",
         "isReleased": true
+      },
+      {
+        "title": "Captain Marvel",
+        "characterName": "Korath",
+        "isReleased": false
       }
     ],
-    "filmsCount": 50,
-    "powerCareer": 7,
-    "powerMcu": 1,
+    "filmsCount": 51,
+    "powerCareer": 14,
+    "powerMcu": 2,
     "id": "actor-538",
     "actorName": "Djimon Hounsou",
-    "castPositionTotal": 9,
+    "castPositionTotal": 18,
     "castPositionAverage": 9
   },
   {
@@ -4318,7 +4353,7 @@
         "year": "1981"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_UY317_CR34,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_UY317_CR34,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -4326,8 +4361,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 101,
-    "powerCareer": 10,
+    "filmsCount": 102,
+    "powerCareer": 27,
     "powerMcu": 1,
     "id": "actor-539",
     "actorName": "John C. Reilly",
@@ -4396,7 +4431,7 @@
       }
     ],
     "filmsCount": 54,
-    "powerCareer": 20,
+    "powerCareer": 28,
     "powerMcu": 1,
     "id": "actor-597",
     "actorName": "James Spader",
@@ -4420,7 +4455,7 @@
         "year": "2017"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1_UY317_CR13,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
@@ -4429,7 +4464,7 @@
       }
     ],
     "filmsCount": 40,
-    "powerCareer": 6,
+    "powerCareer": 11,
     "powerMcu": 1,
     "id": "actor-598",
     "actorName": "Aaron Taylor-Johnson",
@@ -4466,7 +4501,7 @@
       }
     ],
     "filmsCount": 22,
-    "powerCareer": 11,
+    "powerCareer": 6,
     "powerMcu": 3,
     "id": "actor-599",
     "actorName": "Elizabeth Olsen",
@@ -4483,7 +4518,7 @@
         "year": "2013"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_UY317_CR7,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
@@ -4496,13 +4531,65 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 67,
-    "powerCareer": 8,
+    "filmsCount": 69,
+    "powerCareer": 16,
     "powerMcu": 2,
     "id": "actor-600",
     "actorName": "Linda Cardellini",
-    "castPositionTotal": 27,
+    "castPositionTotal": 28,
     "castPositionAverage": 14
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Leading Actor",
+        "title": "Sex And Drugs And Rock And Roll",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "BAFTAS",
+        "category": "Television | Actor",
+        "title": "Longford",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Longford",
+        "winner": false,
+        "year": "2008"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Little Dorrit (Masterpiece)",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "img": "https://ia.media-imdb.com/images/M/MV5BYTgwYmM0ZjgtMWRmZC00YTc1LWIwYWEtYTFjMTZiMDNjNWRkXkEyXkFqcGdeQXVyNjcwMjczMzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Ulysses Klaue",
+        "isReleased": true
+      },
+      {
+        "title": "Black Panther",
+        "characterName": "Ulysses Klaue",
+        "isReleased": true
+      }
+    ],
+    "filmsCount": 95,
+    "powerCareer": 25,
+    "powerMcu": 2,
+    "id": "actor-603",
+    "actorName": "Andy Serkis",
+    "castPositionTotal": 33,
+    "castPositionAverage": 17
   },
   {
     "awards": [],
@@ -4530,13 +4617,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 109,
-    "powerCareer": 12,
+    "filmsCount": 108,
+    "powerCareer": 22,
     "powerMcu": 4,
     "id": "actor-645",
     "actorName": "Paul Rudd",
-    "castPositionTotal": 39,
-    "castPositionAverage": 10
+    "castPositionTotal": 31,
+    "castPositionAverage": 8
   },
   {
     "awards": [
@@ -4718,11 +4805,11 @@
       }
     ],
     "filmsCount": 77,
-    "powerCareer": 57,
+    "powerCareer": 66,
     "powerMcu": 2,
     "id": "actor-646",
     "actorName": "Michael Douglas",
-    "castPositionTotal": 10,
+    "castPositionTotal": 9,
     "castPositionAverage": 5
   },
   {
@@ -4735,7 +4822,7 @@
         "year": "2007"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_UY317_CR30,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_UY317_CR30,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4754,12 +4841,12 @@
       }
     ],
     "filmsCount": 19,
-    "powerCareer": 11,
+    "powerCareer": 6,
     "powerMcu": 3,
     "id": "actor-647",
     "actorName": "Evangeline Lilly",
-    "castPositionTotal": 9,
-    "castPositionAverage": 3
+    "castPositionTotal": 16,
+    "castPositionAverage": 5
   },
   {
     "awards": [
@@ -4771,7 +4858,7 @@
         "year": "2014"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU5MjUwMDYzOF5BMl5BanBnXkFtZTcwMDcwOTkwOQ@@._V1_UY317_CR44,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMzU5MjUwMDYzOF5BMl5BanBnXkFtZTcwMDcwOTkwOQ@@._V1_UY317_CR44,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4780,7 +4867,7 @@
       }
     ],
     "filmsCount": 54,
-    "powerCareer": 4,
+    "powerCareer": 12,
     "powerMcu": 1,
     "id": "actor-648",
     "actorName": "Corey Stoll",
@@ -4818,7 +4905,7 @@
         "year": "2005"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_UY317_CR174,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_UY317_CR174,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4826,8 +4913,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 96,
-    "powerCareer": 12,
+    "filmsCount": 97,
+    "powerCareer": 28,
     "powerMcu": 1,
     "id": "actor-649",
     "actorName": "Bobby Cannavale",
@@ -4836,7 +4923,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_UY317_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4850,16 +4937,16 @@
       }
     ],
     "filmsCount": 129,
-    "powerCareer": 6,
+    "powerCareer": 26,
     "powerMcu": 2,
     "id": "actor-650",
     "actorName": "Judy Greer",
-    "castPositionTotal": 12,
-    "castPositionAverage": 6
+    "castPositionTotal": 13,
+    "castPositionAverage": 7
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmRjZWI0ZjItZGVmNC00ODc5LTlmYzctMGNjZjAxM2MyYmVkXkEyXkFqcGdeQXVyMzgzNTA3MjE@._V1_UY317_CR26,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BYmRjZWI0ZjItZGVmNC00ODc5LTlmYzctMGNjZjAxM2MyYmVkXkEyXkFqcGdeQXVyMzgzNTA3MjE@._V1_UY317_CR26,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4873,16 +4960,16 @@
       }
     ],
     "filmsCount": 12,
-    "powerCareer": 6,
+    "powerCareer": 2,
     "powerMcu": 2,
     "id": "actor-651",
     "actorName": "Abby Ryder Fortson",
-    "castPositionTotal": 20,
-    "castPositionAverage": 10
+    "castPositionTotal": 24,
+    "castPositionAverage": 12
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_UY317_CR15,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_UY317_CR15,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4896,16 +4983,16 @@
       }
     ],
     "filmsCount": 86,
-    "powerCareer": 6,
+    "powerCareer": 17,
     "powerMcu": 2,
     "id": "actor-652",
     "actorName": "Michael Peña",
-    "castPositionTotal": 16,
-    "castPositionAverage": 8
+    "castPositionTotal": 17,
+    "castPositionAverage": 9
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4918,17 +5005,17 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 60,
-    "powerCareer": 6,
+    "filmsCount": 61,
+    "powerCareer": 12,
     "powerMcu": 2,
     "id": "actor-653",
     "actorName": "David Dastmalchian",
-    "castPositionTotal": 20,
-    "castPositionAverage": 10
+    "castPositionTotal": 21,
+    "castPositionAverage": 11
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMDMwNjkxN15BMl5BanBnXkFtZTcwMDI0MTM5OA@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQzMDMwNjkxN15BMl5BanBnXkFtZTcwMDI0MTM5OA@@._V1_UY317_CR7,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -4941,13 +5028,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 33,
-    "powerCareer": 6,
+    "filmsCount": 42,
+    "powerCareer": 8,
     "powerMcu": 2,
     "id": "actor-654",
     "actorName": "T.I.",
-    "castPositionTotal": 27,
-    "castPositionAverage": 14
+    "castPositionTotal": 25,
+    "castPositionAverage": 13
   },
   {
     "awards": [],
@@ -4976,12 +5063,12 @@
       }
     ],
     "filmsCount": 30,
-    "powerCareer": 12,
+    "powerCareer": 6,
     "powerMcu": 4,
     "id": "actor-704",
     "actorName": "Chadwick Boseman",
-    "castPositionTotal": 11,
-    "castPositionAverage": 3
+    "castPositionTotal": 36,
+    "castPositionAverage": 9
   },
   {
     "awards": [
@@ -5062,12 +5149,12 @@
       }
     ],
     "filmsCount": 23,
-    "powerCareer": 26,
+    "powerCareer": 22,
     "powerMcu": 3,
     "id": "actor-705",
     "actorName": "Tom Holland",
-    "castPositionTotal": 23,
-    "castPositionAverage": 8
+    "castPositionTotal": 17,
+    "castPositionAverage": 6
   },
   {
     "awards": [
@@ -5142,8 +5229,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 77,
-    "powerCareer": 21,
+    "filmsCount": 78,
+    "powerCareer": 31,
     "powerMcu": 2,
     "id": "actor-707",
     "actorName": "Martin Freeman",
@@ -5198,7 +5285,7 @@
         "year": "2002"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjA3OTc3N15BMl5BanBnXkFtZTcwNTA1MzY1Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUwMjA3OTc3N15BMl5BanBnXkFtZTcwNTA1MzY1Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
@@ -5212,7 +5299,7 @@
       }
     ],
     "filmsCount": 77,
-    "powerCareer": 13,
+    "powerCareer": 22,
     "powerMcu": 2,
     "id": "actor-708",
     "actorName": "Marisa Tomei",
@@ -5354,13 +5441,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 72,
-    "powerCareer": 42,
+    "filmsCount": 71,
+    "powerCareer": 47,
     "powerMcu": 3,
     "id": "actor-781",
     "actorName": "Benedict Cumberbatch",
-    "castPositionTotal": 32,
-    "castPositionAverage": 11
+    "castPositionTotal": 25,
+    "castPositionAverage": 8
   },
   {
     "awards": [
@@ -5439,7 +5526,7 @@
       }
     ],
     "filmsCount": 49,
-    "powerCareer": 22,
+    "powerCareer": 29,
     "powerMcu": 1,
     "id": "actor-782",
     "actorName": "Chiwetel Ejiofor",
@@ -5464,7 +5551,7 @@
         "year": "2015 (88th)"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -5473,7 +5560,7 @@
       }
     ],
     "filmsCount": 36,
-    "powerCareer": 6,
+    "powerCareer": 10,
     "powerMcu": 1,
     "id": "actor-783",
     "actorName": "Rachel McAdams",
@@ -5482,7 +5569,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMTU5MzgxMF5BMl5BanBnXkFtZTYwMDI0NjI1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTcyMTU5MzgxMF5BMl5BanBnXkFtZTYwMDI0NjI1._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -5490,8 +5577,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 51,
-    "powerCareer": 3,
+    "filmsCount": 52,
+    "powerCareer": 10,
     "powerMcu": 1,
     "id": "actor-785",
     "actorName": "Mads Mikkelsen",
@@ -5561,7 +5648,7 @@
       }
     ],
     "filmsCount": 75,
-    "powerCareer": 16,
+    "powerCareer": 28,
     "powerMcu": 1,
     "id": "actor-786",
     "actorName": "Tilda Swinton",
@@ -5578,7 +5665,7 @@
         "year": "2010"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -5586,8 +5673,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 46,
-    "powerCareer": 5,
+    "filmsCount": 47,
+    "powerCareer": 11,
     "powerMcu": 1,
     "id": "actor-787",
     "actorName": "Michael Stuhlbarg",
@@ -5604,7 +5691,7 @@
         "year": "1999"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_UY317_CR14,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_UY317_CR14,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -5613,7 +5700,7 @@
       }
     ],
     "filmsCount": 64,
-    "powerCareer": 4,
+    "powerCareer": 14,
     "powerMcu": 1,
     "id": "actor-788",
     "actorName": "Benjamin Bratt",
@@ -5622,7 +5709,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhiZDM4ZGUtOGJjZS00MTNhLWJkMGItNTFiMWFiYjk2MjU3XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_UY317_CR51,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BZjhiZDM4ZGUtOGJjZS00MTNhLWJkMGItNTFiMWFiYjk2MjU3XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_UY317_CR51,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -5630,8 +5717,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 57,
-    "powerCareer": 3,
+    "filmsCount": 56,
+    "powerCareer": 11,
     "powerMcu": 1,
     "id": "actor-789",
     "actorName": "Scott Adkins",
@@ -5640,7 +5727,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2ZmNWUyOWMtNDQ5Mi00Y2Y4LTk5NTgtZTMyMDA0NDkzMThkXkEyXkFqcGdeQXVyOTA2OTEwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BN2ZmNWUyOWMtNDQ5Mi00Y2Y4LTk5NTgtZTMyMDA0NDkzMThkXkEyXkFqcGdeQXVyOTA2OTEwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -5649,7 +5736,7 @@
       }
     ],
     "filmsCount": 18,
-    "powerCareer": 3,
+    "powerCareer": 4,
     "powerMcu": 1,
     "id": "actor-790",
     "actorName": "Zara Phythian",
@@ -5672,13 +5759,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 26,
-    "powerCareer": 6,
+    "filmsCount": 27,
+    "powerCareer": 5,
     "powerMcu": 2,
     "id": "actor-808",
     "actorName": "Pom Klementieff",
-    "castPositionTotal": 21,
-    "castPositionAverage": 11
+    "castPositionTotal": 20,
+    "castPositionAverage": 10
   },
   {
     "awards": [
@@ -5743,8 +5830,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 80,
-    "powerCareer": 16,
+    "filmsCount": 79,
+    "powerCareer": 29,
     "powerMcu": 1,
     "id": "actor-809",
     "actorName": "Sylvester Stallone",
@@ -5768,7 +5855,7 @@
         "year": "1979"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy Vol. 2",
@@ -5777,7 +5864,7 @@
       }
     ],
     "filmsCount": 96,
-    "powerCareer": 6,
+    "powerCareer": 22,
     "powerMcu": 1,
     "id": "actor-810",
     "actorName": "Kurt Russell",
@@ -5847,7 +5934,7 @@
       }
     ],
     "filmsCount": 77,
-    "powerCareer": 18,
+    "powerCareer": 30,
     "powerMcu": 1,
     "id": "actor-842",
     "actorName": "Michael Keaton",
@@ -5856,7 +5943,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
@@ -5864,8 +5951,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 35,
-    "powerCareer": 3,
+    "filmsCount": 36,
+    "powerCareer": 7,
     "powerMcu": 1,
     "id": "actor-843",
     "actorName": "Zendaya",
@@ -5920,7 +6007,7 @@
       }
     ],
     "filmsCount": 82,
-    "powerCareer": 16,
+    "powerCareer": 29,
     "powerMcu": 1,
     "id": "actor-844",
     "actorName": "Donald Glover",
@@ -5930,25 +6017,30 @@
   {
     "awards": [],
     "characterDisplayName": "Ned Leeds",
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NzAzMzUzNl5BMl5BanBnXkFtZTgwNDk0MTM1OTE@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc3NzAzMzUzNl5BMl5BanBnXkFtZTgwNDk0MTM1OTE@._V1_UY317_CR5,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
         "characterName": "Ned",
         "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Ned",
+        "isReleased": false
       }
     ],
-    "filmsCount": 10,
-    "powerCareer": 3,
-    "powerMcu": 1,
+    "filmsCount": 11,
+    "powerCareer": 2,
+    "powerMcu": 2,
     "id": "actor-845",
     "actorName": "Jacob Batalon",
-    "castPositionTotal": 9,
-    "castPositionAverage": 9
+    "castPositionTotal": 48,
+    "castPositionAverage": 24
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWNiYTJiZTctNTk4Zi00OWVlLTgxZmMtNjc5ZWMwNjIwYjBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNWNiYTJiZTctNTk4Zi00OWVlLTgxZmMtNjc5ZWMwNjIwYjBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
@@ -5957,7 +6049,7 @@
       }
     ],
     "filmsCount": 9,
-    "powerCareer": 3,
+    "powerCareer": 2,
     "powerMcu": 1,
     "id": "actor-846",
     "actorName": "Laura Harrier",
@@ -6137,7 +6229,7 @@
       }
     ],
     "filmsCount": 69,
-    "powerCareer": 47,
+    "powerCareer": 58,
     "powerMcu": 1,
     "id": "actor-892",
     "actorName": "Cate Blanchett",
@@ -6154,7 +6246,7 @@
         "year": "2005"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5NzkyODg1Nl5BMl5BanBnXkFtZTYwMTY2OTE0._V1_UY317_CR22,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTE5NzkyODg1Nl5BMl5BanBnXkFtZTYwMTY2OTE0._V1_UY317_CR22,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
@@ -6162,8 +6254,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 121,
-    "powerCareer": 5,
+    "filmsCount": 122,
+    "powerCareer": 26,
     "powerMcu": 1,
     "id": "actor-893",
     "actorName": "Jeff Goldblum",
@@ -6180,30 +6272,25 @@
         "year": "2018"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjk4MDU3NDg4NF5BMl5BanBnXkFtZTcwMjMxMjcwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjk4MDU3NDg4NF5BMl5BanBnXkFtZTcwMjMxMjcwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
         "characterName": "Valkyrie",
         "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Valkyrie (rumored)",
-        "isReleased": false
       }
     ],
-    "filmsCount": 47,
-    "powerCareer": 8,
-    "powerMcu": 2,
+    "filmsCount": 48,
+    "powerCareer": 12,
+    "powerMcu": 1,
     "id": "actor-894",
     "actorName": "Tessa Thompson",
-    "castPositionTotal": 9,
-    "castPositionAverage": 5
+    "castPositionTotal": 6,
+    "castPositionAverage": 6
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1_UY317_CR5,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
@@ -6211,8 +6298,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 46,
-    "powerCareer": 3,
+    "filmsCount": 47,
+    "powerCareer": 9,
     "powerMcu": 1,
     "id": "actor-895",
     "actorName": "Karl Urban",
@@ -6221,7 +6308,7 @@
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -6230,7 +6317,7 @@
       }
     ],
     "filmsCount": 42,
-    "powerCareer": 3,
+    "powerCareer": 8,
     "powerMcu": 1,
     "id": "actor-921",
     "actorName": "Michael B. Jordan",
@@ -6269,7 +6356,7 @@
         "year": "2014"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -6277,8 +6364,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 20,
-    "powerCareer": 9,
+    "filmsCount": 21,
+    "powerCareer": 10,
     "powerMcu": 1,
     "id": "actor-922",
     "actorName": "Lupita Nyong'o",
@@ -6302,12 +6389,12 @@
       }
     ],
     "filmsCount": 18,
-    "powerCareer": 6,
+    "powerCareer": 4,
     "powerMcu": 2,
     "id": "actor-923",
     "actorName": "Danai Gurira",
-    "castPositionTotal": 10,
-    "castPositionAverage": 5
+    "castPositionTotal": 27,
+    "castPositionAverage": 14
   },
   {
     "awards": [
@@ -6326,6 +6413,14 @@
         "year": "2018"
       },
       {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Chris Washington\"}",
+        "title": "Get Out",
+        "winner": false,
+        "year": "2017 (90th)"
+      },
+      {
         "event": "GOLDEN_GLOBES",
         "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - MUSICAL OR COMEDY",
         "title": "Get Out",
@@ -6333,7 +6428,7 @@
         "year": "2018"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTk1MzgzOTg5OV5BMl5BanBnXkFtZTcwNDQ4NjMxOA@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BOTk1MzgzOTg5OV5BMl5BanBnXkFtZTcwNDQ4NjMxOA@@._V1_UY317_CR1,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -6342,7 +6437,7 @@
       }
     ],
     "filmsCount": 40,
-    "powerCareer": 10,
+    "powerCareer": 17,
     "powerMcu": 1,
     "id": "actor-924",
     "actorName": "Daniel Kaluuya",
@@ -6365,17 +6460,17 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 19,
-    "powerCareer": 6,
+    "filmsCount": 20,
+    "powerCareer": 4,
     "powerMcu": 2,
     "id": "actor-925",
     "actorName": "Letitia Wright",
-    "castPositionTotal": 9,
-    "castPositionAverage": 5
+    "castPositionTotal": 26,
+    "castPositionAverage": 13
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2I4Mzg3MWQtM2JlNy00ODQxLThhMGItZTFlNWFhOTIzNzY4XkEyXkFqcGdeQXVyNTEwNTA1Njg@._V1_UY317_CR127,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BN2I4Mzg3MWQtM2JlNy00ODQxLThhMGItZTFlNWFhOTIzNzY4XkEyXkFqcGdeQXVyNTEwNTA1Njg@._V1_UY317_CR127,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -6389,12 +6484,12 @@
       }
     ],
     "filmsCount": 7,
-    "powerCareer": 6,
+    "powerCareer": 1,
     "powerMcu": 2,
     "id": "actor-926",
     "actorName": "Winston Duke",
-    "castPositionTotal": 22,
-    "castPositionAverage": 11
+    "castPositionTotal": 42,
+    "castPositionAverage": 21
   },
   {
     "awards": [
@@ -6427,7 +6522,7 @@
         "year": "2016"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmEzNmExM2ItNzg5Zi00NGRjLWI1NTEtMmQ5MGMwNjFlNWFhL2ltYWdlXkEyXkFqcGdeQXVyMTM0MzI5Nzc@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BZmEzNmExM2ItNzg5Zi00NGRjLWI1NTEtMmQ5MGMwNjFlNWFhL2ltYWdlXkEyXkFqcGdeQXVyMTM0MzI5Nzc@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -6435,8 +6530,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 47,
-    "powerCareer": 12,
+    "filmsCount": 48,
+    "powerCareer": 19,
     "powerMcu": 1,
     "id": "actor-927",
     "actorName": "Sterling K. Brown",
@@ -6504,12 +6599,81 @@
       }
     ],
     "filmsCount": 91,
-    "powerCareer": 17,
+    "powerCareer": 29,
     "powerMcu": 2,
     "id": "actor-928",
     "actorName": "Angela Bassett",
-    "castPositionTotal": 27,
-    "castPositionAverage": 14
+    "castPositionTotal": 42,
+    "castPositionAverage": 21
+  },
+  {
+    "awards": [
+      {
+        "event": "BAFTAS",
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Last King Of Scotland",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Idi Amin\"}",
+        "title": "The Last King of Scotland",
+        "winner": true,
+        "year": "2006 (79th)"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Last King of Scotland, The",
+        "winner": true,
+        "year": "2007"
+      },
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A MOTION PICTURE - DRAMA",
+        "title": "Bird",
+        "winner": false,
+        "year": "1989"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Exceptional Merit In Documentary Filmmaking",
+        "title": "Brick City",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "ER",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Made For Television Movie",
+        "title": "Door To Door",
+        "winner": true,
+        "year": "2003"
+      }
+    ],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQzMDI3NTg2OV5BMl5BanBnXkFtZTcwNTgwMzg5Mg@@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "Zuri",
+        "isReleased": true
+      }
+    ],
+    "filmsCount": 123,
+    "powerCareer": 43,
+    "powerMcu": 1,
+    "id": "actor-929",
+    "actorName": "Forest Whitaker",
+    "castPositionTotal": 11,
+    "castPositionAverage": 11
   },
   {
     "awards": [
@@ -6537,16 +6701,16 @@
       }
     ],
     "filmsCount": 67,
-    "powerCareer": 7,
+    "powerCareer": 14,
     "powerMcu": 2,
     "id": "actor-977",
     "actorName": "Josh Brolin",
-    "castPositionTotal": 7,
-    "castPositionAverage": 4
+    "castPositionTotal": 13,
+    "castPositionAverage": 7
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MTE3MTkzMl5BMl5BanBnXkFtZTgwMzAyMTE1ODE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ2MTE3MTkzMl5BMl5BanBnXkFtZTgwMzAyMTE1ODE@._V1_UY317_CR13,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -6555,12 +6719,12 @@
       }
     ],
     "filmsCount": 21,
-    "powerCareer": 3,
+    "powerCareer": 4,
     "powerMcu": 1,
-    "id": "actor-1000",
+    "id": "actor-1002",
     "actorName": "Hannah John-Kamen",
-    "castPositionTotal": 2,
-    "castPositionAverage": 2
+    "castPositionTotal": 1,
+    "castPositionAverage": 1
   },
   {
     "awards": [
@@ -6666,7 +6830,7 @@
         "year": "1992"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -6675,12 +6839,12 @@
       }
     ],
     "filmsCount": 61,
-    "powerCareer": 29,
+    "powerCareer": 38,
     "powerMcu": 1,
-    "id": "actor-1001",
+    "id": "actor-1003",
     "actorName": "Michelle Pfeiffer",
-    "castPositionTotal": 3,
-    "castPositionAverage": 3
+    "castPositionTotal": 4,
+    "castPositionAverage": 4
   },
   {
     "awards": [
@@ -6692,7 +6856,7 @@
         "year": "2011"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzYyNmUwMmItYzE4YS00ZTQxLWJiNjUtNzA0OGIzZGYzNDk2XkEyXkFqcGdeQXVyNDg4OTQzNjg@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BYzYyNmUwMmItYzE4YS00ZTQxLWJiNjUtNzA0OGIzZGYzNDk2XkEyXkFqcGdeQXVyNDg4OTQzNjg@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -6701,12 +6865,30 @@
       }
     ],
     "filmsCount": 81,
-    "powerCareer": 4,
+    "powerCareer": 17,
     "powerMcu": 1,
-    "id": "actor-1002",
+    "id": "actor-1004",
     "actorName": "Walton Goggins",
-    "castPositionTotal": 6,
-    "castPositionAverage": 6
+    "castPositionTotal": 5,
+    "castPositionAverage": 5
+  },
+  {
+    "awards": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BYzg1M2ZjNjgtNjg2YS00YjkzLWI4OWEtNjBiMDVkMDkwNTE1XkEyXkFqcGdeQXVyMjQwNTc4MTk@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Derek",
+        "isReleased": false
+      }
+    ],
+    "filmsCount": 68,
+    "powerCareer": 14,
+    "powerMcu": 1,
+    "id": "actor-1005",
+    "actorName": "Joshua Mikel",
+    "castPositionTotal": 9,
+    "castPositionAverage": 9
   },
   {
     "awards": [
@@ -6789,7 +6971,7 @@
         "year": "1993"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_UX214_CR0,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -6797,13 +6979,60 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 108,
-    "powerCareer": 27,
+    "filmsCount": 109,
+    "powerCareer": 46,
     "powerMcu": 1,
-    "id": "actor-1003",
+    "id": "actor-1006",
     "actorName": "Laurence Fishburne",
-    "castPositionTotal": 9,
-    "castPositionAverage": 9
+    "castPositionTotal": 10,
+    "castPositionAverage": 10
+  },
+  {
+    "awards": [
+      {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Bloodline",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Guest Actor in a Drama Series",
+        "title": "Bloodline",
+        "winner": false,
+        "year": "2017"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Bloodline",
+        "winner": true,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Bloodline",
+        "winner": false,
+        "year": "2015"
+      }
+    ],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "",
+        "isReleased": false
+      }
+    ],
+    "filmsCount": 77,
+    "powerCareer": 21,
+    "powerMcu": 1,
+    "id": "actor-1097",
+    "actorName": "Ben Mendelsohn",
+    "castPositionTotal": 1,
+    "castPositionAverage": 1
   },
   {
     "awards": [
@@ -6837,7 +7066,7 @@
         "year": "2016"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain Marvel",
@@ -6851,58 +7080,11 @@
       }
     ],
     "filmsCount": 57,
-    "powerCareer": 17,
+    "powerCareer": 22,
     "powerMcu": 2,
-    "id": "actor-1086",
+    "id": "actor-1098",
     "actorName": "Brie Larson",
-    "castPositionTotal": 7,
-    "castPositionAverage": 4
-  },
-  {
-    "awards": [
-      {
-        "event": "GOLDEN_GLOBES",
-        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
-        "title": "Bloodline",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Guest Actor in a Drama Series",
-        "title": "Bloodline",
-        "winner": false,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Bloodline",
-        "winner": true,
-        "year": "2016"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Bloodline",
-        "winner": false,
-        "year": "2015"
-      }
-    ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_UY317_CR4,0,214,317_AL_.jpg",
-    "filmsMcu": [
-      {
-        "title": "Captain Marvel",
-        "characterName": "",
-        "isReleased": false
-      }
-    ],
-    "filmsCount": 77,
-    "powerCareer": 9,
-    "powerMcu": 1,
-    "id": "actor-1087",
-    "actorName": "Ben Mendelsohn",
-    "castPositionTotal": 3,
+    "castPositionTotal": 6,
     "castPositionAverage": 3
   },
   {
@@ -6928,6 +7110,14 @@
         "title": "The Talented Mr. Ripley",
         "winner": false,
         "year": "1999 (72nd)"
+      },
+      {
+        "event": "OSCARS",
+        "category": "ACTOR IN A LEADING ROLE",
+        "character": "{\"Inman\"}",
+        "title": "Cold Mountain",
+        "winner": false,
+        "year": "2003 (76th)"
       },
       {
         "event": "GOLDEN_GLOBES",
@@ -6958,7 +7148,7 @@
         "year": "2000"
       }
     ],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain Marvel",
@@ -6967,16 +7157,16 @@
       }
     ],
     "filmsCount": 70,
-    "powerCareer": 14,
+    "powerCareer": 27,
     "powerMcu": 1,
-    "id": "actor-1088",
+    "id": "actor-1099",
     "actorName": "Jude Law",
-    "castPositionTotal": 4,
-    "castPositionAverage": 4
+    "castPositionTotal": 5,
+    "castPositionAverage": 5
   },
   {
     "awards": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM5NzU4MTI4OF5BMl5BanBnXkFtZTgwNDczMDU5ODE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNTY5NDJmODUtNzNhMi00ZTYyLWI0NDEtYTc5ZGUyNjEwMTgxXkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "filmsMcu": [
       {
         "title": "Captain Marvel",
@@ -6984,12 +7174,48 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 32,
-    "powerCareer": 3,
+    "filmsCount": 45,
+    "powerCareer": 9,
     "powerMcu": 1,
-    "id": "actor-1089",
-    "actorName": "DeWanda Wise",
-    "castPositionTotal": 5,
-    "castPositionAverage": 5
+    "id": "actor-1100",
+    "actorName": "Mckenna Grace",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6
+  },
+  {
+    "awards": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk5NjQ2ODgzN15BMl5BanBnXkFtZTgwNTE5NTM4MTE@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "Minn-Erva",
+        "isReleased": false
+      }
+    ],
+    "filmsCount": 37,
+    "powerCareer": 7,
+    "powerMcu": 1,
+    "id": "actor-1101",
+    "actorName": "Gemma Chan",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8
+  },
+  {
+    "awards": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDE2NTk1MzE0NF5BMl5BanBnXkFtZTgwNDk2MDg0MDE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "",
+        "isReleased": false
+      }
+    ],
+    "filmsCount": 20,
+    "powerCareer": 4,
+    "powerMcu": 1,
+    "id": "actor-1102",
+    "actorName": "Robert Kazinsky",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10
   }
 ]

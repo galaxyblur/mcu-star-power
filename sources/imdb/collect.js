@@ -82,7 +82,7 @@ const collect = async () => {
         });
 
       actorInfo.actorName = a.actorName;
-      actorInfo.power = a.filmsMcu.length * 3;
+      actorInfo.power = Math.round(actorInfo.films.length / 5);
       actorInfo.filmsCount = actorInfo.films.length;
       actorInfo.films = [];
 

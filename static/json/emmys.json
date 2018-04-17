@@ -225,11 +225,6 @@
     "power": 0
   },
   {
-    "actorName": "Paul Soles",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Don Cheadle",
     "awards": [
       {
@@ -990,6 +985,18 @@
     "power": 2
   },
   {
+    "actorName": "Andy Serkis",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor In A Miniseries Or A Movie",
+        "title": "Little Dorrit (Masterpiece)",
+        "winner": false,
+        "year": "2009"
+      }
+    ],
+    "power": 1
+  },
+  {
     "actorName": "Paul Rudd",
     "awards": [],
     "power": 0
@@ -1464,6 +1471,30 @@
     "power": 6
   },
   {
+    "actorName": "Forest Whitaker",
+    "awards": [
+      {
+        "category": "Exceptional Merit In Documentary Filmmaking",
+        "title": "Brick City",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Drama Series",
+        "title": "ER",
+        "winner": false,
+        "year": "2007"
+      },
+      {
+        "category": "Outstanding Made For Television Movie",
+        "title": "Door To Door",
+        "winner": true,
+        "year": "2003"
+      }
+    ],
+    "power": 7
+  },
+  {
     "actorName": "Josh Brolin",
     "awards": [],
     "power": 0
@@ -1502,6 +1533,11 @@
       }
     ],
     "power": 1
+  },
+  {
+    "actorName": "Joshua Mikel",
+    "awards": [],
+    "power": 0
   },
   {
     "actorName": "Laurence Fishburne",
@@ -1564,11 +1600,6 @@
     "power": 20
   },
   {
-    "actorName": "Brie Larson",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Ben Mendelsohn",
     "awards": [
       {
@@ -1593,12 +1624,27 @@
     "power": 5
   },
   {
+    "actorName": "Brie Larson",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Jude Law",
     "awards": [],
     "power": 0
   },
   {
-    "actorName": "DeWanda Wise",
+    "actorName": "Mckenna Grace",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Gemma Chan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Robert Kazinsky",
     "awards": [],
     "power": 0
   }

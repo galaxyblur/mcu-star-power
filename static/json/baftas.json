@@ -208,11 +208,6 @@
     "power": 0
   },
   {
-    "actorName": "Paul Soles",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Don Cheadle",
     "awards": [
       {
@@ -569,6 +564,12 @@
     "actorName": "Toby Jones",
     "awards": [
       {
+        "category": "Television | Male Performance in a Comedy Programme",
+        "title": "Detectorists",
+        "winner": false,
+        "year": "2018"
+      },
+      {
         "category": "Television | Male Performance In A Comedy Programme",
         "title": "Detectorists",
         "winner": false,
@@ -587,7 +588,7 @@
         "year": "2013"
       }
     ],
-    "power": 6
+    "power": 8
   },
   {
     "actorName": "Kenneth Choi",
@@ -886,6 +887,24 @@
     "actorName": "Linda Cardellini",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Andy Serkis",
+    "awards": [
+      {
+        "category": "Film | Leading Actor",
+        "title": "Sex And Drugs And Rock And Roll",
+        "winner": false,
+        "year": "2010"
+      },
+      {
+        "category": "Television | Actor",
+        "title": "Longford",
+        "winner": false,
+        "year": "2007"
+      }
+    ],
+    "power": 4
   },
   {
     "actorName": "Paul Rudd",
@@ -1381,6 +1400,18 @@
     "power": 0
   },
   {
+    "actorName": "Forest Whitaker",
+    "awards": [
+      {
+        "category": "Film | Actor in a Leading Role",
+        "title": "The Last King Of Scotland",
+        "winner": true,
+        "year": "2007"
+      }
+    ],
+    "power": 3
+  },
+  {
     "actorName": "Josh Brolin",
     "awards": [],
     "power": 0
@@ -1414,7 +1445,17 @@
     "power": 0
   },
   {
+    "actorName": "Joshua Mikel",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Laurence Fishburne",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Ben Mendelsohn",
     "awards": [],
     "power": 0
   },
@@ -1437,11 +1478,6 @@
     "power": 5
   },
   {
-    "actorName": "Ben Mendelsohn",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Jude Law",
     "awards": [
       {
@@ -1460,7 +1496,17 @@
     "power": 4
   },
   {
-    "actorName": "DeWanda Wise",
+    "actorName": "Mckenna Grace",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Gemma Chan",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Robert Kazinsky",
     "awards": [],
     "power": 0
   }

@@ -2,8 +2,8 @@
   {
     "id": "actor-1",
     "actorName": "Robert Downey Jr.",
-    "castPositionTotal": 40,
-    "castPositionAverage": 4,
+    "castPositionTotal": 14,
+    "castPositionAverage": 2,
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -81,7 +81,7 @@
   {
     "id": "actor-4",
     "actorName": "Gwyneth Paltrow",
-    "castPositionTotal": 72,
+    "castPositionTotal": 67,
     "castPositionAverage": 10,
     "filmsMcu": [
       {
@@ -173,7 +173,7 @@
   {
     "id": "actor-8",
     "actorName": "Clark Gregg",
-    "castPositionTotal": 31,
+    "castPositionTotal": 38,
     "castPositionAverage": 8,
     "filmsMcu": [
       {
@@ -195,6 +195,11 @@
         "title": "Marvel's The Avengers",
         "characterName": "Agent Phil Coulson",
         "isReleased": true
+      },
+      {
+        "title": "Captain Marvel",
+        "characterName": "Coulson",
+        "isReleased": false
       }
     ]
   },
@@ -227,7 +232,7 @@
   {
     "id": "actor-11",
     "actorName": "Paul Bettany",
-    "castPositionTotal": 94,
+    "castPositionTotal": 92,
     "castPositionAverage": 13,
     "filmsMcu": [
       {
@@ -270,7 +275,7 @@
   {
     "id": "actor-12",
     "actorName": "Jon Favreau",
-    "castPositionTotal": 78,
+    "castPositionTotal": 80,
     "castPositionAverage": 13,
     "filmsMcu": [
       {
@@ -513,8 +518,8 @@
   {
     "id": "actor-129",
     "actorName": "Don Cheadle",
-    "castPositionTotal": 57,
-    "castPositionAverage": 11,
+    "castPositionTotal": 58,
+    "castPositionAverage": 12,
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -546,8 +551,8 @@
   {
     "id": "actor-130",
     "actorName": "Scarlett Johansson",
-    "castPositionTotal": 32,
-    "castPositionAverage": 5,
+    "castPositionTotal": 28,
+    "castPositionAverage": 4,
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -615,7 +620,7 @@
   {
     "id": "actor-133",
     "actorName": "Samuel L. Jackson",
-    "castPositionTotal": 39,
+    "castPositionTotal": 41,
     "castPositionAverage": 7,
     "filmsMcu": [
       {
@@ -694,8 +699,8 @@
   {
     "id": "actor-179",
     "actorName": "Chris Hemsworth",
-    "castPositionTotal": 27,
-    "castPositionAverage": 4,
+    "castPositionTotal": 24,
+    "castPositionAverage": 3,
     "filmsMcu": [
       {
         "title": "Thor",
@@ -755,7 +760,7 @@
   {
     "id": "actor-181",
     "actorName": "Tom Hiddleston",
-    "castPositionTotal": 30,
+    "castPositionTotal": 28,
     "castPositionAverage": 6,
     "filmsMcu": [
       {
@@ -870,8 +875,8 @@
   {
     "id": "actor-186",
     "actorName": "Idris Elba",
-    "castPositionTotal": 39,
-    "castPositionAverage": 10,
+    "castPositionTotal": 54,
+    "castPositionAverage": 11,
     "filmsMcu": [
       {
         "title": "Thor",
@@ -892,6 +897,11 @@
         "title": "Thor: Ragnarok",
         "characterName": "Heimdall",
         "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Heimdall",
+        "isReleased": false
       }
     ]
   },
@@ -1003,8 +1013,8 @@
   {
     "id": "actor-225",
     "actorName": "Chris Evans",
-    "castPositionTotal": 77,
-    "castPositionAverage": 10,
+    "castPositionTotal": 63,
+    "castPositionAverage": 8,
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -1079,7 +1089,7 @@
   {
     "id": "actor-227",
     "actorName": "Sebastian Stan",
-    "castPositionTotal": 32,
+    "castPositionTotal": 29,
     "castPositionAverage": 6,
     "filmsMcu": [
       {
@@ -1099,7 +1109,7 @@
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Bucky Barnes / Winter Soldier",
+        "characterName": "Bucky Barnes / White Wolf",
         "isReleased": false
       },
       {
@@ -1213,8 +1223,8 @@
   {
     "id": "actor-317",
     "actorName": "Mark Ruffalo",
-    "castPositionTotal": 46,
-    "castPositionAverage": 12,
+    "castPositionTotal": 44,
+    "castPositionAverage": 11,
     "filmsMcu": [
       {
         "title": "Marvel's The Avengers",
@@ -1241,7 +1251,7 @@
   {
     "id": "actor-318",
     "actorName": "Jeremy Renner",
-    "castPositionTotal": 57,
+    "castPositionTotal": 53,
     "castPositionAverage": 11,
     "filmsMcu": [
       {
@@ -1274,8 +1284,8 @@
   {
     "id": "actor-319",
     "actorName": "Cobie Smulders",
-    "castPositionTotal": 54,
-    "castPositionAverage": 14,
+    "castPositionTotal": 29,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Marvel's The Avengers",
@@ -1291,11 +1301,6 @@
         "title": "Avengers: Age of Ultron",
         "characterName": "Maria Hill",
         "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Maria Hill (rumored)",
-        "isReleased": false
       }
     ]
   },
@@ -1367,7 +1372,7 @@
   {
     "id": "actor-363",
     "actorName": "Ty Simpkins",
-    "castPositionTotal": 27,
+    "castPositionTotal": 28,
     "castPositionAverage": 14,
     "filmsMcu": [
       {
@@ -1429,8 +1434,8 @@
   {
     "id": "actor-478",
     "actorName": "Anthony Mackie",
-    "castPositionTotal": 66,
-    "castPositionAverage": 13,
+    "castPositionTotal": 69,
+    "castPositionAverage": 14,
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
@@ -1498,8 +1503,8 @@
   {
     "id": "actor-530",
     "actorName": "Chris Pratt",
-    "castPositionTotal": 20,
-    "castPositionAverage": 7,
+    "castPositionTotal": 18,
+    "castPositionAverage": 6,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1521,8 +1526,8 @@
   {
     "id": "actor-531",
     "actorName": "Zoe Saldana",
-    "castPositionTotal": 23,
-    "castPositionAverage": 8,
+    "castPositionTotal": 14,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1544,8 +1549,8 @@
   {
     "id": "actor-532",
     "actorName": "Dave Bautista",
-    "castPositionTotal": 30,
-    "castPositionAverage": 10,
+    "castPositionTotal": 37,
+    "castPositionAverage": 9,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1561,13 +1566,18 @@
         "title": "Avengers: Infinity War",
         "characterName": "Drax",
         "isReleased": false
+      },
+      {
+        "title": "Untitled Avengers film",
+        "characterName": "Drax",
+        "isReleased": false
       }
     ]
   },
   {
     "id": "actor-533",
     "actorName": "Vin Diesel",
-    "castPositionTotal": 30,
+    "castPositionTotal": 29,
     "castPositionAverage": 10,
     "filmsMcu": [
       {
@@ -1590,7 +1600,7 @@
   {
     "id": "actor-534",
     "actorName": "Bradley Cooper",
-    "castPositionTotal": 36,
+    "castPositionTotal": 37,
     "castPositionAverage": 12,
     "filmsMcu": [
       {
@@ -1605,7 +1615,7 @@
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Rocket Raccoon (voice)",
+        "characterName": "Rocket (voice)",
         "isReleased": false
       }
     ]
@@ -1613,13 +1623,18 @@
   {
     "id": "actor-535",
     "actorName": "Lee Pace",
-    "castPositionTotal": 6,
-    "castPositionAverage": 6,
+    "castPositionTotal": 9,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
         "characterName": "Ronan",
         "isReleased": true
+      },
+      {
+        "title": "Captain Marvel",
+        "characterName": "Ronan",
+        "isReleased": false
       }
     ]
   },
@@ -1644,8 +1659,8 @@
   {
     "id": "actor-537",
     "actorName": "Karen Gillan",
-    "castPositionTotal": 25,
-    "castPositionAverage": 6,
+    "castPositionTotal": 17,
+    "castPositionAverage": 4,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1672,13 +1687,18 @@
   {
     "id": "actor-538",
     "actorName": "Djimon Hounsou",
-    "castPositionTotal": 9,
+    "castPositionTotal": 18,
     "castPositionAverage": 9,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
         "characterName": "Korath",
         "isReleased": true
+      },
+      {
+        "title": "Captain Marvel",
+        "characterName": "Korath",
+        "isReleased": false
       }
     ]
   },
@@ -1747,7 +1767,7 @@
   {
     "id": "actor-600",
     "actorName": "Linda Cardellini",
-    "castPositionTotal": 27,
+    "castPositionTotal": 28,
     "castPositionAverage": 14,
     "filmsMcu": [
       {
@@ -1763,10 +1783,28 @@
     ]
   },
   {
+    "id": "actor-603",
+    "actorName": "Andy Serkis",
+    "castPositionTotal": 33,
+    "castPositionAverage": 17,
+    "filmsMcu": [
+      {
+        "title": "Avengers: Age of Ultron",
+        "characterName": "Ulysses Klaue",
+        "isReleased": true
+      },
+      {
+        "title": "Black Panther",
+        "characterName": "Ulysses Klaue",
+        "isReleased": true
+      }
+    ]
+  },
+  {
     "id": "actor-645",
     "actorName": "Paul Rudd",
-    "castPositionTotal": 39,
-    "castPositionAverage": 10,
+    "castPositionTotal": 31,
+    "castPositionAverage": 8,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1793,7 +1831,7 @@
   {
     "id": "actor-646",
     "actorName": "Michael Douglas",
-    "castPositionTotal": 10,
+    "castPositionTotal": 9,
     "castPositionAverage": 5,
     "filmsMcu": [
       {
@@ -1811,8 +1849,8 @@
   {
     "id": "actor-647",
     "actorName": "Evangeline Lilly",
-    "castPositionTotal": 9,
-    "castPositionAverage": 3,
+    "castPositionTotal": 16,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1860,8 +1898,8 @@
   {
     "id": "actor-650",
     "actorName": "Judy Greer",
-    "castPositionTotal": 12,
-    "castPositionAverage": 6,
+    "castPositionTotal": 13,
+    "castPositionAverage": 7,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1878,8 +1916,8 @@
   {
     "id": "actor-651",
     "actorName": "Abby Ryder Fortson",
-    "castPositionTotal": 20,
-    "castPositionAverage": 10,
+    "castPositionTotal": 24,
+    "castPositionAverage": 12,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1896,8 +1934,8 @@
   {
     "id": "actor-652",
     "actorName": "Michael Peña",
-    "castPositionTotal": 16,
-    "castPositionAverage": 8,
+    "castPositionTotal": 17,
+    "castPositionAverage": 9,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1914,8 +1952,8 @@
   {
     "id": "actor-653",
     "actorName": "David Dastmalchian",
-    "castPositionTotal": 20,
-    "castPositionAverage": 10,
+    "castPositionTotal": 21,
+    "castPositionAverage": 11,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1932,8 +1970,8 @@
   {
     "id": "actor-654",
     "actorName": "T.I.",
-    "castPositionTotal": 27,
-    "castPositionAverage": 14,
+    "castPositionTotal": 25,
+    "castPositionAverage": 13,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1950,8 +1988,8 @@
   {
     "id": "actor-704",
     "actorName": "Chadwick Boseman",
-    "castPositionTotal": 11,
-    "castPositionAverage": 3,
+    "castPositionTotal": 36,
+    "castPositionAverage": 9,
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
@@ -1978,8 +2016,8 @@
   {
     "id": "actor-705",
     "actorName": "Tom Holland",
-    "castPositionTotal": 23,
-    "castPositionAverage": 8,
+    "castPositionTotal": 17,
+    "castPositionAverage": 6,
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
@@ -2037,8 +2075,8 @@
   {
     "id": "actor-781",
     "actorName": "Benedict Cumberbatch",
-    "castPositionTotal": 32,
-    "castPositionAverage": 11,
+    "castPositionTotal": 25,
+    "castPositionAverage": 8,
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -2164,8 +2202,8 @@
   {
     "id": "actor-808",
     "actorName": "Pom Klementieff",
-    "castPositionTotal": 21,
-    "castPositionAverage": 11,
+    "castPositionTotal": 20,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy Vol. 2",
@@ -2247,13 +2285,18 @@
   {
     "id": "actor-845",
     "actorName": "Jacob Batalon",
-    "castPositionTotal": 9,
-    "castPositionAverage": 9,
+    "castPositionTotal": 48,
+    "castPositionAverage": 24,
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
         "characterName": "Ned",
         "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Ned",
+        "isReleased": false
       }
     ]
   },
@@ -2299,18 +2342,13 @@
   {
     "id": "actor-894",
     "actorName": "Tessa Thompson",
-    "castPositionTotal": 9,
-    "castPositionAverage": 5,
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
     "filmsMcu": [
       {
         "title": "Thor: Ragnarok",
         "characterName": "Valkyrie",
         "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Valkyrie (rumored)",
-        "isReleased": false
       }
     ]
   },
@@ -2356,8 +2394,8 @@
   {
     "id": "actor-923",
     "actorName": "Danai Gurira",
-    "castPositionTotal": 10,
-    "castPositionAverage": 5,
+    "castPositionTotal": 27,
+    "castPositionAverage": 14,
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -2387,8 +2425,8 @@
   {
     "id": "actor-925",
     "actorName": "Letitia Wright",
-    "castPositionTotal": 9,
-    "castPositionAverage": 5,
+    "castPositionTotal": 26,
+    "castPositionAverage": 13,
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -2405,8 +2443,8 @@
   {
     "id": "actor-926",
     "actorName": "Winston Duke",
-    "castPositionTotal": 22,
-    "castPositionAverage": 11,
+    "castPositionTotal": 42,
+    "castPositionAverage": 21,
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -2436,8 +2474,8 @@
   {
     "id": "actor-928",
     "actorName": "Angela Bassett",
-    "castPositionTotal": 27,
-    "castPositionAverage": 14,
+    "castPositionTotal": 42,
+    "castPositionAverage": 21,
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -2452,10 +2490,23 @@
     ]
   },
   {
+    "id": "actor-929",
+    "actorName": "Forest Whitaker",
+    "castPositionTotal": 11,
+    "castPositionAverage": 11,
+    "filmsMcu": [
+      {
+        "title": "Black Panther",
+        "characterName": "Zuri",
+        "isReleased": true
+      }
+    ]
+  },
+  {
     "id": "actor-977",
     "actorName": "Josh Brolin",
-    "castPositionTotal": 7,
-    "castPositionAverage": 4,
+    "castPositionTotal": 13,
+    "castPositionAverage": 7,
     "filmsMcu": [
       {
         "title": "Avengers: Infinity War",
@@ -2470,10 +2521,10 @@
     ]
   },
   {
-    "id": "actor-1000",
+    "id": "actor-1002",
     "actorName": "Hannah John-Kamen",
-    "castPositionTotal": 2,
-    "castPositionAverage": 2,
+    "castPositionTotal": 1,
+    "castPositionAverage": 1,
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -2483,10 +2534,10 @@
     ]
   },
   {
-    "id": "actor-1001",
+    "id": "actor-1003",
     "actorName": "Michelle Pfeiffer",
-    "castPositionTotal": 3,
-    "castPositionAverage": 3,
+    "castPositionTotal": 4,
+    "castPositionAverage": 4,
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -2496,10 +2547,10 @@
     ]
   },
   {
-    "id": "actor-1002",
+    "id": "actor-1004",
     "actorName": "Walton Goggins",
-    "castPositionTotal": 6,
-    "castPositionAverage": 6,
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -2509,10 +2560,23 @@
     ]
   },
   {
-    "id": "actor-1003",
-    "actorName": "Laurence Fishburne",
+    "id": "actor-1005",
+    "actorName": "Joshua Mikel",
     "castPositionTotal": 9,
     "castPositionAverage": 9,
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Derek",
+        "isReleased": false
+      }
+    ]
+  },
+  {
+    "id": "actor-1006",
+    "actorName": "Laurence Fishburne",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -2522,10 +2586,23 @@
     ]
   },
   {
-    "id": "actor-1086",
+    "id": "actor-1097",
+    "actorName": "Ben Mendelsohn",
+    "castPositionTotal": 1,
+    "castPositionAverage": 1,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "",
+        "isReleased": false
+      }
+    ]
+  },
+  {
+    "id": "actor-1098",
     "actorName": "Brie Larson",
-    "castPositionTotal": 7,
-    "castPositionAverage": 4,
+    "castPositionTotal": 6,
+    "castPositionAverage": 3,
     "filmsMcu": [
       {
         "title": "Captain Marvel",
@@ -2540,23 +2617,10 @@
     ]
   },
   {
-    "id": "actor-1087",
-    "actorName": "Ben Mendelsohn",
-    "castPositionTotal": 3,
-    "castPositionAverage": 3,
-    "filmsMcu": [
-      {
-        "title": "Captain Marvel",
-        "characterName": "",
-        "isReleased": false
-      }
-    ]
-  },
-  {
-    "id": "actor-1088",
+    "id": "actor-1099",
     "actorName": "Jude Law",
-    "castPositionTotal": 4,
-    "castPositionAverage": 4,
+    "castPositionTotal": 5,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Captain Marvel",
@@ -2566,10 +2630,36 @@
     ]
   },
   {
-    "id": "actor-1089",
-    "actorName": "DeWanda Wise",
-    "castPositionTotal": 5,
-    "castPositionAverage": 5,
+    "id": "actor-1100",
+    "actorName": "Mckenna Grace",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "",
+        "isReleased": false
+      }
+    ]
+  },
+  {
+    "id": "actor-1101",
+    "actorName": "Gemma Chan",
+    "castPositionTotal": 8,
+    "castPositionAverage": 8,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "Minn-Erva",
+        "isReleased": false
+      }
+    ]
+  },
+  {
+    "id": "actor-1102",
+    "actorName": "Robert Kazinsky",
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Captain Marvel",

@@ -1,939 +1,968 @@
 [
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Robert Downey Jr.",
-    "power": 27,
+    "power": 18,
     "filmsCount": 90
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTY4NzgyOV5BMl5BanBnXkFtZTcwODEzNTkxNg@@._V1_UY317_CR24,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk3NTY4NzgyOV5BMl5BanBnXkFtZTcwODEzNTkxNg@@._V1_UY317_CR24,0,214,317_AL_.jpg",
     "actorName": "Terrence Howard",
-    "power": 3,
+    "power": 18,
     "filmsCount": 91
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTU1NjM4MDYzMl5BMl5BanBnXkFtZTcwMjIwMjMyMw@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNTU1NjM4MDYzMl5BMl5BanBnXkFtZTcwMjIwMjMyMw@@._V1_UY317_CR11,0,214,317_AL_.jpg",
     "actorName": "Jeff Bridges",
-    "power": 3,
+    "power": 18,
     "filmsCount": 89
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzIxOTQ1NTU1OV5BMl5BanBnXkFtZTcwMTQ4MDY0Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzIxOTQ1NTU1OV5BMl5BanBnXkFtZTcwMTQ4MDY0Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Gwyneth Paltrow",
-    "power": 21,
+    "power": 11,
     "filmsCount": 56
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NzAzNzE5N15BMl5BanBnXkFtZTcwMjMyODM0MQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg2NzAzNzE5N15BMl5BanBnXkFtZTcwMjMyODM0MQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
     "actorName": "Leslie Bibb",
-    "power": 6,
-    "filmsCount": 67
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjVmYTE0ZmItYzZhMC00OTA2LWIxYWEtYjQ4NGQ2OTQyZGY2XkEyXkFqcGdeQXVyMTE2MzE4NzQ@._V1_UY317_CR20,0,214,317_AL_.jpg",
-    "actorName": "Shaun Toub",
-    "power": 6,
-    "filmsCount": 93
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNjM4NjQwM15BMl5BanBnXkFtZTcwODk4OTMyMw@@._V1_UY317_CR121,0,214,317_AL_.jpg",
-    "actorName": "Faran Tahir",
-    "power": 3,
-    "filmsCount": 83
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjYyNjAwNDUyOV5BMl5BanBnXkFtZTgwOTc5NzgyNjE@._V1_UY317_CR12,0,214,317_AL_.jpg",
-    "actorName": "Clark Gregg",
-    "power": 12,
-    "filmsCount": 78
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTI1NTg2M15BMl5BanBnXkFtZTgwNTcyMzkwMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Bill Smitrovich",
-    "power": 3,
-    "filmsCount": 108
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzFlMjNkMmUtNDRjOS00NGFmLThkYzktYTA4MDFiNjlhOTA2XkEyXkFqcGdeQXVyMjUzNTM0Ng@@._V1_UY317_CR25,0,214,317_AL_.jpg",
-    "actorName": "Sayed Badreya",
-    "power": 3,
-    "filmsCount": 60
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwODg1MTA5Ml5BMl5BanBnXkFtZTcwNDQwMTQxMw@@._V1_UY317_CR11,0,214,317_AL_.jpg",
-    "actorName": "Paul Bettany",
-    "power": 21,
-    "filmsCount": 47
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_UY317_CR12,0,214,317_AL_.jpg",
-    "actorName": "Jon Favreau",
-    "power": 18,
+    "power": 14,
     "filmsCount": 69
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_UY317_CR3,0,214,317_AL_.jpg",
-    "actorName": "Stan Lee",
-    "power": 45,
-    "filmsCount": 114
+    "img": "https://ia.media-imdb.com/images/M/MV5BZjVmYTE0ZmItYzZhMC00OTA2LWIxYWEtYjQ4NGQ2OTQyZGY2XkEyXkFqcGdeQXVyMTE2MzE4NzQ@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "actorName": "Shaun Toub",
+    "power": 19,
+    "filmsCount": 94
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
-    "actorName": "Edward Norton",
-    "power": 3,
-    "filmsCount": 41
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NjQxMjc5MF5BMl5BanBnXkFtZTcwMzg5Mzg4Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Liv Tyler",
-    "power": 3,
-    "filmsCount": 34
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
-    "actorName": "Tim Roth",
-    "power": 3,
-    "filmsCount": 101
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzA5MTUxN15BMl5BanBnXkFtZTcwMTU3ODQ3MQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
-    "actorName": "William Hurt",
-    "power": 6,
-    "filmsCount": 100
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0ODkwNjM5M15BMl5BanBnXkFtZTcwNzQ3NjgyMw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
-    "actorName": "Tim Blake Nelson",
-    "power": 3,
-    "filmsCount": 81
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MjE1NzIxNl5BMl5BanBnXkFtZTcwNTY4NjI4NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Ty Burrell",
-    "power": 3,
-    "filmsCount": 40
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGNhNjZkMDQtN2ZlMi00YTdiLWJhYmQtZTNjZDJkNDM1NjFlXkEyXkFqcGdeQXVyMTA4MDk0NDQ@._V1_UY317_CR11,0,214,317_AL_.jpg",
-    "actorName": "Christina Cabot",
-    "power": 3,
-    "filmsCount": 19
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyMjE3MTIyNTleQTJeQWpwZ15BbWU3MDc2MDI5ODc@._V1_UY317_CR1,0,214,317_AL_.jpg",
-    "actorName": "Peter Mensah",
-    "power": 3,
-    "filmsCount": 47
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NTcwNjQzNV5BMl5BanBnXkFtZTYwNDI0MzM1._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Lou Ferrigno",
-    "power": 3,
-    "filmsCount": 62
-  },
-  {
-    "films": [],
-    "actorName": "Paul Soles",
-    "power": 3,
-    "filmsCount": 93
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_UY317_CR17,0,214,317_AL_.jpg",
-    "actorName": "Don Cheadle",
-    "power": 15,
-    "filmsCount": 84
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg",
-    "actorName": "Scarlett Johansson",
-    "power": 21,
-    "filmsCount": 61
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_UY317_CR4,0,214,317_AL_.jpg",
-    "actorName": "Sam Rockwell",
-    "power": 3,
-    "filmsCount": 99
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MzYwNDA2MF5BMl5BanBnXkFtZTcwNDYzMjg4Mw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
-    "actorName": "Mickey Rourke",
-    "power": 3,
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjAzNjM4NjQwM15BMl5BanBnXkFtZTcwODk4OTMyMw@@._V1_UY317_CR121,0,214,317_AL_.jpg",
+    "actorName": "Faran Tahir",
+    "power": 17,
     "filmsCount": 83
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Samuel L. Jackson",
-    "power": 18,
-    "filmsCount": 176
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjYyNjAwNDUyOV5BMl5BanBnXkFtZTgwOTc5NzgyNjE@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "actorName": "Clark Gregg",
+    "power": 16,
+    "filmsCount": 79
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4OTIyNDY5MV5BMl5BanBnXkFtZTgwODM2OTQyMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "John Slattery",
-    "power": 9,
-    "filmsCount": 73
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUzNTI1NTg2M15BMl5BanBnXkFtZTgwNTcyMzkwMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Bill Smitrovich",
+    "power": 22,
+    "filmsCount": 108
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODkzMzAxMDMzOV5BMl5BanBnXkFtZTgwNzE2NDM0ODE@._V1_UY317_CR116,0,214,317_AL_.jpg",
-    "actorName": "Garry Shandling",
-    "power": 6,
-    "filmsCount": 25
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Chris Hemsworth",
-    "power": 21,
-    "filmsCount": 37
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODE3Mjg1NV5BMl5BanBnXkFtZTcwNzA4ODcxNA@@._V1_UY317_CR11,0,214,317_AL_.jpg",
-    "actorName": "Natalie Portman",
-    "power": 6,
-    "filmsCount": 58
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNjE0Njg2MTReQTJeQWpwZ15BbWU3MDEyODM1ODc@._V1_UY317_CR1,0,214,317_AL_.jpg",
-    "actorName": "Tom Hiddleston",
-    "power": 15,
-    "filmsCount": 44
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_UY317_CR6,0,214,317_AL_.jpg",
-    "actorName": "Anthony Hopkins",
-    "power": 9,
-    "filmsCount": 132
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDUzOTY0N15BMl5BanBnXkFtZTYwNjYxODE0._V1_UY317_CR0,0,214,317_AL_.jpg",
-    "actorName": "Stellan Skarsgård",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzFlMjNkMmUtNDRjOS00NGFmLThkYzktYTA4MDFiNjlhOTA2XkEyXkFqcGdeQXVyMjUzNTM0Ng@@._V1_UY317_CR25,0,214,317_AL_.jpg",
+    "actorName": "Sayed Badreya",
     "power": 12,
-    "filmsCount": 141
+    "filmsCount": 61
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNjk2NzA5Ml5BMl5BanBnXkFtZTcwNzIxMDcwOQ@@._V1_UY317_CR1,0,214,317_AL_.jpg",
-    "actorName": "Kat Dennings",
-    "power": 6,
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjEwODg1MTA5Ml5BMl5BanBnXkFtZTcwNDQwMTQxMw@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "actorName": "Paul Bettany",
+    "power": 9,
+    "filmsCount": 47
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "actorName": "Jon Favreau",
+    "power": 14,
+    "filmsCount": 69
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_UY317_CR3,0,214,317_AL_.jpg",
+    "actorName": "Stan Lee",
+    "power": 23,
+    "filmsCount": 115
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "actorName": "Edward Norton",
+    "power": 8,
+    "filmsCount": 41
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY4NjQxMjc5MF5BMl5BanBnXkFtZTcwMzg5Mzg4Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Liv Tyler",
+    "power": 7,
+    "filmsCount": 34
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "actorName": "Tim Roth",
+    "power": 20,
+    "filmsCount": 101
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjEyNzA5MTUxN15BMl5BanBnXkFtZTcwMTU3ODQ3MQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "actorName": "William Hurt",
+    "power": 20,
+    "filmsCount": 99
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk0ODkwNjM5M15BMl5BanBnXkFtZTcwNzQ3NjgyMw@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "actorName": "Tim Blake Nelson",
+    "power": 16,
+    "filmsCount": 82
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM2MjE1NzIxNl5BMl5BanBnXkFtZTcwNTY4NjI4NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Ty Burrell",
+    "power": 8,
     "filmsCount": 40
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMGNhNjZkMDQtN2ZlMi00YTdiLWJhYmQtZTNjZDJkNDM1NjFlXkEyXkFqcGdeQXVyMTA4MDk0NDQ@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "actorName": "Christina Cabot",
+    "power": 4,
+    "filmsCount": 19
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTEyMjE3MTIyNTleQTJeQWpwZ15BbWU3MDc2MDI5ODc@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "actorName": "Peter Mensah",
+    "power": 10,
+    "filmsCount": 48
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM5NTcwNjQzNV5BMl5BanBnXkFtZTYwNDI0MzM1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Lou Ferrigno",
+    "power": 12,
+    "filmsCount": 62
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_UY317_CR17,0,214,317_AL_.jpg",
+    "actorName": "Don Cheadle",
+    "power": 17,
+    "filmsCount": 85
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg",
+    "actorName": "Scarlett Johansson",
+    "power": 12,
+    "filmsCount": 61
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "actorName": "Sam Rockwell",
+    "power": 20,
+    "filmsCount": 99
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM0MzYwNDA2MF5BMl5BanBnXkFtZTcwNDYzMjg4Mw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "actorName": "Mickey Rourke",
+    "power": 17,
+    "filmsCount": 83
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Samuel L. Jackson",
+    "power": 35,
+    "filmsCount": 176
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc4OTIyNDY5MV5BMl5BanBnXkFtZTgwODM2OTQyMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "John Slattery",
+    "power": 15,
+    "filmsCount": 73
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BODkzMzAxMDMzOV5BMl5BanBnXkFtZTgwNzE2NDM0ODE@._V1_UY317_CR116,0,214,317_AL_.jpg",
+    "actorName": "Garry Shandling",
+    "power": 5,
+    "filmsCount": 26
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Chris Hemsworth",
+    "power": 8,
+    "filmsCount": 38
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ3ODE3Mjg1NV5BMl5BanBnXkFtZTcwNzA4ODcxNA@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "actorName": "Natalie Portman",
+    "power": 12,
+    "filmsCount": 59
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTEwNjE0Njg2MTReQTJeQWpwZ15BbWU3MDEyODM1ODc@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "actorName": "Tom Hiddleston",
+    "power": 9,
+    "filmsCount": 44
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "actorName": "Anthony Hopkins",
+    "power": 26,
+    "filmsCount": 131
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg4NDUzOTY0N15BMl5BanBnXkFtZTYwNjYxODE0._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "actorName": "Stellan Skarsgård",
+    "power": 28,
+    "filmsCount": 141
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTcxNjk2NzA5Ml5BMl5BanBnXkFtZTcwNzIxMDcwOQ@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "actorName": "Kat Dennings",
+    "power": 8,
+    "filmsCount": 41
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Colm Feore",
-    "power": 3,
+    "power": 30,
     "filmsCount": 150
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Idris Elba",
-    "power": 12,
-    "filmsCount": 86
+    "power": 17,
+    "filmsCount": 85
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MjczMDYzMV5BMl5BanBnXkFtZTcwMDQzMDIzMQ@@._V1_UY317_CR18,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg4MjczMDYzMV5BMl5BanBnXkFtZTcwMDQzMDIzMQ@@._V1_UY317_CR18,0,214,317_AL_.jpg",
     "actorName": "Ray Stevenson",
-    "power": 9,
+    "power": 11,
     "filmsCount": 53
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzM5MTk5OV5BMl5BanBnXkFtZTgwMTcxMTY1MDE@._V1_UY317_CR3,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY5MzM5MTk5OV5BMl5BanBnXkFtZTgwMTcxMTY1MDE@._V1_UY317_CR3,0,214,317_AL_.jpg",
     "actorName": "Tadanobu Asano",
-    "power": 9,
-    "filmsCount": 104
+    "power": 21,
+    "filmsCount": 105
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MzU1MTEzMl5BMl5BanBnXkFtZTgwMDY3OTA2MDE@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY0MzU1MTEzMl5BMl5BanBnXkFtZTgwMDY3OTA2MDE@._V1_UY317_CR11,0,214,317_AL_.jpg",
     "actorName": "Jaimie Alexander",
     "power": 6,
     "filmsCount": 30
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDI4MDE3MF5BMl5BanBnXkFtZTYwNzI3NjE0._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMWJmMTZmMTgtMDEwYy00MjcxLWEyMzItZTg0NDE0N2YyYTAxXkEyXkFqcGdeQXVyODU5NzE0NDU@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Rene Russo",
     "power": 6,
     "filmsCount": 29
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDAyOTQ3MDg3OV5BMl5BanBnXkFtZTcwNjQ0NTcyMQ@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDAyOTQ3MDg3OV5BMl5BanBnXkFtZTcwNjQ0NTcyMQ@@._V1_UY317_CR11,0,214,317_AL_.jpg",
     "actorName": "Maximiliano Hernández",
-    "power": 9,
+    "power": 8,
     "filmsCount": 38
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
     "actorName": "Chris Evans",
-    "power": 24,
+    "power": 10,
     "filmsCount": 48
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmFiNWZlZDktMTY0NS00MDJjLWIxYzUtYzRhOTc2ZTQxYzNiXkEyXkFqcGdeQXVyNzM0MjE0NDk@._V1_UY317_CR51,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU0NDM1MDM3OV5BMl5BanBnXkFtZTgwMjEzMDYyNTM@._V1_UY317_CR16,0,214,317_AL_.jpg",
     "actorName": "Hayley Atwell",
-    "power": 12,
-    "filmsCount": 41
+    "power": 8,
+    "filmsCount": 42
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTk2OGU4NzktODhhOC00Nzc2LWIyNzYtOWViMjljZGFiNTMxXkEyXkFqcGdeQXVyMTE1NTQwOTk@._V1_UY317_CR15,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNTk2OGU4NzktODhhOC00Nzc2LWIyNzYtOWViMjljZGFiNTMxXkEyXkFqcGdeQXVyMTE1NTQwOTk@._V1_UY317_CR15,0,214,317_AL_.jpg",
     "actorName": "Sebastian Stan",
-    "power": 15,
+    "power": 8,
     "filmsCount": 39
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNjc4MDc0OV5BMl5BanBnXkFtZTcwOTc5OTUwOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTkyNjc4MDc0OV5BMl5BanBnXkFtZTcwOTc5OTUwOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Tommy Lee Jones",
-    "power": 3,
+    "power": 16,
     "filmsCount": 82
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "actorName": "Hugo Weaving",
-    "power": 3,
-    "filmsCount": 87
+    "power": 18,
+    "filmsCount": 88
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2OTk2NDc1Ml5BMl5BanBnXkFtZTcwNTUyNzc4Mg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU2OTk2NDc1Ml5BMl5BanBnXkFtZTcwNTUyNzc4Mg@@._V1_UY317_CR6,0,214,317_AL_.jpg",
     "actorName": "Dominic Cooper",
-    "power": 3,
-    "filmsCount": 55
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDU1N2VmMjEtY2M1ZS00N2M4LWI4NGMtYjkwYTgxMzY4YTFhL2ltYWdlXkEyXkFqcGdeQXVyMjQxODUxMjA@._V1_UY317_CR37,0,214,317_AL_.jpg",
-    "actorName": "Richard Armitage",
-    "power": 3,
-    "filmsCount": 46
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MzE4MjAzMV5BMl5BanBnXkFtZTcwMjA2MTMyMw@@._V1_UY317_CR9,0,214,317_AL_.jpg",
-    "actorName": "Stanley Tucci",
-    "power": 3,
-    "filmsCount": 125
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_UY317_CR5,0,214,317_AL_.jpg",
-    "actorName": "Toby Jones",
-    "power": 6,
-    "filmsCount": 108
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjQ4ZTFmMzktNmY1Mi00ZjgzLWFiOTctYmZhM2JlOWI4ZTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Kenneth Choi",
-    "power": 6,
-    "filmsCount": 80
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQyNzMzZTMtYjlkNS00YzFhLWFhMTctY2M4YmQ1NmRhODBkXkEyXkFqcGdeQXVyNjcyNzgyOTE@._V1_UY317_CR20,0,214,317_AL_.jpg",
-    "actorName": "Mark Ruffalo",
-    "power": 12,
-    "filmsCount": 66
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Jeremy Renner",
-    "power": 15,
+    "power": 11,
     "filmsCount": 54
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNTUyMTczM15BMl5BanBnXkFtZTcwMjMxNTM4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDU1N2VmMjEtY2M1ZS00N2M4LWI4NGMtYjkwYTgxMzY4YTFhL2ltYWdlXkEyXkFqcGdeQXVyMjQxODUxMjA@._V1_UY317_CR37,0,214,317_AL_.jpg",
+    "actorName": "Richard Armitage",
+    "power": 9,
+    "filmsCount": 46
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU1MzE4MjAzMV5BMl5BanBnXkFtZTcwMjA2MTMyMw@@._V1_UY317_CR9,0,214,317_AL_.jpg",
+    "actorName": "Stanley Tucci",
+    "power": 25,
+    "filmsCount": 126
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "actorName": "Toby Jones",
+    "power": 22,
+    "filmsCount": 108
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BYjQ4ZTFmMzktNmY1Mi00ZjgzLWFiOTctYmZhM2JlOWI4ZTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Kenneth Choi",
+    "power": 16,
+    "filmsCount": 80
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDQyNzMzZTMtYjlkNS00YzFhLWFhMTctY2M4YmQ1NmRhODBkXkEyXkFqcGdeQXVyNjcyNzgyOTE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "actorName": "Mark Ruffalo",
+    "power": 13,
+    "filmsCount": 67
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Jeremy Renner",
+    "power": 11,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTkzNTUyMTczM15BMl5BanBnXkFtZTcwMjMxNTM4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Cobie Smulders",
-    "power": 12,
-    "filmsCount": 41
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTgxOTU4NTEzNV5BMl5BanBnXkFtZTcwMDk2MTAyNQ@@._V1_UY317_CR14,0,214,317_AL_.jpg",
-    "actorName": "Guy Pearce",
-    "power": 3,
-    "filmsCount": 71
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjkzODU4MTQ4OV5BMl5BanBnXkFtZTcwNDU0MTA4NA@@._V1_UY317_CR12,0,214,317_AL_.jpg",
-    "actorName": "Rebecca Hall",
-    "power": 3,
-    "filmsCount": 38
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_UY317_CR10,0,214,317_AL_.jpg",
-    "actorName": "Ben Kingsley",
-    "power": 3,
-    "filmsCount": 137
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
-    "actorName": "James Badge Dale",
-    "power": 3,
+    "power": 8,
     "filmsCount": 40
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1MTYyNzkwN15BMl5BanBnXkFtZTgwMTkxNDk0MDI@._V1_UY317_CR2,0,214,317_AL_.jpg",
-    "actorName": "Stephanie Szostak",
-    "power": 3,
-    "filmsCount": 32
+    "img": "https://ia.media-imdb.com/images/M/MV5BNTgxOTU4NTEzNV5BMl5BanBnXkFtZTcwMDk2MTAyNQ@@._V1_UY317_CR14,0,214,317_AL_.jpg",
+    "actorName": "Guy Pearce",
+    "power": 14,
+    "filmsCount": 70
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODYxMDI3OWYtOWFhYi00Nzk3LTkzMmQtNmNhZTI5YWVkODk5XkEyXkFqcGdeQXVyMTAxNjMxMjg@._V1_UY317_CR45,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjkzODU4MTQ4OV5BMl5BanBnXkFtZTcwNDU0MTA4NA@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "actorName": "Rebecca Hall",
+    "power": 8,
+    "filmsCount": 38
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_UY317_CR10,0,214,317_AL_.jpg",
+    "actorName": "Ben Kingsley",
+    "power": 28,
+    "filmsCount": 138
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "actorName": "James Badge Dale",
+    "power": 8,
+    "filmsCount": 41
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjM1MTYyNzkwN15BMl5BanBnXkFtZTgwMTkxNDk0MDI@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "actorName": "Stephanie Szostak",
+    "power": 7,
+    "filmsCount": 33
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BODYxMDI3OWYtOWFhYi00Nzk3LTkzMmQtNmNhZTI5YWVkODk5XkEyXkFqcGdeQXVyMTAxNjMxMjg@._V1_UY317_CR45,0,214,317_AL_.jpg",
     "actorName": "Ty Simpkins",
     "power": 6,
     "filmsCount": 30
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwOTI1NjUxMl5BMl5BanBnXkFtZTYwMTAzNjI3._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTIwOTI1NjUxMl5BMl5BanBnXkFtZTYwMTAzNjI3._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Christopher Eccleston",
-    "power": 3,
+    "power": 15,
     "filmsCount": 76
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTAyNTAzMTA4OTJeQTJeQWpwZ15BbWU3MDA4NDI2Njk@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Zachary Levi",
-    "power": 6,
+    "power": 11,
     "filmsCount": 54
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1Nzc5MzQyMV5BMl5BanBnXkFtZTcwNjQ5OTA0Mg@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk1Nzc5MzQyMV5BMl5BanBnXkFtZTcwNjQ5OTA0Mg@@._V1_UY317_CR7,0,214,317_AL_.jpg",
     "actorName": "Robert Redford",
-    "power": 3,
-    "filmsCount": 79
+    "power": 16,
+    "filmsCount": 78
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_UY317_CR17,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_UY317_CR17,0,214,317_AL_.jpg",
     "actorName": "Anthony Mackie",
-    "power": 15,
-    "filmsCount": 57
+    "power": 12,
+    "filmsCount": 58
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_UY317_CR100,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_UY317_CR100,0,214,317_AL_.jpg",
     "actorName": "Frank Grillo",
-    "power": 6,
+    "power": 13,
     "filmsCount": 66
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MDc4MDk4NF5BMl5BanBnXkFtZTgwMjkwMTYwOTE@._V1_UY317_CR28,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ5MDc4MDk4NF5BMl5BanBnXkFtZTgwMjkwMTYwOTE@._V1_UY317_CR28,0,214,317_AL_.jpg",
     "actorName": "Emily VanCamp",
-    "power": 6,
+    "power": 5,
     "filmsCount": 27
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg3MTgwOTgzMV5BMl5BanBnXkFtZTgwODIxMTUwMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzg3MTgwOTgzMV5BMl5BanBnXkFtZTgwODIxMTUwMjE@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Chris Pratt",
-    "power": 9,
-    "filmsCount": 48
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDk1NTA1OV5BMl5BanBnXkFtZTcwMTIzMjQ4Ng@@._V1_UY317_CR8,0,214,317_AL_.jpg",
-    "actorName": "Zoe Saldana",
-    "power": 9,
-    "filmsCount": 54
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NjQ5NDA5M15BMl5BanBnXkFtZTgwNDE0MjQzMjE@._V1_UY317_CR142,0,214,317_AL_.jpg",
-    "actorName": "Dave Bautista",
-    "power": 9,
-    "filmsCount": 54
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg",
-    "actorName": "Vin Diesel",
-    "power": 9,
-    "filmsCount": 43
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Bradley Cooper",
-    "power": 9,
-    "filmsCount": 60
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk2NjE4NDgzNl5BMl5BanBnXkFtZTcwNTI3NTEzMQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
-    "actorName": "Lee Pace",
-    "power": 3,
-    "filmsCount": 34
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNDI5MjQ5MF5BMl5BanBnXkFtZTYwMjI1MTgz._V1_UY317_CR22,0,214,317_AL_.jpg",
-    "actorName": "Michael Rooker",
-    "power": 6,
-    "filmsCount": 119
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_UY317_CR2,0,214,317_AL_.jpg",
-    "actorName": "Karen Gillan",
-    "power": 12,
-    "filmsCount": 51
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_UY317_CR10,0,214,317_AL_.jpg",
-    "actorName": "Djimon Hounsou",
-    "power": 3,
-    "filmsCount": 50
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_UY317_CR34,0,214,317_AL_.jpg",
-    "actorName": "John C. Reilly",
-    "power": 3,
-    "filmsCount": 101
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3MTQ5NjY5Ml5BMl5BanBnXkFtZTgwMTY0NzU5MDE@._V1_UY317_CR13,0,214,317_AL_.jpg",
-    "actorName": "James Spader",
-    "power": 3,
-    "filmsCount": 54
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1_UY317_CR13,0,214,317_AL_.jpg",
-    "actorName": "Aaron Taylor-Johnson",
-    "power": 3,
-    "filmsCount": 40
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
-    "actorName": "Elizabeth Olsen",
-    "power": 9,
-    "filmsCount": 22
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_UY317_CR7,0,214,317_AL_.jpg",
-    "actorName": "Linda Cardellini",
-    "power": 6,
-    "filmsCount": 67
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_UY317_CR20,0,214,317_AL_.jpg",
-    "actorName": "Paul Rudd",
-    "power": 12,
-    "filmsCount": 109
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_UY317_CR21,0,214,317_AL_.jpg",
-    "actorName": "Michael Douglas",
-    "power": 6,
-    "filmsCount": 77
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_UY317_CR30,0,214,317_AL_.jpg",
-    "actorName": "Evangeline Lilly",
-    "power": 9,
-    "filmsCount": 19
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU5MjUwMDYzOF5BMl5BanBnXkFtZTcwMDcwOTkwOQ@@._V1_UY317_CR44,0,214,317_AL_.jpg",
-    "actorName": "Corey Stoll",
-    "power": 3,
-    "filmsCount": 54
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_UY317_CR174,0,214,317_AL_.jpg",
-    "actorName": "Bobby Cannavale",
-    "power": 3,
-    "filmsCount": 96
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_UY317_CR0,0,214,317_AL_.jpg",
-    "actorName": "Judy Greer",
-    "power": 6,
-    "filmsCount": 129
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmRjZWI0ZjItZGVmNC00ODc5LTlmYzctMGNjZjAxM2MyYmVkXkEyXkFqcGdeQXVyMzgzNTA3MjE@._V1_UY317_CR26,0,214,317_AL_.jpg",
-    "actorName": "Abby Ryder Fortson",
-    "power": 6,
-    "filmsCount": 12
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_UY317_CR15,0,214,317_AL_.jpg",
-    "actorName": "Michael Peña",
-    "power": 6,
-    "filmsCount": 86
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "David Dastmalchian",
-    "power": 6,
-    "filmsCount": 60
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMDMwNjkxN15BMl5BanBnXkFtZTcwMDI0MTM5OA@@._V1_UY317_CR7,0,214,317_AL_.jpg",
-    "actorName": "T.I.",
-    "power": 6,
-    "filmsCount": 33
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2OTY5MzcwMV5BMl5BanBnXkFtZTgwODM4MDI5MjI@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Chadwick Boseman",
-    "power": 12,
-    "filmsCount": 30
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTAzMzA3NjQwOF5BMl5BanBnXkFtZTgwMDUzODQ5MTI@._V1_UY317_CR23,0,214,317_AL_.jpg",
-    "actorName": "Tom Holland",
-    "power": 9,
-    "filmsCount": 23
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MjAwOTMzMF5BMl5BanBnXkFtZTcwMDg1MjEyNw@@._V1_UY317_CR1,0,214,317_AL_.jpg",
-    "actorName": "Martin Freeman",
-    "power": 6,
-    "filmsCount": 77
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMjA3OTc3N15BMl5BanBnXkFtZTcwNTA1MzY1Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg",
-    "actorName": "Marisa Tomei",
-    "power": 6,
-    "filmsCount": 77
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY317_CR2,0,214,317_AL_.jpg",
-    "actorName": "Benedict Cumberbatch",
-    "power": 9,
-    "filmsCount": 72
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA5MDEyMTY3Nl5BMl5BanBnXkFtZTgwODQ0MjcxMDE@._V1_UY317_CR6,0,214,317_AL_.jpg",
-    "actorName": "Chiwetel Ejiofor",
-    "power": 3,
+    "power": 10,
     "filmsCount": 49
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
-    "actorName": "Rachel McAdams",
-    "power": 3,
-    "filmsCount": 36
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjA4NDk1NTA1OV5BMl5BanBnXkFtZTcwMTIzMjQ4Ng@@._V1_UY317_CR8,0,214,317_AL_.jpg",
+    "actorName": "Zoe Saldana",
+    "power": 11,
+    "filmsCount": 56
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMTU5MzgxMF5BMl5BanBnXkFtZTYwMDI0NjI1._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Mads Mikkelsen",
-    "power": 3,
-    "filmsCount": 51
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjI4NjQ5NDA5M15BMl5BanBnXkFtZTgwNDE0MjQzMjE@._V1_UY317_CR142,0,214,317_AL_.jpg",
+    "actorName": "Dave Bautista",
+    "power": 11,
+    "filmsCount": 56
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
-    "actorName": "Tilda Swinton",
-    "power": 3,
-    "filmsCount": 75
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "actorName": "Vin Diesel",
+    "power": 9,
+    "filmsCount": 44
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Michael Stuhlbarg",
-    "power": 3,
-    "filmsCount": 46
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Bradley Cooper",
+    "power": 12,
+    "filmsCount": 60
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_UY317_CR14,0,214,317_AL_.jpg",
-    "actorName": "Benjamin Bratt",
-    "power": 3,
-    "filmsCount": 64
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhiZDM4ZGUtOGJjZS00MTNhLWJkMGItNTFiMWFiYjk2MjU3XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_UY317_CR51,0,214,317_AL_.jpg",
-    "actorName": "Scott Adkins",
-    "power": 3,
-    "filmsCount": 57
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2ZmNWUyOWMtNDQ5Mi00Y2Y4LTk5NTgtZTMyMDA0NDkzMThkXkEyXkFqcGdeQXVyOTA2OTEwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Zara Phythian",
-    "power": 3,
-    "filmsCount": 18
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNjE5MzY5M15BMl5BanBnXkFtZTgwMDI5ODMxODE@._V1_UY317_CR121,0,214,317_AL_.jpg",
-    "actorName": "Pom Klementieff",
-    "power": 6,
-    "filmsCount": 26
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMTk3NDU2OV5BMl5BanBnXkFtZTcwNTA3MTI0Mw@@._V1_UY317_CR6,0,214,317_AL_.jpg",
-    "actorName": "Sylvester Stallone",
-    "power": 3,
-    "filmsCount": 80
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Kurt Russell",
-    "power": 3,
-    "filmsCount": 96
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_UY317_CR21,0,214,317_AL_.jpg",
-    "actorName": "Michael Keaton",
-    "power": 3,
-    "filmsCount": 77
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg",
-    "actorName": "Zendaya",
-    "power": 3,
+    "img": "https://ia.media-imdb.com/images/M/MV5BMzk2NjE4NDgzNl5BMl5BanBnXkFtZTcwNTI3NTEzMQ@@._V1_UY317_CR16,0,214,317_AL_.jpg",
+    "actorName": "Lee Pace",
+    "power": 7,
     "filmsCount": 35
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Donald Glover",
-    "power": 3,
-    "filmsCount": 82
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTkwNDI5MjQ5MF5BMl5BanBnXkFtZTYwMjI1MTgz._V1_UY317_CR22,0,214,317_AL_.jpg",
+    "actorName": "Michael Rooker",
+    "power": 24,
+    "filmsCount": 119
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NzAzMzUzNl5BMl5BanBnXkFtZTgwNDk0MTM1OTE@._V1_UY317_CR5,0,214,317_AL_.jpg",
-    "actorName": "Jacob Batalon",
-    "power": 3,
-    "filmsCount": 10
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "actorName": "Karen Gillan",
+    "power": 10,
+    "filmsCount": 51
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWNiYTJiZTctNTk4Zi00OWVlLTgxZmMtNjc5ZWMwNjIwYjBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Laura Harrier",
-    "power": 3,
-    "filmsCount": 9
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+    "actorName": "Djimon Hounsou",
+    "power": 10,
+    "filmsCount": 51
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDUyNDMxMzU1OF5BMl5BanBnXkFtZTgwMTY0MzQyMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Cate Blanchett",
-    "power": 3,
-    "filmsCount": 69
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_UY317_CR34,0,214,317_AL_.jpg",
+    "actorName": "John C. Reilly",
+    "power": 20,
+    "filmsCount": 102
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE5NzkyODg1Nl5BMl5BanBnXkFtZTYwMTY2OTE0._V1_UY317_CR22,0,214,317_AL_.jpg",
-    "actorName": "Jeff Goldblum",
-    "power": 3,
-    "filmsCount": 121
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ3MTQ5NjY5Ml5BMl5BanBnXkFtZTgwMTY0NzU5MDE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "actorName": "James Spader",
+    "power": 11,
+    "filmsCount": 54
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjk4MDU3NDg4NF5BMl5BanBnXkFtZTcwMjMxMjcwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Tessa Thompson",
-    "power": 6,
-    "filmsCount": 47
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1_UY317_CR5,0,214,317_AL_.jpg",
-    "actorName": "Karl Urban",
-    "power": 3,
-    "filmsCount": 46
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Michael B. Jordan",
-    "power": 3,
-    "filmsCount": 42
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Lupita Nyong'o",
-    "power": 3,
-    "filmsCount": 20
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjYyNjg1OTU1M15BMl5BanBnXkFtZTgwNzYyNTkzMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Danai Gurira",
-    "power": 6,
-    "filmsCount": 18
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTk1MzgzOTg5OV5BMl5BanBnXkFtZTcwNDQ4NjMxOA@@._V1_UY317_CR1,0,214,317_AL_.jpg",
-    "actorName": "Daniel Kaluuya",
-    "power": 3,
+    "img": "https://ia.media-imdb.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "actorName": "Aaron Taylor-Johnson",
+    "power": 8,
     "filmsCount": 40
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyMzgxMzc5N15BMl5BanBnXkFtZTgwNDg3NzYzMDI@._V1_UY317_CR47,0,214,317_AL_.jpg",
-    "actorName": "Letitia Wright",
-    "power": 6,
-    "filmsCount": 19
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "actorName": "Elizabeth Olsen",
+    "power": 4,
+    "filmsCount": 22
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2I4Mzg3MWQtM2JlNy00ODQxLThhMGItZTFlNWFhOTIzNzY4XkEyXkFqcGdeQXVyNTEwNTA1Njg@._V1_UY317_CR127,0,214,317_AL_.jpg",
-    "actorName": "Winston Duke",
-    "power": 6,
-    "filmsCount": 7
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "actorName": "Linda Cardellini",
+    "power": 14,
+    "filmsCount": 69
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmEzNmExM2ItNzg5Zi00NGRjLWI1NTEtMmQ5MGMwNjFlNWFhL2ltYWdlXkEyXkFqcGdeQXVyMTM0MzI5Nzc@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Sterling K. Brown",
-    "power": 3,
-    "filmsCount": 47
+    "img": "https://ia.media-imdb.com/images/M/MV5BYTgwYmM0ZjgtMWRmZC00YTc1LWIwYWEtYTFjMTZiMDNjNWRkXkEyXkFqcGdeQXVyNjcwMjczMzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Andy Serkis",
+    "power": 19,
+    "filmsCount": 95
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4OTQ1NTcxOF5BMl5BanBnXkFtZTcwOTc1NTU0OQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Angela Bassett",
-    "power": 6,
-    "filmsCount": 91
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Josh Brolin",
-    "power": 6,
-    "filmsCount": 67
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MTE3MTkzMl5BMl5BanBnXkFtZTgwMzAyMTE1ODE@._V1_UY317_CR13,0,214,317_AL_.jpg",
-    "actorName": "Hannah John-Kamen",
-    "power": 3,
-    "filmsCount": 21
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Michelle Pfeiffer",
-    "power": 3,
-    "filmsCount": 61
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzYyNmUwMmItYzE4YS00ZTQxLWJiNjUtNzA0OGIzZGYzNDk2XkEyXkFqcGdeQXVyNDg4OTQzNjg@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Walton Goggins",
-    "power": 3,
-    "filmsCount": 81
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Laurence Fishburne",
-    "power": 3,
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "actorName": "Paul Rudd",
+    "power": 22,
     "filmsCount": 108
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg",
-    "actorName": "Brie Larson",
-    "power": 6,
-    "filmsCount": 57
-  },
-  {
-    "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_UY317_CR4,0,214,317_AL_.jpg",
-    "actorName": "Ben Mendelsohn",
-    "power": 3,
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_UY317_CR21,0,214,317_AL_.jpg",
+    "actorName": "Michael Douglas",
+    "power": 15,
     "filmsCount": 77
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc2MDMzODU0OV5BMl5BanBnXkFtZTgwODIwOTAxMzI@._V1_UY317_CR30,0,214,317_AL_.jpg",
+    "actorName": "Evangeline Lilly",
+    "power": 4,
+    "filmsCount": 19
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMzU5MjUwMDYzOF5BMl5BanBnXkFtZTcwMDcwOTkwOQ@@._V1_UY317_CR44,0,214,317_AL_.jpg",
+    "actorName": "Corey Stoll",
+    "power": 11,
+    "filmsCount": 54
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_UY317_CR174,0,214,317_AL_.jpg",
+    "actorName": "Bobby Cannavale",
+    "power": 19,
+    "filmsCount": 97
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_UY317_CR0,0,214,317_AL_.jpg",
+    "actorName": "Judy Greer",
+    "power": 26,
+    "filmsCount": 129
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BYmRjZWI0ZjItZGVmNC00ODc5LTlmYzctMGNjZjAxM2MyYmVkXkEyXkFqcGdeQXVyMzgzNTA3MjE@._V1_UY317_CR26,0,214,317_AL_.jpg",
+    "actorName": "Abby Ryder Fortson",
+    "power": 2,
+    "filmsCount": 12
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_UY317_CR15,0,214,317_AL_.jpg",
+    "actorName": "Michael Peña",
+    "power": 17,
+    "filmsCount": 86
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "David Dastmalchian",
+    "power": 12,
+    "filmsCount": 61
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQzMDMwNjkxN15BMl5BanBnXkFtZTcwMDI0MTM5OA@@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "actorName": "T.I.",
+    "power": 8,
+    "filmsCount": 42
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk2OTY5MzcwMV5BMl5BanBnXkFtZTgwODM4MDI5MjI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Chadwick Boseman",
+    "power": 6,
+    "filmsCount": 30
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNTAzMzA3NjQwOF5BMl5BanBnXkFtZTgwMDUzODQ5MTI@._V1_UY317_CR23,0,214,317_AL_.jpg",
+    "actorName": "Tom Holland",
+    "power": 5,
+    "filmsCount": 23
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjE0MjAwOTMzMF5BMl5BanBnXkFtZTcwMDg1MjEyNw@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "actorName": "Martin Freeman",
+    "power": 16,
+    "filmsCount": 78
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUwMjA3OTc3N15BMl5BanBnXkFtZTcwNTA1MzY1Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "actorName": "Marisa Tomei",
+    "power": 15,
+    "filmsCount": 77
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "actorName": "Benedict Cumberbatch",
+    "power": 14,
+    "filmsCount": 71
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzA5MDEyMTY3Nl5BMl5BanBnXkFtZTgwODQ0MjcxMDE@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "actorName": "Chiwetel Ejiofor",
+    "power": 10,
+    "filmsCount": 49
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
+    "actorName": "Rachel McAdams",
+    "power": 7,
+    "filmsCount": 36
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTcyMTU5MzgxMF5BMl5BanBnXkFtZTYwMDI0NjI1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Mads Mikkelsen",
+    "power": 10,
+    "filmsCount": 52
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
+    "actorName": "Tilda Swinton",
+    "power": 15,
+    "filmsCount": 75
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Michael Stuhlbarg",
+    "power": 9,
+    "filmsCount": 47
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_UY317_CR14,0,214,317_AL_.jpg",
+    "actorName": "Benjamin Bratt",
+    "power": 13,
+    "filmsCount": 64
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BZjhiZDM4ZGUtOGJjZS00MTNhLWJkMGItNTFiMWFiYjk2MjU3XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_UY317_CR51,0,214,317_AL_.jpg",
+    "actorName": "Scott Adkins",
+    "power": 11,
+    "filmsCount": 56
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BN2ZmNWUyOWMtNDQ5Mi00Y2Y4LTk5NTgtZTMyMDA0NDkzMThkXkEyXkFqcGdeQXVyOTA2OTEwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Zara Phythian",
+    "power": 4,
+    "filmsCount": 18
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTkzNjE5MzY5M15BMl5BanBnXkFtZTgwMDI5ODMxODE@._V1_UY317_CR121,0,214,317_AL_.jpg",
+    "actorName": "Pom Klementieff",
+    "power": 5,
+    "filmsCount": 27
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQwMTk3NDU2OV5BMl5BanBnXkFtZTcwNTA3MTI0Mw@@._V1_UY317_CR6,0,214,317_AL_.jpg",
+    "actorName": "Sylvester Stallone",
+    "power": 16,
+    "filmsCount": 79
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Kurt Russell",
+    "power": 19,
+    "filmsCount": 96
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_UY317_CR21,0,214,317_AL_.jpg",
+    "actorName": "Michael Keaton",
+    "power": 15,
+    "filmsCount": 77
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "actorName": "Zendaya",
+    "power": 7,
+    "filmsCount": 36
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Donald Glover",
+    "power": 16,
+    "filmsCount": 82
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc3NzAzMzUzNl5BMl5BanBnXkFtZTgwNDk0MTM1OTE@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "actorName": "Jacob Batalon",
+    "power": 2,
+    "filmsCount": 11
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNWNiYTJiZTctNTk4Zi00OWVlLTgxZmMtNjc5ZWMwNjIwYjBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Laura Harrier",
+    "power": 2,
+    "filmsCount": 9
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_UY317_CR3,0,214,317_AL_.jpg",
+    "actorName": "Cate Blanchett",
+    "power": 14,
+    "filmsCount": 69
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTE5NzkyODg1Nl5BMl5BanBnXkFtZTYwMTY2OTE0._V1_UY317_CR22,0,214,317_AL_.jpg",
+    "actorName": "Jeff Goldblum",
+    "power": 24,
+    "filmsCount": 122
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjk4MDU3NDg4NF5BMl5BanBnXkFtZTcwMjMxMjcwNA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Tessa Thompson",
+    "power": 10,
+    "filmsCount": 48
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1_UY317_CR5,0,214,317_AL_.jpg",
+    "actorName": "Karl Urban",
+    "power": 9,
+    "filmsCount": 47
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjExOTY3NzExM15BMl5BanBnXkFtZTgwOTg1OTAzMTE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Michael B. Jordan",
+    "power": 8,
+    "filmsCount": 42
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Lupita Nyong'o",
+    "power": 4,
+    "filmsCount": 21
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjYyNjg1OTU1M15BMl5BanBnXkFtZTgwNzYyNTkzMDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Danai Gurira",
+    "power": 4,
+    "filmsCount": 18
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BOTk1MzgzOTg5OV5BMl5BanBnXkFtZTcwNDQ4NjMxOA@@._V1_UY317_CR1,0,214,317_AL_.jpg",
+    "actorName": "Daniel Kaluuya",
+    "power": 8,
+    "filmsCount": 40
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjIyMzgxMzc5N15BMl5BanBnXkFtZTgwNDg3NzYzMDI@._V1_UY317_CR47,0,214,317_AL_.jpg",
+    "actorName": "Letitia Wright",
+    "power": 4,
+    "filmsCount": 20
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BN2I4Mzg3MWQtM2JlNy00ODQxLThhMGItZTFlNWFhOTIzNzY4XkEyXkFqcGdeQXVyNTEwNTA1Njg@._V1_UY317_CR127,0,214,317_AL_.jpg",
+    "actorName": "Winston Duke",
+    "power": 1,
+    "filmsCount": 7
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BZmEzNmExM2ItNzg5Zi00NGRjLWI1NTEtMmQ5MGMwNjFlNWFhL2ltYWdlXkEyXkFqcGdeQXVyMTM0MzI5Nzc@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Sterling K. Brown",
+    "power": 10,
+    "filmsCount": 48
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjI4OTQ1NTcxOF5BMl5BanBnXkFtZTcwOTc1NTU0OQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Angela Bassett",
+    "power": 18,
+    "filmsCount": 91
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQzMDI3NTg2OV5BMl5BanBnXkFtZTcwNTgwMzg5Mg@@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "actorName": "Forest Whitaker",
+    "power": 25,
+    "filmsCount": 123
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Josh Brolin",
+    "power": 13,
+    "filmsCount": 67
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ2MTE3MTkzMl5BMl5BanBnXkFtZTgwMzAyMTE1ODE@._V1_UY317_CR13,0,214,317_AL_.jpg",
+    "actorName": "Hannah John-Kamen",
+    "power": 4,
+    "filmsCount": 21
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Michelle Pfeiffer",
+    "power": 12,
+    "filmsCount": 61
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BYzYyNmUwMmItYzE4YS00ZTQxLWJiNjUtNzA0OGIzZGYzNDk2XkEyXkFqcGdeQXVyNDg4OTQzNjg@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Walton Goggins",
+    "power": 16,
+    "filmsCount": 81
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BYzg1M2ZjNjgtNjg2YS00YjkzLWI4OWEtNjBiMDVkMDkwNTE1XkEyXkFqcGdeQXVyMjQwNTc4MTk@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Joshua Mikel",
+    "power": 14,
+    "filmsCount": 68
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Laurence Fishburne",
+    "power": 22,
+    "filmsCount": 109
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "actorName": "Ben Mendelsohn",
+    "power": 15,
+    "filmsCount": 77
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "actorName": "Brie Larson",
+    "power": 11,
+    "filmsCount": 57
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
     "actorName": "Jude Law",
-    "power": 3,
+    "power": 14,
     "filmsCount": 70
   },
   {
     "films": [],
-    "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM5NzU4MTI4OF5BMl5BanBnXkFtZTgwNDczMDU5ODE@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "DeWanda Wise",
-    "power": 3,
-    "filmsCount": 32
+    "img": "https://ia.media-imdb.com/images/M/MV5BNTY5NDJmODUtNzNhMi00ZTYyLWI0NDEtYTc5ZGUyNjEwMTgxXkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "actorName": "Mckenna Grace",
+    "power": 9,
+    "filmsCount": 45
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk5NjQ2ODgzN15BMl5BanBnXkFtZTgwNTE5NTM4MTE@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "actorName": "Gemma Chan",
+    "power": 7,
+    "filmsCount": 37
+  },
+  {
+    "films": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNDE2NTk1MzE0NF5BMl5BanBnXkFtZTgwNDk2MDg0MDE@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "actorName": "Robert Kazinsky",
+    "power": 4,
+    "filmsCount": 20
   }
 ]
