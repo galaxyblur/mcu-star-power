@@ -1,5 +1,3 @@
-import vo from 'vo';
-
 import {
   loadActorsFromFile,
   loadActorsMetaFromFile,

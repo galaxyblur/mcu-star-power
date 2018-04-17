@@ -84,7 +84,7 @@ const collect = async () => {
       actorInfo.actorName = a.actorName;
       actorInfo.power = Math.round(actorInfo.films.length / 5);
       actorInfo.filmsCount = actorInfo.films.length;
-      actorInfo.films = [];
+      actorInfo.films = actorInfo.films;
 
       console.log(`${a.filmsMcu.length} of ${actorInfo.filmsCount} films in MCU`);
       allInfo.push(actorInfo);
