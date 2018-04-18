@@ -69,7 +69,8 @@ const collect = async () => {
               const fTitleEl = film.querySelector('b > a');
               const fTitle = fTitleEl ? fTitleEl.innerText : '';
               const fYearEl = film.querySelector('.year_column');
-              const fYear = fYearEl ? fYearEl.innerText.replace('&nbsp;', '') : undefined;
+              // 2nd replace is an invisible char
+              const fYear = fYearEl ? fYearEl.innerText.replace('&nbsp;', '').replace(' ', '') : undefined;
 
               info.films.push({
                 title: fTitle,
