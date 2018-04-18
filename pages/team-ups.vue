@@ -6,21 +6,28 @@
       <tabs />
 
       <div>
-        <div class="uk-flex uk-flex-wrap uk-child-width-1-5@xl uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-2@s">
-          <div v-for="(f, fi) in filmsInCommon" :key="fi" class="uk-padding-small">
-            <div class="uk-card uk-card-default uk-height-1-1 uk-box-shadow-large">
-              <div class="uk-card-header uk-text-center">
-                <h4 class="uk-card-title">{{ f.title }} ({{ f.year }})</h4>
-              </div>
-              <div class="uk-card-body uk-text-center">
-                {{ f.actors.join(', ') }}
-              </div>
-              <div class="uk-card-footer uk-text-center">
-                <a :href="'https://www.imdb.com/find?ref_=nv_sr_fn&s=all&q=' + f.title">Search IMDB</a>
-              </div>
-            </div>
-          </div>
-        </div>
+        <table class="uk-table uk-table-small uk-table-divider">
+          <thead>
+            <tr>
+              <th>Title</th>
+              <th>MCU Actors</th>
+              <th>Average Career Power</th>
+              <th>Average MCU Power</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="(f, fi) in filmsInCommon" :key="fi">
+              <td>{{ f.title }} ({{ f.year }})</td>
+              <td>({{ f.actors.length }}) {{ f.actors.join(', ') }}</td>
+              <td>{{ f.actorsPowerCareerAverage }}</td>
+              <td>{{ f.actorsPowerMcuAverage }}</td>
+              <td>
+                <a :href="'https://www.imdb.com/find?ref_=nv_sr_fn&s=all&q=' + f.title" target="_blank">Search IMDB</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
 
     </section>
