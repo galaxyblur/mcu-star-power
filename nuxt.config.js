@@ -24,6 +24,7 @@ module.exports = {
     '@nuxtjs/axios',
     '@nuxtjs/font-awesome',
     '@nuxtjs/sitemap',
+    ['nuxt-matomo', { matomoUrl: '//matomo.capoeiraonline.org/', siteId: 2 }],
   ],
 
   sitemap: {
