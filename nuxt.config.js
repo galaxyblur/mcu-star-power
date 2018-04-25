@@ -24,7 +24,7 @@ module.exports = {
     '@nuxtjs/axios',
     '@nuxtjs/font-awesome',
     '@nuxtjs/sitemap',
-    ['nuxt-matomo', { matomoUrl: '//matomo.capoeiraonline.org/', siteId: 2 }],
+    ['nuxt-matomo', { matomoUrl: '//matomo.capoeiraonline.org/piwik/', siteId: 2 }],
   ],
 
   sitemap: {
