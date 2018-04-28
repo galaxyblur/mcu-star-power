@@ -10,10 +10,6 @@
         "year": "2019"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "All-Star Weekend",
         "year": "2018"
       },
@@ -24,6 +20,10 @@
       {
         "title": "Untitled John Brinkley Biopic",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Spider-Man: Homecoming",
@@ -371,6 +371,10 @@
     "films": [
       {
         "title": "Cut Throat City",
+        "year": ""
+      },
+      {
+        "title": "Gully",
         "year": ""
       },
       {
@@ -737,7 +741,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTk3NTY4NzgyOV5BMl5BanBnXkFtZTcwODEzNTkxNg@@._V1_UY317_CR24,0,214,317_AL_.jpg",
     "actorName": "Terrence Howard",
     "power": 18,
-    "filmsCount": 91
+    "filmsCount": 92
   },
   {
     "films": [
@@ -1342,16 +1346,16 @@
         "year": "2018/I"
       },
       {
-        "title": "Salam",
-        "year": "2018"
-      },
-      {
         "title": "Man of the House",
         "year": ""
       },
       {
         "title": "Running with the Devil",
         "year": ""
+      },
+      {
+        "title": "Salam",
+        "year": "2018"
       },
       {
         "title": "American Housewife",
@@ -3566,10 +3570,6 @@
         "year": "\n2018\n"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "\n2018\n"
-      },
-      {
         "title": "Spider-Man: Homecoming",
         "year": "\n2017\n"
       },
@@ -3837,12 +3837,16 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_UY317_CR12,0,214,317_AL_.jpg",
     "actorName": "Jon Favreau",
     "power": 14,
-    "filmsCount": 69
+    "filmsCount": 68
   },
   {
     "films": [
       {
         "title": "Madness in the Method",
+        "year": "\n2018\n"
+      },
+      {
+        "title": "Avengers: Infinity War",
         "year": "\n2018\n"
       },
       {
@@ -3966,7 +3970,7 @@
         "year": "\n2015\n"
       },
       {
-        "title": "Marvel's Agents of S.H.I.E.L.D.: Double Agent",
+        "title": "Agents of S.H.I.E.L.D.: Double Agent",
         "year": "\n2015\n"
       },
       {
@@ -4305,7 +4309,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_UY317_CR3,0,214,317_AL_.jpg",
     "actorName": "Stan Lee",
     "power": 23,
-    "filmsCount": 115
+    "filmsCount": 116
   },
   {
     "films": [
@@ -5019,7 +5023,7 @@
       },
       {
         "title": "Meantime",
-        "year": "1984"
+        "year": "1983"
       },
       {
         "title": "Not Necessarily the News",
@@ -5048,6 +5052,10 @@
       {
         "title": "Men of Granite",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "The Miracle Season",
@@ -5437,7 +5445,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMjEyNzA5MTUxN15BMl5BanBnXkFtZTcwMTU3ODQ3MQ@@._V1_UY317_CR2,0,214,317_AL_.jpg",
     "actorName": "William Hurt",
     "power": 20,
-    "filmsCount": 99
+    "filmsCount": 100
   },
   {
     "films": [
@@ -6486,12 +6494,12 @@
   {
     "films": [
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Ball Street",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Logic: 1-800-273-8255 Ft. Alessia Cara, Khalid",
@@ -6842,16 +6850,16 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Black Widow",
         "year": ""
       },
       {
         "title": "Jojo Rabbit",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Isle of Dogs",
@@ -7092,6 +7100,10 @@
       {
         "title": "Blue Iguana",
         "year": "2018"
+      },
+      {
+        "title": "Jojo Rabbit",
+        "year": ""
       },
       {
         "title": "The Adventures of Drunky",
@@ -7485,10 +7497,14 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "actorName": "Sam Rockwell",
     "power": 20,
-    "filmsCount": 99
+    "filmsCount": 100
   },
   {
     "films": [
+      {
+        "title": "Legionnaire's Trail",
+        "year": "2018"
+      },
       {
         "title": "Unhinged",
         "year": "2018/I"
@@ -7825,7 +7841,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTM0MzYwNDA2MF5BMl5BanBnXkFtZTcwNDYzMjg4Mw@@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "actorName": "Mickey Rourke",
     "power": 17,
-    "filmsCount": 83
+    "filmsCount": 84
   },
   {
     "films": [
@@ -7856,6 +7872,10 @@
       {
         "title": "Inversion",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Moose",
@@ -8537,7 +8557,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Samuel L. Jackson",
     "power": 35,
-    "filmsCount": 176
+    "filmsCount": 177
   },
   {
     "films": [
@@ -8940,16 +8960,12 @@
       {
         "title": "Mother Goose Rock 'n' Rhyme",
         "year": "\n1990\n"
-      },
-      {
-        "title": "The Garry Shandling Show: 25th Anniversary Special",
-        "year": "\n1986\n"
       }
     ],
     "img": "https://ia.media-imdb.com/images/M/MV5BODkzMzAxMDMzOV5BMl5BanBnXkFtZTgwNzE2NDM0ODE@._V1_UY317_CR116,0,214,317_AL_.jpg",
     "actorName": "Garry Shandling",
     "power": 5,
-    "filmsCount": 26
+    "filmsCount": 25
   },
   {
     "films": [
@@ -8966,12 +8982,12 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Untitled Star Trek Sequel",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Tourism Australia: Dundee - The Son of a Legend Returns Home",
@@ -9546,16 +9562,16 @@
         "year": "2018"
       },
       {
+        "title": "Westworld",
+        "year": "2016-2018"
+      },
+      {
         "title": "Thor: Ragnarok",
         "year": "2017"
       },
       {
         "title": "Transformers: The Last Knight",
         "year": "2017"
-      },
-      {
-        "title": "Westworld",
-        "year": "2016"
       },
       {
         "title": "Mudcrutch - I Forgive It All",
@@ -10074,24 +10090,24 @@
   {
     "films": [
       {
-        "title": "Chernobyl",
+        "title": "Out Stealing Horses",
         "year": "2019"
       },
       {
-        "title": "The Man Who Killed Don Quixote",
-        "year": "2018"
+        "title": "Chernobyl",
+        "year": "2019"
       },
       {
         "title": "Mamma Mia! Here We Go Again",
         "year": "2018"
       },
       {
-        "title": "Music, War and Love",
+        "title": "The Man Who Killed Don Quixote",
         "year": "2018"
       },
       {
-        "title": "Out Stealing Horses",
-        "year": ""
+        "title": "Music, War and Love",
+        "year": "2018"
       },
       {
         "title": "The Painted Bird",
@@ -11426,11 +11442,15 @@
   {
     "films": [
       {
-        "title": "Avengers: Infinity War",
+        "title": "Turn Up Charlie",
         "year": "2018"
       },
       {
         "title": "In the Long Run",
+        "year": "2018"
+      },
+      {
+        "title": "Avengers: Infinity War",
         "year": "2018"
       },
       {
@@ -11769,7 +11789,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Idris Elba",
     "power": 17,
-    "filmsCount": 85
+    "filmsCount": 86
   },
   {
     "films": [
@@ -12000,6 +12020,10 @@
       {
         "title": "Regular Boy",
         "year": ""
+      },
+      {
+        "title": "Punk Samurai Slash Down",
+        "year": "2018"
       },
       {
         "title": "The Outsider",
@@ -12417,7 +12441,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTY5MzM5MTk5OV5BMl5BanBnXkFtZTgwMTcxMTY1MDE@._V1_UY317_CR3,0,214,317_AL_.jpg",
     "actorName": "Tadanobu Asano",
     "power": 21,
-    "filmsCount": 105
+    "filmsCount": 106
   },
   {
     "films": [
@@ -12550,8 +12574,8 @@
   {
     "films": [
       {
-        "title": "Untitled Dan Gilroy Project",
-        "year": ""
+        "title": "Velvet Buzzsaw",
+        "year": "2018"
       },
       {
         "title": "Just Getting Started",
@@ -12838,16 +12862,16 @@
         "year": "2019"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "The Red Sea Diving Resort",
         "year": "2018"
       },
       {
         "title": "Jekyll",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Spider-Man: Homecoming",
@@ -13214,10 +13238,6 @@
         "year": "2019"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Destroyer",
         "year": "2018"
       },
@@ -13227,6 +13247,10 @@
       },
       {
         "title": "We Have Always Lived in the Castle",
+        "year": "2018"
+      },
+      {
+        "title": "Avengers: Infinity War",
         "year": "2018"
       },
       {
@@ -13423,6 +13447,10 @@
       },
       {
         "title": "Men in Black 3",
+        "year": "2012"
+      },
+      {
+        "title": "Pitbull: Back in Time",
         "year": "2012"
       },
       {
@@ -13704,8 +13732,8 @@
     ],
     "img": "https://ia.media-imdb.com/images/M/MV5BMTkyNjc4MDc0OV5BMl5BanBnXkFtZTcwOTc5OTUwOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Tommy Lee Jones",
-    "power": 16,
-    "filmsCount": 82
+    "power": 17,
+    "filmsCount": 83
   },
   {
     "films": [
@@ -15774,12 +15802,12 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "I Know This Much Is True",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Thor: Ragnarok",
@@ -16054,10 +16082,6 @@
         "year": "2018/I"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "The House",
         "year": "2017/I"
       },
@@ -16261,13 +16285,17 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Jeremy Renner",
     "power": 11,
-    "filmsCount": 54
+    "filmsCount": 53
   },
   {
     "films": [
       {
         "title": "Songbird",
         "year": "2018/I"
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Nature Cat",
@@ -16429,14 +16457,10 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTkzNTUyMTczM15BMl5BanBnXkFtZTcwMjMxNTM4Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Cobie Smulders",
     "power": 8,
-    "filmsCount": 40
+    "filmsCount": 41
   },
   {
     "films": [
-      {
-        "title": "The Innocents",
-        "year": "2018"
-      },
       {
         "title": "Domino",
         "year": "2018"
@@ -16446,8 +16470,16 @@
         "year": "2018"
       },
       {
+        "title": "The Innocents",
+        "year": "2018"
+      },
+      {
         "title": "Poor Boy",
         "year": "2018"
+      },
+      {
+        "title": "Lyrebird",
+        "year": ""
       },
       {
         "title": "Spinning Man",
@@ -16717,7 +16749,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BNTgxOTU4NTEzNV5BMl5BanBnXkFtZTcwMDk2MTAyNQ@@._V1_UY317_CR14,0,214,317_AL_.jpg",
     "actorName": "Guy Pearce",
     "power": 14,
-    "filmsCount": 70
+    "filmsCount": 71
   },
   {
     "films": [
@@ -17446,10 +17478,6 @@
         "year": "2018"
       },
       {
-        "title": "Little Woods",
-        "year": "2018"
-      },
-      {
         "title": "Donnybrook",
         "year": ""
       },
@@ -17464,6 +17492,14 @@
       {
         "title": "The Incident at Sparrow Creek Lumber",
         "year": ""
+      },
+      {
+        "title": "The Kitchen",
+        "year": ""
+      },
+      {
+        "title": "Little Woods",
+        "year": "2018"
       },
       {
         "title": "Only the Brave",
@@ -17609,7 +17645,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
     "actorName": "James Badge Dale",
     "power": 8,
-    "filmsCount": 41
+    "filmsCount": 42
   },
   {
     "films": [
@@ -18738,6 +18774,10 @@
   {
     "films": [
       {
+        "title": "Miss Bala",
+        "year": "2019"
+      },
+      {
         "title": "The Blue Mauritius",
         "year": "2019"
       },
@@ -18746,7 +18786,7 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
+        "title": "The Hate U Give",
         "year": "2018"
       },
       {
@@ -18758,8 +18798,8 @@
         "year": ""
       },
       {
-        "title": "The Hate U Give",
-        "year": ""
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Wetlands",
@@ -18973,7 +19013,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_UY317_CR17,0,214,317_AL_.jpg",
     "actorName": "Anthony Mackie",
     "power": 12,
-    "filmsCount": 58
+    "filmsCount": 59
   },
   {
     "films": [
@@ -19378,12 +19418,12 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "The Kid",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Disneyland Resort: Guardians of the Galaxy - Mission Breakout!",
@@ -19584,6 +19624,10 @@
       {
         "title": "Avatar 2",
         "year": "2020"
+      },
+      {
+        "title": "Untitled Lakia 'Film Five' Project",
+        "year": ""
       },
       {
         "title": "Avengers: Infinity War",
@@ -19797,7 +19841,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMjA4NDk1NTA1OV5BMl5BanBnXkFtZTcwMTIzMjQ4Ng@@._V1_UY317_CR8,0,214,317_AL_.jpg",
     "actorName": "Zoe Saldana",
     "power": 11,
-    "filmsCount": 56
+    "filmsCount": 57
   },
   {
     "films": [
@@ -19810,19 +19854,15 @@
         "year": "2018"
       },
       {
-        "title": "Hotel Artemis",
-        "year": "2018"
-      },
-      {
         "title": "Escape Plan 2: Hades",
         "year": "2018"
       },
       {
-        "title": "Ip Man: Cheung Tin Chi",
+        "title": "Hotel Artemis",
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
+        "title": "Ip Man: Cheung Tin Chi",
         "year": "2018"
       },
       {
@@ -19832,6 +19872,10 @@
       {
         "title": "Stuber",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Blade Runner 2049",
@@ -19874,6 +19918,10 @@
         "year": "2016"
       },
       {
+        "title": "L.A. Slasher",
+        "year": "2016"
+      },
+      {
         "title": "Heist",
         "year": "2015/III"
       },
@@ -19887,10 +19935,6 @@
       },
       {
         "title": "TripTank",
-        "year": "2015"
-      },
-      {
-        "title": "L.A. Slasher",
         "year": "2015"
       },
       {
@@ -20042,16 +20086,16 @@
         "year": "2020"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Furia",
         "year": ""
       },
       {
         "title": "xXx 4",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Disneyland Resort: Guardians of the Galaxy - Mission Breakout!",
@@ -20222,16 +20266,16 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Atlantic Wall",
         "year": ""
       },
       {
         "title": "Deeper",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Disneyland Resort: Guardians of the Galaxy - Mission Breakout!",
@@ -21098,6 +21142,10 @@
   {
     "films": [
       {
+        "title": "Jumanji 2",
+        "year": "2019"
+      },
+      {
         "title": "Untitled Avengers Movie",
         "year": "2019"
       },
@@ -21106,16 +21154,12 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "All Creatures Here Below",
         "year": "2018"
       },
       {
-        "title": "Jumanji 2",
-        "year": ""
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "The Party's Just Beginning",
@@ -21938,6 +21982,206 @@
   {
     "films": [
       {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": "2017"
+      },
+      {
+        "title": "Different Flowers",
+        "year": "2017"
+      },
+      {
+        "title": "Gilmore Girls: A Year in the Life",
+        "year": "2016"
+      },
+      {
+        "title": "The Belko Experiment",
+        "year": "2016"
+      },
+      {
+        "title": "A Boy Called Po",
+        "year": "2016"
+      },
+      {
+        "title": "Ordinary World",
+        "year": "2016/I"
+      },
+      {
+        "title": "Superstore",
+        "year": "2016"
+      },
+      {
+        "title": "The Hive",
+        "year": "2015"
+      },
+      {
+        "title": "Bones",
+        "year": "2014"
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": "2014"
+      },
+      {
+        "title": "The Education of Eddie and Mortimer",
+        "year": "2013"
+      },
+      {
+        "title": "Who the F Is Buddy Applebaum",
+        "year": "2013"
+      },
+      {
+        "title": "Bunheads",
+        "year": "2012-2013"
+      },
+      {
+        "title": "H+",
+        "year": "2012-2013"
+      },
+      {
+        "title": "Glee",
+        "year": "2012"
+      },
+      {
+        "title": "Lollipop Chainsaw",
+        "year": "2012"
+      },
+      {
+        "title": "The Giant Mechanical Man",
+        "year": "2012"
+      },
+      {
+        "title": "The Morning After",
+        "year": "2011"
+      },
+      {
+        "title": "For a Green Card",
+        "year": "2011"
+      },
+      {
+        "title": "The Homes",
+        "year": "2011"
+      },
+      {
+        "title": "Super",
+        "year": "2010/I"
+      },
+      {
+        "title": "PG Porn",
+        "year": "2008-2009"
+      },
+      {
+        "title": "True Jackson, VP",
+        "year": "2009"
+      },
+      {
+        "title": "Humanzee!",
+        "year": "2008"
+      },
+      {
+        "title": "Sparky & Mikaela",
+        "year": "2008"
+      },
+      {
+        "title": "Pants on Fire",
+        "year": "2008"
+      },
+      {
+        "title": "October Road",
+        "year": "2007-2008"
+      },
+      {
+        "title": "Gilmore Girls",
+        "year": "2000-2007"
+      },
+      {
+        "title": "Jesus, Mary and Joey",
+        "year": "2005"
+      },
+      {
+        "title": "Fish Out of Water",
+        "year": "2004/I"
+      },
+      {
+        "title": "The Man Who Invented the Moon",
+        "year": "2003"
+      },
+      {
+        "title": "Andy Richter Controls the Universe",
+        "year": "2002-2003"
+      },
+      {
+        "title": "Yes, Dear",
+        "year": "2002"
+      },
+      {
+        "title": "Pearl Harbor",
+        "year": "2001"
+      },
+      {
+        "title": "3rd Rock from the Sun",
+        "year": "2001"
+      },
+      {
+        "title": "DAG",
+        "year": "2001"
+      },
+      {
+        "title": "Going to California",
+        "year": "2001"
+      },
+      {
+        "title": "Inside Schwartz",
+        "year": "2001"
+      },
+      {
+        "title": "Love, Sex & Murder",
+        "year": "2001"
+      },
+      {
+        "title": "The Michael Richards Show",
+        "year": "2000"
+      },
+      {
+        "title": "The Specials",
+        "year": "2000"
+      },
+      {
+        "title": "Angel",
+        "year": "1999-2000"
+      },
+      {
+        "title": "Brutally Normal",
+        "year": "2000"
+      },
+      {
+        "title": "Any Day Now",
+        "year": "1999"
+      },
+      {
+        "title": "The Auteur Theory",
+        "year": "1999"
+      },
+      {
+        "title": "Stricken",
+        "year": "1997"
+      },
+      {
+        "title": "Tromeo and Juliet",
+        "year": "1996"
+      }
+    ],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNjZmMWE0N2UtYTc5Yi00OWY0LTk1MzAtMzgwNWM0OGU3MTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Sean Gunn",
+    "power": 10,
+    "filmsCount": 48
+  },
+  {
+    "films": [
+      {
         "title": "The Blacklist",
         "year": "2013-2018"
       },
@@ -22330,12 +22574,12 @@
   {
     "films": [
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Sorry for Your Loss",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "HarmonQuest",
@@ -22422,290 +22666,6 @@
     "actorName": "Elizabeth Olsen",
     "power": 4,
     "filmsCount": 22
-  },
-  {
-    "films": [
-      {
-        "title": "A Simple Favor",
-        "year": "2018"
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
-        "title": "The Children",
-        "year": "2018"
-      },
-      {
-        "title": "Fonzo",
-        "year": ""
-      },
-      {
-        "title": "Green Book",
-        "year": ""
-      },
-      {
-        "title": "Robot Chicken",
-        "year": "2005-2018"
-      },
-      {
-        "title": "Daddy's Home 2",
-        "year": "2017"
-      },
-      {
-        "title": "Austin Found",
-        "year": "2017"
-      },
-      {
-        "title": "Bloodline",
-        "year": "2015-2017"
-      },
-      {
-        "title": "The Founder",
-        "year": "2016"
-      },
-      {
-        "title": "Sanjay and Craig",
-        "year": "2013-2016"
-      },
-      {
-        "title": "Gravity Falls",
-        "year": "2012-2016"
-      },
-      {
-        "title": "Daddy's Home",
-        "year": "2015"
-      },
-      {
-        "title": "Regular Show",
-        "year": "2012-2015"
-      },
-      {
-        "title": "Avengers: Age of Ultron",
-        "year": "2015"
-      },
-      {
-        "title": "Mad Men",
-        "year": "2013-2015"
-      },
-      {
-        "title": "Welcome to Me",
-        "year": "2014"
-      },
-      {
-        "title": "Mabel's Scrapbook",
-        "year": "2014"
-      },
-      {
-        "title": "Gravity Falls Shorts",
-        "year": "2014"
-      },
-      {
-        "title": "Gravity Falls: TV Shorts",
-        "year": "2014"
-      },
-      {
-        "title": "Fixin' It with Soos",
-        "year": "2014"
-      },
-      {
-        "title": "New Girl",
-        "year": "2014"
-      },
-      {
-        "title": "Mabel's Guide to Life",
-        "year": "2014"
-      },
-      {
-        "title": "Out There",
-        "year": "2013"
-      },
-      {
-        "title": "Scooby-Doo! Mystery Incorporated",
-        "year": "2011-2013"
-      },
-      {
-        "title": "Red",
-        "year": "2012/IV"
-      },
-      {
-        "title": "Lollipop Chainsaw",
-        "year": "2012"
-      },
-      {
-        "title": "Person of Interest",
-        "year": "2011"
-      },
-      {
-        "title": "Kill the Irishman",
-        "year": "2011"
-      },
-      {
-        "title": "All-Star Superman",
-        "year": "2011"
-      },
-      {
-        "title": "Return",
-        "year": "2011"
-      },
-      {
-        "title": "Gleeclipse",
-        "year": "2010"
-      },
-      {
-        "title": "Super",
-        "year": "2010/I"
-      },
-      {
-        "title": "The Goode Family",
-        "year": "2009"
-      },
-      {
-        "title": "Cupid",
-        "year": "2009"
-      },
-      {
-        "title": "ER",
-        "year": "2003-2009"
-      },
-      {
-        "title": "The Lazarus Project",
-        "year": "2008"
-      },
-      {
-        "title": "Comanche Moon",
-        "year": "2008"
-      },
-      {
-        "title": "Human Giant",
-        "year": "2007"
-      },
-      {
-        "title": "Grandma's Boy",
-        "year": "2006"
-      },
-      {
-        "title": "American Gun",
-        "year": "2005"
-      },
-      {
-        "title": "Brokeback Mountain",
-        "year": "2005"
-      },
-      {
-        "title": "LolliLove",
-        "year": "2004"
-      },
-      {
-        "title": "Jiminy Glick in Lalawood",
-        "year": "2004"
-      },
-      {
-        "title": "Scooby-Doo 2: Monsters Unleashed",
-        "year": "2004"
-      },
-      {
-        "title": "Scooby Doo 2: Monsters Unleashed",
-        "year": "2004"
-      },
-      {
-        "title": "Certainly Not a Fairytale",
-        "year": "2003"
-      },
-      {
-        "title": "Gladius",
-        "year": "2003"
-      },
-      {
-        "title": "The Twilight Zone",
-        "year": "2003"
-      },
-      {
-        "title": "Taken",
-        "year": "2002"
-      },
-      {
-        "title": "Scooby-Doo",
-        "year": "2002"
-      },
-      {
-        "title": "The Unsaid",
-        "year": "2001"
-      },
-      {
-        "title": "Legally Blonde",
-        "year": "2001"
-      },
-      {
-        "title": "Freaks and Geeks",
-        "year": "1999-2000"
-      },
-      {
-        "title": "The Prince and the Surfer",
-        "year": "1999"
-      },
-      {
-        "title": "The Lot",
-        "year": "1999"
-      },
-      {
-        "title": "Boy Meets World",
-        "year": "1998-1999"
-      },
-      {
-        "title": "Dying to Live",
-        "year": "1999"
-      },
-      {
-        "title": "Guys Like Us",
-        "year": "1998-1999"
-      },
-      {
-        "title": "Kenan & Kel",
-        "year": "1998"
-      },
-      {
-        "title": "Promised Land",
-        "year": "1998"
-      },
-      {
-        "title": "Strangeland",
-        "year": "1998"
-      },
-      {
-        "title": "Dead Man on Campus",
-        "year": "1998"
-      },
-      {
-        "title": "Step by Step",
-        "year": "1997"
-      },
-      {
-        "title": "Clueless",
-        "year": "1997"
-      },
-      {
-        "title": "Good Burger",
-        "year": "1997"
-      },
-      {
-        "title": "Pacific Palisades",
-        "year": "1997"
-      },
-      {
-        "title": "3rd Rock from the Sun",
-        "year": "1997"
-      },
-      {
-        "title": "Bone Chillers",
-        "year": "1996"
-      }
-    ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_UY317_CR7,0,214,317_AL_.jpg",
-    "actorName": "Linda Cardellini",
-    "power": 14,
-    "filmsCount": 69
   },
   {
     "films": [
@@ -23099,10 +23059,6 @@
     "films": [
       {
         "title": "Ant-Man and the Wasp",
-        "year": "2018"
-      },
-      {
-        "title": "Avengers: Infinity War",
         "year": "2018"
       },
       {
@@ -23532,324 +23488,256 @@
     ],
     "img": "https://ia.media-imdb.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_UY317_CR20,0,214,317_AL_.jpg",
     "actorName": "Paul Rudd",
-    "power": 22,
-    "filmsCount": 108
+    "power": 21,
+    "filmsCount": 107
   },
   {
     "films": [
       {
-        "title": "Dumbo",
-        "year": "2019"
+        "title": "Ant-Man and the Wasp",
+        "year": "2018"
       },
       {
-        "title": "American Assassin",
-        "year": "2017"
+        "title": "Animal World",
+        "year": "2018"
       },
       {
-        "title": "Spider-Man: Homecoming",
-        "year": "2017"
+        "title": "The Kominsky Method",
+        "year": "2018"
       },
       {
-        "title": "The Founder",
-        "year": "2016"
+        "title": "Unlocked",
+        "year": "2017/I"
       },
       {
-        "title": "Binky Nelson Unpacified",
+        "title": "Ant-Man",
         "year": "2015"
       },
       {
-        "title": "Spotlight",
-        "year": "2015/I"
-      },
-      {
-        "title": "Minions",
-        "year": "2015"
-      },
-      {
-        "title": "Prom Queen",
-        "year": "2015"
-      },
-      {
-        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "title": "Beyond the Reach",
         "year": "2014"
       },
       {
-        "title": "Need for Speed",
+        "title": "And So It Goes",
         "year": "2014"
       },
       {
-        "title": "RoboCop",
-        "year": "2014"
-      },
-      {
-        "title": "Clear History",
+        "title": "Last Vegas",
         "year": "2013"
       },
       {
-        "title": "Blindsided",
+        "title": "Behind the Candelabra",
         "year": "2013"
       },
       {
-        "title": "Call of Duty: Black Ops II",
-        "year": "2012"
-      },
-      {
-        "title": "Noah",
-        "year": "2012/III"
-      },
-      {
-        "title": "30 Rock",
+        "title": "Haywire",
         "year": "2011"
       },
       {
-        "title": "Toy Story Toons: Hawaiian Vacation",
+        "title": "Phineas and Ferb",
         "year": "2011"
       },
       {
-        "title": "The Other Guys",
+        "title": "Wall Street: Money Never Sleeps",
         "year": "2010"
       },
       {
-        "title": "Toy Story 3",
-        "year": "2010"
-      },
-      {
-        "title": "Cars Race-O-Rama",
+        "title": "Solitary Man",
         "year": "2009"
       },
       {
-        "title": "Post Grad",
+        "title": "Beyond a Reasonable Doubt",
         "year": "2009"
       },
       {
-        "title": "The Merry Gentleman",
-        "year": "2008"
+        "title": "Ghosts of Girlfriends Past",
+        "year": "2009"
       },
       {
-        "title": "The Company",
+        "title": "King of California",
         "year": "2007"
       },
       {
-        "title": "Tenacious D: Time Fixers",
+        "title": "You, Me and Dupree",
         "year": "2006"
       },
       {
-        "title": "The Last Time",
+        "title": "The Sentinel",
         "year": "2006"
       },
       {
-        "title": "Cars",
-        "year": "2006"
+        "title": "The In-Laws",
+        "year": "2003/I"
       },
       {
-        "title": "Cars",
-        "year": "2006"
-      },
-      {
-        "title": "Herbie Fully Loaded",
-        "year": "2005"
-      },
-      {
-        "title": "White Noise",
-        "year": "2005/I"
-      },
-      {
-        "title": "Game 6",
-        "year": "2005"
-      },
-      {
-        "title": "First Daughter",
-        "year": "2004"
-      },
-      {
-        "title": "Gary the Rat",
+        "title": "It Runs in the Family",
         "year": "2003"
       },
       {
-        "title": "King of the Hill",
+        "title": "Freedom: A History of Us",
         "year": "2003"
       },
       {
-        "title": "Quicksand",
-        "year": "2003"
-      },
-      {
-        "title": "Live from Baghdad",
+        "title": "Liberty's Kids: Est. 1776",
         "year": "2002"
       },
       {
-        "title": "Frasier",
+        "title": "Will & Grace",
         "year": "2002"
       },
       {
-        "title": "The Simpsons",
+        "title": "Don't Say a Word",
         "year": "2001"
       },
       {
-        "title": "A Shot at Glory",
+        "title": "One Night at McCool's",
+        "year": "2001"
+      },
+      {
+        "title": "Traffic",
         "year": "2000"
       },
       {
-        "title": "Jack Frost",
+        "title": "Wonder Boys",
+        "year": "2000"
+      },
+      {
+        "title": "A Perfect Murder",
         "year": "1998"
       },
       {
-        "title": "Out of Sight",
-        "year": "1998"
-      },
-      {
-        "title": "Desperate Measures",
-        "year": "1998"
-      },
-      {
-        "title": "Jackie Brown",
+        "title": "The Game",
         "year": "1997"
       },
       {
-        "title": "Inventing the Abbotts",
-        "year": "1997"
-      },
-      {
-        "title": "Multiplicity",
+        "title": "The Ghost and the Darkness",
         "year": "1996"
       },
       {
-        "title": "Speechless",
+        "title": "The American President",
+        "year": "1995"
+      },
+      {
+        "title": "Disclosure",
         "year": "1994"
       },
       {
-        "title": "The Paper",
-        "year": "1994"
-      },
-      {
-        "title": "My Life",
+        "title": "Falling Down",
         "year": "1993"
       },
       {
-        "title": "Much Ado About Nothing",
-        "year": "1993"
-      },
-      {
-        "title": "Porco Rosso",
+        "title": "Basic Instinct",
         "year": "1992"
       },
       {
-        "title": "Batman Returns",
+        "title": "Shining Through",
         "year": "1992"
       },
       {
-        "title": "One Good Cop",
-        "year": "1991"
-      },
-      {
-        "title": "Pacific Heights",
-        "year": "1990"
-      },
-      {
-        "title": "The Earth Day Special",
-        "year": "1990"
-      },
-      {
-        "title": "Batman",
+        "title": "The War of the Roses",
         "year": "1989"
       },
       {
-        "title": "The Dream Team",
+        "title": "Black Rain",
         "year": "1989"
       },
       {
-        "title": "Clean and Sober",
-        "year": "1988"
-      },
-      {
-        "title": "Beetlejuice",
-        "year": "1988"
-      },
-      {
-        "title": "She's Having a Baby",
-        "year": "1988"
-      },
-      {
-        "title": "The Squeeze",
+        "title": "Wall Street",
         "year": "1987"
       },
       {
-        "title": "Touch and Go",
-        "year": "1986"
+        "title": "Fatal Attraction",
+        "year": "1987"
       },
       {
-        "title": "Gung Ho",
-        "year": "1986"
+        "title": "A Chorus Line",
+        "year": "1985"
       },
       {
-        "title": "Johnny Dangerously",
+        "title": "The Jewel of the Nile",
+        "year": "1985"
+      },
+      {
+        "title": "Billy Ocean: When the Going Gets Tough, the Tough Get Going",
+        "year": "1985"
+      },
+      {
+        "title": "Romancing the Stone",
         "year": "1984"
       },
       {
-        "title": "Mr. Mom",
+        "title": "The Star Chamber",
         "year": "1983"
       },
       {
-        "title": "Night Shift",
-        "year": "1982"
+        "title": "It's My Turn",
+        "year": "1980"
       },
       {
-        "title": "Report to Murphy",
-        "year": "1982"
-      },
-      {
-        "title": "The Mary Tyler Moore Hour",
+        "title": "Running",
         "year": "1979"
       },
       {
-        "title": "Studs Lonigan",
+        "title": "The China Syndrome",
         "year": "1979"
       },
       {
-        "title": "Working Stiffs",
-        "year": "1979"
-      },
-      {
-        "title": "A Different Approach",
+        "title": "Coma",
         "year": "1978"
       },
       {
-        "title": "Family",
-        "year": "1978"
+        "title": "The Streets of San Francisco",
+        "year": "1972-1976"
       },
       {
-        "title": "Mary",
-        "year": "1978"
+        "title": "Napoleon and Samantha",
+        "year": "1972"
       },
       {
-        "title": "Rabbit Test",
-        "year": "1978"
+        "title": "When Michael Calls",
+        "year": "1972"
       },
       {
-        "title": "The Tony Randall Show",
-        "year": "1978"
+        "title": "American Heritage: The Cause of Liberty",
+        "year": "1972"
       },
       {
-        "title": "All's Fair",
-        "year": "1976-1977"
+        "title": "American Revolution: The Impossible War",
+        "year": "1972"
       },
       {
-        "title": "Maude",
-        "year": "1977"
+        "title": "Medical Center",
+        "year": "1971"
       },
       {
-        "title": "Mary Hartman, Mary Hartman",
-        "year": "1977"
+        "title": "Summertree",
+        "year": "1971"
       },
       {
-        "title": "Mister Rogers' Neighborhood",
-        "year": "1974-1975"
+        "title": "The F.B.I.",
+        "year": "1971"
+      },
+      {
+        "title": "Adam at Six A.M.",
+        "year": "1970"
+      },
+      {
+        "title": "Hail, Hero!",
+        "year": "1969"
+      },
+      {
+        "title": "CBS Playhouse",
+        "year": "1969"
+      },
+      {
+        "title": "Cast a Giant Shadow",
+        "year": "1966"
       }
     ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_UY317_CR21,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTQ3NzMzOTQ3MF5BMl5BanBnXkFtZTcwOTE0MzY1Mw@@._V1_UY317_CR13,0,214,317_AL_.jpg",
     "actorName": "Michael Douglas",
-    "power": 15,
-    "filmsCount": 77
+    "power": 12,
+    "filmsCount": 60
   },
   {
     "films": [
@@ -24590,6 +24478,10 @@
         "year": ""
       },
       {
+        "title": "Archer",
+        "year": "2009-2018"
+      },
+      {
         "title": "American Dad!",
         "year": "2017-2018"
       },
@@ -24640,10 +24532,6 @@
       {
         "title": "War for the Planet of the Apes",
         "year": "2017"
-      },
-      {
-        "title": "Archer",
-        "year": "2009-2017"
       },
       {
         "title": "Animals.",
@@ -26066,12 +25954,12 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Uncharted",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "The Current War",
@@ -26794,10 +26682,6 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Patrick Melrose",
         "year": "2018"
       },
@@ -26816,6 +26700,10 @@
       {
         "title": "The Man in the Rockefeller Suit",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Thor: Ragnarok",
@@ -27430,6 +27318,298 @@
   {
     "films": [
       {
+        "title": "Gemini Man",
+        "year": "2019"
+      },
+      {
+        "title": "Deadly Class",
+        "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
+      },
+      {
+        "title": "Annihilation",
+        "year": "2018"
+      },
+      {
+        "title": "Philip K. Dick's Electric Dreams",
+        "year": "2017"
+      },
+      {
+        "title": "2036: Nexus Dawn",
+        "year": "2017"
+      },
+      {
+        "title": "Prey",
+        "year": "2017"
+      },
+      {
+        "title": "Black Mirror",
+        "year": "2016"
+      },
+      {
+        "title": "Doctor Strange",
+        "year": "2016"
+      },
+      {
+        "title": "Marco Polo",
+        "year": "2014-2016"
+      },
+      {
+        "title": "Marco Polo: One Hundred Eyes",
+        "year": "2015"
+      },
+      {
+        "title": "The Martian",
+        "year": "2015"
+      },
+      {
+        "title": "Prey",
+        "year": "2014"
+      },
+      {
+        "title": "The Wrong Mans",
+        "year": "2013"
+      },
+      {
+        "title": "Top Boy",
+        "year": "2011-2013"
+      },
+      {
+        "title": "Kick-Ass 2",
+        "year": "2013"
+      },
+      {
+        "title": "Run",
+        "year": "2013"
+      },
+      {
+        "title": "Words of Everest",
+        "year": "2013"
+      },
+      {
+        "title": "Redemption",
+        "year": "2013/I"
+      },
+      {
+        "title": "Prometheus",
+        "year": "2012/I"
+      },
+      {
+        "title": "Painkiller",
+        "year": "2011"
+      },
+      {
+        "title": "Law & Order: UK",
+        "year": "2010-2011"
+      },
+      {
+        "title": "Johnny English Reborn",
+        "year": "2011"
+      },
+      {
+        "title": "The Lady",
+        "year": "2011"
+      },
+      {
+        "title": "Covert Affairs",
+        "year": "2011"
+      },
+      {
+        "title": "The Flying Machine",
+        "year": "2011"
+      },
+      {
+        "title": "MI-5",
+        "year": "2010"
+      },
+      {
+        "title": "Better Life",
+        "year": "2010"
+      },
+      {
+        "title": "The IT Crowd",
+        "year": "2010"
+      },
+      {
+        "title": "Shanghai",
+        "year": "2010"
+      },
+      {
+        "title": "Spirit Warriors",
+        "year": "2010"
+      },
+      {
+        "title": "My Dad the Communist",
+        "year": "2009"
+      },
+      {
+        "title": "Moon",
+        "year": "2009"
+      },
+      {
+        "title": "The Heir Apparent: Largo Winch",
+        "year": "2008"
+      },
+      {
+        "title": "Slapper",
+        "year": "2008"
+      },
+      {
+        "title": "Life:XP",
+        "year": "2007"
+      },
+      {
+        "title": "The Peter Serafinowicz Show",
+        "year": "2007"
+      },
+      {
+        "title": "Frankenstein",
+        "year": "2007"
+      },
+      {
+        "title": "Grow Your Own",
+        "year": "2007"
+      },
+      {
+        "title": "Sunshine",
+        "year": "2007"
+      },
+      {
+        "title": "Hallo Panda",
+        "year": "2006"
+      },
+      {
+        "title": "Eleventh Hour",
+        "year": "2006"
+      },
+      {
+        "title": "Mr John",
+        "year": "2005"
+      },
+      {
+        "title": "Days of Darkness",
+        "year": "2005"
+      },
+      {
+        "title": "Tristram Shandy: A Cock and Bull Story",
+        "year": "2005"
+      },
+      {
+        "title": "Look Around You",
+        "year": "2002-2005"
+      },
+      {
+        "title": "On a Clear Day",
+        "year": "2005"
+      },
+      {
+        "title": "15 Storeys High",
+        "year": "2002-2004"
+      },
+      {
+        "title": "Code 46",
+        "year": "2003"
+      },
+      {
+        "title": "State of Play",
+        "year": "2003"
+      },
+      {
+        "title": "tlc",
+        "year": "2002"
+      },
+      {
+        "title": "The Bill",
+        "year": "1997-2002"
+      },
+      {
+        "title": "Dirty Pretty Things",
+        "year": "2002"
+      },
+      {
+        "title": "Spy Game",
+        "year": "2001"
+      },
+      {
+        "title": "Double Happiness",
+        "year": "2001"
+      },
+      {
+        "title": "Kiss Kiss (Bang Bang)",
+        "year": "2001"
+      },
+      {
+        "title": "Wit",
+        "year": "2001"
+      },
+      {
+        "title": "Arabian Nights",
+        "year": "2000"
+      },
+      {
+        "title": "Supply & Demand",
+        "year": "1998"
+      },
+      {
+        "title": "Breakout",
+        "year": "1997"
+      },
+      {
+        "title": "Supply & Demand",
+        "year": "1997"
+      },
+      {
+        "title": "Cracker",
+        "year": "1996"
+      },
+      {
+        "title": "Pie in the Sky",
+        "year": "1996"
+      },
+      {
+        "title": "Out of the Blue",
+        "year": "1996"
+      },
+      {
+        "title": "Detonator II: Night Watch",
+        "year": "1995"
+      },
+      {
+        "title": "Cardiac Arrest",
+        "year": "1995"
+      },
+      {
+        "title": "Hearts and Minds",
+        "year": "1995"
+      },
+      {
+        "title": "Frank Stubbs",
+        "year": "1994"
+      },
+      {
+        "title": "The Chief",
+        "year": "1994"
+      },
+      {
+        "title": "Last of the Summer Wine",
+        "year": "1993"
+      },
+      {
+        "title": "Screenplay",
+        "year": "1992"
+      }
+    ],
+    "img": "https://ia.media-imdb.com/images/M/MV5BYmY4YjJlZWMtNzgzNC00MzNlLWFkNTUtZmQ4NjNlNjNlOWQ2XkEyXkFqcGdeQXVyMTgyMzY5MTk@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Benedict Wong",
+    "power": 14,
+    "filmsCount": 71
+  },
+  {
+    "films": [
+      {
         "title": "Chaos Walking",
         "year": "2019"
       },
@@ -27648,6 +27828,10 @@
       {
         "title": "Suspiria",
         "year": "2018"
+      },
+      {
+        "title": "The Personal History of David Copperfield",
+        "year": ""
       },
       {
         "title": "Isle of Dogs",
@@ -27949,7 +28133,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_UY317_CR19,0,214,317_AL_.jpg",
     "actorName": "Tilda Swinton",
     "power": 15,
-    "filmsCount": 75
+    "filmsCount": 76
   },
   {
     "films": [
@@ -28274,6 +28458,10 @@
         "year": "2005"
       },
       {
+        "title": "Catwoman: Deleted Scenes",
+        "year": "2004"
+      },
+      {
         "title": "Catwoman",
         "year": "2004"
       },
@@ -28409,7 +28597,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_UY317_CR14,0,214,317_AL_.jpg",
     "actorName": "Benjamin Bratt",
     "power": 13,
-    "filmsCount": 64
+    "filmsCount": 65
   },
   {
     "films": [
@@ -28422,12 +28610,12 @@
         "year": "2018"
       },
       {
-        "title": "The Debt Collector",
-        "year": "2018"
-      },
-      {
         "title": "Triple Threat",
         "year": ""
+      },
+      {
+        "title": "The Debt Collector",
+        "year": "2018"
       },
       {
         "title": "Accident Man",
@@ -28730,10 +28918,6 @@
         "year": "2020"
       },
       {
-        "title": "Hacker's Game Redux",
-        "year": "2018"
-      },
-      {
         "title": "Avengers: Infinity War",
         "year": "2018"
       },
@@ -28837,7 +29021,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTkzNjE5MzY5M15BMl5BanBnXkFtZTgwMDI5ODMxODE@._V1_UY317_CR121,0,214,317_AL_.jpg",
     "actorName": "Pom Klementieff",
     "power": 5,
-    "filmsCount": 27
+    "filmsCount": 26
   },
   {
     "films": [
@@ -29146,7 +29330,7 @@
         "year": "1971"
       },
       {
-        "title": "Pigeons",
+        "title": "The Sidelong Glances of a Pigeon Kicker",
         "year": "1970"
       },
       {
@@ -29938,6 +30122,10 @@
         "year": "2015"
       },
       {
+        "title": "Bobby Brackins: My Jam",
+        "year": "2015"
+      },
+      {
         "title": "Zapped",
         "year": "2014"
       },
@@ -30021,7 +30209,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_UY317_CR12,0,214,317_AL_.jpg",
     "actorName": "Zendaya",
     "power": 7,
-    "filmsCount": 36
+    "filmsCount": 37
   },
   {
     "films": [
@@ -30031,6 +30219,10 @@
       },
       {
         "title": "Solo: A Star Wars Story",
+        "year": "2018"
+      },
+      {
+        "title": "Saturday Night Live",
         "year": "2018"
       },
       {
@@ -30356,8 +30548,8 @@
     ],
     "img": "https://ia.media-imdb.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Donald Glover",
-    "power": 16,
-    "filmsCount": 82
+    "power": 17,
+    "filmsCount": 83
   },
   {
     "films": [
@@ -30374,10 +30566,6 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Banana Split",
         "year": "2018"
       },
@@ -30388,6 +30576,10 @@
       {
         "title": "Don Quixote",
         "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "Blood Fest",
@@ -30746,11 +30938,11 @@
         "year": "2018/II"
       },
       {
-        "title": "Hotel Artemis",
+        "title": "Jurassic World Evolution",
         "year": "2018"
       },
       {
-        "title": "Jurassic World Evolution",
+        "title": "Hotel Artemis",
         "year": "2018"
       },
       {
@@ -31246,12 +31438,12 @@
         "year": "2018"
       },
       {
-        "title": "Little Woods",
-        "year": "2018"
-      },
-      {
         "title": "Westworld",
         "year": "2016-2018"
+      },
+      {
+        "title": "Little Woods",
+        "year": "2018"
       },
       {
         "title": "Portlandia",
@@ -31634,16 +31826,16 @@
   {
     "films": [
       {
+        "title": "Just Mercy",
+        "year": "2020"
+      },
+      {
         "title": "Creed II",
         "year": "2018"
       },
       {
         "title": "Fahrenheit 451",
         "year": "2018"
-      },
-      {
-        "title": "Just Mercy",
-        "year": ""
       },
       {
         "title": "Raising Dion",
@@ -32154,94 +32346,6 @@
         "year": "2018"
       },
       {
-        "title": "Drake: Nice for What",
-        "year": "2018"
-      },
-      {
-        "title": "Ready Player One",
-        "year": "2018"
-      },
-      {
-        "title": "Black Panther",
-        "year": "2018"
-      },
-      {
-        "title": "The Commuter",
-        "year": "2018"
-      },
-      {
-        "title": "Black Mirror",
-        "year": "2017"
-      },
-      {
-        "title": "Cake",
-        "year": "2017/II"
-      },
-      {
-        "title": "Humans",
-        "year": "2016"
-      },
-      {
-        "title": "Doctor Who",
-        "year": "2015"
-      },
-      {
-        "title": "Urban Hymn",
-        "year": "2015"
-      },
-      {
-        "title": "Cucumber",
-        "year": "2015"
-      },
-      {
-        "title": "Banana",
-        "year": "2015"
-      },
-      {
-        "title": "Chasing Shadows",
-        "year": "2014"
-      },
-      {
-        "title": "Glasgow Girls",
-        "year": "2014"
-      },
-      {
-        "title": "Coming Up",
-        "year": "2013"
-      },
-      {
-        "title": "My Brother the Devil",
-        "year": "2012"
-      },
-      {
-        "title": "Top Boy",
-        "year": "2011"
-      },
-      {
-        "title": "Victim",
-        "year": "2011/I"
-      },
-      {
-        "title": "Random",
-        "year": "2011"
-      },
-      {
-        "title": "Holby City",
-        "year": "2011"
-      }
-    ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BMjIyMzgxMzc5N15BMl5BanBnXkFtZTgwNDg3NzYzMDI@._V1_UY317_CR47,0,214,317_AL_.jpg",
-    "actorName": "Letitia Wright",
-    "power": 4,
-    "filmsCount": 20
-  },
-  {
-    "films": [
-      {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "Black Panther",
         "year": "2018"
       },
@@ -32266,13 +32370,17 @@
         "year": "2014"
       }
     ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BN2I4Mzg3MWQtM2JlNy00ODQxLThhMGItZTFlNWFhOTIzNzY4XkEyXkFqcGdeQXVyNTEwNTA1Njg@._V1_UY317_CR127,0,214,317_AL_.jpg",
+    "img": "https://ia.media-imdb.com/images/M/MV5BMzc5ZjRhNTItMTM5MS00ZDIxLTk4MzYtYzZkZDBhMjE1ZjMwXkEyXkFqcGdeQXVyNTEwNTA1Njg@._V1_UY317_CR79,0,214,317_AL_.jpg",
     "actorName": "Winston Duke",
     "power": 1,
     "filmsCount": 7
   },
   {
     "films": [
+      {
+        "title": "The Angry Birds Movie 2",
+        "year": "2019"
+      },
       {
         "title": "Magnetic Plasma for mass(es) Enlightenment",
         "year": "2018"
@@ -32469,16 +32577,12 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BZmEzNmExM2ItNzg5Zi00NGRjLWI1NTEtMmQ5MGMwNjFlNWFhL2ltYWdlXkEyXkFqcGdeQXVyMTM0MzI5Nzc@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Sterling K. Brown",
     "power": 10,
-    "filmsCount": 48
+    "filmsCount": 49
   },
   {
     "films": [
       {
         "title": "Mission: Impossible - Fallout",
-        "year": "2018"
-      },
-      {
-        "title": "Avengers: Infinity War",
         "year": "2018"
       },
       {
@@ -32706,6 +32810,10 @@
         "year": "1992"
       },
       {
+        "title": "The Jacksons: An American Dream",
+        "year": "1992"
+      },
+      {
         "title": "Innocent Blood",
         "year": "1992"
       },
@@ -32719,10 +32827,6 @@
       },
       {
         "title": "Nightmare Cafe",
-        "year": "1992"
-      },
-      {
-        "title": "The Jacksons: An American Dream",
         "year": "1992"
       },
       {
@@ -32841,7 +32945,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMjI4OTQ1NTcxOF5BMl5BanBnXkFtZTcwOTc1NTU0OQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Angela Bassett",
     "power": 18,
-    "filmsCount": 91
+    "filmsCount": 90
   },
   {
     "films": [
@@ -32859,6 +32963,10 @@
       },
       {
         "title": "LAbyrinth",
+        "year": ""
+      },
+      {
+        "title": "The Godfather of Harlem",
         "year": ""
       },
       {
@@ -33341,7 +33449,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTQzMDI3NTg2OV5BMl5BanBnXkFtZTcwNTgwMzg5Mg@@._V1_UY317_CR13,0,214,317_AL_.jpg",
     "actorName": "Forest Whitaker",
     "power": 25,
-    "filmsCount": 123
+    "filmsCount": 124
   },
   {
     "films": [
@@ -33358,12 +33466,16 @@
         "year": "2018"
       },
       {
-        "title": "Avengers: Infinity War",
-        "year": "2018"
-      },
-      {
         "title": "George and Tammy",
         "year": ""
+      },
+      {
+        "title": "X-Force",
+        "year": ""
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "year": "2018"
       },
       {
         "title": "The Legacy of a Whitetail Deer Hunter",
@@ -33616,8 +33728,8 @@
     ],
     "img": "https://ia.media-imdb.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg",
     "actorName": "Josh Brolin",
-    "power": 13,
-    "filmsCount": 67
+    "power": 14,
+    "filmsCount": 68
   },
   {
     "films": [
@@ -34298,286 +34410,6 @@
   {
     "films": [
       {
-        "title": "Ant-Man and the Wasp",
-        "year": "2018"
-      },
-      {
-        "title": "Above Suspicion",
-        "year": "2018"
-      },
-      {
-        "title": "Trial by Fire",
-        "year": "2018/I"
-      },
-      {
-        "title": "Only",
-        "year": ""
-      },
-      {
-        "title": "The Dirt",
-        "year": ""
-      },
-      {
-        "title": "The Walking Dead",
-        "year": "2016-2018"
-      },
-      {
-        "title": "Black Lightning",
-        "year": "2018"
-      },
-      {
-        "title": "Love, Simon",
-        "year": "2018"
-      },
-      {
-        "title": "Game Night",
-        "year": "2018/I"
-      },
-      {
-        "title": "I, Tonya",
-        "year": "2017"
-      },
-      {
-        "title": "The Leisure Seeker",
-        "year": "2017"
-      },
-      {
-        "title": "Vengeance: A Love Story",
-        "year": "2017"
-      },
-      {
-        "title": "Rectify",
-        "year": "2016"
-      },
-      {
-        "title": "Office Christmas Party",
-        "year": "2016"
-      },
-      {
-        "title": "Quarry",
-        "year": "2016"
-      },
-      {
-        "title": "Independence Day: Resurgence",
-        "year": "2016"
-      },
-      {
-        "title": "Cell",
-        "year": "2016/I"
-      },
-      {
-        "title": "Nashville",
-        "year": "2013-2016"
-      },
-      {
-        "title": "Game of Silence",
-        "year": "2016"
-      },
-      {
-        "title": "Term Life",
-        "year": "2016"
-      },
-      {
-        "title": "The Book of Love",
-        "year": "2016"
-      },
-      {
-        "title": "Bleed",
-        "year": "2016/I"
-      },
-      {
-        "title": "Mercy Street",
-        "year": "2016"
-      },
-      {
-        "title": "Dirty Grandpa",
-        "year": "2016"
-      },
-      {
-        "title": "The Jury",
-        "year": "2016"
-      },
-      {
-        "title": "The House Sitter",
-        "year": "2015"
-      },
-      {
-        "title": "Extraction",
-        "year": "2015/II"
-      },
-      {
-        "title": "Alvin and the Chipmunks: The Road Chip",
-        "year": "2015"
-      },
-      {
-        "title": "Heist",
-        "year": "2015/III"
-      },
-      {
-        "title": "It Plays Like Love",
-        "year": "2015"
-      },
-      {
-        "title": "Terminator Genisys",
-        "year": "2015"
-      },
-      {
-        "title": "Intruders",
-        "year": "2015"
-      },
-      {
-        "title": "The List",
-        "year": "2015/II"
-      },
-      {
-        "title": "Hindsight",
-        "year": "2015"
-      },
-      {
-        "title": "Female Pervert",
-        "year": "2015"
-      },
-      {
-        "title": "Last Shift",
-        "year": "2014/I"
-      },
-      {
-        "title": "American Hell",
-        "year": "2014"
-      },
-      {
-        "title": "The Good Lie",
-        "year": "2014"
-      },
-      {
-        "title": "The Lengths",
-        "year": "2014"
-      },
-      {
-        "title": "Drop Dead Diva",
-        "year": "2014"
-      },
-      {
-        "title": "Million Dollar Arm",
-        "year": "2014"
-      },
-      {
-        "title": "Being Mary Jane",
-        "year": "2014"
-      },
-      {
-        "title": "HR",
-        "year": "2014"
-      },
-      {
-        "title": "Crackerjack",
-        "year": "2013"
-      },
-      {
-        "title": "Listen",
-        "year": "2013/III"
-      },
-      {
-        "title": "We're the Millers",
-        "year": "2013"
-      },
-      {
-        "title": "Swamp Murders",
-        "year": "2013"
-      },
-      {
-        "title": "Long Live the King",
-        "year": "2013"
-      },
-      {
-        "title": "Stuck",
-        "year": "2013/I"
-      },
-      {
-        "title": "Faked Out",
-        "year": "2013"
-      },
-      {
-        "title": "Passing Through Traveling Down",
-        "year": "2012"
-      },
-      {
-        "title": "The Brewmaster",
-        "year": "2012"
-      },
-      {
-        "title": "The Vampire Diaries",
-        "year": "2012"
-      },
-      {
-        "title": "The Game",
-        "year": "2012"
-      },
-      {
-        "title": "Shelter",
-        "year": "2012"
-      },
-      {
-        "title": "10 and 2",
-        "year": "2011"
-      },
-      {
-        "title": "No Matter What",
-        "year": "2011"
-      },
-      {
-        "title": "Balls",
-        "year": "2010"
-      },
-      {
-        "title": "Andy's Spick-N-Span",
-        "year": "2009"
-      },
-      {
-        "title": "Milhous the King",
-        "year": "2009"
-      },
-      {
-        "title": "Squatter",
-        "year": "2009"
-      },
-      {
-        "title": "S.P.A.G.H.E.T.T.-1",
-        "year": "2009"
-      },
-      {
-        "title": "Precious Cargo",
-        "year": "2008"
-      },
-      {
-        "title": "Fashionistas",
-        "year": "2008"
-      },
-      {
-        "title": "Heartburn",
-        "year": "2007"
-      },
-      {
-        "title": "Kirksdale",
-        "year": "2007"
-      },
-      {
-        "title": "The Caress of the Creature",
-        "year": "2007"
-      },
-      {
-        "title": "The Problem with Fiber Optics",
-        "year": "2005"
-      }
-    ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BYzg1M2ZjNjgtNjg2YS00YjkzLWI4OWEtNjBiMDVkMDkwNTE1XkEyXkFqcGdeQXVyMjQwNTc4MTk@._V1_UX214_CR0,0,214,317_AL_.jpg",
-    "actorName": "Joshua Mikel",
-    "power": 14,
-    "filmsCount": 68
-  },
-  {
-    "films": [
-      {
         "title": "Where'd You Go, Bernadette",
         "year": "2018"
       },
@@ -35022,6 +34854,242 @@
   {
     "films": [
       {
+        "title": "Untitled Avengers Movie",
+        "year": "2019"
+      },
+      {
+        "title": "Captain Marvel",
+        "year": "2019"
+      },
+      {
+        "title": "Jay Z: Family Feud ft. Beyoncé",
+        "year": "2018"
+      },
+      {
+        "title": "Basmati Blues",
+        "year": "2017"
+      },
+      {
+        "title": "Unicorn Store",
+        "year": "2017"
+      },
+      {
+        "title": "The Glass Castle",
+        "year": "2017"
+      },
+      {
+        "title": "Why You've Never Met the 4th Haim Sister",
+        "year": "2017"
+      },
+      {
+        "title": "Kong: Skull Island",
+        "year": "2017"
+      },
+      {
+        "title": "Free Fire",
+        "year": "2016"
+      },
+      {
+        "title": "Room",
+        "year": "2015/I"
+      },
+      {
+        "title": "Trainwreck",
+        "year": "2015"
+      },
+      {
+        "title": "Digging for Fire",
+        "year": "2015"
+      },
+      {
+        "title": "The Gambler",
+        "year": "2014/III"
+      },
+      {
+        "title": "Jenny Lewis: Just One of the Guys",
+        "year": "2014"
+      },
+      {
+        "title": "Community",
+        "year": "2013-2014"
+      },
+      {
+        "title": "Kroll Show",
+        "year": "2013"
+      },
+      {
+        "title": "Bitter Orange",
+        "year": "2013"
+      },
+      {
+        "title": "Short Term 12",
+        "year": "2013"
+      },
+      {
+        "title": "Weighting",
+        "year": "2013"
+      },
+      {
+        "title": "Don Jon",
+        "year": "2013"
+      },
+      {
+        "title": "The Spectacular Now",
+        "year": "2013"
+      },
+      {
+        "title": "Entry Level",
+        "year": "2012"
+      },
+      {
+        "title": "NTSF:SD:SUV",
+        "year": "2012"
+      },
+      {
+        "title": "21 Jump Street",
+        "year": "2012"
+      },
+      {
+        "title": "The League",
+        "year": "2011"
+      },
+      {
+        "title": "Treatment",
+        "year": "2011"
+      },
+      {
+        "title": "Rampart",
+        "year": "2011"
+      },
+      {
+        "title": "United States of Tara",
+        "year": "2009-2011"
+      },
+      {
+        "title": "Smorgasbord",
+        "year": "2011"
+      },
+      {
+        "title": "The Trouble with Bliss",
+        "year": "2011"
+      },
+      {
+        "title": "Brie Larson: Black Sheep",
+        "year": "2010"
+      },
+      {
+        "title": "Scott Pilgrim vs. the World",
+        "year": "2010"
+      },
+      {
+        "title": "Greenberg",
+        "year": "2010"
+      },
+      {
+        "title": "House Broken",
+        "year": "2009"
+      },
+      {
+        "title": "Tanner Hall",
+        "year": "2009"
+      },
+      {
+        "title": "Just Peck",
+        "year": "2009"
+      },
+      {
+        "title": "The Burg",
+        "year": "2009"
+      },
+      {
+        "title": "The Babysitter",
+        "year": "2008"
+      },
+      {
+        "title": "Ghost Whisperer",
+        "year": "2008"
+      },
+      {
+        "title": "Remember the Daze",
+        "year": "2007"
+      },
+      {
+        "title": "Hoot",
+        "year": "2006"
+      },
+      {
+        "title": "Farce of the Penguins",
+        "year": "2006"
+      },
+      {
+        "title": "Brie Larson: Hope Has Wings",
+        "year": "2005"
+      },
+      {
+        "title": "Brie Larson: She Said",
+        "year": "2005"
+      },
+      {
+        "title": "Sleepover",
+        "year": "2004"
+      },
+      {
+        "title": "13 Going on 30",
+        "year": "2004"
+      },
+      {
+        "title": "Hope & Faith",
+        "year": "2003"
+      },
+      {
+        "title": "Right on Track",
+        "year": "2003"
+      },
+      {
+        "title": "Raising Dad",
+        "year": "2001-2002"
+      },
+      {
+        "title": "Madison",
+        "year": "2001"
+      },
+      {
+        "title": "Then Came You",
+        "year": "2000"
+      },
+      {
+        "title": "Schimmel",
+        "year": "2000"
+      },
+      {
+        "title": "Special Delivery",
+        "year": "1999/I"
+      },
+      {
+        "title": "Popular",
+        "year": "1999"
+      },
+      {
+        "title": "Touched by an Angel",
+        "year": "1999"
+      },
+      {
+        "title": "To Have & to Hold",
+        "year": "1998"
+      },
+      {
+        "title": "The Tonight Show with Jay Leno",
+        "year": "1998"
+      }
+    ],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg",
+    "actorName": "Brie Larson",
+    "power": 11,
+    "filmsCount": 57
+  },
+  {
+    "films": [
+      {
         "title": "Captain Marvel",
         "year": "2019"
       },
@@ -35030,15 +35098,15 @@
         "year": "2018/I"
       },
       {
-        "title": "Untogether",
-        "year": "2018"
-      },
-      {
         "title": "Squadron 42",
         "year": "2018"
       },
       {
         "title": "The Land of Steady Habits",
+        "year": "2018"
+      },
+      {
+        "title": "Untogether",
         "year": "2018"
       },
       {
@@ -35338,242 +35406,6 @@
   {
     "films": [
       {
-        "title": "Untitled Avengers Movie",
-        "year": "2019"
-      },
-      {
-        "title": "Captain Marvel",
-        "year": "2019"
-      },
-      {
-        "title": "Jay Z: Family Feud ft. Beyoncé",
-        "year": "2018"
-      },
-      {
-        "title": "Basmati Blues",
-        "year": "2017"
-      },
-      {
-        "title": "Unicorn Store",
-        "year": "2017"
-      },
-      {
-        "title": "The Glass Castle",
-        "year": "2017"
-      },
-      {
-        "title": "Why You've Never Met the 4th Haim Sister",
-        "year": "2017"
-      },
-      {
-        "title": "Kong: Skull Island",
-        "year": "2017"
-      },
-      {
-        "title": "Free Fire",
-        "year": "2016"
-      },
-      {
-        "title": "Room",
-        "year": "2015/I"
-      },
-      {
-        "title": "Trainwreck",
-        "year": "2015"
-      },
-      {
-        "title": "Digging for Fire",
-        "year": "2015"
-      },
-      {
-        "title": "The Gambler",
-        "year": "2014/III"
-      },
-      {
-        "title": "Jenny Lewis: Just One of the Guys",
-        "year": "2014"
-      },
-      {
-        "title": "Community",
-        "year": "2013-2014"
-      },
-      {
-        "title": "Kroll Show",
-        "year": "2013"
-      },
-      {
-        "title": "Bitter Orange",
-        "year": "2013"
-      },
-      {
-        "title": "Short Term 12",
-        "year": "2013"
-      },
-      {
-        "title": "Weighting",
-        "year": "2013"
-      },
-      {
-        "title": "Don Jon",
-        "year": "2013"
-      },
-      {
-        "title": "The Spectacular Now",
-        "year": "2013"
-      },
-      {
-        "title": "Entry Level",
-        "year": "2012"
-      },
-      {
-        "title": "NTSF:SD:SUV",
-        "year": "2012"
-      },
-      {
-        "title": "21 Jump Street",
-        "year": "2012"
-      },
-      {
-        "title": "The League",
-        "year": "2011"
-      },
-      {
-        "title": "Treatment",
-        "year": "2011"
-      },
-      {
-        "title": "Rampart",
-        "year": "2011"
-      },
-      {
-        "title": "United States of Tara",
-        "year": "2009-2011"
-      },
-      {
-        "title": "Smorgasbord",
-        "year": "2011"
-      },
-      {
-        "title": "The Trouble with Bliss",
-        "year": "2011"
-      },
-      {
-        "title": "Brie Larson: Black Sheep",
-        "year": "2010"
-      },
-      {
-        "title": "Scott Pilgrim vs. the World",
-        "year": "2010"
-      },
-      {
-        "title": "Greenberg",
-        "year": "2010"
-      },
-      {
-        "title": "House Broken",
-        "year": "2009"
-      },
-      {
-        "title": "Tanner Hall",
-        "year": "2009"
-      },
-      {
-        "title": "Just Peck",
-        "year": "2009"
-      },
-      {
-        "title": "The Burg",
-        "year": "2009"
-      },
-      {
-        "title": "The Babysitter",
-        "year": "2008"
-      },
-      {
-        "title": "Ghost Whisperer",
-        "year": "2008"
-      },
-      {
-        "title": "Remember the Daze",
-        "year": "2007"
-      },
-      {
-        "title": "Hoot",
-        "year": "2006"
-      },
-      {
-        "title": "Farce of the Penguins",
-        "year": "2006"
-      },
-      {
-        "title": "Brie Larson: Hope Has Wings",
-        "year": "2005"
-      },
-      {
-        "title": "Brie Larson: She Said",
-        "year": "2005"
-      },
-      {
-        "title": "Sleepover",
-        "year": "2004"
-      },
-      {
-        "title": "13 Going on 30",
-        "year": "2004"
-      },
-      {
-        "title": "Hope & Faith",
-        "year": "2003"
-      },
-      {
-        "title": "Right on Track",
-        "year": "2003"
-      },
-      {
-        "title": "Raising Dad",
-        "year": "2001-2002"
-      },
-      {
-        "title": "Madison",
-        "year": "2001"
-      },
-      {
-        "title": "Then Came You",
-        "year": "2000"
-      },
-      {
-        "title": "Schimmel",
-        "year": "2000"
-      },
-      {
-        "title": "Special Delivery",
-        "year": "1999/I"
-      },
-      {
-        "title": "Popular",
-        "year": "1999"
-      },
-      {
-        "title": "Touched by an Angel",
-        "year": "1999"
-      },
-      {
-        "title": "To Have & to Hold",
-        "year": "1998"
-      },
-      {
-        "title": "The Tonight Show with Jay Leno",
-        "year": "1998"
-      }
-    ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BMjExODkxODU3NF5BMl5BanBnXkFtZTgwNTM0MTk3NjE@._V1_UY317_CR7,0,214,317_AL_.jpg",
-    "actorName": "Brie Larson",
-    "power": 11,
-    "filmsCount": 57
-  },
-  {
-    "films": [
-      {
         "title": "Captain Marvel",
         "year": "2019"
       },
@@ -35595,6 +35427,10 @@
       },
       {
         "title": "Sherlock Holmes 3",
+        "year": ""
+      },
+      {
+        "title": "The Nest",
         "year": ""
       },
       {
@@ -35857,7 +35693,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_UY317_CR6,0,214,317_AL_.jpg",
     "actorName": "Jude Law",
     "power": 14,
-    "filmsCount": 70
+    "filmsCount": 71
   },
   {
     "films": [
@@ -35871,6 +35707,10 @@
       },
       {
         "title": "The Bad Seed",
+        "year": ""
+      },
+      {
+        "title": "Troupe Zero",
         "year": ""
       },
       {
@@ -36045,7 +35885,7 @@
     "img": "https://ia.media-imdb.com/images/M/MV5BNTY5NDJmODUtNzNhMi00ZTYyLWI0NDEtYTc5ZGUyNjEwMTgxXkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_UY317_CR4,0,214,317_AL_.jpg",
     "actorName": "Mckenna Grace",
     "power": 9,
-    "filmsCount": 45
+    "filmsCount": 46
   },
   {
     "films": [
@@ -36210,85 +36050,201 @@
         "year": "2019"
       },
       {
-        "title": "For Love or Money",
+        "title": "Extracurricular Activities",
         "year": "2018"
       },
       {
-        "title": "Mute",
-        "year": "2018/II"
+        "title": "The War with Grandpa",
+        "year": ""
       },
       {
-        "title": "Spivak",
+        "title": "Family Blood",
         "year": "2018"
       },
       {
-        "title": "Mass Effect: Andromeda",
+        "title": "Every Day",
+        "year": "2018"
+      },
+      {
+        "title": "Kevin (Probably) Saves the World",
         "year": "2017"
       },
       {
-        "title": "Warcraft: The Beginning",
-        "year": "2016"
+        "title": "American Dad!",
+        "year": "2017"
       },
       {
-        "title": "Second Chance",
-        "year": "2016"
+        "title": "Family Guy",
+        "year": "2010-2017"
       },
       {
-        "title": "Hot Pursuit",
-        "year": "2015"
+        "title": "Lockdown",
+        "year": "2016/V"
       },
       {
-        "title": "Siren",
-        "year": "2013/II"
+        "title": "Supernatural",
+        "year": "2007-2016"
       },
       {
-        "title": "True Blood",
+        "title": "Under the Dome",
+        "year": "2013-2015"
+      },
+      {
+        "title": "Sofia the First",
+        "year": "2013-2014"
+      },
+      {
+        "title": "Jake and the Never Land Pirates",
+        "year": "2011-2013"
+      },
+      {
+        "title": "Sofia & Jake: Be Who You Wanna Be",
         "year": "2013"
       },
       {
-        "title": "Pacific Rim",
-        "year": "2013"
+        "title": "The Mob Doctor",
+        "year": "2012-2013"
       },
       {
-        "title": "Robot Chicken",
-        "year": "2013"
-      },
-      {
-        "title": "Red Tails",
+        "title": "Revolution",
         "year": "2012"
       },
       {
-        "title": "Brothers & Sisters",
+        "title": "Disconnect",
+        "year": "2012/I"
+      },
+      {
+        "title": "Eye of the Hurricane",
+        "year": "2012"
+      },
+      {
+        "title": "Ticket Out",
+        "year": "2012"
+      },
+      {
+        "title": "In My Pocket",
         "year": "2011"
       },
       {
-        "title": "Law & Order: LA",
+        "title": "We Bought a Zoo",
+        "year": "2011"
+      },
+      {
+        "title": "All Kids Count",
+        "year": "2011"
+      },
+      {
+        "title": "Disney Tangled: The Video Game",
         "year": "2010"
       },
       {
-        "title": "Cowboys",
+        "title": "Hawaii Five-0",
+        "year": "2010"
+      },
+      {
+        "title": "CSI: Miami",
+        "year": "2010"
+      },
+      {
+        "title": "Private Practice",
+        "year": "2010"
+      },
+      {
+        "title": "Jack and the Beanstalk",
         "year": "2009"
       },
       {
-        "title": "Love",
-        "year": "2009/I"
+        "title": "Special Agent Oso",
+        "year": "2009"
       },
       {
-        "title": "EastEnders",
-        "year": "2006-2009"
+        "title": "Push",
+        "year": "2009"
       },
       {
-        "title": "Dream Team",
-        "year": "2005-2006"
+        "title": "Bride Wars",
+        "year": "2009"
       },
       {
-        "title": "The Basil Brush Show",
+        "title": "Can You Teach My Alligator Manners?",
+        "year": "2008"
+      },
+      {
+        "title": "Lake City",
+        "year": "2008"
+      },
+      {
+        "title": "American Family",
+        "year": "2007"
+      },
+      {
+        "title": "Journeyman",
+        "year": "2007"
+      },
+      {
+        "title": "Christmas Is Here Again",
+        "year": "2007"
+      },
+      {
+        "title": "Dog Days of Summer",
+        "year": "2007"
+      },
+      {
+        "title": "Side Order of Life",
+        "year": "2007"
+      },
+      {
+        "title": "In the Name of the King: A Dungeon Siege Tale",
+        "year": "2007"
+      },
+      {
+        "title": "Close to Home",
+        "year": "2006"
+      },
+      {
+        "title": "The Ant Bully",
+        "year": "2006"
+      },
+      {
+        "title": "The Chelsea Handler Show",
+        "year": "2006"
+      },
+      {
+        "title": "The Tonight Show with Jay Leno",
+        "year": "2006"
+      },
+      {
+        "title": "Faceless",
+        "year": "2006"
+      },
+      {
+        "title": "The Work and the Glory II: American Zion",
         "year": "2005"
+      },
+      {
+        "title": "Smallville",
+        "year": "2005"
+      },
+      {
+        "title": "The Work and the Glory",
+        "year": "2004"
+      },
+      {
+        "title": "Moved",
+        "year": "2004"
+      },
+      {
+        "title": "Dumb and Dumberer: When Harry Met Lloyd",
+        "year": "2003"
+      },
+      {
+        "title": "Sweet Home Alabama",
+        "year": "2002"
       }
     ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BNDE2NTk1MzE0NF5BMl5BanBnXkFtZTgwNDk2MDg0MDE@._V1_UY317_CR20,0,214,317_AL_.jpg",
-    "actorName": "Robert Kazinsky",
-    "power": 4,
-    "filmsCount": 20
+    "img": "https://ia.media-imdb.com/images/M/MV5BMDdlMjU5NzgtZDBhMS00ODBmLTgyNmItMDcyNjA2NmY2YjgyXkEyXkFqcGdeQXVyMTg4MzgxOA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+    "actorName": "Colin Ford",
+    "power": 10,
+    "filmsCount": 49
   }
 ]

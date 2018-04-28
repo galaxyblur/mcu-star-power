@@ -2,7 +2,7 @@
   {
     "id": "actor-1",
     "actorName": "Robert Downey Jr.",
-    "castPositionTotal": 14,
+    "castPositionTotal": 18,
     "castPositionAverage": 2,
     "filmsMcu": [
       {
@@ -16,7 +16,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Tony Stark / Iron Man",
         "isReleased": true
       },
@@ -43,10 +43,10 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Tony Stark / Iron Man",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Tony Stark / Iron Man",
         "isReleased": false
       }
@@ -81,8 +81,8 @@
   {
     "id": "actor-4",
     "actorName": "Gwyneth Paltrow",
-    "castPositionTotal": 67,
-    "castPositionAverage": 10,
+    "castPositionTotal": 65,
+    "castPositionAverage": 9,
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -95,7 +95,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Pepper Potts",
         "isReleased": true
       },
@@ -112,10 +112,10 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Pepper Potts",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Pepper Potts",
         "isReleased": false
       }
@@ -173,7 +173,7 @@
   {
     "id": "actor-8",
     "actorName": "Clark Gregg",
-    "castPositionTotal": 38,
+    "castPositionTotal": 39,
     "castPositionAverage": 8,
     "filmsMcu": [
       {
@@ -192,7 +192,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Agent Phil Coulson",
         "isReleased": true
       },
@@ -232,8 +232,8 @@
   {
     "id": "actor-11",
     "actorName": "Paul Bettany",
-    "castPositionTotal": 92,
-    "castPositionAverage": 13,
+    "castPositionTotal": 79,
+    "castPositionAverage": 11,
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -246,7 +246,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Jarvis (voice)",
         "isReleased": true
       },
@@ -268,15 +268,15 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Vision",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
   {
     "id": "actor-12",
     "actorName": "Jon Favreau",
-    "castPositionTotal": 80,
-    "castPositionAverage": 13,
+    "castPositionTotal": 50,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Iron Man",
@@ -299,12 +299,7 @@
         "isReleased": true
       },
       {
-        "title": "Avengers: Infinity War",
-        "characterName": "Happy Hogan",
-        "isReleased": false
-      },
-      {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Happy Hogan",
         "isReleased": false
       }
@@ -313,7 +308,7 @@
   {
     "id": "actor-51",
     "actorName": "Stan Lee",
-    "castPositionTotal": 600,
+    "castPositionTotal": 636,
     "castPositionAverage": 40,
     "filmsMcu": [
       {
@@ -332,7 +327,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Stan Lee",
         "isReleased": true
       },
@@ -390,6 +385,11 @@
         "title": "Black Panther",
         "characterName": "Thirsty Gambler",
         "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Bus Driver",
+        "isReleased": true
       }
     ]
   },
@@ -435,8 +435,8 @@
   {
     "id": "actor-65",
     "actorName": "William Hurt",
-    "castPositionTotal": 20,
-    "castPositionAverage": 10,
+    "castPositionTotal": 50,
+    "castPositionAverage": 17,
     "filmsMcu": [
       {
         "title": "The Incredible Hulk",
@@ -445,6 +445,11 @@
       },
       {
         "title": "Captain America: Civil War",
+        "characterName": "Secretary of State Thaddeus Ross",
+        "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
         "characterName": "Secretary of State Thaddeus Ross",
         "isReleased": true
       }
@@ -518,8 +523,8 @@
   {
     "id": "actor-129",
     "actorName": "Don Cheadle",
-    "castPositionTotal": 58,
-    "castPositionAverage": 12,
+    "castPositionTotal": 27,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Iron Man 2",
@@ -544,7 +549,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "James Rhodes / War Machine",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -560,7 +565,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Natasha Romanoff / Black Widow",
         "isReleased": true
       },
@@ -582,10 +587,10 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Natasha Romanoff / Black Widow",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Black Widow / Natasha Romanoff",
         "isReleased": false
       }
@@ -634,7 +639,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Nick Fury",
         "isReleased": true
       },
@@ -699,8 +704,8 @@
   {
     "id": "actor-179",
     "actorName": "Chris Hemsworth",
-    "castPositionTotal": 24,
-    "castPositionAverage": 3,
+    "castPositionTotal": 16,
+    "castPositionAverage": 2,
     "filmsMcu": [
       {
         "title": "Thor",
@@ -708,7 +713,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Thor",
         "isReleased": true
       },
@@ -730,10 +735,10 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Thor",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Thor",
         "isReleased": false
       }
@@ -760,8 +765,8 @@
   {
     "id": "actor-181",
     "actorName": "Tom Hiddleston",
-    "castPositionTotal": 28,
-    "castPositionAverage": 6,
+    "castPositionTotal": 27,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Thor",
@@ -769,7 +774,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Loki",
         "isReleased": true
       },
@@ -786,7 +791,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Loki",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -825,7 +830,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Selvig",
         "isReleased": true
       },
@@ -875,7 +880,7 @@
   {
     "id": "actor-186",
     "actorName": "Idris Elba",
-    "castPositionTotal": 54,
+    "castPositionTotal": 56,
     "castPositionAverage": 11,
     "filmsMcu": [
       {
@@ -901,7 +906,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Heimdall",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -999,7 +1004,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Agent Jasper Sitwell",
         "isReleased": true
       },
@@ -1013,7 +1018,7 @@
   {
     "id": "actor-225",
     "actorName": "Chris Evans",
-    "castPositionTotal": 63,
+    "castPositionTotal": 60,
     "castPositionAverage": 8,
     "filmsMcu": [
       {
@@ -1022,7 +1027,7 @@
         "isReleased": true
       },
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Steve Rogers / Captain America",
         "isReleased": true
       },
@@ -1048,11 +1053,11 @@
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Steve Rogers",
-        "isReleased": false
+        "characterName": "Steve Rogers / Captain America",
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Steve Rogers / Captain America",
         "isReleased": false
       }
@@ -1089,8 +1094,8 @@
   {
     "id": "actor-227",
     "actorName": "Sebastian Stan",
-    "castPositionTotal": 29,
-    "castPositionAverage": 6,
+    "castPositionTotal": 34,
+    "castPositionAverage": 7,
     "filmsMcu": [
       {
         "title": "Captain America: The First Avenger",
@@ -1109,11 +1114,11 @@
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Bucky Barnes / White Wolf",
-        "isReleased": false
+        "characterName": "Bucky Barnes / Winter Soldier",
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Bucky Barnes / Winter Soldier",
         "isReleased": false
       }
@@ -1223,11 +1228,11 @@
   {
     "id": "actor-317",
     "actorName": "Mark Ruffalo",
-    "castPositionTotal": 44,
-    "castPositionAverage": 11,
+    "castPositionTotal": 17,
+    "castPositionAverage": 4,
     "filmsMcu": [
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Bruce Banner / The Hulk",
         "isReleased": true
       },
@@ -1244,18 +1249,18 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Bruce Banner / Hulk",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
   {
     "id": "actor-318",
     "actorName": "Jeremy Renner",
-    "castPositionTotal": 53,
-    "castPositionAverage": 11,
+    "castPositionTotal": 31,
+    "castPositionAverage": 8,
     "filmsMcu": [
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Clint Barton / Hawkeye",
         "isReleased": true
       },
@@ -1270,12 +1275,7 @@
         "isReleased": true
       },
       {
-        "title": "Avengers: Infinity War",
-        "characterName": "Clint Barton / Hawkeye",
-        "isReleased": false
-      },
-      {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Clint Barton / Hawkeye",
         "isReleased": false
       }
@@ -1288,7 +1288,7 @@
     "castPositionAverage": 10,
     "filmsMcu": [
       {
-        "title": "Marvel's The Avengers",
+        "title": "The Avengers",
         "characterName": "Agent Maria Hill",
         "isReleased": true
       },
@@ -1381,7 +1381,7 @@
         "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Harley Keener",
         "isReleased": false
       }
@@ -1434,8 +1434,8 @@
   {
     "id": "actor-478",
     "actorName": "Anthony Mackie",
-    "castPositionTotal": 69,
-    "castPositionAverage": 14,
+    "castPositionTotal": 46,
+    "castPositionAverage": 9,
     "filmsMcu": [
       {
         "title": "Captain America: The Winter Soldier",
@@ -1460,7 +1460,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Sam Wilson / Falcon",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -1503,8 +1503,8 @@
   {
     "id": "actor-530",
     "actorName": "Chris Pratt",
-    "castPositionTotal": 18,
-    "castPositionAverage": 6,
+    "castPositionTotal": 30,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1519,7 +1519,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Peter Quill / Star-Lord",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -1542,15 +1542,15 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Gamora",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
   {
     "id": "actor-532",
     "actorName": "Dave Bautista",
-    "castPositionTotal": 37,
-    "castPositionAverage": 9,
+    "castPositionTotal": 39,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1565,10 +1565,10 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Drax",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Drax",
         "isReleased": false
       }
@@ -1577,7 +1577,7 @@
   {
     "id": "actor-533",
     "actorName": "Vin Diesel",
-    "castPositionTotal": 29,
+    "castPositionTotal": 31,
     "castPositionAverage": 10,
     "filmsMcu": [
       {
@@ -1593,15 +1593,15 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Groot (voice)",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
   {
     "id": "actor-534",
     "actorName": "Bradley Cooper",
-    "castPositionTotal": 37,
-    "castPositionAverage": 12,
+    "castPositionTotal": 34,
+    "castPositionAverage": 11,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1616,15 +1616,15 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Rocket (voice)",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
   {
     "id": "actor-535",
     "actorName": "Lee Pace",
-    "castPositionTotal": 9,
-    "castPositionAverage": 5,
+    "castPositionTotal": 8,
+    "castPositionAverage": 4,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1659,8 +1659,8 @@
   {
     "id": "actor-537",
     "actorName": "Karen Gillan",
-    "castPositionTotal": 17,
-    "castPositionAverage": 4,
+    "castPositionTotal": 27,
+    "castPositionAverage": 7,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy",
@@ -1675,10 +1675,10 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Nebula",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Nebula",
         "isReleased": false
       }
@@ -1716,6 +1716,29 @@
     ]
   },
   {
+    "id": "actor-542",
+    "actorName": "Sean Gunn",
+    "castPositionTotal": 56,
+    "castPositionAverage": 19,
+    "filmsMcu": [
+      {
+        "title": "Guardians of the Galaxy",
+        "characterName": "Kraglin / On Set Rocket",
+        "isReleased": true
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "characterName": "Kraglin / On-Set Rocket",
+        "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "On-Set Rocket",
+        "isReleased": true
+      }
+    ]
+  },
+  {
     "id": "actor-597",
     "actorName": "James Spader",
     "castPositionTotal": 7,
@@ -1744,8 +1767,8 @@
   {
     "id": "actor-599",
     "actorName": "Elizabeth Olsen",
-    "castPositionTotal": 25,
-    "castPositionAverage": 8,
+    "castPositionTotal": 35,
+    "castPositionAverage": 12,
     "filmsMcu": [
       {
         "title": "Avengers: Age of Ultron",
@@ -1760,25 +1783,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Wanda Maximoff / Scarlet Witch",
-        "isReleased": false
-      }
-    ]
-  },
-  {
-    "id": "actor-600",
-    "actorName": "Linda Cardellini",
-    "castPositionTotal": 28,
-    "castPositionAverage": 14,
-    "filmsMcu": [
-      {
-        "title": "Avengers: Age of Ultron",
-        "characterName": "Laura Barton",
         "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Laura Barton",
-        "isReleased": false
       }
     ]
   },
@@ -1803,8 +1808,8 @@
   {
     "id": "actor-645",
     "actorName": "Paul Rudd",
-    "castPositionTotal": 31,
-    "castPositionAverage": 8,
+    "castPositionTotal": 16,
+    "castPositionAverage": 5,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1815,11 +1820,6 @@
         "title": "Captain America: Civil War",
         "characterName": "Scott Lang / Ant-Man",
         "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Scott Lang / Ant-Man",
-        "isReleased": false
       },
       {
         "title": "Ant-Man and the Wasp",
@@ -1849,7 +1849,7 @@
   {
     "id": "actor-647",
     "actorName": "Evangeline Lilly",
-    "castPositionTotal": 16,
+    "castPositionTotal": 14,
     "castPositionAverage": 5,
     "filmsMcu": [
       {
@@ -1863,7 +1863,7 @@
         "isReleased": false
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Hope van Dyne / The Wasp",
         "isReleased": false
       }
@@ -1916,8 +1916,8 @@
   {
     "id": "actor-651",
     "actorName": "Abby Ryder Fortson",
-    "castPositionTotal": 24,
-    "castPositionAverage": 12,
+    "castPositionTotal": 18,
+    "castPositionAverage": 9,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1970,8 +1970,8 @@
   {
     "id": "actor-654",
     "actorName": "T.I.",
-    "castPositionTotal": 25,
-    "castPositionAverage": 13,
+    "castPositionTotal": 28,
+    "castPositionAverage": 14,
     "filmsMcu": [
       {
         "title": "Ant-Man",
@@ -1988,8 +1988,8 @@
   {
     "id": "actor-704",
     "actorName": "Chadwick Boseman",
-    "castPositionTotal": 36,
-    "castPositionAverage": 9,
+    "castPositionTotal": 28,
+    "castPositionAverage": 7,
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
@@ -2004,10 +2004,10 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "T'Challa / Black Panther",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "T'Challa / Black Panther",
         "isReleased": false
       }
@@ -2016,8 +2016,8 @@
   {
     "id": "actor-705",
     "actorName": "Tom Holland",
-    "castPositionTotal": 17,
-    "castPositionAverage": 6,
+    "castPositionTotal": 22,
+    "castPositionAverage": 7,
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
@@ -2032,7 +2032,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Peter Parker / Spider-Man",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -2075,8 +2075,8 @@
   {
     "id": "actor-781",
     "actorName": "Benedict Cumberbatch",
-    "castPositionTotal": 25,
-    "castPositionAverage": 8,
+    "castPositionTotal": 18,
+    "castPositionAverage": 6,
     "filmsMcu": [
       {
         "title": "Doctor Strange",
@@ -2090,8 +2090,8 @@
       },
       {
         "title": "Avengers: Infinity War",
-        "characterName": "Dr. Stephen Strange",
-        "isReleased": false
+        "characterName": "Doctor Strange",
+        "isReleased": true
       }
     ]
   },
@@ -2117,6 +2117,24 @@
       {
         "title": "Doctor Strange",
         "characterName": "Christine Palmer",
+        "isReleased": true
+      }
+    ]
+  },
+  {
+    "id": "actor-784",
+    "actorName": "Benedict Wong",
+    "castPositionTotal": 24,
+    "castPositionAverage": 12,
+    "filmsMcu": [
+      {
+        "title": "Doctor Strange",
+        "characterName": "Wong",
+        "isReleased": true
+      },
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Wong",
         "isReleased": true
       }
     ]
@@ -2202,8 +2220,8 @@
   {
     "id": "actor-808",
     "actorName": "Pom Klementieff",
-    "castPositionTotal": 20,
-    "castPositionAverage": 10,
+    "castPositionTotal": 29,
+    "castPositionAverage": 15,
     "filmsMcu": [
       {
         "title": "Guardians of the Galaxy Vol. 2",
@@ -2213,7 +2231,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Mantis",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -2285,8 +2303,8 @@
   {
     "id": "actor-845",
     "actorName": "Jacob Batalon",
-    "castPositionTotal": 48,
-    "castPositionAverage": 24,
+    "castPositionTotal": 50,
+    "castPositionAverage": 25,
     "filmsMcu": [
       {
         "title": "Spider-Man: Homecoming",
@@ -2296,7 +2314,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Ned",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -2394,8 +2412,8 @@
   {
     "id": "actor-923",
     "actorName": "Danai Gurira",
-    "castPositionTotal": 27,
-    "castPositionAverage": 14,
+    "castPositionTotal": 22,
+    "castPositionAverage": 11,
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -2405,7 +2423,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "Okoye",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -2423,28 +2441,10 @@
     ]
   },
   {
-    "id": "actor-925",
-    "actorName": "Letitia Wright",
-    "castPositionTotal": 26,
-    "castPositionAverage": 13,
-    "filmsMcu": [
-      {
-        "title": "Black Panther",
-        "characterName": "Shuri",
-        "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Shuri",
-        "isReleased": false
-      }
-    ]
-  },
-  {
     "id": "actor-926",
     "actorName": "Winston Duke",
-    "castPositionTotal": 42,
-    "castPositionAverage": 21,
+    "castPositionTotal": 45,
+    "castPositionAverage": 23,
     "filmsMcu": [
       {
         "title": "Black Panther",
@@ -2454,7 +2454,7 @@
       {
         "title": "Avengers: Infinity War",
         "characterName": "M'Baku",
-        "isReleased": false
+        "isReleased": true
       }
     ]
   },
@@ -2474,18 +2474,13 @@
   {
     "id": "actor-928",
     "actorName": "Angela Bassett",
-    "castPositionTotal": 42,
-    "castPositionAverage": 21,
+    "castPositionTotal": 10,
+    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Black Panther",
         "characterName": "Ramonda",
         "isReleased": true
-      },
-      {
-        "title": "Avengers: Infinity War",
-        "characterName": "Ramonda",
-        "isReleased": false
       }
     ]
   },
@@ -2503,25 +2498,25 @@
     ]
   },
   {
-    "id": "actor-977",
+    "id": "actor-978",
     "actorName": "Josh Brolin",
-    "castPositionTotal": 13,
-    "castPositionAverage": 7,
+    "castPositionTotal": 29,
+    "castPositionAverage": 15,
     "filmsMcu": [
       {
         "title": "Avengers: Infinity War",
         "characterName": "Thanos",
-        "isReleased": false
+        "isReleased": true
       },
       {
-        "title": "Untitled Avengers film",
+        "title": "Untitled Avengers Movie",
         "characterName": "Thanos",
         "isReleased": false
       }
     ]
   },
   {
-    "id": "actor-1002",
+    "id": "actor-992",
     "actorName": "Hannah John-Kamen",
     "castPositionTotal": 1,
     "castPositionAverage": 1,
@@ -2534,10 +2529,10 @@
     ]
   },
   {
-    "id": "actor-1003",
+    "id": "actor-993",
     "actorName": "Michelle Pfeiffer",
-    "castPositionTotal": 4,
-    "castPositionAverage": 4,
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -2547,7 +2542,7 @@
     ]
   },
   {
-    "id": "actor-1004",
+    "id": "actor-994",
     "actorName": "Walton Goggins",
     "castPositionTotal": 5,
     "castPositionAverage": 5,
@@ -2560,23 +2555,10 @@
     ]
   },
   {
-    "id": "actor-1005",
-    "actorName": "Joshua Mikel",
+    "id": "actor-995",
+    "actorName": "Laurence Fishburne",
     "castPositionTotal": 9,
     "castPositionAverage": 9,
-    "filmsMcu": [
-      {
-        "title": "Ant-Man and the Wasp",
-        "characterName": "Derek",
-        "isReleased": false
-      }
-    ]
-  },
-  {
-    "id": "actor-1006",
-    "actorName": "Laurence Fishburne",
-    "castPositionTotal": 10,
-    "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Ant-Man and the Wasp",
@@ -2586,10 +2568,28 @@
     ]
   },
   {
-    "id": "actor-1097",
+    "id": "actor-1092",
+    "actorName": "Brie Larson",
+    "castPositionTotal": 9,
+    "castPositionAverage": 5,
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "Carol Danvers / Captain Marvel",
+        "isReleased": false
+      },
+      {
+        "title": "Untitled Avengers Movie",
+        "characterName": "Carol Danvers / Captain Marvel",
+        "isReleased": false
+      }
+    ]
+  },
+  {
+    "id": "actor-1093",
     "actorName": "Ben Mendelsohn",
-    "castPositionTotal": 1,
-    "castPositionAverage": 1,
+    "castPositionTotal": 3,
+    "castPositionAverage": 3,
     "filmsMcu": [
       {
         "title": "Captain Marvel",
@@ -2599,25 +2599,7 @@
     ]
   },
   {
-    "id": "actor-1098",
-    "actorName": "Brie Larson",
-    "castPositionTotal": 6,
-    "castPositionAverage": 3,
-    "filmsMcu": [
-      {
-        "title": "Captain Marvel",
-        "characterName": "Carol Danvers / Captain Marvel",
-        "isReleased": false
-      },
-      {
-        "title": "Untitled Avengers film",
-        "characterName": "Carol Danvers / Captain Marvel",
-        "isReleased": false
-      }
-    ]
-  },
-  {
-    "id": "actor-1099",
+    "id": "actor-1094",
     "actorName": "Jude Law",
     "castPositionTotal": 5,
     "castPositionAverage": 5,
@@ -2630,7 +2612,7 @@
     ]
   },
   {
-    "id": "actor-1100",
+    "id": "actor-1095",
     "actorName": "Mckenna Grace",
     "castPositionTotal": 6,
     "castPositionAverage": 6,
@@ -2643,10 +2625,10 @@
     ]
   },
   {
-    "id": "actor-1101",
+    "id": "actor-1096",
     "actorName": "Gemma Chan",
-    "castPositionTotal": 8,
-    "castPositionAverage": 8,
+    "castPositionTotal": 7,
+    "castPositionAverage": 7,
     "filmsMcu": [
       {
         "title": "Captain Marvel",
@@ -2656,14 +2638,14 @@
     ]
   },
   {
-    "id": "actor-1102",
-    "actorName": "Robert Kazinsky",
+    "id": "actor-1097",
+    "actorName": "Colin Ford",
     "castPositionTotal": 10,
     "castPositionAverage": 10,
     "filmsMcu": [
       {
         "title": "Captain Marvel",
-        "characterName": "",
+        "characterName": "Steve Danvers",
         "isReleased": false
       }
     ]

@@ -36,23 +36,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Spotlight",
-    "year": "2015/I",
-    "actors": [
-      "John Slattery",
-      "Stanley Tucci",
-      "Mark Ruffalo",
-      "Michael Douglas",
-      "Rachel McAdams",
-      "Michael Keaton"
-    ],
-    "actorsCount": 6,
-    "actorsPowerCareerTotal": 206,
-    "actorsPowerCareerAverage": 34,
-    "actorsPowerMcuTotal": 12,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "The Hobbit: The Desolation of Smaug",
     "year": "2013",
     "actors": [
@@ -81,24 +64,24 @@
       "Walton Goggins"
     ],
     "actorsCount": 6,
-    "actorsPowerCareerTotal": 121,
+    "actorsPowerCareerTotal": 122,
     "actorsPowerCareerAverage": 20,
     "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "The Other Guys",
-    "year": "2010",
+    "title": "Freedom: A History of Us",
+    "year": "2003",
     "actors": [
       "Samuel L. Jackson",
-      "Ray Stevenson",
+      "Anthony Hopkins",
+      "Stanley Tucci",
       "Michael Douglas",
-      "Bobby Cannavale",
-      "Michael Keaton"
+      "Angela Bassett"
     ],
     "actorsCount": 5,
-    "actorsPowerCareerTotal": 184,
-    "actorsPowerCareerAverage": 37,
+    "actorsPowerCareerTotal": 270,
+    "actorsPowerCareerAverage": 54,
     "actorsPowerMcuTotal": 13,
     "actorsPowerMcuAverage": 3
   },
@@ -117,6 +100,22 @@
     "actorsPowerCareerAverage": 32,
     "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Spotlight",
+    "year": "2015/I",
+    "actors": [
+      "John Slattery",
+      "Stanley Tucci",
+      "Mark Ruffalo",
+      "Rachel McAdams",
+      "Michael Keaton"
+    ],
+    "actorsCount": 5,
+    "actorsPowerCareerTotal": 140,
+    "actorsPowerCareerAverage": 28,
+    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuAverage": 2
   },
   {
     "title": "The Lord of the Rings: The Two Towers",
@@ -151,6 +150,22 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "The Martian",
+    "year": "2015",
+    "actors": [
+      "Sebastian Stan",
+      "Michael Peña",
+      "Chiwetel Ejiofor",
+      "Benedict Wong",
+      "Donald Glover"
+    ],
+    "actorsCount": 5,
+    "actorsPowerCareerTotal": 98,
+    "actorsPowerCareerAverage": 20,
+    "actorsPowerMcuTotal": 11,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Movie 43",
     "year": "2013",
     "actors": [
@@ -183,36 +198,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Freedom: A History of Us",
-    "year": "2003",
-    "actors": [
-      "Samuel L. Jackson",
-      "Anthony Hopkins",
-      "Stanley Tucci",
-      "Angela Bassett"
-    ],
-    "actorsCount": 4,
-    "actorsPowerCareerTotal": 207,
-    "actorsPowerCareerAverage": 52,
-    "actorsPowerMcuTotal": 12,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Out of Sight",
-    "year": "1998",
-    "actors": [
-      "Don Cheadle",
-      "Samuel L. Jackson",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 4,
-    "actorsPowerCareerTotal": 195,
-    "actorsPowerCareerAverage": 49,
-    "actorsPowerMcuTotal": 14,
-    "actorsPowerMcuAverage": 4
-  },
-  {
     "title": "Rules of Engagement",
     "year": "2000",
     "actors": [
@@ -222,7 +207,7 @@
       "Ben Kingsley"
     ],
     "actorsCount": 4,
-    "actorsPowerCareerTotal": 172,
+    "actorsPowerCareerTotal": 173,
     "actorsPowerCareerAverage": 43,
     "actorsPowerMcuTotal": 9,
     "actorsPowerMcuAverage": 2
@@ -239,8 +224,8 @@
     "actorsCount": 4,
     "actorsPowerCareerTotal": 155,
     "actorsPowerCareerAverage": 39,
-    "actorsPowerMcuTotal": 9,
-    "actorsPowerMcuAverage": 2
+    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Amistad",
@@ -258,6 +243,21 @@
     "actorsPowerMcuAverage": 3
   },
   {
+    "title": "Traffic",
+    "year": "2000",
+    "actors": [
+      "Don Cheadle",
+      "John Slattery",
+      "Michael Douglas",
+      "Benjamin Bratt"
+    ],
+    "actorsCount": 4,
+    "actorsPowerCareerTotal": 146,
+    "actorsPowerCareerAverage": 37,
+    "actorsPowerMcuTotal": 11,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "The Jungle Book",
     "year": "2016",
     "actors": [
@@ -271,21 +271,6 @@
     "actorsPowerCareerAverage": 36,
     "actorsPowerMcuTotal": 14,
     "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "Live from Baghdad",
-    "year": "2002",
-    "actors": [
-      "Shaun Toub",
-      "Clark Gregg",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 4,
-    "actorsPowerCareerTotal": 131,
-    "actorsPowerCareerAverage": 33,
-    "actorsPowerMcuTotal": 10,
-    "actorsPowerMcuAverage": 3
   },
   {
     "title": "The Dictator",
@@ -318,6 +303,21 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "The Other Guys",
+    "year": "2010",
+    "actors": [
+      "Samuel L. Jackson",
+      "Ray Stevenson",
+      "Bobby Cannavale",
+      "Michael Keaton"
+    ],
+    "actorsCount": 4,
+    "actorsPowerCareerTotal": 118,
+    "actorsPowerCareerAverage": 30,
+    "actorsPowerMcuTotal": 11,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "Kong: Skull Island",
     "year": "2017",
     "actors": [
@@ -331,21 +331,6 @@
     "actorsPowerCareerAverage": 29,
     "actorsPowerMcuTotal": 14,
     "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "One Good Cop",
-    "year": "1991",
-    "actors": [
-      "Rene Russo",
-      "Michael Douglas",
-      "Benjamin Bratt",
-      "Michael Keaton"
-    ],
-    "actorsCount": 4,
-    "actorsPowerCareerTotal": 117,
-    "actorsPowerCareerAverage": 29,
-    "actorsPowerMcuTotal": 6,
-    "actorsPowerMcuAverage": 2
   },
   {
     "title": "The Hateful Eight",
@@ -438,21 +423,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "The Martian",
-    "year": "2015",
-    "actors": [
-      "Sebastian Stan",
-      "Michael Peña",
-      "Chiwetel Ejiofor",
-      "Donald Glover"
-    ],
-    "actorsCount": 4,
-    "actorsPowerCareerTotal": 83,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 9,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "Stella",
     "year": "2005",
     "actors": [
@@ -462,9 +432,9 @@
       "Paul Rudd"
     ],
     "actorsCount": 4,
-    "actorsPowerCareerTotal": 85,
+    "actorsPowerCareerTotal": 84,
     "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -507,7 +477,7 @@
       "Josh Brolin"
     ],
     "actorsCount": 4,
-    "actorsPowerCareerTotal": 74,
+    "actorsPowerCareerTotal": 75,
     "actorsPowerCareerAverage": 19,
     "actorsPowerMcuTotal": 13,
     "actorsPowerMcuAverage": 3
@@ -573,19 +543,19 @@
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "I, Tonya",
-    "year": "2017",
+    "title": "Push",
+    "year": "2009",
     "actors": [
-      "Sebastian Stan",
-      "Bobby Cannavale",
-      "Joshua Mikel",
-      "Mckenna Grace"
+      "Chris Evans",
+      "Djimon Hounsou",
+      "Corey Stoll",
+      "Colin Ford"
     ],
     "actorsCount": 4,
     "actorsPowerCareerTotal": 59,
     "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 8,
-    "actorsPowerMcuAverage": 2
+    "actorsPowerMcuTotal": 12,
+    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Captain America: Super Soldier",
@@ -603,6 +573,21 @@
     "actorsPowerMcuAverage": 5
   },
   {
+    "title": "Gangster Squad",
+    "year": "2013",
+    "actors": [
+      "Anthony Mackie",
+      "Frank Grillo",
+      "Michael Peña",
+      "Josh Brolin"
+    ],
+    "actorsCount": 4,
+    "actorsPowerCareerTotal": 57,
+    "actorsPowerCareerAverage": 14,
+    "actorsPowerMcuTotal": 11,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "The Hurt Locker",
     "year": "2008",
     "actors": [
@@ -614,22 +599,7 @@
     "actorsCount": 4,
     "actorsPowerCareerTotal": 54,
     "actorsPowerCareerAverage": 14,
-    "actorsPowerMcuTotal": 14,
-    "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "Gangster Squad",
-    "year": "2013",
-    "actors": [
-      "Anthony Mackie",
-      "Frank Grillo",
-      "Michael Peña",
-      "Josh Brolin"
-    ],
-    "actorsCount": 4,
-    "actorsPowerCareerTotal": 56,
-    "actorsPowerCareerAverage": 14,
-    "actorsPowerMcuTotal": 11,
+    "actorsPowerMcuTotal": 13,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -678,35 +648,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Ready Player One",
-    "year": "2018",
-    "actors": [
-      "Letitia Wright",
-      "Hannah John-Kamen",
-      "Ben Mendelsohn",
-      "Mckenna Grace"
-    ],
-    "actorsCount": 4,
-    "actorsPowerCareerTotal": 38,
-    "actorsPowerCareerAverage": 10,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Noah",
-    "year": "2012/III",
-    "actors": [
-      "Ben Kingsley",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 163,
-    "actorsPowerCareerAverage": 54,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
     "title": "Knight of Cups",
     "year": "2015",
     "actors": [
@@ -719,34 +660,6 @@
     "actorsPowerCareerAverage": 52,
     "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Jackie Brown",
-    "year": "1997",
-    "actors": [
-      "Samuel L. Jackson",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 145,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 9,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "RoboCop",
-    "year": "2014",
-    "actors": [
-      "Samuel L. Jackson",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 145,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 9,
-    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Chaplin",
@@ -777,20 +690,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "First Daughter",
-    "year": "2004",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton",
-      "Forest Whitaker"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 139,
-    "actorsPowerCareerAverage": 46,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
     "title": "Transformers: The Last Knight",
     "year": "2017",
     "actors": [
@@ -805,30 +704,16 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Batman Returns",
-    "year": "1992",
+    "title": "Out of Sight",
+    "year": "1998",
     "actors": [
-      "Michael Douglas",
-      "Michael Keaton",
-      "Michelle Pfeiffer"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 134,
-    "actorsPowerCareerAverage": 45,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Game 6",
-    "year": "2005",
-    "actors": [
-      "Robert Downey Jr.",
-      "Michael Douglas",
+      "Don Cheadle",
+      "Samuel L. Jackson",
       "Michael Keaton"
     ],
     "actorsCount": 3,
-    "actorsPowerCareerTotal": 132,
-    "actorsPowerCareerAverage": 44,
+    "actorsPowerCareerTotal": 129,
+    "actorsPowerCareerAverage": 43,
     "actorsPowerMcuTotal": 12,
     "actorsPowerMcuAverage": 4
   },
@@ -883,38 +768,10 @@
       "Forest Whitaker"
     ],
     "actorsCount": 3,
-    "actorsPowerCareerTotal": 128,
+    "actorsPowerCareerTotal": 129,
     "actorsPowerCareerAverage": 43,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "The Merry Gentleman",
-    "year": "2008",
-    "actors": [
-      "Michael Douglas",
-      "Bobby Cannavale",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 124,
-    "actorsPowerCareerAverage": 41,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Call of Duty: Black Ops II",
-    "year": "2012",
-    "actors": [
-      "Michael Rooker",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 120,
-    "actorsPowerCareerAverage": 40,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 2
   },
   {
     "title": "Lush Life",
@@ -929,34 +786,6 @@
     "actorsPowerCareerAverage": 40,
     "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Paper",
-    "year": "1994",
-    "actors": [
-      "Michael Douglas",
-      "Marisa Tomei",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 118,
-    "actorsPowerCareerAverage": 39,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-    "year": "2014",
-    "actors": [
-      "Edward Norton",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 117,
-    "actorsPowerCareerAverage": 39,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Hitchcock",
@@ -1001,20 +830,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "The Founder",
-    "year": "2016",
-    "actors": [
-      "Linda Cardellini",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 112,
-    "actorsPowerCareerAverage": 37,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "The Aviator",
     "year": "2004",
     "actors": [
@@ -1043,34 +858,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "American Assassin",
-    "year": "2017",
-    "actors": [
-      "Michael Douglas",
-      "Scott Adkins",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 107,
-    "actorsPowerCareerAverage": 36,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Need for Speed",
-    "year": "2014",
-    "actors": [
-      "Dominic Cooper",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 109,
-    "actorsPowerCareerAverage": 36,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
     "title": "Hugo",
     "year": "2011",
     "actors": [
@@ -1083,6 +870,20 @@
     "actorsPowerCareerAverage": 35,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "The Last Full Measure",
+    "year": "2018",
+    "actors": [
+      "William Hurt",
+      "Samuel L. Jackson",
+      "Sebastian Stan"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 102,
+    "actorsPowerCareerAverage": 34,
+    "actorsPowerMcuTotal": 14,
+    "actorsPowerMcuAverage": 5
   },
   {
     "title": "Hard Eight",
@@ -1113,34 +914,6 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "The Last Full Measure",
-    "year": "2018",
-    "actors": [
-      "William Hurt",
-      "Samuel L. Jackson",
-      "Sebastian Stan"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 102,
-    "actorsPowerCareerAverage": 34,
-    "actorsPowerMcuTotal": 13,
-    "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "Inventing the Abbotts",
-    "year": "1997",
-    "actors": [
-      "Liv Tyler",
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 103,
-    "actorsPowerCareerAverage": 34,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
     "title": "Masked and Anonymous",
     "year": "2003",
     "actors": [
@@ -1151,7 +924,7 @@
     "actorsCount": 3,
     "actorsPowerCareerTotal": 102,
     "actorsPowerCareerAverage": 34,
-    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 1
   },
   {
@@ -1179,7 +952,7 @@
     "actorsCount": 3,
     "actorsPowerCareerTotal": 99,
     "actorsPowerCareerAverage": 33,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -1237,6 +1010,20 @@
     "actorsPowerCareerAverage": 32,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "American Gangster",
+    "year": "2007",
+    "actors": [
+      "Idris Elba",
+      "Chiwetel Ejiofor",
+      "Josh Brolin"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 89,
+    "actorsPowerCareerAverage": 30,
+    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Star Wars: Episode I - The Phantom Menace",
@@ -1309,20 +1096,6 @@
     "actorsPowerMcuAverage": 6
   },
   {
-    "title": "American Gangster",
-    "year": "2007",
-    "actors": [
-      "Idris Elba",
-      "Chiwetel Ejiofor",
-      "Josh Brolin"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 88,
-    "actorsPowerCareerAverage": 29,
-    "actorsPowerMcuTotal": 8,
-    "actorsPowerMcuAverage": 3
-  },
-  {
     "title": "12 Years a Slave",
     "year": "2013",
     "actors": [
@@ -1335,20 +1108,6 @@
     "actorsPowerCareerAverage": 29,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Traffic",
-    "year": "2000",
-    "actors": [
-      "Don Cheadle",
-      "John Slattery",
-      "Benjamin Bratt"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 83,
-    "actorsPowerCareerAverage": 28,
-    "actorsPowerMcuTotal": 9,
-    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Frost/Nixon",
@@ -1407,34 +1166,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "The Little Prince",
-    "year": "2015",
-    "actors": [
-      "Jeff Bridges",
-      "Paul Rudd",
-      "Rachel McAdams"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 80,
-    "actorsPowerCareerAverage": 27,
-    "actorsPowerMcuTotal": 6,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Jiminy Glick in Lalawood",
-    "year": "2004",
-    "actors": [
-      "Linda Cardellini",
-      "Kurt Russell",
-      "Forest Whitaker"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 81,
-    "actorsPowerCareerAverage": 27,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
     "title": "The Homesman",
     "year": "2014",
     "actors": [
@@ -1443,7 +1174,7 @@
       "James Spader"
     ],
     "actorsCount": 3,
-    "actorsPowerCareerTotal": 81,
+    "actorsPowerCareerTotal": 82,
     "actorsPowerCareerAverage": 27,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 1
@@ -1477,6 +1208,20 @@
     "actorsPowerMcuAverage": 5
   },
   {
+    "title": "Prometheus",
+    "year": "2012/I",
+    "actors": [
+      "Idris Elba",
+      "Guy Pearce",
+      "Benedict Wong"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 78,
+    "actorsPowerCareerAverage": 26,
+    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "Jurassic World: Fallen Kingdom",
     "year": "2018",
     "actors": [
@@ -1488,6 +1233,20 @@
     "actorsPowerCareerTotal": 78,
     "actorsPowerCareerAverage": 26,
     "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "The Little Prince",
+    "year": "2015",
+    "actors": [
+      "Jeff Bridges",
+      "Paul Rudd",
+      "Rachel McAdams"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 79,
+    "actorsPowerCareerAverage": 26,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -1617,20 +1376,6 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "Stella Shorts 1998-2002",
-    "year": "2002",
-    "actors": [
-      "Sam Rockwell",
-      "Bradley Cooper",
-      "Paul Rudd"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 71,
-    "actorsPowerCareerAverage": 24,
-    "actorsPowerMcuTotal": 8,
-    "actorsPowerMcuAverage": 3
-  },
-  {
     "title": "Trainwreck",
     "year": "2015",
     "actors": [
@@ -1655,7 +1400,7 @@
     "actorsCount": 3,
     "actorsPowerCareerTotal": 71,
     "actorsPowerCareerAverage": 24,
-    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -1670,6 +1415,34 @@
     "actorsPowerCareerTotal": 73,
     "actorsPowerCareerAverage": 24,
     "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Only the Brave",
+    "year": "2017",
+    "actors": [
+      "Jeff Bridges",
+      "James Badge Dale",
+      "Josh Brolin"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 71,
+    "actorsPowerCareerAverage": 24,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Stella Shorts 1998-2002",
+    "year": "2002",
+    "actors": [
+      "Sam Rockwell",
+      "Bradley Cooper",
+      "Paul Rudd"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 70,
+    "actorsPowerCareerAverage": 23,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -1696,20 +1469,6 @@
     ],
     "actorsCount": 3,
     "actorsPowerCareerTotal": 68,
-    "actorsPowerCareerAverage": 23,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Only the Brave",
-    "year": "2017",
-    "actors": [
-      "Jeff Bridges",
-      "James Badge Dale",
-      "Josh Brolin"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 70,
     "actorsPowerCareerAverage": 23,
     "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 1
@@ -1743,6 +1502,34 @@
     "actorsPowerMcuAverage": 3
   },
   {
+    "title": "Hail, Caesar!",
+    "year": "2016",
+    "actors": [
+      "Scarlett Johansson",
+      "Tilda Swinton",
+      "Josh Brolin"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 65,
+    "actorsPowerCareerAverage": 22,
+    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Live from Baghdad",
+    "year": "2002",
+    "actors": [
+      "Shaun Toub",
+      "Clark Gregg",
+      "Michael Keaton"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 65,
+    "actorsPowerCareerAverage": 22,
+    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "Mortdecai",
     "year": "2015",
     "actors": [
@@ -1765,23 +1552,9 @@
       "Paul Rudd"
     ],
     "actorsCount": 3,
-    "actorsPowerCareerTotal": 64,
+    "actorsPowerCareerTotal": 63,
     "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 10,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Hail, Caesar!",
-    "year": "2016",
-    "actors": [
-      "Scarlett Johansson",
-      "Tilda Swinton",
-      "Josh Brolin"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 64,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuTotal": 9,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -1793,7 +1566,7 @@
       "Josh Brolin"
     ],
     "actorsCount": 3,
-    "actorsPowerCareerTotal": 62,
+    "actorsPowerCareerTotal": 64,
     "actorsPowerCareerAverage": 21,
     "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 1
@@ -1837,8 +1610,22 @@
     "actorsCount": 3,
     "actorsPowerCareerTotal": 57,
     "actorsPowerCareerAverage": 19,
-    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuTotal": 9,
     "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Annihilation",
+    "year": "2018",
+    "actors": [
+      "Natalie Portman",
+      "Benedict Wong",
+      "Tessa Thompson"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 58,
+    "actorsPowerCareerAverage": 19,
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 2
   },
   {
     "title": "Morning Glory",
@@ -1939,6 +1726,20 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "Kiss Kiss (Bang Bang)",
+    "year": "2001",
+    "actors": [
+      "Paul Bettany",
+      "Stellan Skarsgård",
+      "Benedict Wong"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 52,
+    "actorsPowerCareerAverage": 17,
+    "actorsPowerMcuTotal": 13,
+    "actorsPowerMcuAverage": 4
+  },
+  {
     "title": "Haven",
     "year": "2004/I",
     "actors": [
@@ -1967,20 +1768,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Mute",
-    "year": "2018/II",
-    "actors": [
-      "Sam Rockwell",
-      "Paul Rudd",
-      "Robert Kazinsky"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 52,
-    "actorsPowerCareerAverage": 17,
-    "actorsPowerMcuTotal": 6,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "The Bourne Legacy",
     "year": "2012",
     "actors": [
@@ -1991,22 +1778,22 @@
     "actorsCount": 3,
     "actorsPowerCareerTotal": 50,
     "actorsPowerCareerAverage": 17,
-    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Push",
-    "year": "2009",
+    "title": "One Good Cop",
+    "year": "1991",
     "actors": [
-      "Chris Evans",
-      "Djimon Hounsou",
-      "Corey Stoll"
+      "Rene Russo",
+      "Benjamin Bratt",
+      "Michael Keaton"
     ],
     "actorsCount": 3,
-    "actorsPowerCareerTotal": 49,
-    "actorsPowerCareerAverage": 16,
-    "actorsPowerMcuTotal": 11,
-    "actorsPowerMcuAverage": 4
+    "actorsPowerCareerTotal": 51,
+    "actorsPowerCareerAverage": 17,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 1
   },
   {
     "title": "King Arthur",
@@ -2037,20 +1824,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Super",
-    "year": "2010/I",
-    "actors": [
-      "Liv Tyler",
-      "Michael Rooker",
-      "Linda Cardellini"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 47,
-    "actorsPowerCareerAverage": 16,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "Pacific Blue",
     "year": "1996",
     "actors": [
@@ -2063,20 +1836,6 @@
     "actorsPowerCareerAverage": 16,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Independence Day: Resurgence",
-    "year": "2016",
-    "actors": [
-      "Jeff Goldblum",
-      "Joshua Mikel",
-      "Mckenna Grace"
-    ],
-    "actorsCount": 3,
-    "actorsPowerCareerTotal": 49,
-    "actorsPowerCareerAverage": 16,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Creed",
@@ -2121,6 +1880,20 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "The Belko Experiment",
+    "year": "2016",
+    "actors": [
+      "Michael Rooker",
+      "Sean Gunn",
+      "David Dastmalchian"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 46,
+    "actorsPowerCareerAverage": 15,
+    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Furious 7",
     "year": "2015",
     "actors": [
@@ -2149,6 +1922,20 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "I, Tonya",
+    "year": "2017",
+    "actors": [
+      "Sebastian Stan",
+      "Bobby Cannavale",
+      "Mckenna Grace"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 45,
+    "actorsPowerCareerAverage": 15,
+    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "CSI: Miami",
     "year": "2005",
     "actors": [
@@ -2163,6 +1950,20 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "Super",
+    "year": "2010/I",
+    "actors": [
+      "Liv Tyler",
+      "Michael Rooker",
+      "Sean Gunn"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 41,
+    "actorsPowerCareerAverage": 14,
+    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "The Nine",
     "year": "2006",
     "actors": [
@@ -2175,6 +1976,34 @@
     "actorsPowerCareerAverage": 14,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Kick-Ass 2",
+    "year": "2013",
+    "actors": [
+      "Aaron Taylor-Johnson",
+      "Benedict Wong",
+      "Daniel Kaluuya"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 42,
+    "actorsPowerCareerAverage": 14,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "We Bought a Zoo",
+    "year": "2011",
+    "actors": [
+      "Scarlett Johansson",
+      "Stephanie Szostak",
+      "Colin Ford"
+    ],
+    "actorsCount": 3,
+    "actorsPowerCareerTotal": 39,
+    "actorsPowerCareerAverage": 13,
+    "actorsPowerMcuTotal": 9,
+    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Zero Dark Thirty",
@@ -2199,7 +2028,7 @@
       "Josh Brolin"
     ],
     "actorsCount": 3,
-    "actorsPowerCareerTotal": 39,
+    "actorsPowerCareerTotal": 40,
     "actorsPowerCareerAverage": 13,
     "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 2
@@ -2303,12 +2132,12 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Red Tails",
-    "year": "2012",
+    "title": "Ready Player One",
+    "year": "2018",
     "actors": [
-      "Terrence Howard",
-      "Michael B. Jordan",
-      "Robert Kazinsky"
+      "Hannah John-Kamen",
+      "Ben Mendelsohn",
+      "Mckenna Grace"
     ],
     "actorsCount": 3,
     "actorsPowerCareerTotal": 34,
@@ -2405,7 +2234,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 112,
     "actorsPowerCareerAverage": 56,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -2496,7 +2325,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 103,
     "actorsPowerCareerAverage": 52,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -2537,6 +2366,19 @@
     "actorsPowerCareerAverage": 51,
     "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Wonder Boys",
+    "year": "2000",
+    "actors": [
+      "Robert Downey Jr.",
+      "Michael Douglas"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 99,
+    "actorsPowerCareerAverage": 50,
+    "actorsPowerMcuTotal": 11,
+    "actorsPowerMcuAverage": 6
   },
   {
     "title": "Shutter Island",
@@ -2617,6 +2459,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "Noah",
+    "year": "2012/III",
+    "actors": [
+      "Ben Kingsley",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 97,
+    "actorsPowerCareerAverage": 49,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
     "title": "School Daze",
     "year": "1988",
     "actors": [
@@ -2656,732 +2511,17 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Mister Rogers' Neighborhood",
-    "year": "1974-1975",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Mary Hartman, Mary Hartman",
-    "year": "1977",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Maude",
-    "year": "1977",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "All's Fair",
-    "year": "1976-1977",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Tony Randall Show",
-    "year": "1978",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Rabbit Test",
-    "year": "1978",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Mary",
-    "year": "1978",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Family",
-    "year": "1978",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "A Different Approach",
-    "year": "1978",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Working Stiffs",
-    "year": "1979",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Studs Lonigan",
-    "year": "1979",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Mary Tyler Moore Hour",
-    "year": "1979",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Report to Murphy",
-    "year": "1982",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Night Shift",
-    "year": "1982",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Mr. Mom",
-    "year": "1983",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Johnny Dangerously",
-    "year": "1984",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Gung Ho",
-    "year": "1986",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Touch and Go",
-    "year": "1986",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Squeeze",
-    "year": "1987",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "She's Having a Baby",
-    "year": "1988",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Beetlejuice",
-    "year": "1988",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Clean and Sober",
-    "year": "1988",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Dream Team",
-    "year": "1989",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Batman",
-    "year": "1989",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Earth Day Special",
-    "year": "1990",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Pacific Heights",
-    "year": "1990",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Porco Rosso",
-    "year": "1992",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Much Ado About Nothing",
-    "year": "1993",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "My Life",
-    "year": "1993",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Speechless",
-    "year": "1994",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Multiplicity",
-    "year": "1996",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Desperate Measures",
-    "year": "1998",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Jack Frost",
-    "year": "1998",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "A Shot at Glory",
-    "year": "2000",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Simpsons",
-    "year": "2001",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Frasier",
-    "year": "2002",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Quicksand",
-    "year": "2003",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "King of the Hill",
-    "year": "2003",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Gary the Rat",
-    "year": "2003",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "White Noise",
-    "year": "2005/I",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Herbie Fully Loaded",
-    "year": "2005",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Cars",
-    "year": "2006",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Last Time",
-    "year": "2006",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Tenacious D: Time Fixers",
-    "year": "2006",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Company",
-    "year": "2007",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Post Grad",
-    "year": "2009",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Cars Race-O-Rama",
-    "year": "2009",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Toy Story 3",
+    "title": "You Will Meet a Tall Dark Stranger",
     "year": "2010",
     "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
+      "Anthony Hopkins",
+      "Josh Brolin"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
+    "actorsPowerCareerTotal": 95,
     "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Toy Story Toons: Hawaiian Vacation",
-    "year": "2011",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "30 Rock",
-    "year": "2011",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Blindsided",
-    "year": "2013",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Clear History",
-    "year": "2013",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Prom Queen",
-    "year": "2015",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Minions",
-    "year": "2015",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Binky Nelson Unpacified",
-    "year": "2015",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Dumbo",
-    "year": "2019",
-    "actors": [
-      "Michael Douglas",
-      "Michael Keaton"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 96,
-    "actorsPowerCareerAverage": 48,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 3
   },
   {
     "title": "War Machine",
@@ -3404,7 +2544,7 @@
       "Cate Blanchett"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 95,
+    "actorsPowerCareerTotal": 96,
     "actorsPowerCareerAverage": 48,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -3419,21 +2559,8 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 94,
     "actorsPowerCareerAverage": 47,
-    "actorsPowerMcuTotal": 8,
-    "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "You Will Meet a Tall Dark Stranger",
-    "year": "2010",
-    "actors": [
-      "Anthony Hopkins",
-      "Josh Brolin"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 94,
-    "actorsPowerCareerAverage": 47,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
+    "actorsPowerMcuTotal": 9,
+    "actorsPowerMcuAverage": 5
   },
   {
     "title": "Rebound: The Legend of Earl 'The Goat' Manigault",
@@ -3488,6 +2615,45 @@
     "actorsPowerMcuAverage": 4
   },
   {
+    "title": "Liberty's Kids: Est. 1776",
+    "year": "2002",
+    "actors": [
+      "Michael Douglas",
+      "Sylvester Stallone"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 92,
+    "actorsPowerCareerAverage": 46,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Wall Street",
+    "year": "1987",
+    "actors": [
+      "James Spader",
+      "Michael Douglas"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 91,
+    "actorsPowerCareerAverage": 46,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Westworld",
+    "year": "2016-2018",
+    "actors": [
+      "Anthony Hopkins",
+      "Tessa Thompson"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 92,
+    "actorsPowerCareerAverage": 46,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "The Red Sea Diving Resort",
     "year": "2018",
     "actors": [
@@ -3496,6 +2662,19 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 90,
+    "actorsPowerCareerAverage": 45,
+    "actorsPowerMcuTotal": 9,
+    "actorsPowerMcuAverage": 5
+  },
+  {
+    "title": "A Perfect Murder",
+    "year": "1998",
+    "actors": [
+      "Gwyneth Paltrow",
+      "Michael Douglas"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 89,
     "actorsPowerCareerAverage": 45,
     "actorsPowerMcuTotal": 9,
     "actorsPowerMcuAverage": 5
@@ -3566,6 +2745,19 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "The Sunset Limited",
+    "year": "2011",
+    "actors": [
+      "Samuel L. Jackson",
+      "Tommy Lee Jones"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 87,
+    "actorsPowerCareerAverage": 44,
+    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuAverage": 4
+  },
+  {
     "title": "Freejack",
     "year": "1992",
     "actors": [
@@ -3586,7 +2778,7 @@
       "Tommy Lee Jones"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 87,
+    "actorsPowerCareerTotal": 88,
     "actorsPowerCareerAverage": 44,
     "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 3
@@ -3640,7 +2832,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 88,
     "actorsPowerCareerAverage": 44,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -3668,19 +2860,6 @@
     "actorsPowerCareerAverage": 43,
     "actorsPowerMcuTotal": 15,
     "actorsPowerMcuAverage": 8
-  },
-  {
-    "title": "The Sunset Limited",
-    "year": "2011",
-    "actors": [
-      "Samuel L. Jackson",
-      "Tommy Lee Jones"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 86,
-    "actorsPowerCareerAverage": 43,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
   },
   {
     "title": "Amazing Grace",
@@ -3800,6 +2979,19 @@
     "actorsPowerMcuAverage": 4
   },
   {
+    "title": "Jackie Brown",
+    "year": "1997",
+    "actors": [
+      "Samuel L. Jackson",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 79,
+    "actorsPowerCareerAverage": 40,
+    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuAverage": 4
+  },
+  {
     "title": "The Red Violin",
     "year": "1998",
     "actors": [
@@ -3818,6 +3010,19 @@
     "actors": [
       "Samuel L. Jackson",
       "Colm Feore"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 79,
+    "actorsPowerCareerAverage": 40,
+    "actorsPowerMcuTotal": 7,
+    "actorsPowerMcuAverage": 4
+  },
+  {
+    "title": "RoboCop",
+    "year": "2014",
+    "actors": [
+      "Samuel L. Jackson",
+      "Michael Keaton"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 79,
@@ -3874,7 +3079,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 78,
     "actorsPowerCareerAverage": 39,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
   },
   {
@@ -3887,7 +3092,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 78,
     "actorsPowerCareerAverage": 39,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
   },
   {
@@ -3913,7 +3118,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 78,
     "actorsPowerCareerAverage": 39,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
   },
   {
@@ -3926,7 +3131,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 78,
     "actorsPowerCareerAverage": 39,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
   },
   {
@@ -3967,6 +3172,19 @@
     "actorsPowerCareerAverage": 39,
     "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Wall Street: Money Never Sleeps",
+    "year": "2010",
+    "actors": [
+      "Michael Douglas",
+      "Josh Brolin"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 78,
+    "actorsPowerCareerAverage": 39,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
   },
   {
     "title": "Shall We Dance",
@@ -4112,58 +3330,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Boyz n the Hood",
-    "year": "1991",
-    "actors": [
-      "Angela Bassett",
-      "Laurence Fishburne"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 75,
-    "actorsPowerCareerAverage": 38,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "What's Love Got to Do with It",
-    "year": "1993",
-    "actors": [
-      "Angela Bassett",
-      "Laurence Fishburne"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 75,
-    "actorsPowerCareerAverage": 38,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Akeelah and the Bee",
-    "year": "2006",
-    "actors": [
-      "Angela Bassett",
-      "Laurence Fishburne"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 75,
-    "actorsPowerCareerAverage": 38,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Snowy Day",
-    "year": "2016",
-    "actors": [
-      "Angela Bassett",
-      "Laurence Fishburne"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 75,
-    "actorsPowerCareerAverage": 38,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "Babel",
     "year": "2006/I",
     "actors": [
@@ -4175,6 +3341,58 @@
     "actorsPowerCareerAverage": 38,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Boyz n the Hood",
+    "year": "1991",
+    "actors": [
+      "Angela Bassett",
+      "Laurence Fishburne"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 75,
+    "actorsPowerCareerAverage": 38,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "What's Love Got to Do with It",
+    "year": "1993",
+    "actors": [
+      "Angela Bassett",
+      "Laurence Fishburne"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 75,
+    "actorsPowerCareerAverage": 38,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Akeelah and the Bee",
+    "year": "2006",
+    "actors": [
+      "Angela Bassett",
+      "Laurence Fishburne"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 75,
+    "actorsPowerCareerAverage": 38,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "The Snowy Day",
+    "year": "2016",
+    "actors": [
+      "Angela Bassett",
+      "Laurence Fishburne"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 75,
+    "actorsPowerCareerAverage": 38,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
   },
   {
     "title": "The Walk",
@@ -4262,7 +3480,7 @@
       "Michelle Pfeiffer"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 75,
+    "actorsPowerCareerTotal": 76,
     "actorsPowerCareerAverage": 38,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -4301,7 +3519,7 @@
       "Tommy Lee Jones"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 73,
+    "actorsPowerCareerTotal": 74,
     "actorsPowerCareerAverage": 37,
     "actorsPowerMcuTotal": 10,
     "actorsPowerMcuAverage": 5
@@ -4314,7 +3532,7 @@
       "Tommy Lee Jones"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 73,
+    "actorsPowerCareerTotal": 74,
     "actorsPowerCareerAverage": 37,
     "actorsPowerMcuTotal": 10,
     "actorsPowerMcuAverage": 5
@@ -4381,7 +3599,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 74,
     "actorsPowerCareerAverage": 37,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -4396,6 +3614,19 @@
     "actorsPowerCareerAverage": 37,
     "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "First Daughter",
+    "year": "2004",
+    "actors": [
+      "Michael Keaton",
+      "Forest Whitaker"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 73,
+    "actorsPowerCareerAverage": 37,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Heaven's Gate",
@@ -4463,6 +3694,19 @@
     "actorsPowerMcuAverage": 4
   },
   {
+    "title": "The Village",
+    "year": "2004",
+    "actors": [
+      "William Hurt",
+      "Judy Greer"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 71,
+    "actorsPowerCareerAverage": 36,
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "After the Sunset",
     "year": "2004",
     "actors": [
@@ -4487,19 +3731,6 @@
     "actorsPowerCareerAverage": 36,
     "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Black Nativity",
-    "year": "2013",
-    "actors": [
-      "Angela Bassett",
-      "Forest Whitaker"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 72,
-    "actorsPowerCareerAverage": 36,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
   },
   {
     "title": "How to Train Your Dragon 2",
@@ -4537,21 +3768,21 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 71,
     "actorsPowerCareerAverage": 36,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "The Village",
-    "year": "2004",
+    "title": "Black Nativity",
+    "year": "2013",
     "actors": [
-      "William Hurt",
-      "Judy Greer"
+      "Angela Bassett",
+      "Forest Whitaker"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 71,
+    "actorsPowerCareerTotal": 72,
     "actorsPowerCareerAverage": 36,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 2
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Deep Cover",
@@ -4745,6 +3976,19 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 70,
     "actorsPowerCareerAverage": 35,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "One Night at McCool's",
+    "year": "2001",
+    "actors": [
+      "Liv Tyler",
+      "Michael Douglas"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 70,
+    "actorsPowerCareerAverage": 35,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
@@ -4866,6 +4110,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "Batman Returns",
+    "year": "1992",
+    "actors": [
+      "Michael Keaton",
+      "Michelle Pfeiffer"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 68,
+    "actorsPowerCareerAverage": 34,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
     "title": "Ocean's 8",
     "year": "2018",
     "actors": [
@@ -4931,19 +4188,6 @@
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "S.W.A.T.",
-    "year": "2003",
-    "actors": [
-      "Samuel L. Jackson",
-      "Jeremy Renner"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 66,
-    "actorsPowerCareerAverage": 33,
-    "actorsPowerMcuTotal": 11,
-    "actorsPowerMcuAverage": 6
-  },
-  {
     "title": "Law & Order",
     "year": "1991",
     "actors": [
@@ -4955,6 +4199,32 @@
     "actorsPowerCareerAverage": 33,
     "actorsPowerMcuTotal": 11,
     "actorsPowerMcuAverage": 6
+  },
+  {
+    "title": "S.W.A.T.",
+    "year": "2003",
+    "actors": [
+      "Samuel L. Jackson",
+      "Jeremy Renner"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 66,
+    "actorsPowerCareerAverage": 33,
+    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuAverage": 5
+  },
+  {
+    "title": "Game 6",
+    "year": "2005",
+    "actors": [
+      "Robert Downey Jr.",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 66,
+    "actorsPowerCareerAverage": 33,
+    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuAverage": 5
   },
   {
     "title": "War Horse",
@@ -5083,8 +4353,21 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 65,
     "actorsPowerCareerAverage": 33,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Jiminy Glick in Lalawood",
+    "year": "2004",
+    "actors": [
+      "Kurt Russell",
+      "Forest Whitaker"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 65,
+    "actorsPowerCareerAverage": 33,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Wolf",
@@ -5095,6 +4378,19 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 66,
+    "actorsPowerCareerAverage": 33,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "A Prairie Home Companion",
+    "year": "2006",
+    "actors": [
+      "Tommy Lee Jones",
+      "John C. Reilly"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 65,
     "actorsPowerCareerAverage": 33,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -5178,19 +4474,6 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "Cell",
-    "year": "2016/I",
-    "actors": [
-      "Samuel L. Jackson",
-      "Joshua Mikel"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 63,
-    "actorsPowerCareerAverage": 32,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
-  },
-  {
     "title": "The Legend of Tarzan",
     "year": "2016",
     "actors": [
@@ -5217,19 +4500,6 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "Prometheus",
-    "year": "2012/I",
-    "actors": [
-      "Idris Elba",
-      "Guy Pearce"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 64,
-    "actorsPowerCareerAverage": 32,
-    "actorsPowerMcuTotal": 6,
-    "actorsPowerMcuAverage": 3
-  },
-  {
     "title": "Sex & Drugs & Rock & Roll",
     "year": "2010",
     "actors": [
@@ -5253,6 +4523,19 @@
     "actorsPowerCareerTotal": 63,
     "actorsPowerCareerAverage": 32,
     "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "True Grit",
+    "year": "2010",
+    "actors": [
+      "Jeff Bridges",
+      "Josh Brolin"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 63,
+    "actorsPowerCareerAverage": 32,
+    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -5347,19 +4630,6 @@
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "A Prairie Home Companion",
-    "year": "2006",
-    "actors": [
-      "Tommy Lee Jones",
-      "John C. Reilly"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 64,
-    "actorsPowerCareerAverage": 32,
-    "actorsPowerMcuTotal": 2,
-    "actorsPowerMcuAverage": 1
-  },
-  {
     "title": "The Man",
     "year": "2005",
     "actors": [
@@ -5395,7 +4665,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 62,
     "actorsPowerCareerAverage": 31,
-    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuTotal": 9,
     "actorsPowerMcuAverage": 5
   },
   {
@@ -5464,19 +4734,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "JFK",
-    "year": "1991",
-    "actors": [
-      "Tommy Lee Jones",
-      "Michael Rooker"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 61,
-    "actorsPowerCareerAverage": 31,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "The King of Queens",
     "year": "2002",
     "actors": [
@@ -5486,7 +4743,20 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 61,
     "actorsPowerCareerAverage": 31,
-    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "JFK",
+    "year": "1991",
+    "actors": [
+      "Tommy Lee Jones",
+      "Michael Rooker"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 62,
+    "actorsPowerCareerAverage": 31,
+    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -5499,20 +4769,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 61,
     "actorsPowerCareerAverage": 31,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "True Grit",
-    "year": "2010",
-    "actors": [
-      "Jeff Bridges",
-      "Josh Brolin"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 62,
-    "actorsPowerCareerAverage": 31,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -5581,19 +4838,6 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "I Could Never Be Your Woman",
-    "year": "2007",
-    "actors": [
-      "Paul Rudd",
-      "Michelle Pfeiffer"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 60,
-    "actorsPowerCareerAverage": 30,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
     "title": "A Little Trip to Heaven",
     "year": "2005",
     "actors": [
@@ -5603,7 +4847,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 60,
     "actorsPowerCareerAverage": 30,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -5685,16 +4929,16 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "American Gun",
-    "year": "2005",
+    "title": "I Could Never Be Your Woman",
+    "year": "2007",
     "actors": [
-      "Linda Cardellini",
-      "Forest Whitaker"
+      "Paul Rudd",
+      "Michelle Pfeiffer"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 59,
     "actorsPowerCareerAverage": 30,
-    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -5810,6 +5054,19 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 60,
+    "actorsPowerCareerAverage": 30,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "The Lion King",
+    "year": "2019",
+    "actors": [
+      "Chiwetel Ejiofor",
+      "Donald Glover"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 59,
     "actorsPowerCareerAverage": 30,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -5997,6 +5254,19 @@
     "actorsPowerMcuAverage": 3
   },
   {
+    "title": "The Good Shepherd",
+    "year": "2006",
+    "actors": [
+      "William Hurt",
+      "Lee Pace"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 57,
+    "actorsPowerCareerAverage": 29,
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "Reign Over Me",
     "year": "2007",
     "actors": [
@@ -6036,32 +5306,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Master of None",
-    "year": "2017",
-    "actors": [
-      "Bobby Cannavale",
-      "Angela Bassett"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 57,
-    "actorsPowerCareerAverage": 29,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Supernova",
-    "year": "2000/I",
-    "actors": [
-      "James Spader",
-      "Angela Bassett"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 57,
-    "actorsPowerCareerAverage": 29,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "The Hitchhiker's Guide to the Galaxy",
     "year": "2005",
     "actors": [
@@ -6075,27 +5319,40 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "The Good Shepherd",
-    "year": "2006",
+    "title": "The Merry Gentleman",
+    "year": "2008",
     "actors": [
-      "William Hurt",
-      "Lee Pace"
+      "Bobby Cannavale",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 58,
+    "actorsPowerCareerAverage": 29,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Master of None",
+    "year": "2017",
+    "actors": [
+      "Bobby Cannavale",
+      "Angela Bassett"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 57,
     "actorsPowerCareerAverage": 29,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 2
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
   },
   {
-    "title": "The Lion King",
-    "year": "2019",
+    "title": "Supernova",
+    "year": "2000/I",
     "actors": [
-      "Chiwetel Ejiofor",
-      "Donald Glover"
+      "James Spader",
+      "Angela Bassett"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 58,
+    "actorsPowerCareerTotal": 57,
     "actorsPowerCareerAverage": 29,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -6370,7 +5627,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 53,
     "actorsPowerCareerAverage": 27,
-    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -6387,6 +5644,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "Call of Duty: Black Ops II",
+    "year": "2012",
+    "actors": [
+      "Michael Rooker",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 54,
+    "actorsPowerCareerAverage": 27,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Out of the Furnace",
     "year": "2013",
     "actors": [
@@ -6397,6 +5667,45 @@
     "actorsPowerCareerTotal": 54,
     "actorsPowerCareerAverage": 27,
     "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "W.",
+    "year": "2008/I",
+    "actors": [
+      "Toby Jones",
+      "Josh Brolin"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 53,
+    "actorsPowerCareerAverage": 27,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": "2007",
+    "actors": [
+      "Tommy Lee Jones",
+      "Josh Brolin"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 53,
+    "actorsPowerCareerAverage": 27,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "In the Valley of Elah",
+    "year": "2007",
+    "actors": [
+      "Tommy Lee Jones",
+      "Josh Brolin"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 53,
+    "actorsPowerCareerAverage": 27,
+    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -6513,21 +5822,8 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 51,
     "actorsPowerCareerAverage": 26,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "Moves: The Rise and Rise of the New Pornographers",
-    "year": "2011",
-    "actors": [
-      "Paul Rudd",
-      "Donald Glover"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 51,
-    "actorsPowerCareerAverage": 26,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Oscar",
@@ -6540,6 +5836,32 @@
     "actorsPowerCareerTotal": 51,
     "actorsPowerCareerAverage": 26,
     "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "The Paper",
+    "year": "1994",
+    "actors": [
+      "Marisa Tomei",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 52,
+    "actorsPowerCareerAverage": 26,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Moves: The Rise and Rise of the New Pornographers",
+    "year": "2011",
+    "actors": [
+      "Paul Rudd",
+      "Donald Glover"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 51,
+    "actorsPowerCareerAverage": 26,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -6608,11 +5930,11 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "W.",
-    "year": "2008/I",
+    "title": "Words of Everest",
+    "year": "2013",
     "actors": [
       "Toby Jones",
-      "Josh Brolin"
+      "Benedict Wong"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 52,
@@ -6634,43 +5956,17 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "No Country for Old Men",
-    "year": "2007",
+    "title": "Girls",
+    "year": "2013",
     "actors": [
-      "Tommy Lee Jones",
-      "Josh Brolin"
+      "Donald Glover",
+      "Ben Mendelsohn"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 51,
     "actorsPowerCareerAverage": 26,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "In the Valley of Elah",
-    "year": "2007",
-    "actors": [
-      "Tommy Lee Jones",
-      "Josh Brolin"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 51,
-    "actorsPowerCareerAverage": 26,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Jacksons: An American Dream",
-    "year": "1992",
-    "actors": [
-      "Terrence Howard",
-      "Angela Bassett"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 51,
-    "actorsPowerCareerAverage": 26,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Tango & Cash",
@@ -6712,6 +6008,19 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "year": "2014",
+    "actors": [
+      "Edward Norton",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 51,
+    "actorsPowerCareerAverage": 26,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
     "title": "Simpatico",
     "year": "1999",
     "actors": [
@@ -6720,6 +6029,19 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 52,
+    "actorsPowerCareerAverage": 26,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "The Jacksons: An American Dream",
+    "year": "1992",
+    "actors": [
+      "Terrence Howard",
+      "Angela Bassett"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 51,
     "actorsPowerCareerAverage": 26,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -6762,71 +6084,6 @@
     "actorsPowerCareerAverage": 25,
     "actorsPowerMcuTotal": 8,
     "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "The Ten",
-    "year": "2007",
-    "actors": [
-      "Paul Rudd",
-      "Bobby Cannavale"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 50,
-    "actorsPowerCareerAverage": 25,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "The Fundamentals of Caring",
-    "year": "2016",
-    "actors": [
-      "Paul Rudd",
-      "Bobby Cannavale"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 50,
-    "actorsPowerCareerAverage": 25,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Walk Hard: The Dewey Cox Story",
-    "year": "2007",
-    "actors": [
-      "John C. Reilly",
-      "Paul Rudd"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 49,
-    "actorsPowerCareerAverage": 25,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Anchorman 2: The Legend Continues",
-    "year": "2013",
-    "actors": [
-      "John C. Reilly",
-      "Paul Rudd"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 49,
-    "actorsPowerCareerAverage": 25,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Pacific Rim",
-    "year": "2013",
-    "actors": [
-      "Idris Elba",
-      "Robert Kazinsky"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 49,
-    "actorsPowerCareerAverage": 25,
-    "actorsPowerMcuTotal": 6,
-    "actorsPowerMcuAverage": 3
   },
   {
     "title": "Parker Kane",
@@ -6878,6 +6135,32 @@
     "actorsPowerCareerTotal": 50,
     "actorsPowerCareerAverage": 25,
     "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "The Ten",
+    "year": "2007",
+    "actors": [
+      "Paul Rudd",
+      "Bobby Cannavale"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 49,
+    "actorsPowerCareerAverage": 25,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "The Fundamentals of Caring",
+    "year": "2016",
+    "actors": [
+      "Paul Rudd",
+      "Bobby Cannavale"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 49,
+    "actorsPowerCareerAverage": 25,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -6985,19 +6268,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "The Score",
-    "year": "2001",
-    "actors": [
-      "Edward Norton",
-      "Angela Bassett"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 50,
-    "actorsPowerCareerAverage": 25,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "Anywhere But Here",
     "year": "1999",
     "actors": [
@@ -7009,19 +6279,6 @@
     "actorsPowerCareerAverage": 25,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Girls",
-    "year": "2013",
-    "actors": [
-      "Donald Glover",
-      "Ben Mendelsohn"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 50,
-    "actorsPowerCareerAverage": 25,
-    "actorsPowerMcuTotal": 2,
-    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Vanilla Sky",
@@ -7042,6 +6299,32 @@
     "actors": [
       "Christopher Eccleston",
       "Chiwetel Ejiofor"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 50,
+    "actorsPowerCareerAverage": 25,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Criminal",
+    "year": "2016",
+    "actors": [
+      "Tommy Lee Jones",
+      "Scott Adkins"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 49,
+    "actorsPowerCareerAverage": 25,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "The Score",
+    "year": "2001",
+    "actors": [
+      "Edward Norton",
+      "Angela Bassett"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 50,
@@ -7102,6 +6385,19 @@
     "actorsPowerMcuAverage": 5
   },
   {
+    "title": "Jojo Rabbit",
+    "year": "",
+    "actors": [
+      "Scarlett Johansson",
+      "Sam Rockwell"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 48,
+    "actorsPowerCareerAverage": 24,
+    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuAverage": 4
+  },
+  {
     "title": "Christopher Robin",
     "year": "2018",
     "actors": [
@@ -7136,6 +6432,32 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 47,
+    "actorsPowerCareerAverage": 24,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Walk Hard: The Dewey Cox Story",
+    "year": "2007",
+    "actors": [
+      "John C. Reilly",
+      "Paul Rudd"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 48,
+    "actorsPowerCareerAverage": 24,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Anchorman 2: The Legend Continues",
+    "year": "2013",
+    "actors": [
+      "John C. Reilly",
+      "Paul Rudd"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 48,
     "actorsPowerCareerAverage": 24,
     "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
@@ -7190,6 +6512,19 @@
     "actorsPowerCareerTotal": 48,
     "actorsPowerCareerAverage": 24,
     "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Mute",
+    "year": "2018/II",
+    "actors": [
+      "Sam Rockwell",
+      "Paul Rudd"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 47,
+    "actorsPowerCareerAverage": 24,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -7271,19 +6606,6 @@
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "Criminal",
-    "year": "2016",
-    "actors": [
-      "Tommy Lee Jones",
-      "Scott Adkins"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 48,
-    "actorsPowerCareerAverage": 24,
-    "actorsPowerMcuTotal": 2,
-    "actorsPowerMcuAverage": 1
-  },
-  {
     "title": "The Perfect Score",
     "year": "2004",
     "actors": [
@@ -7336,19 +6658,6 @@
     "actorsPowerMcuAverage": 5
   },
   {
-    "title": "Wet Hot American Summer",
-    "year": "2001",
-    "actors": [
-      "Bradley Cooper",
-      "Paul Rudd"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 45,
-    "actorsPowerCareerAverage": 23,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
-  },
-  {
     "title": "Galápagos",
     "year": "2006",
     "actors": [
@@ -7382,7 +6691,7 @@
       "Donald Glover"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 45,
+    "actorsPowerCareerTotal": 46,
     "actorsPowerCareerAverage": 23,
     "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 3
@@ -7396,19 +6705,6 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 46,
-    "actorsPowerCareerAverage": 23,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Human Giant",
-    "year": "2007",
-    "actors": [
-      "Linda Cardellini",
-      "Donald Glover"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 45,
     "actorsPowerCareerAverage": 23,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
@@ -7475,7 +6771,20 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 45,
     "actorsPowerCareerAverage": 23,
-    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Just Getting Started",
+    "year": "2017",
+    "actors": [
+      "Rene Russo",
+      "Tommy Lee Jones"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 45,
+    "actorsPowerCareerAverage": 23,
+    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -7622,6 +6931,19 @@
     "actorsPowerMcuAverage": 4
   },
   {
+    "title": "Wet Hot American Summer",
+    "year": "2001",
+    "actors": [
+      "Bradley Cooper",
+      "Paul Rudd"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 44,
+    "actorsPowerCareerAverage": 22,
+    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "The Normal Heart",
     "year": "2014",
     "actors": [
@@ -7657,19 +6979,6 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 43,
     "actorsPowerCareerAverage": 22,
-    "actorsPowerMcuTotal": 6,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Sausage Party",
-    "year": "2016",
-    "actors": [
-      "Edward Norton",
-      "Paul Rudd"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 43,
-    "actorsPowerCareerAverage": 22,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
@@ -7687,11 +6996,11 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Melinda and Melinda",
-    "year": "2004",
+    "title": "Dirty Pretty Things",
+    "year": "2002",
     "actors": [
       "Chiwetel Ejiofor",
-      "Josh Brolin"
+      "Benedict Wong"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 43,
@@ -7700,11 +7009,11 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Cupid",
-    "year": "2009",
+    "title": "Melinda and Melinda",
+    "year": "2004",
     "actors": [
-      "Linda Cardellini",
-      "Bobby Cannavale"
+      "Chiwetel Ejiofor",
+      "Josh Brolin"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 44,
@@ -7713,14 +7022,14 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Daddy's Home",
-    "year": "2015",
+    "title": "Slow Burn",
+    "year": "2000",
     "actors": [
-      "Linda Cardellini",
-      "Bobby Cannavale"
+      "James Spader",
+      "Josh Brolin"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 44,
+    "actorsPowerCareerTotal": 43,
     "actorsPowerCareerAverage": 22,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
@@ -7765,32 +7074,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Just Getting Started",
-    "year": "2017",
-    "actors": [
-      "Rene Russo",
-      "Tommy Lee Jones"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 44,
-    "actorsPowerCareerAverage": 22,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Annihilation",
-    "year": "2018",
-    "actors": [
-      "Natalie Portman",
-      "Tessa Thompson"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 44,
-    "actorsPowerCareerAverage": 22,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "Zookeeper",
     "year": "2011",
     "actors": [
@@ -7809,6 +7092,19 @@
     "actors": [
       "Benjamin Bratt",
       "Sylvester Stallone"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 43,
+    "actorsPowerCareerAverage": 22,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Need for Speed",
+    "year": "2014",
+    "actors": [
+      "Dominic Cooper",
+      "Michael Keaton"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 43,
@@ -7882,19 +7178,6 @@
     "actorsPowerMcuAverage": 6
   },
   {
-    "title": "Notorious",
-    "year": "2009",
-    "actors": [
-      "Anthony Mackie",
-      "Angela Bassett"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 41,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
-  },
-  {
     "title": "Vicky Cristina Barcelona",
     "year": "2008",
     "actors": [
@@ -7921,24 +7204,24 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "Our Idiot Brother",
-    "year": "2011",
-    "actors": [
-      "Paul Rudd",
-      "Sterling K. Brown"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 41,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
     "title": "She Hate Me",
     "year": "2004",
     "actors": [
       "Anthony Mackie",
       "Chiwetel Ejiofor"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 41,
+    "actorsPowerCareerAverage": 21,
+    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Notorious",
+    "year": "2009",
+    "actors": [
+      "Anthony Mackie",
+      "Angela Bassett"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 41,
@@ -7957,19 +7240,6 @@
     "actorsPowerCareerTotal": 41,
     "actorsPowerCareerAverage": 21,
     "actorsPowerMcuTotal": 6,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "The Catcher Was a Spy",
-    "year": "2018",
-    "actors": [
-      "Guy Pearce",
-      "Paul Rudd"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 41,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -7994,19 +7264,6 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 41,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Quarry",
-    "year": "2016",
-    "actors": [
-      "Stellan Skarsgård",
-      "Joshua Mikel"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 42,
     "actorsPowerCareerAverage": 21,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
@@ -8077,37 +7334,11 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Alias",
-    "year": "2005",
+    "title": "Screenplay",
+    "year": "1992",
     "actors": [
-      "Corey Stoll",
-      "Angela Bassett"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 41,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "LolliLove",
-    "year": "2004",
-    "actors": [
-      "Linda Cardellini",
-      "Judy Greer"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 42,
-    "actorsPowerCareerAverage": 21,
-    "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Slow Burn",
-    "year": "2000",
-    "actors": [
-      "James Spader",
-      "Josh Brolin"
+      "Benedict Wong",
+      "Tilda Swinton"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 42,
@@ -8123,7 +7354,7 @@
       "Josh Brolin"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 41,
+    "actorsPowerCareerTotal": 42,
     "actorsPowerCareerAverage": 21,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
@@ -8168,6 +7399,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "D.C. Smalls",
+    "year": "2001",
+    "actors": [
+      "Sam Rockwell",
+      "Josh Brolin"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 41,
+    "actorsPowerCareerAverage": 21,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Bruiser",
     "year": "2000",
     "actors": [
@@ -8191,6 +7435,19 @@
     "actorsPowerCareerTotal": 42,
     "actorsPowerCareerAverage": 21,
     "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Sausage Party",
+    "year": "2016",
+    "actors": [
+      "Edward Norton",
+      "Paul Rudd"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 42,
+    "actorsPowerCareerAverage": 21,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -8259,6 +7516,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "American Assassin",
+    "year": "2017",
+    "actors": [
+      "Scott Adkins",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 41,
+    "actorsPowerCareerAverage": 21,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
     "title": "Thumbsucker",
     "year": "2005",
     "actors": [
@@ -8267,6 +7537,19 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 42,
+    "actorsPowerCareerAverage": 21,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Alias",
+    "year": "2005",
+    "actors": [
+      "Corey Stoll",
+      "Angela Bassett"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 41,
     "actorsPowerCareerAverage": 21,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -8337,19 +7620,6 @@
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "To Have & to Hold",
-    "year": "1998",
-    "actors": [
-      "Jeremy Renner",
-      "Brie Larson"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 39,
-    "actorsPowerCareerAverage": 20,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
-  },
-  {
     "title": "Black Swan",
     "year": "2010",
     "actors": [
@@ -8370,7 +7640,7 @@
       "Donald Glover"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 39,
+    "actorsPowerCareerTotal": 40,
     "actorsPowerCareerAverage": 20,
     "actorsPowerMcuTotal": 8,
     "actorsPowerMcuAverage": 4
@@ -8415,6 +7685,19 @@
     "actorsPowerMcuAverage": 3
   },
   {
+    "title": "To Have & to Hold",
+    "year": "1998",
+    "actors": [
+      "Jeremy Renner",
+      "Brie Larson"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 39,
+    "actorsPowerCareerAverage": 20,
+    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "The Lincoln Lawyer",
     "year": "2011",
     "actors": [
@@ -8428,11 +7711,50 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Lollipop Chainsaw",
-    "year": "2012",
+    "title": "Our Idiot Brother",
+    "year": "2011",
     "actors": [
-      "Michael Rooker",
-      "Linda Cardellini"
+      "Paul Rudd",
+      "Sterling K. Brown"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 40,
+    "actorsPowerCareerAverage": 20,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "The Chief",
+    "year": "1994",
+    "actors": [
+      "Andy Serkis",
+      "Benedict Wong"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 39,
+    "actorsPowerCareerAverage": 20,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Arabian Nights",
+    "year": "2000",
+    "actors": [
+      "Andy Serkis",
+      "Benedict Wong"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 39,
+    "actorsPowerCareerAverage": 20,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "The Catcher Was a Spy",
+    "year": "2018",
+    "actors": [
+      "Guy Pearce",
+      "Paul Rudd"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 40,
@@ -8454,6 +7776,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "Pearl Harbor",
+    "year": "2001",
+    "actors": [
+      "Colm Feore",
+      "Sean Gunn"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 40,
+    "actorsPowerCareerAverage": 20,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Sin City: A Dame to Kill For",
     "year": "2014",
     "actors": [
@@ -8461,17 +7796,17 @@
       "Josh Brolin"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 39,
+    "actorsPowerCareerTotal": 40,
     "actorsPowerCareerAverage": 20,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "D.C. Smalls",
-    "year": "2001",
+    "title": "Moon",
+    "year": "2009",
     "actors": [
       "Sam Rockwell",
-      "Josh Brolin"
+      "Benedict Wong"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 40,
@@ -8584,19 +7919,6 @@
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "Kiss Kiss (Bang Bang)",
-    "year": "2001",
-    "actors": [
-      "Paul Bettany",
-      "Stellan Skarsgård"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 38,
-    "actorsPowerCareerAverage": 19,
-    "actorsPowerMcuTotal": 11,
-    "actorsPowerMcuAverage": 6
-  },
-  {
     "title": "Dogville",
     "year": "2003",
     "actors": [
@@ -8608,6 +7930,19 @@
     "actorsPowerCareerAverage": 19,
     "actorsPowerMcuTotal": 11,
     "actorsPowerMcuAverage": 6
+  },
+  {
+    "title": "Sunshine",
+    "year": "2007",
+    "actors": [
+      "Chris Evans",
+      "Benedict Wong"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 37,
+    "actorsPowerCareerAverage": 19,
+    "actorsPowerMcuTotal": 10,
+    "actorsPowerMcuAverage": 5
   },
   {
     "title": "Playhouse Presents",
@@ -8671,7 +8006,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 37,
     "actorsPowerCareerAverage": 19,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -8727,11 +8062,11 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Bloodline",
-    "year": "2015-2017",
+    "title": "Grindhouse",
+    "year": "2007",
     "actors": [
-      "Linda Cardellini",
-      "Ben Mendelsohn"
+      "Kurt Russell",
+      "Josh Brolin"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 37,
@@ -8857,6 +8192,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "Best Laid Plans",
+    "year": "1999",
+    "actors": [
+      "Terrence Howard",
+      "Josh Brolin"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 37,
+    "actorsPowerCareerAverage": 19,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Anna Karenina",
     "year": "2012/I",
     "actors": [
@@ -8922,6 +8270,19 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "Inventing the Abbotts",
+    "year": "1997",
+    "actors": [
+      "Liv Tyler",
+      "Michael Keaton"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 37,
+    "actorsPowerCareerAverage": 19,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
     "title": "The Island",
     "year": "2005",
     "actors": [
@@ -8974,14 +8335,40 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "Return",
-    "year": "2011",
+    "title": "Stricken",
+    "year": "1997",
     "actors": [
-      "John Slattery",
-      "Linda Cardellini"
+      "Sean Gunn",
+      "Judy Greer"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 35,
+    "actorsPowerCareerTotal": 36,
+    "actorsPowerCareerAverage": 18,
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "The Specials",
+    "year": "2000",
+    "actors": [
+      "Sean Gunn",
+      "Judy Greer"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 36,
+    "actorsPowerCareerAverage": 18,
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Ordinary World",
+    "year": "2016/I",
+    "actors": [
+      "Sean Gunn",
+      "Judy Greer"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 36,
     "actorsPowerCareerAverage": 18,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
@@ -9007,23 +8394,10 @@
       "Paul Rudd"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 36,
+    "actorsPowerCareerTotal": 35,
     "actorsPowerCareerAverage": 18,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Grindhouse",
-    "year": "2007",
-    "actors": [
-      "Kurt Russell",
-      "Josh Brolin"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 36,
-    "actorsPowerCareerAverage": 18,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
   },
   {
     "title": "Star Wars: The Last Jedi",
@@ -9036,6 +8410,19 @@
     "actorsPowerCareerTotal": 35,
     "actorsPowerCareerAverage": 18,
     "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Glee",
+    "year": "2012",
+    "actors": [
+      "Sean Gunn",
+      "Jeff Goldblum"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 36,
+    "actorsPowerCareerAverage": 18,
+    "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -9065,16 +8452,16 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "The Belko Experiment",
-    "year": "2016",
+    "title": "Hearts and Minds",
+    "year": "1995",
     "actors": [
-      "Michael Rooker",
-      "David Dastmalchian"
+      "Christopher Eccleston",
+      "Benedict Wong"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 36,
+    "actorsPowerCareerTotal": 35,
     "actorsPowerCareerAverage": 18,
-    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -9182,11 +8569,11 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Best Laid Plans",
-    "year": "1999",
+    "title": "Philip K. Dick's Electric Dreams",
+    "year": "2017",
     "actors": [
       "Terrence Howard",
-      "Josh Brolin"
+      "Benedict Wong"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 36,
@@ -9203,6 +8590,19 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 36,
+    "actorsPowerCareerAverage": 18,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
+    "title": "Independence Day: Resurgence",
+    "year": "2016",
+    "actors": [
+      "Jeff Goldblum",
+      "Mckenna Grace"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 35,
     "actorsPowerCareerAverage": 18,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
@@ -9234,32 +8634,6 @@
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "Term Life",
-    "year": "2016",
-    "actors": [
-      "Terrence Howard",
-      "Joshua Mikel"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 36,
-    "actorsPowerCareerAverage": 18,
-    "actorsPowerMcuTotal": 2,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Quantum Is Calling",
-    "year": "2016",
-    "actors": [
-      "Zoe Saldana",
-      "Paul Rudd"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 33,
-    "actorsPowerCareerAverage": 17,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
-  },
-  {
     "title": "Love the Coopers",
     "year": "2015",
     "actors": [
@@ -9273,11 +8647,24 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "WHIH News Front",
-    "year": "2015",
+    "title": "Humanzee!",
+    "year": "2008",
     "actors": [
-      "Paul Rudd",
-      "Corey Stoll"
+      "Michael Rooker",
+      "Sean Gunn"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 34,
+    "actorsPowerCareerAverage": 17,
+    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Lollipop Chainsaw",
+    "year": "2012",
+    "actors": [
+      "Michael Rooker",
+      "Sean Gunn"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 34,
@@ -9332,7 +8719,7 @@
       "Josh Brolin"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 33,
+    "actorsPowerCareerTotal": 34,
     "actorsPowerCareerAverage": 17,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
@@ -9347,7 +8734,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 33,
     "actorsPowerCareerAverage": 17,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -9390,11 +8777,11 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "The Twilight Zone",
-    "year": "2003",
+    "title": "WHIH News Front",
+    "year": "2015",
     "actors": [
-      "Linda Cardellini",
-      "Michael Peña"
+      "Paul Rudd",
+      "Corey Stoll"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 33,
@@ -9585,11 +8972,11 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "Tag",
-    "year": "2018/I",
+    "title": "Labor Day",
+    "year": "2013",
     "actors": [
-      "Leslie Bibb",
-      "Jeremy Renner"
+      "Clark Gregg",
+      "Josh Brolin"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 31,
@@ -9611,6 +8998,19 @@
     "actorsPowerMcuAverage": 3
   },
   {
+    "title": "Quantum Is Calling",
+    "year": "2016",
+    "actors": [
+      "Zoe Saldana",
+      "Paul Rudd"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 32,
+    "actorsPowerCareerAverage": 16,
+    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuAverage": 3
+  },
+  {
     "title": "Jeremiah",
     "year": "2002",
     "actors": [
@@ -9622,6 +9022,45 @@
     "actorsPowerCareerAverage": 16,
     "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Tag",
+    "year": "2018/I",
+    "actors": [
+      "Leslie Bibb",
+      "Jeremy Renner"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 31,
+    "actorsPowerCareerAverage": 16,
+    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuAverage": 3
+  },
+  {
+    "title": "Johnny English Reborn",
+    "year": "2011",
+    "actors": [
+      "Benedict Wong",
+      "Daniel Kaluuya"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 31,
+    "actorsPowerCareerAverage": 16,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Prey",
+    "year": "2017",
+    "actors": [
+      "Benedict Wong",
+      "Walton Goggins"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 31,
+    "actorsPowerCareerAverage": 16,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
   },
   {
     "title": "Chaos Walking",
@@ -9699,19 +9138,6 @@
     "actorsPowerCareerTotal": 31,
     "actorsPowerCareerAverage": 16,
     "actorsPowerMcuTotal": 4,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Scooby-Doo 2: Monsters Unleashed",
-    "year": "2004",
-    "actors": [
-      "Tim Blake Nelson",
-      "Linda Cardellini"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 32,
-    "actorsPowerCareerAverage": 16,
-    "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
   },
   {
@@ -9806,32 +9232,6 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "They Came Together",
-    "year": "2014",
-    "actors": [
-      "Cobie Smulders",
-      "Paul Rudd"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 30,
-    "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "We Bought a Zoo",
-    "year": "2011",
-    "actors": [
-      "Scarlett Johansson",
-      "Stephanie Szostak"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 29,
-    "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 8,
-    "actorsPowerMcuAverage": 4
-  },
-  {
     "title": "Transcendence",
     "year": "2014/I",
     "actors": [
@@ -9845,29 +9245,16 @@
     "actorsPowerMcuAverage": 4
   },
   {
-    "title": "Labor Day",
-    "year": "2013",
+    "title": "They Came Together",
+    "year": "2014",
     "actors": [
-      "Clark Gregg",
-      "Josh Brolin"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 30,
-    "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 7,
-    "actorsPowerMcuAverage": 4
-  },
-  {
-    "title": "Dinner for Schmucks",
-    "year": "2010",
-    "actors": [
-      "Stephanie Szostak",
+      "Cobie Smulders",
       "Paul Rudd"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 29,
     "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 5,
+    "actorsPowerMcuTotal": 6,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -9880,7 +9267,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 29,
     "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -9893,7 +9280,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 29,
     "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -9917,9 +9304,9 @@
       "Paul Rudd"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 30,
+    "actorsPowerCareerTotal": 29,
     "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 6,
+    "actorsPowerMcuTotal": 5,
     "actorsPowerMcuAverage": 3
   },
   {
@@ -9970,19 +9357,6 @@
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 29,
-    "actorsPowerCareerAverage": 15,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Robot Chicken",
-    "year": "2013",
-    "actors": [
-      "Judy Greer",
-      "Robert Kazinsky"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 30,
     "actorsPowerCareerAverage": 15,
     "actorsPowerMcuTotal": 3,
     "actorsPowerMcuAverage": 2
@@ -10079,6 +9453,19 @@
     "actorsPowerMcuAverage": 1
   },
   {
+    "title": "Red Tails",
+    "year": "2012",
+    "actors": [
+      "Terrence Howard",
+      "Michael B. Jordan"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 30,
+    "actorsPowerCareerAverage": 15,
+    "actorsPowerMcuTotal": 2,
+    "actorsPowerMcuAverage": 1
+  },
+  {
     "title": "Vacation",
     "year": "2015/I",
     "actors": [
@@ -10157,19 +9544,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Kill the Irishman",
-    "year": "2011",
-    "actors": [
-      "Ray Stevenson",
-      "Linda Cardellini"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 27,
-    "actorsPowerCareerAverage": 14,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
     "title": "American Violet",
     "year": "2008",
     "actors": [
@@ -10214,6 +9588,19 @@
     "actors": [
       "Michael Rooker",
       "Danai Gurira"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 28,
+    "actorsPowerCareerAverage": 14,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Dinner for Schmucks",
+    "year": "2010",
+    "actors": [
+      "Stephanie Szostak",
+      "Paul Rudd"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 28,
@@ -10287,21 +9674,21 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Chatroom",
-    "year": "2010",
+    "title": "American Dad!",
+    "year": "2017",
     "actors": [
-      "Aaron Taylor-Johnson",
-      "Daniel Kaluuya"
+      "Walton Goggins",
+      "Colin Ford"
     ],
     "actorsCount": 2,
-    "actorsPowerCareerTotal": 28,
+    "actorsPowerCareerTotal": 27,
     "actorsPowerCareerAverage": 14,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
   },
   {
-    "title": "Kick-Ass 2",
-    "year": "2013",
+    "title": "Chatroom",
+    "year": "2010",
     "actors": [
       "Aaron Taylor-Johnson",
       "Daniel Kaluuya"
@@ -10413,7 +9800,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 26,
     "actorsPowerCareerAverage": 13,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
   },
   {
@@ -10426,7 +9813,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 26,
     "actorsPowerCareerAverage": 13,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
   },
   {
@@ -10448,19 +9835,6 @@
     "actors": [
       "Chadwick Boseman",
       "Sterling K. Brown"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 25,
-    "actorsPowerCareerAverage": 13,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
-    "title": "Heist",
-    "year": "2015/III",
-    "actors": [
-      "Dave Bautista",
-      "Joshua Mikel"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 25,
@@ -10534,19 +9908,6 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Comanche Moon",
-    "year": "2008",
-    "actors": [
-      "Linda Cardellini",
-      "Karl Urban"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 25,
-    "actorsPowerCareerAverage": 13,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
     "title": "CSI: Crime Scene Investigation",
     "year": "2005",
     "actors": [
@@ -10584,19 +9945,6 @@
     "actorsPowerCareerAverage": 13,
     "actorsPowerMcuTotal": 4,
     "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "The Good Lie",
-    "year": "2014",
-    "actors": [
-      "Corey Stoll",
-      "Joshua Mikel"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 26,
-    "actorsPowerCareerAverage": 13,
-    "actorsPowerMcuTotal": 2,
-    "actorsPowerMcuAverage": 1
   },
   {
     "title": "Mary Queen of Scots",
@@ -10647,7 +9995,7 @@
     "actorsCount": 2,
     "actorsPowerCareerTotal": 23,
     "actorsPowerCareerAverage": 12,
-    "actorsPowerMcuTotal": 8,
+    "actorsPowerMcuTotal": 7,
     "actorsPowerMcuAverage": 4
   },
   {
@@ -10755,6 +10103,32 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "Bride Wars",
+    "year": "2009",
+    "actors": [
+      "Chris Pratt",
+      "Colin Ford"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 24,
+    "actorsPowerCareerAverage": 12,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Disconnect",
+    "year": "2012/I",
+    "actors": [
+      "Frank Grillo",
+      "Colin Ford"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 23,
+    "actorsPowerCareerAverage": 12,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Wolf Warrior 2",
     "year": "2017",
     "actors": [
@@ -10799,19 +10173,6 @@
     "actors": [
       "Daniel Kaluuya",
       "Gemma Chan"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 24,
-    "actorsPowerCareerAverage": 12,
-    "actorsPowerMcuTotal": 2,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Game Night",
-    "year": "2018/I",
-    "actors": [
-      "Rachel McAdams",
-      "Joshua Mikel"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 24,
@@ -10963,11 +10324,24 @@
     "actorsPowerMcuAverage": 3
   },
   {
-    "title": "Random",
-    "year": "2011",
+    "title": "Shanghai",
+    "year": "2010",
     "actors": [
-      "Daniel Kaluuya",
-      "Letitia Wright"
+      "Benedict Wong",
+      "Gemma Chan"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 21,
+    "actorsPowerCareerAverage": 11,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "The IT Crowd",
+    "year": "2010",
+    "actors": [
+      "Benedict Wong",
+      "Gemma Chan"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 21,
@@ -10994,6 +10368,19 @@
     "actors": [
       "David Dastmalchian",
       "Mckenna Grace"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 21,
+    "actorsPowerCareerAverage": 11,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
+    "title": "Disney Tangled: The Video Game",
+    "year": "2010",
+    "actors": [
+      "Zachary Levi",
+      "Colin Ford"
     ],
     "actorsCount": 2,
     "actorsPowerCareerTotal": 21,
@@ -11197,6 +10584,19 @@
     "actorsPowerMcuAverage": 2
   },
   {
+    "title": "Covert Affairs",
+    "year": "2011",
+    "actors": [
+      "Jaimie Alexander",
+      "Benedict Wong"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 20,
+    "actorsPowerCareerAverage": 10,
+    "actorsPowerMcuTotal": 4,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "Collision",
     "year": "2013",
     "actors": [
@@ -11366,32 +10766,6 @@
     "actorsPowerMcuAverage": 2
   },
   {
-    "title": "Warcraft: The Beginning",
-    "year": "2016",
-    "actors": [
-      "Dominic Cooper",
-      "Robert Kazinsky"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 17,
-    "actorsPowerCareerAverage": 9,
-    "actorsPowerMcuTotal": 2,
-    "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Drake: Nice for What",
-    "year": "2018",
-    "actors": [
-      "Zoe Saldana",
-      "Letitia Wright"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 15,
-    "actorsPowerCareerAverage": 8,
-    "actorsPowerMcuTotal": 5,
-    "actorsPowerMcuAverage": 3
-  },
-  {
     "title": "Life on Mars",
     "year": "2009",
     "actors": [
@@ -11509,6 +10883,19 @@
     "actorsPowerMcuAverage": 3
   },
   {
+    "title": "Every Day",
+    "year": "2018",
+    "actors": [
+      "Jacob Batalon",
+      "Colin Ford"
+    ],
+    "actorsCount": 2,
+    "actorsPowerCareerTotal": 12,
+    "actorsPowerCareerAverage": 6,
+    "actorsPowerMcuTotal": 3,
+    "actorsPowerMcuAverage": 2
+  },
+  {
     "title": "The Sopranos",
     "year": "2007",
     "actors": [
@@ -11520,31 +10907,5 @@
     "actorsPowerCareerAverage": 6,
     "actorsPowerMcuTotal": 2,
     "actorsPowerMcuAverage": 1
-  },
-  {
-    "title": "Banana",
-    "year": "2015",
-    "actors": [
-      "Letitia Wright",
-      "Hannah John-Kamen"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 8,
-    "actorsPowerCareerAverage": 4,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
-  },
-  {
-    "title": "Cucumber",
-    "year": "2015",
-    "actors": [
-      "Letitia Wright",
-      "Hannah John-Kamen"
-    ],
-    "actorsCount": 2,
-    "actorsPowerCareerTotal": 8,
-    "actorsPowerCareerAverage": 4,
-    "actorsPowerMcuTotal": 3,
-    "actorsPowerMcuAverage": 2
   }
 ]
