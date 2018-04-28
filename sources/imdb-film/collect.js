@@ -81,7 +81,7 @@ const collect = async () => {
 
       if (filmInfo.status && filmInfo.status !== 'Announced') {
         const filmCast = yield nightmare.goto(`${f.url}fullcredits#cast`)
-          .wait('.cast_list')
+          // .wait('.cast_list')
           .evaluate(() => {
             const castEl = document.querySelectorAll('.cast_list tr[class]');
             const cast = [];

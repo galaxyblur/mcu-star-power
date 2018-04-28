@@ -51,9 +51,11 @@ const collect = async () => {
         continue;
       }
 
+      const searchLink = `table.findList tr.findResult${a.actorName === 'Michael Douglas' ? ':nth-child(2)' : ''} td.result_text a`;
+
       const actorInfo = yield nightmare.goto(`http://www.imdb.com/find?q=${a.actorName.toLowerCase()}&s=nm&exact=true&ref_=fn_nm_ex`)
         .wait('#findSubHeader')
-        .click('table.findList tr.findResult td.result_text a')
+        .click(searchLink)
         .wait('#content-2-wide')
         .evaluate(() => {
           const imgEl = document.querySelector('#name-poster');
