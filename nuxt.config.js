@@ -9,9 +9,19 @@ module.exports = {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Power Rankings of actors and films in the Marvel Cinematic Universe, including Avengers: Infinity War!' },
       { name: 'google-site-verification', content: 'N3xu6QlIu2uUYtlVcqOqO8YoFDSjJs_QAuWPYHTnBrg' },
+      { name: 'apple-mobile-web-app-title', content: 'MCU Power' },
+      { name: 'application-name', content: 'MCU Power' },
+      { name: 'msapplication-TileColor', content: '#333333' },
+      { name: 'theme-color', content: '#333333' }
     ],
     link: [
-      // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico?M4yvjBwE7j' },
+      { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png?M4yvjBwE7j' },
+      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png?v=M4yvjBwE7j' },
+      { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png?v=M4yvjBwE7j' },
+      { rel: 'manifest', href: '/site.webmanifest?v=M4yvjBwE7j' },
+      { rel: 'mask-icon', href: '/safari-pinned-tab.svg?v=M4yvjBwE7j', color: '#333333' },
+      { rel: 'shortcut icon', href: '/favicon.ico?v=M4yvjBwE7j' }
     ]
   },
 
