@@ -1,7 +1,7 @@
 <template>
-  <div class="uk-text-center">
-    <h3 class="uk-h4 uk-margin-small uk-margin-top">The Stars of</h3>
-    <h1 class="uk-margin-small">Avengers: Infinity War</h1>
-    <h2 class="uk-margin-small">and the Marvel Cinematic Universe</h2>
+  <div class="text-center m-5">
+    <h3 class="h4 m-2 mt-3">The Stars of</h3>
+    <h1 class="m-2">Avengers: Infinity War</h1>
+    <h2 class="m-2">and the Marvel Cinematic Universe</h2>
   </div>
 </template>

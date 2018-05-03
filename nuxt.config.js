@@ -34,6 +34,7 @@ module.exports = {
     '@nuxtjs/axios',
     '@nuxtjs/font-awesome',
     '@nuxtjs/sitemap',
+    'bootstrap-vue/nuxt',
     ['nuxt-matomo', { matomoUrl: '//matomo.capoeiraonline.org/piwik/', siteId: 2 }],
   ],
 
@@ -43,12 +44,10 @@ module.exports = {
   },
 
   css: [
-    'uikit/dist/css/uikit.css',
-    '@/assets/less/index.less',
+    '@/assets/scss/index.scss',
   ],
 
   plugins: [
-    { src: '~/plugins/uikit.js', ssr: false },
   ],
 
   /*
@@ -81,6 +80,18 @@ module.exports = {
           format: 'png',
         },
       });
+
+      const vueLoader = config.module.rules.find((rule) => rule.loader === 'vue-loader')
+      vueLoader.options.transformToRequire = {
+        'img': 'src',
+        'image': 'xlink:href',
+        'b-img': 'src',
+        'b-img-lazy': ['src', 'blank-src'],
+        'b-card': 'img-src',
+        'b-card-img': 'img-src',
+        'b-carousel-slide': 'img-src',
+        'b-embed': 'src'
+      };
     },
   }
 }

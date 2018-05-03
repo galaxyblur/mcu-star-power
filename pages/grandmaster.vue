@@ -1,19 +1,15 @@
 <template>
-  <div class="uk-container uk-container-expand">
+  <b-container fluid>
 
-    <section class="uk-section">
+    <tabs />
 
-      <tabs />
+    <b-row>
+      <b-col sm="6" md="4" lg="3" v-for="(a, ai) in affForGrandmaster" :key="ai">
+        <affiliate-card :affiliate-item="a" />
+      </b-col>
+    </b-row>
 
-      <div>
-        <div class="uk-flex uk-flex-wrap uk-child-width-1-5@xl uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-2@s">
-          <affiliate-card v-for="(a, ai) in affForGrandmaster" :key="ai" :affiliate-item="a" />
-        </div>
-      </div>
-
-    </section>
-
-  </div>
+  </b-container>
 </template>
 
 <script>

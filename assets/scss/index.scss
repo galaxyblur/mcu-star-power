@@ -1,0 +1,39 @@
+$primary: #984E85;
+$success: #3ABF80;
+$warning: #CEA0AA;
+$danger: #D7B787;
+
+$body-bg: #070612;
+$body-color: #eee;
+
+$modal-content-bg: $body-bg;
+
+$link-color: violet;
+$link-hover-color: fuchsia;
+
+$nav-tabs-link-active-color: $link-hover-color;
+
+$border-color: #999;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.actor-card-bg-fade {
+  background-color: transparent;
+    /* IE10+ */
+  background-image: -ms-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* Mozilla Firefox */
+  background-image: -moz-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* Opera */
+  background-image: -o-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* Webkit (Safari/Chrome 10) */
+  background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, rgba(0,0,0,0)), color-stop(100, #000000));
+
+  /* Webkit (Chrome 11+) */
+  background-image: -webkit-linear-gradient(top left, rgba(0,0,0,0) 0%, #000000 100%);
+
+  /* W3C Markup */
+  background-image: linear-gradient(to bottom right, rgba(0,0,0,0) 0%, #000000 100%);
+}

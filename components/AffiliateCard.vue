@@ -1,16 +1,16 @@
 <template>
-  <div class="affiliate-card uk-padding-small">
-    <div class="uk-card uk-card-default uk-height-1-1 uk-box-shadow-large">
-      <div class="uk-card-header uk-text-center">
-        <h4 class="uk-card-title">{{ affiliateItem.title }}</h4>
+  <div class="affiliate-card p-2">
+    <b-card :title="affiliateItem.title"
+        :img-src="affiliateItem.image"
+        :img-alt="affiliateItem.title"
+        img-top
+        tag="article"
+        bg-variant="dark"
+        class="mb-2 pb-4 text-center position-relative">
+      <div class="affiliate-card-btn position-absolute pb-3">
+        <b-button :href="affiliateItem.link" variant="primary" target="_blank">Buy it on Amazon</b-button>
       </div>
-      <div class="uk-card-body uk-text-center">
-        <img :src="affiliateItem.image">
-      </div>
-      <div class="uk-card-footer uk-text-center">
-        <a class="uk-button uk-button-primary" :href="affiliateItem.link" target="_blank">Buy it on Amazon</a>
-      </div>
-    </div>
+    </b-card>
   </div>
 </template>
 
@@ -21,15 +21,16 @@ export default {
 </script>
 
 <style>
-.affiliate-card .uk-card-header {
-  min-height: 56px;
+.affiliate-card .card-body {
 }
 
-.affiliate-card .uk-card-title {
-  font-size: 1.25rem; /* a la uk-h4 */
+.affiliate-card .affiliate-card-btn {
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
-.affiliate-card .uk-button-primary {
+.affiliate-card .btn-primary {
   background-color: #F0C668;
   color: #222;
 }

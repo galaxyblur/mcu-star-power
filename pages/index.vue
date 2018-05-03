@@ -1,30 +1,23 @@
 <template>
-  <div class="uk-container uk-container-expand">
-
+  <b-container fluid>
     <icons />
+    <tabs />
 
-    <section class="uk-section">
+    <div class="mt-4">
+      <b-nav pills>
+        <b-nav-item :active="this.sort === 'powerCareer'" @click="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></b-nav-item>
+        <b-nav-item :active="this.sort === 'powerMcu'" @click="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></b-nav-item>
+      </b-nav>
 
-      <tabs />
-
-      <div>
-        <div class="uk-flex">
-          <ul class="uk-width-auto@m uk-width-1-1@s uk-subnav uk-subnav-pill uk-margin-top">
-            <li :class="{ 'uk-active': this.sort === 'powerCareer' }"><a href="#" @click.prevent="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></a></li>
-            <li :class="{ 'uk-active': this.sort === 'powerMcu' }"><a href="#" @click.prevent="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></a></li>
-          </ul>
-        </div>
-
-        <div class="uk-flex uk-flex-wrap uk-child-width-1-5@xl uk-child-width-1-4@l uk-child-width-1-3@m uk-child-width-1-2@s">
-          <actor-card v-for="(a, ai) in actorsSorted" :key="ai" :actor="a" :actor-last-seen-el="getLastMcuFilmElForActor(a)" @select-actor="handleSelectActor" />
-        </div>
-      </div>
-
-    </section>
+      <b-row class="mt-3">
+        <b-col sm="12" md="6" lg="4" v-for="(a, ai) in actorsSorted" :key="ai">
+          <actor-card :actor="a" :actor-last-seen-el="getLastMcuFilmElForActor(a)" @select-actor="handleSelectActor" />
+        </b-col>
+      </b-row>
+    </div>
 
     <actor-modal :actor="selectedActor" :actor-mcu-list="getMcuListForActor(selectedActor)" @unselect-actor="handleUnselectActor" />
-
-  </div>
+  </b-container>
 </template>
 
 <script>
@@ -123,10 +116,14 @@ export default {
 .icon {
   width: 24px;
   height: 24px;
-  fill: #ccc;
+  fill: #eee;
 }
 
-.uk-subnav .icon {
-  fill: #ccc;
+.nav .nav-link .icon {
+  vertical-align: middle;
+}
+
+.nav .nav-link:not(.active) .icon {
+  fill: violet;
 }
 </style>

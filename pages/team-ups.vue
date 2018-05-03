@@ -1,38 +1,17 @@
 <template>
-  <div class="uk-container uk-container-expand">
+  <b-container fluid>
 
-    <section class="uk-section">
+    <tabs />
 
-      <tabs />
+    <div>
+      <b-table small :items="filmsInCommon" :fields="fields" thead-class="team-ups-thead">
+        <template slot="link" slot-scope="data">
+          <a :href="data.item.link" target="_blank">Search IMDB</a>
+        </template>
+      </b-table>
+    </div>
 
-      <div>
-        <table class="uk-table uk-table-small uk-table-divider">
-          <thead>
-            <tr>
-              <th>Title</th>
-              <th>MCU Actors</th>
-              <th>Average Career Power</th>
-              <th>Average MCU Power</th>
-              <th>Link</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="(f, fi) in filmsInCommon" :key="fi">
-              <td>{{ f.title }} ({{ f.year }})</td>
-              <td>({{ f.actors.length }}) {{ f.actors.join(', ') }}</td>
-              <td>{{ f.actorsPowerCareerAverage }}</td>
-              <td>{{ f.actorsPowerMcuAverage }}</td>
-              <td>
-                <a :href="'https://www.imdb.com/find?ref_=nv_sr_fn&s=all&q=' + f.title" target="_blank">Search IMDB</a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-    </section>
-
-  </div>
+  </b-container>
 </template>
 
 <script>
@@ -53,6 +32,10 @@ export default {
   async asyncData({ app }) {
     const filmsInCommon = await app.$axios.get('json/films-in-common.json');
 
+    if (filmsInCommon.data && filmsInCommon.data.length > 0) {
+      filmsInCommon.data.forEach(f => f.link = `https://www.imdb.com/find?ref_=nv_sr_fn&s=all&q=${f.title}`);
+    }
+
     return {
       filmsInCommon: filmsInCommon.data,
     };
@@ -60,10 +43,43 @@ export default {
   data() {
     return {
       filmsInCommon: [],
+      fields: [
+        {
+          key: 'title',
+          label: 'Title',
+          sortable: true,
+        },
+        {
+          key: 'actors',
+          label: 'MCU Actors',
+          sortable: false,
+          formatter(val) {
+            return `(${val.length}) ${val.join(', ')}`;
+          },
+        },
+        {
+          key: 'actorsPowerCareerAverage',
+          label: 'Average Career Power',
+          sortable: true,
+        },
+        {
+          key: 'actorsPowerMcuAverage',
+          label: 'Average MCU Power',
+          sortable: true,
+        },
+        {
+          key: 'link',
+          label: 'Link',
+          sortable: false,
+        },
+      ],
     };
   },
 };
 </script>
 
 <style>
+.team-ups-thead th {
+  border-top-width: 0;
+}
 </style>
