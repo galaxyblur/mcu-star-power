@@ -11,7 +11,17 @@ import {
   uniqueId,
 } from 'lodash';
 
-const alwaysIncludeActors = [ 'Stan Lee', 'Angela Bassett', 'Forest Whitaker', 'Andy Serkis', 'Winston Duke', 'Jacob Batalon' ];
+const alwaysIncludeActors = [
+  'Stan Lee',
+  'Ty Simpkins',
+  'Angela Bassett',
+  'Forest Whitaker',
+  'Andy Serkis',
+  'Winston Duke',
+  'Jacob Batalon',
+  'Peter Dinklage',
+  'Laurence Fishburne',
+];
 const neverIncludeActors = [ 'Paul Soles' ];
 
 const loadData = async () => {

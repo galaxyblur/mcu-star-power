@@ -121,7 +121,7 @@
     "powerMcu": 9,
     "id": "actor-1",
     "actorName": "Robert Downey Jr.",
-    "castPositionTotal": 18,
+    "castPositionTotal": 16,
     "castPositionAverage": 2
   },
   {
@@ -151,7 +151,7 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 92,
+    "filmsCount": 91,
     "powerCareer": 22,
     "powerMcu": 1,
     "id": "actor-2",
@@ -395,7 +395,7 @@
     "powerMcu": 7,
     "id": "actor-4",
     "actorName": "Gwyneth Paltrow",
-    "castPositionTotal": 65,
+    "castPositionTotal": 66,
     "castPositionAverage": 9
   },
   {
@@ -497,7 +497,7 @@
     "powerMcu": 5,
     "id": "actor-8",
     "actorName": "Clark Gregg",
-    "castPositionTotal": 39,
+    "castPositionTotal": 40,
     "castPositionAverage": 8
   },
   {
@@ -644,8 +644,8 @@
     "powerMcu": 5,
     "id": "actor-12",
     "actorName": "Jon Favreau",
-    "castPositionTotal": 50,
-    "castPositionAverage": 10
+    "castPositionTotal": 53,
+    "castPositionAverage": 11
   },
   {
     "awards": [
@@ -1036,8 +1036,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 82,
-    "powerCareer": 16,
+    "filmsCount": 83,
+    "powerCareer": 17,
     "powerMcu": 1,
     "id": "actor-66",
     "actorName": "Tim Blake Nelson",
@@ -1331,15 +1331,20 @@
         "title": "Avengers: Infinity War",
         "characterName": "James Rhodes / War Machine",
         "isReleased": true
+      },
+      {
+        "title": "Untitled Avengers Movie",
+        "characterName": "James Rhodes / War Machine",
+        "isReleased": false
       }
     ],
-    "filmsCount": 85,
+    "filmsCount": 86,
     "powerCareer": 50,
-    "powerMcu": 5,
+    "powerMcu": 6,
     "id": "actor-129",
     "actorName": "Don Cheadle",
-    "castPositionTotal": 27,
-    "castPositionAverage": 5
+    "castPositionTotal": 46,
+    "castPositionAverage": 8
   },
   {
     "awards": [
@@ -1418,12 +1423,12 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 61,
+    "filmsCount": 62,
     "powerCareer": 22,
     "powerMcu": 7,
     "id": "actor-130",
     "actorName": "Scarlett Johansson",
-    "castPositionTotal": 28,
+    "castPositionTotal": 31,
     "castPositionAverage": 4
   },
   {
@@ -1837,8 +1842,8 @@
     "powerMcu": 7,
     "id": "actor-179",
     "actorName": "Chris Hemsworth",
-    "castPositionTotal": 16,
-    "castPositionAverage": 2
+    "castPositionTotal": 18,
+    "castPositionAverage": 3
   },
   {
     "awards": [
@@ -2733,7 +2738,7 @@
     "powerMcu": 5,
     "id": "actor-227",
     "actorName": "Sebastian Stan",
-    "castPositionTotal": 34,
+    "castPositionTotal": 36,
     "castPositionAverage": 7
   },
   {
@@ -3248,15 +3253,20 @@
         "title": "Avengers: Infinity War",
         "characterName": "Bruce Banner / Hulk",
         "isReleased": true
+      },
+      {
+        "title": "Untitled Avengers Movie",
+        "characterName": "Bruce Banner / Hulk",
+        "isReleased": false
       }
     ],
-    "filmsCount": 67,
-    "powerCareer": 32,
-    "powerMcu": 4,
+    "filmsCount": 68,
+    "powerCareer": 33,
+    "powerMcu": 5,
     "id": "actor-317",
     "actorName": "Mark Ruffalo",
-    "castPositionTotal": 17,
-    "castPositionAverage": 4
+    "castPositionTotal": 30,
+    "castPositionAverage": 6
   },
   {
     "awards": [
@@ -3675,8 +3685,8 @@
     "powerMcu": 2,
     "id": "actor-363",
     "actorName": "Ty Simpkins",
-    "castPositionTotal": 28,
-    "castPositionAverage": 14
+    "castPositionTotal": 31,
+    "castPositionAverage": 16
   },
   {
     "awards": [
@@ -4318,7 +4328,7 @@
     "powerMcu": 2,
     "id": "actor-538",
     "actorName": "Djimon Hounsou",
-    "castPositionTotal": 18,
+    "castPositionTotal": 17,
     "castPositionAverage": 9
   },
   {
@@ -4607,15 +4617,20 @@
         "title": "Ant-Man and the Wasp",
         "characterName": "Scott Lang / Ant-Man",
         "isReleased": false
+      },
+      {
+        "title": "Untitled Avengers Movie",
+        "characterName": "Scott Lang / Ant-Man",
+        "isReleased": false
       }
     ],
-    "filmsCount": 107,
-    "powerCareer": 21,
-    "powerMcu": 3,
+    "filmsCount": 108,
+    "powerCareer": 22,
+    "powerMcu": 4,
     "id": "actor-645",
     "actorName": "Paul Rudd",
-    "castPositionTotal": 16,
-    "castPositionAverage": 5
+    "castPositionTotal": 28,
+    "castPositionAverage": 7
   },
   {
     "awards": [
@@ -4801,7 +4816,7 @@
     "powerMcu": 2,
     "id": "actor-646",
     "actorName": "Michael Douglas",
-    "castPositionTotal": 9,
+    "castPositionTotal": 10,
     "castPositionAverage": 5
   },
   {
@@ -4979,7 +4994,7 @@
     "powerMcu": 2,
     "id": "actor-652",
     "actorName": "Michael Peña",
-    "castPositionTotal": 17,
+    "castPositionTotal": 18,
     "castPositionAverage": 9
   },
   {
@@ -4997,12 +5012,12 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 61,
+    "filmsCount": 62,
     "powerCareer": 12,
     "powerMcu": 2,
     "id": "actor-653",
     "actorName": "David Dastmalchian",
-    "castPositionTotal": 21,
+    "castPositionTotal": 22,
     "castPositionAverage": 11
   },
   {
@@ -5020,13 +5035,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 42,
-    "powerCareer": 8,
+    "filmsCount": 106,
+    "powerCareer": 21,
     "powerMcu": 2,
     "id": "actor-654",
     "actorName": "T.I.",
-    "castPositionTotal": 28,
-    "castPositionAverage": 14
+    "castPositionTotal": 26,
+    "castPositionAverage": 13
   },
   {
     "awards": [],
@@ -5059,7 +5074,7 @@
     "powerMcu": 4,
     "id": "actor-704",
     "actorName": "Chadwick Boseman",
-    "castPositionTotal": 28,
+    "castPositionTotal": 27,
     "castPositionAverage": 7
   },
   {
@@ -5140,8 +5155,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 23,
-    "powerCareer": 22,
+    "filmsCount": 22,
+    "powerCareer": 21,
     "powerMcu": 3,
     "id": "actor-705",
     "actorName": "Tom Holland",
@@ -5221,7 +5236,7 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 78,
+    "filmsCount": 79,
     "powerCareer": 31,
     "powerMcu": 2,
     "id": "actor-707",
@@ -5433,7 +5448,7 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 71,
+    "filmsCount": 72,
     "powerCareer": 47,
     "powerMcu": 3,
     "id": "actor-781",
@@ -5517,7 +5532,7 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 49,
+    "filmsCount": 50,
     "powerCareer": 29,
     "powerMcu": 1,
     "id": "actor-782",
@@ -5733,7 +5748,7 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 56,
+    "filmsCount": 57,
     "powerCareer": 11,
     "powerMcu": 1,
     "id": "actor-789",
@@ -5846,7 +5861,7 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 79,
+    "filmsCount": 78,
     "powerCareer": 29,
     "powerMcu": 1,
     "id": "actor-809",
@@ -6022,8 +6037,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 83,
-    "powerCareer": 30,
+    "filmsCount": 82,
+    "powerCareer": 29,
     "powerMcu": 1,
     "id": "actor-844",
     "actorName": "Donald Glover",
@@ -6296,7 +6311,7 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 48,
+    "filmsCount": 50,
     "powerCareer": 12,
     "powerMcu": 1,
     "id": "actor-894",
@@ -6380,8 +6395,8 @@
         "isReleased": true
       }
     ],
-    "filmsCount": 21,
-    "powerCareer": 10,
+    "filmsCount": 23,
+    "powerCareer": 11,
     "powerMcu": 1,
     "id": "actor-922",
     "actorName": "Lupita Nyong'o",
@@ -6665,6 +6680,74 @@
   {
     "awards": [
       {
+        "event": "GOLDEN_GLOBES",
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Game of Thrones",
+        "winner": true,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": true,
+        "year": "2015"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": true,
+        "year": "2011"
+      }
+    ],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Avengers: Infinity War",
+        "characterName": "Eitri",
+        "isReleased": true
+      }
+    ],
+    "filmsCount": 76,
+    "powerCareer": 25,
+    "powerMcu": 1,
+    "id": "actor-977",
+    "actorName": "Peter Dinklage",
+    "castPositionTotal": 19,
+    "castPositionAverage": 19
+  },
+  {
+    "awards": [
+      {
         "event": "OSCARS",
         "category": "ACTOR IN A SUPPORTING ROLE",
         "character": "{\"Dan White\"}",
@@ -6710,8 +6793,8 @@
     "powerMcu": 1,
     "id": "actor-992",
     "actorName": "Hannah John-Kamen",
-    "castPositionTotal": 1,
-    "castPositionAverage": 1
+    "castPositionTotal": 3,
+    "castPositionAverage": 3
   },
   {
     "awards": [
@@ -6825,13 +6908,31 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 61,
+    "filmsCount": 62,
     "powerCareer": 38,
     "powerMcu": 1,
     "id": "actor-993",
     "actorName": "Michelle Pfeiffer",
-    "castPositionTotal": 3,
-    "castPositionAverage": 3
+    "castPositionTotal": 4,
+    "castPositionAverage": 4
+  },
+  {
+    "awards": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BM2ZiNmI4NWMtODFlYS00MDg5LThjMTItY2U3Nzk3ZTNmNGY4XkEyXkFqcGdeQXVyNjQ2MDAzMTg@._V1_UY317_CR20,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Ant-Man and the Wasp",
+        "characterName": "Tourist",
+        "isReleased": false
+      }
+    ],
+    "filmsCount": 45,
+    "powerCareer": 9,
+    "powerMcu": 1,
+    "id": "actor-994",
+    "actorName": "Marcella Bragio",
+    "castPositionTotal": 5,
+    "castPositionAverage": 5
   },
   {
     "awards": [
@@ -6854,10 +6955,10 @@
     "filmsCount": 81,
     "powerCareer": 17,
     "powerMcu": 1,
-    "id": "actor-994",
+    "id": "actor-995",
     "actorName": "Walton Goggins",
-    "castPositionTotal": 5,
-    "castPositionAverage": 5
+    "castPositionTotal": 7,
+    "castPositionAverage": 7
   },
   {
     "awards": [
@@ -6948,13 +7049,13 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 109,
+    "filmsCount": 110,
     "powerCareer": 46,
     "powerMcu": 1,
-    "id": "actor-995",
+    "id": "actor-996",
     "actorName": "Laurence Fishburne",
-    "castPositionTotal": 9,
-    "castPositionAverage": 9
+    "castPositionTotal": 11,
+    "castPositionAverage": 11
   },
   {
     "awards": [
@@ -7001,13 +7102,31 @@
         "isReleased": false
       }
     ],
-    "filmsCount": 57,
-    "powerCareer": 22,
+    "filmsCount": 58,
+    "powerCareer": 23,
     "powerMcu": 2,
-    "id": "actor-1092",
+    "id": "actor-1093",
     "actorName": "Brie Larson",
-    "castPositionTotal": 9,
-    "castPositionAverage": 5
+    "castPositionTotal": 4,
+    "castPositionAverage": 2
+  },
+  {
+    "awards": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BMTk5NjQ2ODgzN15BMl5BanBnXkFtZTgwNTE5NTM4MTE@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "Minn-Erva",
+        "isReleased": false
+      }
+    ],
+    "filmsCount": 37,
+    "powerCareer": 7,
+    "powerMcu": 1,
+    "id": "actor-1094",
+    "actorName": "Gemma Chan",
+    "castPositionTotal": 3,
+    "castPositionAverage": 3
   },
   {
     "awards": [
@@ -7051,10 +7170,28 @@
     "filmsCount": 77,
     "powerCareer": 21,
     "powerMcu": 1,
-    "id": "actor-1093",
+    "id": "actor-1095",
     "actorName": "Ben Mendelsohn",
-    "castPositionTotal": 3,
-    "castPositionAverage": 3
+    "castPositionTotal": 5,
+    "castPositionAverage": 5
+  },
+  {
+    "awards": [],
+    "img": "https://ia.media-imdb.com/images/M/MV5BNTY5NDJmODUtNzNhMi00ZTYyLWI0NDEtYTc5ZGUyNjEwMTgxXkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_UY317_CR4,0,214,317_AL_.jpg",
+    "filmsMcu": [
+      {
+        "title": "Captain Marvel",
+        "characterName": "",
+        "isReleased": false
+      }
+    ],
+    "filmsCount": 46,
+    "powerCareer": 9,
+    "powerMcu": 1,
+    "id": "actor-1096",
+    "actorName": "Mckenna Grace",
+    "castPositionTotal": 6,
+    "castPositionAverage": 6
   },
   {
     "awards": [
@@ -7128,44 +7265,8 @@
     "filmsCount": 71,
     "powerCareer": 27,
     "powerMcu": 1,
-    "id": "actor-1094",
+    "id": "actor-1097",
     "actorName": "Jude Law",
-    "castPositionTotal": 5,
-    "castPositionAverage": 5
-  },
-  {
-    "awards": [],
-    "img": "https://ia.media-imdb.com/images/M/MV5BNTY5NDJmODUtNzNhMi00ZTYyLWI0NDEtYTc5ZGUyNjEwMTgxXkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_UY317_CR4,0,214,317_AL_.jpg",
-    "filmsMcu": [
-      {
-        "title": "Captain Marvel",
-        "characterName": "",
-        "isReleased": false
-      }
-    ],
-    "filmsCount": 46,
-    "powerCareer": 9,
-    "powerMcu": 1,
-    "id": "actor-1095",
-    "actorName": "Mckenna Grace",
-    "castPositionTotal": 6,
-    "castPositionAverage": 6
-  },
-  {
-    "awards": [],
-    "img": "https://ia.media-imdb.com/images/M/MV5BMTk5NjQ2ODgzN15BMl5BanBnXkFtZTgwNTE5NTM4MTE@._V1_UY317_CR4,0,214,317_AL_.jpg",
-    "filmsMcu": [
-      {
-        "title": "Captain Marvel",
-        "characterName": "Minn-Erva",
-        "isReleased": false
-      }
-    ],
-    "filmsCount": 37,
-    "powerCareer": 7,
-    "powerMcu": 1,
-    "id": "actor-1096",
-    "actorName": "Gemma Chan",
     "castPositionTotal": 7,
     "castPositionAverage": 7
   },
@@ -7182,7 +7283,7 @@
     "filmsCount": 49,
     "powerCareer": 10,
     "powerMcu": 1,
-    "id": "actor-1097",
+    "id": "actor-1098",
     "actorName": "Colin Ford",
     "castPositionTotal": 10,
     "castPositionAverage": 10

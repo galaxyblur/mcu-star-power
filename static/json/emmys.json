@@ -1647,5 +1647,67 @@
     "actorName": "Robert Kazinsky",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Sean Gunn",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Benedict Wong",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Peter Dinklage",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": true,
+        "year": "2015"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": true,
+        "year": "2011"
+      }
+    ],
+    "power": 8
+  },
+  {
+    "actorName": "Marcella Bragio",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Colin Ford",
+    "awards": [],
+    "power": 0
   }
 ]

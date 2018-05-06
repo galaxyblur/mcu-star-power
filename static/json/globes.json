@@ -1706,5 +1706,37 @@
     "actorName": "Robert Kazinsky",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Sean Gunn",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Benedict Wong",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Peter Dinklage",
+    "awards": [
+      {
+        "category": "BEST PERFORMANCE BY AN ACTOR IN A SUPPORTING ROLE IN A SERIES, LIMITED SERIES OR MOTION PICTURE MADE FOR TELEVISION",
+        "title": "Game of Thrones",
+        "winner": true,
+        "year": "2012"
+      }
+    ],
+    "power": 2
+  },
+  {
+    "actorName": "Marcella Bragio",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Colin Ford",
+    "awards": [],
+    "power": 0
   }
 ]
