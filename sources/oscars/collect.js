@@ -69,7 +69,7 @@ const collect = async () => {
             const character = row.querySelector('.col-lg-10 .awards-result-character div');
 
             if (character) {
-              award.character = character.innerText;
+              award.character = character.innerText.replace(/{"|"}/g, '');
               award.year = row.querySelector('.col-lg-2 .result-subgroup-title a').innerText;
               award.title = row.querySelector('.col-lg-10 .awards-result-film-title a').innerText;
               award.category = row.querySelector('.col-lg-10 .awards-result-awardcategory-exact a').innerText;

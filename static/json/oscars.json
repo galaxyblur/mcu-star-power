@@ -4,14 +4,14 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Charles Chaplin\"}",
+        "character": "Charles Chaplin",
         "title": "Chaplin",
         "winner": false,
         "year": "1992 (65th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Kirk Lazarus\"}",
+        "character": "Kirk Lazarus",
         "title": "Tropic Thunder",
         "winner": false,
         "year": "2008 (81st)"
@@ -24,7 +24,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"DJay\"}",
+        "character": "DJay",
         "title": "Hustle & Flow",
         "winner": false,
         "year": "2005 (78th)"
@@ -37,49 +37,49 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Duane Jackson\"}",
+        "character": "Duane Jackson",
         "title": "The Last Picture Show",
         "winner": false,
         "year": "1971 (44th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Lightfoot\"}",
+        "character": "Lightfoot",
         "title": "Thunderbolt and Lightfoot",
         "winner": false,
         "year": "1974 (47th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Starman\"}",
+        "character": "Starman",
         "title": "Starman",
         "winner": false,
         "year": "1984 (57th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"President Jackson Evans\"}",
+        "character": "President Jackson Evans",
         "title": "The Contender",
         "winner": false,
         "year": "2000 (73rd)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Bad Blake\"}",
+        "character": "Bad Blake",
         "title": "Crazy Heart",
         "winner": true,
         "year": "2009 (82nd)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Rooster Cogburn\"}",
+        "character": "Rooster Cogburn",
         "title": "True Grit",
         "winner": false,
         "year": "2010 (83rd)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Marcus Hamilton\"}",
+        "character": "Marcus Hamilton",
         "title": "Hell or High Water",
         "winner": false,
         "year": "2016 (89th)"
@@ -92,7 +92,7 @@
     "awards": [
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Viola De Lesseps\"}",
+        "character": "Viola De Lesseps",
         "title": "Shakespeare in Love",
         "winner": true,
         "year": "1998 (71st)"
@@ -150,21 +150,21 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Aaron Stampler\"}",
+        "character": "Aaron Stampler",
         "title": "Primal Fear",
         "winner": false,
         "year": "1996 (69th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Derek\"}",
+        "character": "Derek",
         "title": "American History X",
         "winner": false,
         "year": "1998 (71st)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Mike\"}",
+        "character": "Mike",
         "title": "Birdman or (The Unexpected Virtue of Ignorance)",
         "winner": false,
         "year": "2014 (87th)"
@@ -182,7 +182,7 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Archibald Cunningham\"}",
+        "character": "Archibald Cunningham",
         "title": "Rob Roy",
         "winner": false,
         "year": "1995 (68th)"
@@ -195,28 +195,28 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Luis Molina\"}",
+        "character": "Luis Molina",
         "title": "Kiss of the Spider Woman",
         "winner": true,
         "year": "1985 (58th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"James\"}",
+        "character": "James",
         "title": "Children of a Lesser God",
         "winner": false,
         "year": "1986 (59th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Tom Grunick\"}",
+        "character": "Tom Grunick",
         "title": "Broadcast News",
         "winner": false,
         "year": "1987 (60th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Richie Cusack\"}",
+        "character": "Richie Cusack",
         "title": "A History of Violence",
         "winner": false,
         "year": "2005 (78th)"
@@ -254,7 +254,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Paul Rusesabagina\"}",
+        "character": "Paul Rusesabagina",
         "title": "Hotel Rwanda",
         "winner": false,
         "year": "2004 (77th)"
@@ -272,7 +272,7 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Dixon\"}",
+        "character": "Dixon",
         "title": "Three Billboards Outside Ebbing, Missouri",
         "winner": true,
         "year": "2017 (90th)"
@@ -285,26 +285,13 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Randy\"}",
+        "character": "Randy",
         "title": "The Wrestler",
         "winner": false,
         "year": "2008 (81st)"
       }
     ],
     "power": 2
-  },
-  {
-    "actorName": "Samuel L. Jackson",
-    "awards": [
-      {
-        "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Jules Winnfield\"}",
-        "title": "Pulp Fiction",
-        "winner": false,
-        "year": "1994 (67th)"
-      }
-    ],
-    "power": 1
   },
   {
     "actorName": "John Slattery",
@@ -326,21 +313,21 @@
     "awards": [
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Alice\"}",
+        "character": "Alice",
         "title": "Closer",
         "winner": false,
         "year": "2004 (77th)"
       },
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Nina Sayers/The Swan Queen\"}",
+        "character": "Nina Sayers/The Swan Queen",
         "title": "Black Swan",
         "winner": true,
         "year": "2010 (83rd)"
       },
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Jackie Kennedy\"}",
+        "character": "Jackie Kennedy",
         "title": "Jackie",
         "winner": false,
         "year": "2016 (89th)"
@@ -358,28 +345,28 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Dr. Hannibal Lecter\"}",
+        "character": "Dr. Hannibal Lecter",
         "title": "The Silence of the Lambs",
         "winner": true,
         "year": "1991 (64th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Mr. Stevens\"}",
+        "character": "Mr. Stevens",
         "title": "The Remains of the Day",
         "winner": false,
         "year": "1993 (66th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Richard Nixon\"}",
+        "character": "Richard Nixon",
         "title": "Nixon",
         "winner": false,
         "year": "1995 (68th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"John Quincy Adams\"}",
+        "character": "John Quincy Adams",
         "title": "Amistad",
         "winner": false,
         "year": "1997 (70th)"
@@ -452,28 +439,28 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Clay Shaw\"}",
+        "character": "Clay Shaw",
         "title": "JFK",
         "winner": false,
         "year": "1991 (64th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Samuel Gerard\"}",
+        "character": "Samuel Gerard",
         "title": "The Fugitive",
         "winner": true,
         "year": "1993 (66th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Hank Deerfield\"}",
+        "character": "Hank Deerfield",
         "title": "In the Valley of Elah",
         "winner": false,
         "year": "2007 (80th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Thaddeus Stevens\"}",
+        "character": "Thaddeus Stevens",
         "title": "Lincoln",
         "winner": false,
         "year": "2012 (85th)"
@@ -501,7 +488,7 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"George Harvey\"}",
+        "character": "George Harvey",
         "title": "The Lovely Bones",
         "winner": false,
         "year": "2009 (82nd)"
@@ -524,21 +511,21 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Paul\"}",
+        "character": "Paul",
         "title": "The Kids Are All Right",
         "winner": false,
         "year": "2010 (83rd)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"David Schultz\"}",
+        "character": "David Schultz",
         "title": "Foxcatcher",
         "winner": false,
         "year": "2014 (87th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Mike Rezendes\"}",
+        "character": "Mike Rezendes",
         "title": "Spotlight",
         "winner": false,
         "year": "2015 (88th)"
@@ -551,14 +538,14 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Staff Sergeant William James\"}",
+        "character": "Staff Sergeant William James",
         "title": "The Hurt Locker",
         "winner": false,
         "year": "2009 (82nd)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"James Coughlin\"}",
+        "character": "James Coughlin",
         "title": "The Town",
         "winner": false,
         "year": "2010 (83rd)"
@@ -586,28 +573,28 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Mahatma Gandhi\"}",
+        "character": "Mahatma Gandhi",
         "title": "Gandhi",
         "winner": true,
         "year": "1982 (55th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Meyer Lansky\"}",
+        "character": "Meyer Lansky",
         "title": "Bugsy",
         "winner": false,
         "year": "1991 (64th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Don Logan\"}",
+        "character": "Don Logan",
         "title": "Sexy Beast",
         "winner": false,
         "year": "2001 (74th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Behrani\"}",
+        "character": "Behrani",
         "title": "House of Sand and Fog",
         "winner": false,
         "year": "2003 (76th)"
@@ -645,7 +632,7 @@
     "awards": [
       {
         "category": "ACTOR",
-        "character": "{\"Johnny Hooker\"}",
+        "character": "Johnny Hooker",
         "title": "The Sting",
         "winner": false,
         "year": "1973 (46th)"
@@ -693,21 +680,21 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Pat\"}",
+        "character": "Pat",
         "title": "Silver Linings Playbook",
         "winner": false,
         "year": "2012 (85th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Richie DiMaso\"}",
+        "character": "Richie DiMaso",
         "title": "American Hustle",
         "winner": false,
         "year": "2013 (86th)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Chris Kyle\"}",
+        "character": "Chris Kyle",
         "title": "American Sniper",
         "winner": false,
         "year": "2014 (87th)"
@@ -735,14 +722,14 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Mateo\"}",
+        "character": "Mateo",
         "title": "In America",
         "winner": false,
         "year": "2003 (76th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Solomon Vandy\"}",
+        "character": "Solomon Vandy",
         "title": "Blood Diamond",
         "winner": false,
         "year": "2006 (79th)"
@@ -755,7 +742,7 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Amos Hart\"}",
+        "character": "Amos Hart",
         "title": "Chicago",
         "winner": false,
         "year": "2002 (75th)"
@@ -798,7 +785,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Gordon Gekko\"}",
+        "character": "Gordon Gekko",
         "title": "Wall Street",
         "winner": true,
         "year": "1987 (60th)"
@@ -866,21 +853,21 @@
     "awards": [
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Mona Lisa Vito\"}",
+        "character": "Mona Lisa Vito",
         "title": "My Cousin Vinny",
         "winner": true,
         "year": "1992 (65th)"
       },
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Natalie Strout\"}",
+        "character": "Natalie Strout",
         "title": "In the Bedroom",
         "winner": false,
         "year": "2001 (74th)"
       },
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Cassidy\"}",
+        "character": "Cassidy",
         "title": "The Wrestler",
         "winner": false,
         "year": "2008 (81st)"
@@ -893,7 +880,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Alan Turing\"}",
+        "character": "Alan Turing",
         "title": "The Imitation Game",
         "winner": false,
         "year": "2014 (87th)"
@@ -906,7 +893,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Solomon Northup\"}",
+        "character": "Solomon Northup",
         "title": "12 Years a Slave",
         "winner": false,
         "year": "2013 (86th)"
@@ -919,7 +906,7 @@
     "awards": [
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Sacha Pfeiffer\"}",
+        "character": "Sacha Pfeiffer",
         "title": "Spotlight",
         "winner": false,
         "year": "2015 (88th)"
@@ -937,7 +924,7 @@
     "awards": [
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Karen Crowder\"}",
+        "character": "Karen Crowder",
         "title": "Michael Clayton",
         "winner": true,
         "year": "2007 (80th)"
@@ -975,14 +962,14 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Rocky Balboa\"}",
+        "character": "Rocky Balboa",
         "title": "Rocky",
         "winner": false,
         "year": "1976 (49th)"
       },
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Rocky Balboa\"}",
+        "character": "Rocky Balboa",
         "title": "Creed",
         "winner": false,
         "year": "2015 (88th)"
@@ -1000,7 +987,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Riggan\"}",
+        "character": "Riggan",
         "title": "Birdman or (The Unexpected Virtue of Ignorance)",
         "winner": false,
         "year": "2014 (87th)"
@@ -1033,42 +1020,42 @@
     "awards": [
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Queen Elizabeth I\"}",
+        "character": "Queen Elizabeth I",
         "title": "Elizabeth",
         "winner": false,
         "year": "1998 (71st)"
       },
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Katharine Hepburn\"}",
+        "character": "Katharine Hepburn",
         "title": "The Aviator",
         "winner": true,
         "year": "2004 (77th)"
       },
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Sheba Hart\"}",
+        "character": "Sheba Hart",
         "title": "Notes on a Scandal",
         "winner": false,
         "year": "2006 (79th)"
       },
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Queen Elizabeth I\"}",
+        "character": "Queen Elizabeth I",
         "title": "Elizabeth: The Golden Age",
         "winner": false,
         "year": "2007 (80th)"
       },
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Jasmine\"}",
+        "character": "Jasmine",
         "title": "Blue Jasmine",
         "winner": true,
         "year": "2013 (86th)"
       },
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Carol Aird\"}",
+        "character": "Carol Aird",
         "title": "Carol",
         "winner": false,
         "year": "2015 (88th)"
@@ -1101,7 +1088,7 @@
     "awards": [
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Patsey\"}",
+        "character": "Patsey",
         "title": "12 Years a Slave",
         "winner": true,
         "year": "2013 (86th)"
@@ -1119,7 +1106,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Chris Washington\"}",
+        "character": "Chris Washington",
         "title": "Get Out",
         "winner": false,
         "year": "2017 (90th)"
@@ -1147,7 +1134,7 @@
     "awards": [
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Tina Turner\"}",
+        "character": "Tina Turner",
         "title": "What's Love Got to Do with It",
         "winner": false,
         "year": "1993 (66th)"
@@ -1160,7 +1147,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Idi Amin\"}",
+        "character": "Idi Amin",
         "title": "The Last King of Scotland",
         "winner": true,
         "year": "2006 (79th)"
@@ -1173,7 +1160,7 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Dan White\"}",
+        "character": "Dan White",
         "title": "Milk",
         "winner": false,
         "year": "2008 (81st)"
@@ -1191,21 +1178,21 @@
     "awards": [
       {
         "category": "ACTRESS IN A SUPPORTING ROLE",
-        "character": "{\"Madame de Tourvel\"}",
+        "character": "Madame de Tourvel",
         "title": "Dangerous Liaisons",
         "winner": false,
         "year": "1988 (61st)"
       },
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Susie Diamond\"}",
+        "character": "Susie Diamond",
         "title": "The Fabulous Baker Boys",
         "winner": false,
         "year": "1989 (62nd)"
       },
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Lurene Hallett\"}",
+        "character": "Lurene Hallett",
         "title": "Love Field",
         "winner": false,
         "year": "1992 (65th)"
@@ -1228,7 +1215,7 @@
     "awards": [
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Ike Turner\"}",
+        "character": "Ike Turner",
         "title": "What's Love Got to Do with It",
         "winner": false,
         "year": "1993 (66th)"
@@ -1246,7 +1233,7 @@
     "awards": [
       {
         "category": "ACTRESS IN A LEADING ROLE",
-        "character": "{\"Ma\"}",
+        "character": "Ma",
         "title": "Room",
         "winner": true,
         "year": "2015 (88th)"
@@ -1259,14 +1246,14 @@
     "awards": [
       {
         "category": "ACTOR IN A SUPPORTING ROLE",
-        "character": "{\"Dickie Greenleaf\"}",
+        "character": "Dickie Greenleaf",
         "title": "The Talented Mr. Ripley",
         "winner": false,
         "year": "1999 (72nd)"
       },
       {
         "category": "ACTOR IN A LEADING ROLE",
-        "character": "{\"Inman\"}",
+        "character": "Inman",
         "title": "Cold Mountain",
         "winner": false,
         "year": "2003 (76th)"
@@ -1313,5 +1300,18 @@
     "actorName": "Colin Ford",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Samuel L. Jackson",
+    "awards": [
+      {
+        "category": "ACTOR IN A SUPPORTING ROLE",
+        "character": "Jules Winnfield",
+        "title": "Pulp Fiction",
+        "winner": false,
+        "year": "1994 (67th)"
+      }
+    ],
+    "power": 1
   }
 ]
