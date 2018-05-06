@@ -1,5 +1,5 @@
 <template>
-  <div class="actor-card mb-3" :style="actorImgStyle">
+  <div class="actor-card mb-3" v-lazy:background-image="actorImg">
     <b-card class="position-relative" @click="$emit('select-actor', actor)">
       <div class="actor-card-accolades position-absolute">
         <div v-b-tooltip.hover title="Career films | MCU films">
@@ -65,7 +65,7 @@ export default {
     'actorLastSeenEl',
   ],
   computed: {
-    actorImgStyle() {
+    actorImg() {
       const imgPath = this.actor.img;
       let img = imgPath;
 
@@ -73,7 +73,7 @@ export default {
         img = require('~/assets/stars/' + imgPath);
       }
 
-      return `background-image:url(${img})`;
+      return img;
     },
     characterDisplayName() {
       return this.actor.characterDisplayName || this.actor.filmsMcu[0].characterName;

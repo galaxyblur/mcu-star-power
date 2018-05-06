@@ -48,6 +48,7 @@ module.exports = {
   ],
 
   plugins: [
+    { src: '~/plugins/vue-lazyload.js' }
   ],
 
   /*
