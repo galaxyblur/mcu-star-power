@@ -89,7 +89,7 @@ export default {
         });
       }
 
-      return films.join(', ');
+      return films.join(' &middot; ');
     },
     getLastMcuFilmElForActor(actor) {
       const releasedFilms = actor.filmsMcu.filter(f => f.isReleased === true);

@@ -7,43 +7,76 @@
     @hidden="$emit('unselect-actor')">
 
     <template v-if="actor">
-      <div class="clearfix">
-        <img :src="actorImg" class="modal-selected-actor-img mr-3 mb-3 float-sm-left">
-        <p>
-          <strong>{{ actorName }}</strong> has appeared in <strong>{{ actor.filmsCount }}</strong> films,
-          including <strong>{{ actor.filmsMcu.length }}</strong> in the Marvel Cinematic Universe.
-        </p>
-        <p id="modal-selected-actor-mcu-list" v-html="actorMcuList"></p>
-        <p>
-          Career Power: {{ actor.powerCareer }}<br>
-          MCU Power: {{ actor.powerMcu }}
-        </p>
-      </div>
-      <h5 class="text-center">Awards / Nominations</h5>
-      <b-row class="text-center">
-        <b-col xs="6" sm="3">
-          {{ getWinsForEvent('OSCARS').length }} / {{ getNomsForEvent('OSCARS').length }}<br>
-          <svg class="icon icon-oscars"><use xlink:href="#icon-oscars"></use></svg><br>Oscars
+
+      <b-row>
+        <b-col cols="12" sm="5">
+          <img :src="actorImg" class="modal-selected-actor-img">
         </b-col>
-        <b-col xs="6" sm="3">
-          {{ getWinsForEvent('GOLDEN_GLOBES').length }} / {{ getNomsForEvent('GOLDEN_GLOBES').length }}<br>
-          <svg class="icon icon-golden-globes"><use xlink:href="#icon-golden-globe"></use></svg><br>Golden Globes
-        </b-col>
-        <b-col xs="6" sm="3">
-          {{ getWinsForEvent('EMMYS').length }} / {{ getNomsForEvent('EMMYS').length }}<br>
-          <svg class="icon icon-emmys"><use xlink:href="#icon-emmys"></use></svg><br>Emmys
-        </b-col>
-        <b-col xs="6" sm="3">
-          {{ getWinsForEvent('BAFTAS').length }} / {{ getNomsForEvent('BAFTAS').length }}<br>
-          <svg class="icon icon-baftas"><use xlink:href="#icon-baftas"></use></svg><br>BAFTAs
+        <b-col cols="12" sm="7">
+          <p>
+            <strong>{{ actorName }}</strong>
+            (Career Power <span class="badge badge-primary">{{ actor.powerCareer }}</span>,
+            MCU Power <span class="badge badge-primary">{{ actor.powerMcu }}</span>)
+            has appeared in <strong>{{ actor.filmsCount }}</strong> films,
+            including <strong>{{ actor.filmsMcu.length }}</strong> in the Marvel Cinematic Universe.
+          </p>
+          <p id="modal-selected-actor-mcu-list" v-html="actorMcuList"></p>
+
+          <h5>Awards / Nominations</h5>
+          <div id="modal-selected-actor-awards-accordion" role="tablist">
+            <b-card no-body v-for="(awards, ai) in awardsByEvent" :key="ai">
+              <b-card-header header-tag="header" class="p-1" role="tab">
+                <b-btn block variant="primary" href="#" v-b-toggle="'modal-selected-actor-awards-' + ai" :disabled="awards.wins.length < 1 && awards.nomsOnly.length < 1">
+                  <svg :class="'icon ' + awards.icon"><use :xlink:href="'#' + awards.icon"></use></svg>
+                  <template v-if="awards.wins.length > 0 || awards.nomsOnly.length > 0">
+                    {{ awards.wins.length }} / {{ awards.noms.length }}
+                  </template>
+                  <template v-else>0</template>
+                  {{ awards.displayName }}
+                </b-btn>
+              </b-card-header>
+              <b-collapse :id="'modal-selected-actor-awards-' + ai" accordion="modal-selected-actor-awards-accordion" role="tabpanel">
+                <b-card-body>
+                  <div v-if="awards.wins.length > 0 || awards.nomsOnly.length > 0">
+                    <template v-if="awards.wins.length > 0">
+                      <h6>Wins</h6>
+                      <ul>
+                        <li v-for="(aw, awi) in awards.wins" :key="awi">
+                          {{ aw.category }}
+                          <span v-if="aw.title">for <i>{{ aw.title }}</i>&nbsp;</span>
+                          <span v-if="aw.character">as <i>{{ aw.character }}</i>&nbsp;</span>
+                          <span v-if="aw.year">({{ aw.year }})</span>
+                        </li>
+                      </ul>
+                    </template>
+                    <template v-if="awards.nomsOnly.length > 0">
+                      <h6>Nominations</h6>
+                      <ul>
+                        <li v-for="(aw, awi) in awards.nomsOnly" :key="awi">
+                          {{ aw.category }}
+                          <span v-if="aw.title">for <i>{{ aw.title }}</i>&nbsp;</span>
+                          <span v-if="aw.character">as <i>{{ aw.character }}</i>&nbsp;</span>
+                          <span v-if="aw.year">({{ aw.year }})</span>
+                        </li>
+                      </ul>
+                    </template>
+                  </div>
+                  <span v-else>--</span>
+                </b-card-body>
+              </b-collapse>
+            </b-card>
+          </div>
         </b-col>
       </b-row>
+
     </template>
 
   </b-modal>
 </template>
 
 <script>
+import { difference } from 'lodash';
+
 export default {
   props: [
     'actor',
@@ -70,6 +103,38 @@ export default {
     },
     actorNameAndCharacter() {
       return this.actor ? `${this.actor.actorName} as ${this.characterDisplayName}` : '';
+    },
+    awardsByEvent() {
+      const aw = [
+        {
+          key: 'OSCARS',
+          icon: 'icon-oscars',
+          displayName: 'Oscars',
+        },
+        {
+          key: 'GOLDEN_GLOBES',
+          icon: 'icon-golden-globe',
+          displayName: 'Golden Globes',
+        },
+        {
+          key: 'EMMYS',
+          icon: 'icon-emmys',
+          displayName: 'Emmys',
+        },
+        {
+          key: 'BAFTAS',
+          icon: 'icon-baftas',
+          displayName: 'BAFTAS',
+        },
+      ];
+
+      aw.forEach((a) => {
+        a.wins = this.getWinsForEvent(a.key);
+        a.noms = this.getNomsForEvent(a.key);
+        a.nomsOnly = difference(a.noms, a.wins);
+      });
+
+      return aw;
     },
     characterDisplayName() {
       return this.actor.characterDisplayName || this.actor.filmsMcu[0].characterName;
@@ -116,7 +181,7 @@ export default {
 }
 
 #modal-selected-actor .modal-selected-actor-img {
-  height: 400px;
+  width: 100%;
 }
 
 #modal-selected-actor .icon {
