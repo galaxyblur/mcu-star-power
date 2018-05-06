@@ -72,11 +72,11 @@ const collect = async () => {
               const fTitle = fTitleEl ? fTitleEl.innerText : '';
               const fYearEl = film.querySelector('.year_column');
               // 2nd replace is an invisible char
-              const fYear = fYearEl ? fYearEl.innerText.replace('&nbsp;', '').replace(' ', '') : undefined;
+              const fYear = fYearEl ? fYearEl.innerText.replace('&nbsp;', '').replace(' ', '') : '';
 
               info.films.push({
-                title: fTitle,
-                year: fYear,
+                title: fTitle.replace('\\n', ''),
+                year: fYear.replace('\n', '').replace('\n', ''),
               });
             });
           }

@@ -33,7 +33,10 @@ export default {
     const filmsInCommon = await app.$axios.get('json/films-in-common.json');
 
     if (filmsInCommon.data && filmsInCommon.data.length > 0) {
-      filmsInCommon.data.forEach(f => f.link = `https://www.imdb.com/find?ref_=nv_sr_fn&s=all&q=${f.title}`);
+      filmsInCommon.data.forEach((f) => {
+        f.actorsCount = f.actors.length;
+        f.link = `https://www.imdb.com/find?ref_=nv_sr_fn&s=all&q=${f.title}`;
+      });
     }
 
     return {
@@ -50,11 +53,16 @@ export default {
           sortable: true,
         },
         {
-          key: 'actors',
+          key: 'actorsCount',
           label: 'MCU Actors',
+          sortable: true,
+        },
+        {
+          key: 'actors',
+          label: 'MCU Actor Names',
           sortable: false,
           formatter(val) {
-            return `(${val.length}) ${val.join(', ')}`;
+            return val.join(', ');
           },
         },
         {
