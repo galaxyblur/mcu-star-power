@@ -1002,72 +1002,6 @@
     "power": 0
   },
   {
-    "actorName": "Michael Douglas",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Behind The Candelabra",
-        "winner": true,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Special Visual Effects",
-        "title": "Defiance",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Sound Editing For A Miniseries Movie Or A Special",
-        "title": "Hatfields & McCoys",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2009"
-      },
-      {
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2008"
-      },
-      {
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2007"
-      },
-      {
-        "category": "Outstanding Reality Program",
-        "title": "Queer Eye For The Straight Guy",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Reality Program",
-        "title": "Queer Eye For The Straight Guy",
-        "winner": true,
-        "year": "2004"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Comedy Series",
-        "title": "Will & Grace",
-        "winner": false,
-        "year": "2002"
-      }
-    ],
-    "power": 22
-  },
-  {
     "actorName": "Evangeline Lilly",
     "awards": [],
     "power": 0
@@ -1709,5 +1643,41 @@
     "actorName": "Colin Ford",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Michael Douglas",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Behind The Candelabra",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Will & Grace",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "category": "Outstanding Continuing Performance By A Supporting Actor in a Drama Series",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1976"
+      },
+      {
+        "category": "Outstanding Continuing Performance by a Supporting Actor in a Drama Series",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "category": "BEST SUPPORTING ACTOR IN DRAMA",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1974"
+      }
+    ],
+    "power": 8
   }
 ]

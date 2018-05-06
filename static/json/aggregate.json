@@ -4735,66 +4735,31 @@
       },
       {
         "event": "EMMYS",
-        "category": "Outstanding Special Visual Effects",
-        "title": "Defiance",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Sound Editing For A Miniseries Movie Or A Special",
-        "title": "Hatfields & McCoys",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2010"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2009"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2008"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Childrens Program",
-        "title": "Hannah Montana",
-        "winner": false,
-        "year": "2007"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Reality Program",
-        "title": "Queer Eye For The Straight Guy",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Reality Program",
-        "title": "Queer Eye For The Straight Guy",
-        "winner": true,
-        "year": "2004"
-      },
-      {
-        "event": "EMMYS",
         "category": "Outstanding Guest Actor In A Comedy Series",
         "title": "Will & Grace",
         "winner": false,
         "year": "2002"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Continuing Performance By A Supporting Actor in a Drama Series",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1976"
+      },
+      {
+        "event": "EMMYS",
+        "category": "Outstanding Continuing Performance by a Supporting Actor in a Drama Series",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "event": "EMMYS",
+        "category": "BEST SUPPORTING ACTOR IN DRAMA",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1974"
       }
     ],
     "characterDisplayName": "Hank Pym",
@@ -4812,7 +4777,7 @@
       }
     ],
     "filmsCount": 60,
-    "powerCareer": 63,
+    "powerCareer": 49,
     "powerMcu": 2,
     "id": "actor-646",
     "actorName": "Michael Douglas",

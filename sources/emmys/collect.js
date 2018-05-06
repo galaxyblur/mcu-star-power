@@ -53,7 +53,7 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
           power: 0,
         };
 
-        const actorAwards = yield nightmare.goto(`http://www.emmys.com/awards/nominations/award-search?search_api_views_fulltext=${escape(a.actorName)}&submit=Search&field_celebrity_details_field_display_name=&field_show_details_field_nominee_show_nr_title=&field_show_details_field_network=All&field_show_details_field_production_company=All&field_nominations_year=1949-01-01+00%3A00%3A00&field_nominations_year_1=2018-01-01+00%3A00%3A00&field_award_category=All`)
+        const actorAwards = yield nightmare.goto(`http://www.emmys.com/awards/nominations/award-search?search_api_views_fulltext="${escape(a.actorName)}"&submit=Search&field_celebrity_details_field_display_name=&field_show_details_field_nominee_show_nr_title=&field_show_details_field_network=All&field_show_details_field_production_company=All&field_nominations_year=1949-01-01+00%3A00%3A00&field_nominations_year_1=2018-01-01+00%3A00%3A00&field_award_category=All`)
           .wait('#page')
           .evaluate(() => {
             const awards = [];
