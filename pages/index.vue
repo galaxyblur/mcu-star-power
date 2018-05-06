@@ -5,8 +5,8 @@
 
     <div class="mt-4">
       <b-nav pills>
-        <b-nav-item :active="this.sort === 'powerCareer'" @click="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></b-nav-item>
         <b-nav-item :active="this.sort === 'powerMcu'" @click="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></b-nav-item>
+        <b-nav-item :active="this.sort === 'powerCareer'" @click="sort = 'powerCareer'">Career Power <i class="fa fa-star" aria-hidden="true"></i></b-nav-item>
       </b-nav>
 
       <b-row class="mt-3">
@@ -53,7 +53,7 @@ export default {
       actors: [],
       aff: [],
       selectedActor: undefined,
-      sort: 'powerCareer',
+      sort: 'powerMcu',
     };
   },
   computed: {
