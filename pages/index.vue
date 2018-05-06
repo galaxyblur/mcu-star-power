@@ -10,7 +10,7 @@
       </b-nav>
 
       <b-row class="mt-3">
-        <b-col sm="12" md="6" lg="4" v-for="(a, ai) in actorsSorted" :key="ai">
+        <b-col sm="12" md="6" lg="4" v-for="a in actorsSorted" :key="a.id">
           <actor-card :actor="a" :actor-last-seen-el="getLastMcuFilmElForActor(a)" @select-actor="handleSelectActor" />
         </b-col>
       </b-row>
