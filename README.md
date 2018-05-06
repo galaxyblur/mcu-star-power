@@ -24,7 +24,7 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 ## Data Collection
 
 ```
-node sources/imdb-film/
+node sources/imdb-films/
 node sources/actors/
 node sources/imdb/
 node sources/oscars/
