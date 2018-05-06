@@ -2,7 +2,7 @@
   <b-modal id="modal-selected-actor"
     size="lg"
     hide-footer
-    :title="actorName"
+    :title="actorNameAndCharacter"
     v-model="showModal"
     @hidden="$emit('unselect-actor')">
 
@@ -66,7 +66,10 @@ export default {
       return img;
     },
     actorName() {
-      return this.actor ? `${this.actor.actorName}'s ${this.characterDisplayName}` : '';
+      return this.actor ? this.actor.actorName : '';
+    },
+    actorNameAndCharacter() {
+      return this.actor ? `${this.actor.actorName} as ${this.characterDisplayName}` : '';
     },
     characterDisplayName() {
       return this.actor.characterDisplayName || this.actor.filmsMcu[0].characterName;
