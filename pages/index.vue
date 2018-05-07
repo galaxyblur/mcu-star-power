@@ -10,12 +10,23 @@
       </b-nav>
 
       <b-row class="mt-3">
-        <b-col sm="12" md="6" lg="4" v-for="a in actorsSorted" :key="a.id">
-          <actor-card :actor="a"
-                      :actor-last-seen-el="getLastMcuFilmElForActor(a)"
-                      :actor-aff-link-el="getActorAffLinkElForActor(a)"
-                      @select-actor="handleSelectActor" />
-        </b-col>
+        <template v-for="a in actorsSorted">
+          <!--
+          <b-col v-if="a.actorName === 'Stan Lee'" cols="12" :key="a.id">
+            <div class="card">
+              <div class="card-body text-center">
+                Honorable Mention: {{ a.actorName }}
+              </div>
+            </div>
+          </b-col>
+          -->
+          <b-col v-if="a.actorName !== 'Stan Lee'" sm="12" md="6" lg="4" :key="a.id">
+            <actor-card :actor="a"
+                        :actor-last-seen-el="getLastMcuFilmElForActor(a)"
+                        :actor-aff-link-el="getActorAffLinkElForActor(a)"
+                        @select-actor="handleSelectActor" />
+          </b-col>
+        </template>
       </b-row>
     </div>
 
