@@ -7,7 +7,8 @@
     "actorName": "Robert Downey Jr.",
     "characterName": "Tony Stark",
     "characterAlias": "Iron Man",
-    "image": "iron-man.jpg"
+    "image": "iron-man.jpg",
+    "affLinkTitle": "Avengers Marvel Legends Gear Iron Man Replica Helmet"
   },
   {
     "actorName": "Paul Bettany",
@@ -34,7 +35,8 @@
   {
     "actorName": "Chris Hemsworth",
     "characterName": "Thor",
-    "image": "thor.jpg"
+    "image": "thor.jpg",
+    "affLinkTitle": "Marvel Legends Series Mjolnir Electronic Hammer"
   },
   {
     "actorName": "Tom Hiddleston",
@@ -85,7 +87,8 @@
     "actorName": "Chris Evans",
     "characterName": "Steve Rogers",
     "characterAlias": "Captain America",
-    "image": "captain-america.jpg"
+    "image": "captain-america.jpg",
+    "affLinkTitle": "Avengers Marvel Legends Gear Captain America Shield Replica"
   },
   {
     "actorName": "Sebastian Stan",
@@ -332,6 +335,7 @@
   {
     "actorName": "Josh Brolin",
     "characterName": "Thanos",
-    "image": "thanos.jpg"
+    "image": "thanos.jpg",
+    "affLinkTitle": "Marvel Legends Series Infinity Gauntlet Articulated Electronic Fist"
   }
 ]

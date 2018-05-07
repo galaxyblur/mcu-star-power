@@ -20,7 +20,13 @@
             has appeared in <strong>{{ actor.filmsCount }}</strong> films,
             including <strong>{{ actor.filmsMcu.length }}</strong> in the Marvel Cinematic Universe.
           </p>
+
           <p id="modal-selected-actor-mcu-list" v-html="actorMcuList"></p>
+
+          <template v-if="actorAffLinkEl">
+            <h5>Coolest Stuff</h5>
+            <p id="modal-selected-actor-aff-links" v-html="actorAffLinkEl"></p>
+          </template>
 
           <h5>Awards / Nominations</h5>
           <div id="modal-selected-actor-awards-accordion" role="tablist">
@@ -81,6 +87,7 @@ export default {
   props: [
     'actor',
     'actor-mcu-list',
+    'actor-aff-link-el',
   ],
   data() {
     return {
@@ -169,13 +176,17 @@ export default {
   font-style: italic;
 }
 
-#modal-selected-actor-mcu-list a {
+#modal-selected-actor-mcu-list a,
+#modal-selected-actor-aff-links a {
   color: #F0C668;
 }
 
 #modal-selected-actor-mcu-list a:active,
 #modal-selected-actor-mcu-list a:focus,
-#modal-selected-actor-mcu-list a:hover {
+#modal-selected-actor-mcu-list a:hover,
+#modal-selected-actor-aff-links a:active,
+#modal-selected-actor-aff-links a:focus,
+#modal-selected-actor-aff-links a:hover {
   background-color: #F0C668;
   color: #222;
 }

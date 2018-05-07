@@ -11,12 +11,18 @@
 
       <b-row class="mt-3">
         <b-col sm="12" md="6" lg="4" v-for="a in actorsSorted" :key="a.id">
-          <actor-card :actor="a" :actor-last-seen-el="getLastMcuFilmElForActor(a)" @select-actor="handleSelectActor" />
+          <actor-card :actor="a"
+                      :actor-last-seen-el="getLastMcuFilmElForActor(a)"
+                      :actor-aff-link-el="getActorAffLinkElForActor(a)"
+                      @select-actor="handleSelectActor" />
         </b-col>
       </b-row>
     </div>
 
-    <actor-modal :actor="selectedActor" :actor-mcu-list="getMcuListForActor(selectedActor)" @unselect-actor="handleUnselectActor" />
+    <actor-modal :actor="selectedActor"
+                 :actor-mcu-list="getMcuListForActor(selectedActor)"
+                 :actor-aff-link-el="getActorAffLinkElForActor(selectedActor)"
+                 @unselect-actor="handleUnselectActor" />
   </b-container>
 </template>
 
@@ -98,6 +104,15 @@ export default {
 
       if (film) {
         el = this.getInlineElementForFilm(film);
+      }
+
+      return el;
+    },
+    getActorAffLinkElForActor(actor) {
+      let el = undefined;
+
+      if (actor && actor.affiliateLink && actor.affiliateLink.title && actor.affiliateLink.link) {
+        el = `<a href="${actor.affiliateLink.link}" target="_blank"><i class="fa fa-rocket"></i> ${actor.affiliateLink.title}</a>`;
       }
 
       return el;

@@ -1,6 +1,7 @@
 import {
   loadActorsFromFile,
   loadActorsMetaFromFile,
+  loadAffLinksFromFile,
   loadBaftasFromFile,
   loadOscarsFromFile,
   loadGlobesFromFile,
@@ -16,6 +17,7 @@ import {
 const loadData = async () => {
   const actors = await loadActorsFromFile();
   const actorsMeta = await loadActorsMetaFromFile();
+  const affLinks = await loadAffLinksFromFile();
   const baftas = await loadBaftasFromFile();
   const oscars = await loadOscarsFromFile();
   const globes = await loadGlobesFromFile();
@@ -25,6 +27,7 @@ const loadData = async () => {
   return {
     actors,
     actorsMeta,
+    affLinks,
     baftas,
     oscars,
     globes,
@@ -44,7 +47,7 @@ loadData().catch(console.error).then((allData) => {
     let powerMcu = filmsMcu.length;
 
     const [metaObj] = allData.actorsMeta.filter(a => a.actorName === actor.actorName);
-    let img, characterDisplayName;
+    let img, characterDisplayName, affiliateLink;
 
     if (metaObj) {
       img = metaObj.image ? metaObj.image : undefined;
@@ -55,6 +58,10 @@ loadData().catch(console.error).then((allData) => {
         if (metaObj.characterAlias) {
           characterDisplayName = `${characterDisplayName} / ${metaObj.characterAlias}`;
         }
+      }
+
+      if (metaObj.affLinkTitle) {
+        [ affiliateLink ] = allData.affLinks.filter(a => a.title === metaObj.affLinkTitle);
       }
     }
 
@@ -95,6 +102,7 @@ loadData().catch(console.error).then((allData) => {
 
     aggregateData.push(
       Object.assign({
+        affiliateLink,
         awards,
         characterDisplayName,
         img,

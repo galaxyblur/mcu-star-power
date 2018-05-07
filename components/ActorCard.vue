@@ -53,6 +53,9 @@
         <div v-if="actorLastSeenEl" class="actor-card-last-seen mt-2 text-center h6">
           Last seen in <span v-html="actorLastSeenEl" @click.stop></span>
         </div>
+        <div v-if="actorAffLinkEl" class="actor-card-last-seen mt-2 text-center h6">
+          Must have: <span v-html="actorAffLinkEl" @click.stop></span>
+        </div>
       </div>
     </b-card>
   </div>
@@ -63,6 +66,7 @@ export default {
   props: [
     'actor',
     'actorLastSeenEl',
+    'actorAffLinkEl',
   ],
   computed: {
     actorImg() {
