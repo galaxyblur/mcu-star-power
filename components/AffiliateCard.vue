@@ -8,7 +8,7 @@
         bg-variant="dark"
         class="mb-2 pb-4 text-center position-relative">
       <div class="affiliate-card-btn position-absolute pb-3">
-        <b-button :href="affiliateItem.link" variant="primary" target="_blank" rel="noopener">Buy it on Amazon</b-button>
+        <b-button :href="affiliateItem.link" variant="primary" target="_blank" rel="noopener nofollow">Buy it on Amazon</b-button>
       </div>
     </b-card>
   </div>

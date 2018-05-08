@@ -92,7 +92,7 @@ export default {
       let el = `<span>${t}</span>`;
 
       if (link) {
-        el = `<a href="${link.link}" target="_blank" rel="noopener"><i class="fa fa-play-circle"></i> ${t}</a>`;
+        el = `<a href="${link.link}" target="_blank" rel="noopener nofollow"><i class="fa fa-play-circle"></i> ${t}</a>`;
       }
 
       return el;
@@ -123,7 +123,7 @@ export default {
       let el = undefined;
 
       if (actor && actor.affiliateLink && actor.affiliateLink.title && actor.affiliateLink.link) {
-        el = `<a href="${actor.affiliateLink.link}" target="_blank" rel="noopener"><i class="fa fa-rocket"></i> ${actor.affiliateLink.title}</a>`;
+        el = `<a href="${actor.affiliateLink.link}" target="_blank" rel="noopener nofollow"><i class="fa fa-rocket"></i> ${actor.affiliateLink.title}</a>`;
       }
 
       return el;
