@@ -35,6 +35,7 @@ module.exports = {
     '@nuxtjs/font-awesome',
     '@nuxtjs/sitemap',
     'bootstrap-vue/nuxt',
+    ['@nuxtjs/pwa', { icon: false }],
     ['nuxt-matomo', { matomoUrl: '//matomo.capoeiraonline.org/piwik/', siteId: 2 }],
   ],
 
