@@ -6,7 +6,7 @@
     <div>
       <b-table small :items="filmsInCommon" :fields="fields" thead-class="team-ups-thead">
         <template slot="link" slot-scope="data">
-          <a :href="data.item.link" target="_blank">Search IMDB</a>
+          <a :href="data.item.link" target="_blank" rel="noopener">Search IMDB</a>
         </template>
       </b-table>
     </div>
