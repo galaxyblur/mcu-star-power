@@ -23,7 +23,8 @@
 
           <p id="modal-selected-actor-mcu-list">
             <span v-for="(f, fi) in actor.filmsMcu" :key="fi">
-              <affiliate-link-film :text="f.title" :link="getAffLinkForFilm(f)" />, 
+              <affiliate-link-film :text="f.title" :link="getAffLinkForFilm(f)" />
+              <template v-if="fi < actor.filmsMcu.length - 1">, </template>
             </span>
           </p>
 
