@@ -54,7 +54,7 @@
           Last seen in <affiliate-link-film :text="actorLastMcuFilm.title" :link="actorLastMcuFilm.link" />
         </div>
         <div v-if="actorHasAffLink" class="actor-card-last-seen mt-2 text-center h6">
-          Must have: <affiliate-link-other :text="actor.affiliateLink.title" :link="actor.affiliateLink.link" />
+          Hot item: <affiliate-link-other :text="actor.affiliateLink.title" :link="actor.affiliateLink.link" />
         </div>
       </div>
     </b-card>
