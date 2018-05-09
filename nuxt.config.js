@@ -32,7 +32,6 @@ module.exports = {
 
   modules: [
     '@nuxtjs/axios',
-    '@nuxtjs/font-awesome',
     '@nuxtjs/sitemap',
     'bootstrap-vue/nuxt',
     ['@nuxtjs/pwa', { icon: false }],
@@ -49,7 +48,8 @@ module.exports = {
   ],
 
   plugins: [
-    { src: '~/plugins/vue-lazyload.js' }
+    { src: '~/plugins/vue-lazyload.js' },
+    { src: '~/plugins/font-awesome' }
   ],
 
   /*

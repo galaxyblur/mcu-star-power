@@ -19,4 +19,7 @@ export default {
 </script>
 
 <style>
+.svg-inline--fa {
+  width: 1em;
+}
 </style>

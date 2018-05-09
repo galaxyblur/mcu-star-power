@@ -21,11 +21,17 @@
             including <strong>{{ actor.filmsMcu.length }}</strong> in the Marvel Cinematic Universe.
           </p>
 
-          <p id="modal-selected-actor-mcu-list" v-html="actorMcuList"></p>
+          <p id="modal-selected-actor-mcu-list">
+            <span v-for="(f, fi) in actor.filmsMcu" :key="fi">
+              <affiliate-link-film :text="f.title" :link="getAffLinkForFilm(f)" />, 
+            </span>
+          </p>
 
-          <template v-if="actorAffLinkEl">
+          <template v-if="actorHasAffLink">
             <h5>Coolest Stuff</h5>
-            <p id="modal-selected-actor-aff-links" v-html="actorAffLinkEl"></p>
+            <p id="modal-selected-actor-aff-links">
+              <affiliate-link-other :text="actor.affiliateLink.title" :link="actor.affiliateLink.link" />
+            </p>
           </template>
 
           <h5>Awards / Nominations</h5>
@@ -83,14 +89,22 @@
 <script>
 import { difference } from 'lodash';
 
+import AffiliateLinkFilm from '../components/AffiliateLinkFilm';
+import AffiliateLinkOther from '../components/AffiliateLinkOther';
+
+import affiliateLinks from '../static/json/aff-links.json';
+
 export default {
+  components: {
+    AffiliateLinkFilm,
+    AffiliateLinkOther,
+  },
   props: [
     'actor',
-    'actor-mcu-list',
-    'actor-aff-link-el',
   ],
   data() {
     return {
+      aff: affiliateLinks,
       showModal: false,
     };
   },
@@ -104,6 +118,9 @@ export default {
       }
 
       return img;
+    },
+    actorHasAffLink() {
+      return this.actor.affiliateLink && this.actor.affiliateLink.title && this.actor.affiliateLink.link;
     },
     actorName() {
       return this.actor ? this.actor.actorName : '';
@@ -162,6 +179,13 @@ export default {
     },
     getWinsForEvent(event) {
       return this.actor.awards.filter(aw => (aw.event === event && aw.winner === true));
+    },
+    getAffLinkForFilm(film) {
+      const [ link ] = this.aff.filter((l) => {
+        return l.type === 'film' && l.title === film.title;
+      });
+
+      return link ? link.link : undefined;
     },
     handleModalHide() {
       this.$emit('unselect-actor');

@@ -3,7 +3,7 @@
     <b-card class="position-relative" @click="$emit('select-actor', actor)">
       <div class="actor-card-accolades position-absolute">
         <div v-b-tooltip.hover title="Career films | MCU films">
-          <i class="fa fa-film"></i>
+          <font-awesome-icon :icon="iconFilm" />
           {{ actor.filmsCount }} | {{ actor.filmsMcu.length }}*
         </div>
         <div v-b-tooltip.hover title="Oscar Wins/Nominations">
@@ -38,7 +38,7 @@
       <div class="actor-card-footer text-center position-absolute p-2">
         <b-row>
           <b-col cols="3" v-b-tooltip.hover title="Career Power">
-            <i class="fa fa-star" aria-hidden="true"></i><br>
+            <font-awesome-icon :icon="iconStar" /><br>
             {{ actor.powerCareer }}
           </b-col>
           <b-col cols="6">
@@ -50,11 +50,11 @@
             {{ actor.powerMcu }}
           </b-col>
         </b-row>
-        <div v-if="actorLastSeenEl" class="actor-card-last-seen mt-2 text-center h6">
-          Last seen in <span v-html="actorLastSeenEl" @click.stop></span>
+        <div v-if="actorLastMcuFilm" class="actor-card-last-seen mt-2 text-center h6">
+          Last seen in <affiliate-link-film :text="actorLastMcuFilm.title" :link="actorLastMcuFilm.link" />
         </div>
-        <div v-if="actorAffLinkEl" class="actor-card-last-seen mt-2 text-center h6">
-          Must have: <span v-html="actorAffLinkEl" @click.stop></span>
+        <div v-if="actorHasAffLink" class="actor-card-last-seen mt-2 text-center h6">
+          Must have: <affiliate-link-other :text="actor.affiliateLink.title" :link="actor.affiliateLink.link" />
         </div>
       </div>
     </b-card>
@@ -62,12 +62,30 @@
 </template>
 
 <script>
+import FontAwesomeIcon from '@fortawesome/vue-fontawesome';
+import faFilm from '@fortawesome/fontawesome-free-solid/faFilm';
+import faStar from '@fortawesome/fontawesome-free-solid/faStar';
+
+import AffiliateLinkFilm from '../components/AffiliateLinkFilm';
+import AffiliateLinkOther from '../components/AffiliateLinkOther';
+import affiliateLinks from '../static/json/aff-links.json';
+
 export default {
+  components: {
+    AffiliateLinkFilm,
+    AffiliateLinkOther,
+    FontAwesomeIcon,
+  },
   props: [
     'actor',
-    'actorLastSeenEl',
-    'actorAffLinkEl',
   ],
+  data() {
+    return {
+      aff: affiliateLinks,
+      iconFilm: faFilm,
+      iconStar: faStar,
+    };
+  },
   computed: {
     actorImg() {
       const imgPath = this.actor.img;
@@ -78,6 +96,27 @@ export default {
       }
 
       return img;
+    },
+    actorHasAffLink() {
+      return this.actor.affiliateLink && this.actor.affiliateLink.title && this.actor.affiliateLink.link;
+    },
+    actorLastMcuFilm() {
+      const releasedFilms = this.actor.filmsMcu.filter(f => f.isReleased === true);
+      let film;
+
+      if (releasedFilms && releasedFilms.length > 0) {
+        film = releasedFilms[releasedFilms.length - 1];
+
+        const [ link ] = this.aff.filter((l) => {
+          return l.type === 'film' && l.title === film.title;
+        });
+
+        if (link) {
+          film.link = link.link;
+        }
+      }
+
+      return film;
     },
     characterDisplayName() {
       return this.actor.characterDisplayName || this.actor.filmsMcu[0].characterName;
