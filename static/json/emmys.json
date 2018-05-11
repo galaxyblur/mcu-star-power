@@ -856,24 +856,6 @@
     "power": 0
   },
   {
-    "actorName": "Chris Pratt",
-    "awards": [
-      {
-        "category": "Outstanding Drama Series",
-        "title": "QUANTUM LEAP",
-        "winner": false,
-        "year": "1992"
-      },
-      {
-        "category": "Outstanding Drama Series",
-        "title": "QUANTUM LEAP",
-        "winner": false,
-        "year": "1991"
-      }
-    ],
-    "power": 4
-  },
-  {
     "actorName": "Zoe Saldana",
     "awards": [],
     "power": 0
@@ -1679,5 +1661,10 @@
       }
     ],
     "power": 8
+  },
+  {
+    "actorName": "Chris Pratt",
+    "awards": [],
+    "power": 0
   }
 ]

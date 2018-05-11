@@ -3986,22 +3986,7 @@
     "castPositionAverage": 11
   },
   {
-    "awards": [
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Drama Series",
-        "title": "QUANTUM LEAP",
-        "winner": false,
-        "year": "1992"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Drama Series",
-        "title": "QUANTUM LEAP",
-        "winner": false,
-        "year": "1991"
-      }
-    ],
+    "awards": [],
     "characterDisplayName": "Peter Quill / Star-Lord",
     "img": "star-lord.jpg",
     "filmsMcu": [
@@ -4022,7 +4007,7 @@
       }
     ],
     "filmsCount": 49,
-    "powerCareer": 14,
+    "powerCareer": 10,
     "powerMcu": 3,
     "id": "actor-530",
     "actorName": "Chris Pratt",
