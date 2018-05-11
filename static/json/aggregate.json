@@ -5263,7 +5263,8 @@
         "year": "2002"
       }
     ],
-    "img": "https://ia.media-imdb.com/images/M/MV5BMTUwMjA3OTc3N15BMl5BanBnXkFtZTcwNTA1MzY1Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg",
+    "characterDisplayName": "May Parker",
+    "img": "may-parker.jpg",
     "filmsMcu": [
       {
         "title": "Captain America: Civil War",
