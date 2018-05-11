@@ -194,6 +194,7 @@ export default {
 .actor-card:hover .card-body >>> .actor-card-last-seen a {
   background-color: #F0C668;
   color: #222;
+  text-shadow: none;
 }
 
 .actor-card:active .icon,
