@@ -146,7 +146,12 @@ export default {
 }
 
 .actor-card .card-body {
-  height: 500px
+  height: 500px;
+  text-shadow: 0 0 4px black;
+}
+
+.actor-card .card-body .icon {
+  filter: drop-shadow(0 0 4px black);
 }
 
 .actor-card .actor-card-accolades {
