@@ -342,5 +342,11 @@
     "characterName": "Thanos",
     "image": "thanos.jpg",
     "affLinkTitle": "Marvel Legends Series Infinity Gauntlet Articulated Electronic Fist"
+  },
+  {
+    "actorName": "Brie Larson",
+    "characterName": "Carol Danvers",
+    "characterAlias": "Captain Marvel",
+    "image": "captain-marvel.jpg"
   }
 ]
