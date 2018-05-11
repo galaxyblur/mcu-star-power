@@ -4,10 +4,19 @@
     <tabs />
 
     <div class="mt-4">
-      <b-nav pills>
-        <b-nav-item :active="this.sort === 'powerMcu'" @click="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></b-nav-item>
-        <b-nav-item :active="this.sort === 'powerCareer'" @click="sort = 'powerCareer'">Career Power <font-awesome-icon :icon="iconStar" /></b-nav-item>
-      </b-nav>
+      <b-row>
+        <b-col cols="12" md="6">
+          <b-nav pills>
+            <b-nav-item :active="this.sort === 'powerMcu'" @click="sort = 'powerMcu'">MCU Power <svg class="icon icon-avengers"><use xlink:href="#icon-avengers"></use></svg></b-nav-item>
+            <b-nav-item :active="this.sort === 'powerCareer'" @click="sort = 'powerCareer'">Career Power <font-awesome-icon :icon="iconStar" /></b-nav-item>
+          </b-nav>
+        </b-col>
+
+        <b-col cols="12" md="6" class="mt-3 mt-md-0">
+          <b-form-select v-model="filmSelectedOption" :options="filmOptions" class="mb-3" />
+        </b-col>
+      </b-row>
+
 
       <b-row class="mt-3">
         <template v-for="a in actorsSorted">
@@ -33,7 +42,7 @@
 
 <script>
 import {
-  map,
+  find,
   sortBy,
   uniq,
 } from 'lodash';
@@ -48,6 +57,17 @@ import Tabs from '../components/Tabs';
 
 import aggregateActors from '../static/json/aggregate.json';
 
+const FILMS_OPTION_ALL_FILMS = 'All films';
+const films = [];
+
+aggregateActors.forEach((a) => {
+  if (a.filmsMcu && a.filmsMcu.length > 0) {
+    a.filmsMcu.forEach((f) => {
+      films.push(f.title);
+    });
+  }
+});
+
 export default {
   components: {
     FontAwesomeIcon,
@@ -57,10 +77,15 @@ export default {
     Tabs,
   },
   data() {
+    const filmOptions = uniq(films).sort();
+    filmOptions.unshift(FILMS_OPTION_ALL_FILMS);
+
     return {
       actors: aggregateActors,
       selectedActor: undefined,
       sort: 'powerMcu',
+      filmOptions,
+      filmSelectedOption: FILMS_OPTION_ALL_FILMS,
       iconStar: faStar,
     };
   },
@@ -70,7 +95,13 @@ export default {
       const actorsWithoutPower = this.actors.filter(a => a[this.sort] < 1);
       const actorsWithPowerSorted = sortBy(actorsWithPower, [this.sort]).reverse();
 
-      return actorsWithPowerSorted.concat(actorsWithoutPower);
+      const actorsSorted = actorsWithPowerSorted.concat(actorsWithoutPower)
+
+      if (this.filmSelectedOption !== FILMS_OPTION_ALL_FILMS) {
+        return actorsSorted.filter(a => find(a.filmsMcu, f => f.title === this.filmSelectedOption));
+      } else {
+        return actorsSorted;
+      }
     },
   },
   methods: {
