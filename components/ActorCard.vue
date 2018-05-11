@@ -51,10 +51,10 @@
           </b-col>
         </b-row>
         <div v-if="actorLastMcuFilm" class="actor-card-last-seen mt-2 text-center h6">
-          Last seen in <affiliate-link-film :text="actorLastMcuFilm.title" :link="actorLastMcuFilm.link" />
+          Last seen in <affiliate-link-film :text="actorLastMcuFilm.title" :asin="actorLastMcuFilm.asin" />
         </div>
         <div v-if="actorHasAffLink" class="actor-card-last-seen mt-2 text-center h6">
-          Hot item: <affiliate-link-other :text="actor.affiliateLink.title" :link="actor.affiliateLink.link" />
+          Hot item: <affiliate-link-other :text="actor.affiliateLink.title" :asin="actor.affiliateLink.asin" />
         </div>
       </div>
     </b-card>
@@ -68,7 +68,10 @@ import faStar from '@fortawesome/fontawesome-free-solid/faStar';
 
 import AffiliateLinkFilm from '../components/AffiliateLinkFilm';
 import AffiliateLinkOther from '../components/AffiliateLinkOther';
-import affiliateLinks from '../static/json/aff-links.json';
+
+import {
+  affiliateLinks,
+} from '../lib/AffiliateLinksHelper';
 
 export default {
   components: {
@@ -98,7 +101,7 @@ export default {
       return img;
     },
     actorHasAffLink() {
-      return this.actor.affiliateLink && this.actor.affiliateLink.title && this.actor.affiliateLink.link;
+      return this.actor.affiliateLink && this.actor.affiliateLink.title && this.actor.affiliateLink.asin;
     },
     actorLastMcuFilm() {
       const releasedFilms = this.actor.filmsMcu.filter(f => f.isReleased === true);
@@ -112,7 +115,7 @@ export default {
         });
 
         if (link) {
-          film.link = link.link;
+          film.asin= link.asin;
         }
       }
 

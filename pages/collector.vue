@@ -16,6 +16,10 @@
 import AffiliateCard from '../components/AffiliateCard';
 import Tabs from '../components/Tabs';
 
+import {
+  affiliateLinks,
+} from '../lib/AffiliateLinksHelper';
+
 export default {
   head () {
     return {
@@ -29,16 +33,9 @@ export default {
     AffiliateCard,
     Tabs,
   },
-  async asyncData({ app }) {
-    const affLinks = await app.$axios.get('json/aff-links.json');
-
-    return {
-      aff: affLinks.data,
-    };
-  },
   data() {
     return {
-      aff: [],
+      aff: affiliateLinks,
     };
   },
   computed: {

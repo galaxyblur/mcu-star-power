@@ -2,169 +2,121 @@
   {
     "title": "Iron Man",
     "type": "film",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07442MJF5&asins=B07442MJF5&linkId=74ebb576f90d4d6280c918f9575dd099&show_border=false&link_opens_in_new_window=true\"></iframe>",
-    "link": "https://www.amazon.com/Iron-Man-Blu-ray-Robert-Downey/dp/B07442MJF5/ref=as_li_ss_tl?s=movies-tv&ie=UTF8&qid=1523910633&sr=1-2&keywords=iron+man&linkCode=ll1&tag=mcupower-20&linkId=424c7e093312e3c6426e218142b781a6",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07442MJF5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20"
+    "asin": "B07442MJF5"
   },
   {
     "title": "The Incredible Hulk",
     "type": "film",
-    "link": "https://www.amazon.com/Incredible-Hulk-Blu-ray-Edward-Norton/dp/B006WXHJNU/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B006WXHJNU&pd_rd_r=Z5MDC4VDQBF6MKJ3B9YA&pd_rd_w=XXhtk&pd_rd_wg=2cX6p&psc=1&refRID=Z5MDC4VDQBF6MKJ3B9YA&linkCode=ll1&tag=mcupower-20&linkId=34be6cd3efbacf3d88dbf9e19705fc10",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B006WXHJNU&asins=B006WXHJNU&linkId=7412b0ca6d69e5dc98430d918cf744a0&show_border=false&link_opens_in_new_window=true\"></iframe>",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006WXHJNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20"
+    "asin": "B006WXHJNU"
   },
   {
     "title": "Iron Man 2",
     "type": "film",
-    "link": "https://www.amazon.com/Iron-Man-Blu-ray-Robert-Downey/dp/B07442LM17/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07442LM17&pd_rd_r=Z5MDC4VDQBF6MKJ3B9YA&pd_rd_w=oWUAn&pd_rd_wg=2cX6p&psc=1&refRID=Z5MDC4VDQBF6MKJ3B9YA&linkCode=ll1&tag=mcupower-20&linkId=aefdfac368a483588dc67ec815af7b04",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07442LM17&asins=B07442LM17&linkId=dd738c8c0c84d3d08ed4010b9f99d3b0&show_border=false&link_opens_in_new_window=true\"></iframe>",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07442LM17&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20"
+    "asin": "B07442LM17"
   },
   {
     "title": "Thor",
     "type": "film",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07445XVP6&asins=B07445XVP6&linkId=16dc8e907ccc617778c2fa88884a551e&show_border=false&link_opens_in_new_window=true\"></iframe>",
-    "link": "https://www.amazon.com/Thor-Blu-ray-Kenneth-Branagh/dp/B07445XVP6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07445XVP6&pd_rd_r=5Q2XZZM0WPZP11WX7SN7&pd_rd_w=khdtV&pd_rd_wg=feqJ3&psc=1&refRID=5Q2XZZM0WPZP11WX7SN7&linkCode=ll1&tag=mcupower-20&linkId=26666163c1393435862410821366c0b9",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07445XVP6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20"
+    "asin": "B07445XVP6"
   },
   {
     "title": "Captain America: The First Avenger",
     "type": "film",
-    "link": "https://www.amazon.com/Captain-America-First-Avenger-Blu-ray/dp/B074461PDL/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B074461PDL&pd_rd_r=PBHPVV84BZCD4TNCE8CM&pd_rd_w=IboXS&pd_rd_wg=RewQK&psc=1&refRID=PBHPVV84BZCD4TNCE8CM&linkCode=ll1&tag=mcupower-20&linkId=1bcda51ee8597baf900cf0bca20cc3b5",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074461PDL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B074461PDL&asins=B074461PDL&linkId=d03175f3267e7a360a2339d877fedcde&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B074461PDL"
   },
   {
     "title": "The Avengers",
     "type": "film",
-    "link": "https://www.amazon.com/MARVELS-AVENGERS-Blu-ray-Robert-Downey/dp/B07448VCM1/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07448VCM1&pd_rd_r=EP7JERD9PF3XBKCB83AX&pd_rd_w=8GW74&pd_rd_wg=dwvlQ&psc=1&refRID=EP7JERD9PF3XBKCB83AX&linkCode=ll1&tag=mcupower-20&linkId=9e20b5e2316285894e2b478446a4b261",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07448VCM1&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07448VCM1&asins=B07448VCM1&linkId=213fd3a97a75c491a6106138853bb3a7&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B07448VCM1"
   },
   {
     "title": "Iron Man 3",
     "type": "film",
-    "link": "https://www.amazon.com/Iron-Man-Blu-ray-Robert-Downey/dp/B074486N8D/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B074486N8D&pd_rd_r=K7J5H1S0WZV9FRH3EQHM&pd_rd_w=kfYMN&pd_rd_wg=DSdqp&psc=1&refRID=K7J5H1S0WZV9FRH3EQHM&linkCode=ll1&tag=mcupower-20&linkId=e567f050618be94c2a1e57c6b33231c7",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074486N8D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B074486N8D&asins=B074486N8D&linkId=fb974b4f03892731fcfa811871e7ceaa&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B074486N8D"
   },
   {
     "title": "Thor: The Dark World",
     "type": "film",
-    "link": "https://www.amazon.com/Thor-World-Blu-ray-Chris-Hemsworth/dp/B0744265JV/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0744265JV&pd_rd_r=PKCTFAB67GSP8B7ABBAW&pd_rd_w=S2f1i&pd_rd_wg=Y0Mlv&psc=1&refRID=PKCTFAB67GSP8B7ABBAW&linkCode=ll1&tag=mcupower-20&linkId=a7ad957a33421804169f2cadbf80b616",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0744265JV&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B0744265JV&asins=B0744265JV&linkId=84bfe153376d90ecdb3494ea1b82c227&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B0744265JV"
   },
   {
     "title": "Captain America: The Winter Soldier",
     "type": "film",
-    "link": "https://www.amazon.com/Captain-America-Winter-Soldier-Blu-ray/dp/B07442M9X5/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07442M9X5&pd_rd_r=ZDQA2DW97AXPC4ZPFKRS&pd_rd_w=5TpFV&pd_rd_wg=x2QT7&psc=1&refRID=ZDQA2DW97AXPC4ZPFKRS&linkCode=ll1&tag=mcupower-20&linkId=ec6dbc9f1c64746b0c4959d6044c5667",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07442M9X5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07442M9X5&asins=B07442M9X5&linkId=e0f02c9f76878a1f8604bdadf642e0ce&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B07442M9X5"
   },
   {
     "title": "Guardians of the Galaxy",
     "type": "film",
-    "link": "https://www.amazon.com/Guardians-Galaxy-Blu-ray-James-Gunn/dp/B07447SLFH/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07447SLFH&pd_rd_r=KGYP0SBEZE2JZDY87BAB&pd_rd_w=h4CLn&pd_rd_wg=bPW5d&psc=1&refRID=KGYP0SBEZE2JZDY87BAB&linkCode=ll1&tag=mcupower-20&linkId=a8f21cb1528afd01c884c282465fdeb4",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07447SLFH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07447SLFH&asins=B07447SLFH&linkId=748d9a1efd74b1afabab66163f624244&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B07447SLFH"
   },
   {
     "title": "Avengers: Age of Ultron",
     "type": "film",
-    "link": "https://www.amazon.com/MARVELS-AVENGERS-AGE-ULTRON-Blu-ray/dp/B074489RHJ/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B074489RHJ&pd_rd_r=N8H9PS0TDRWP7X6T7DNY&pd_rd_w=CLfTh&pd_rd_wg=alw5A&psc=1&refRID=N8H9PS0TDRWP7X6T7DNY&linkCode=ll1&tag=mcupower-20&linkId=420c76e948d10bdb9265904b78b18881",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074489RHJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B074489RHJ&asins=B074489RHJ&linkId=38283e802bc6a0b5b0cf4bdb3aadb937&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B074489RHJ"
   },
   {
     "title": "Ant-Man",
     "type": "film",
-    "link": "https://www.amazon.com/Ant-Man-Blu-ray-Paul-Rudd/dp/B07447J2TS/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07447J2TS&pd_rd_r=Q22V93KH1H6PYQYR109D&pd_rd_w=zzBKT&pd_rd_wg=2DBXL&psc=1&refRID=Q22V93KH1H6PYQYR109D&linkCode=ll1&tag=mcupower-20&linkId=9d27f64d4db912da6fcf41ad8f41a4b4",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07447J2TS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07447J2TS&asins=B07447J2TS&linkId=04032f89e61eea5adf7fcd836b2b886a&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B07447J2TS"
   },
   {
     "title": "Captain America: Civil War",
     "type": "film",
-    "link": "https://www.amazon.com/Captain-America-Civil-War-Blu-ray/dp/B0744872DB/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0744872DB&pd_rd_r=BTYFTW9MW73ZH047CDD7&pd_rd_w=Rj8J1&pd_rd_wg=1JS1R&psc=1&refRID=BTYFTW9MW73ZH047CDD7&linkCode=ll1&tag=mcupower-20&linkId=ff555f067594bed3d3b9b0e64808d0bb",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0744872DB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B0744872DB&asins=B0744872DB&linkId=b0185e1f1f8cb6f2607093f1a6f7a2d0&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B0744872DB"
   },
   {
     "title": "Doctor Strange",
     "type": "film",
-    "link": "https://www.amazon.com/Doctor-Strange-Blu-ray-Benedict-Cumberbatch/dp/B01MG2YEWH/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01MG2YEWH&pd_rd_r=N0Z6M6WMRTJ1D2N14K0A&pd_rd_w=RNkYm&pd_rd_wg=nes2h&psc=1&refRID=N0Z6M6WMRTJ1D2N14K0A&linkCode=ll1&tag=mcupower-20&linkId=bb0f4095a25c477ff14bf7607aa569b6",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MG2YEWH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B01MG2YEWH&asins=B01MG2YEWH&linkId=0ac71b6504a4ce9d6aa4bbeb1a88a14d&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B01MG2YEWH"
   },
   {
     "title": "Guardians of the Galaxy Vol. 2",
     "type": "film",
-    "link": "https://www.amazon.com/GUARDIANS-GALAXY-VOL-2-Blu-ray/dp/B06ZXWR8C5/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B06ZXWR8C5&pd_rd_r=A6YYG7NJ8D4P6B6DYNBD&pd_rd_w=ZjiCQ&pd_rd_wg=manBq&psc=1&refRID=A6YYG7NJ8D4P6B6DYNBD&linkCode=ll1&tag=mcupower-20&linkId=75fc9b73b227f25b4366ea8f77fe4263",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06ZXWR8C5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B06ZXWR8C5&asins=B06ZXWR8C5&linkId=395f6ac9f59bcbda541bdaa7f727b380&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B06ZXWR8C5"
   },
   {
     "title": "Spider-Man: Homecoming",
     "type": "film",
-    "link": "https://www.amazon.com/Spider-Man-Homecoming-Blu-ray-Tom-Holland/dp/B073RW6NGL/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B073RW6NGL&pd_rd_r=9NRBG7VN7QPWASJ7BDFS&pd_rd_w=oF5Yt&pd_rd_wg=wdtOg&psc=1&refRID=9NRBG7VN7QPWASJ7BDFS&linkCode=ll1&tag=mcupower-20&linkId=1849c672d7d04976d4eee75cbb0e27fc",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073RW6NGL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B073RW6NGL&asins=B073RW6NGL&linkId=face30029be6b081b607114448a320a1&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B073RW6NGL"
   },
   {
     "title": "Thor: Ragnarok",
     "type": "film",
-    "link": "https://www.amazon.com/THOR-RAGNAROK-Blu-ray-Chris-Hemsworth/dp/B07886H8TF/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07886H8TF&pd_rd_r=RMMVYC0XHM49RRF7WM2A&pd_rd_w=NAhwq&pd_rd_wg=2HaCY&psc=1&refRID=RMMVYC0XHM49RRF7WM2A&linkCode=ll1&tag=mcupower-20&linkId=20175e4d5c05ef4d1b3900459c97ea9b",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07886H8TF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B07886H8TF&asins=B07886H8TF&linkId=e509f9a7e8909077483930c13d42f9ff&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B07886H8TF"
   },
   {
     "title": "Marvel Cinematic Universe: Phase One",
     "type": "film-box-set",
-    "link": "https://www.amazon.com/Marvel-Cinematic-Universe-Assembled-Incredible/dp/B0083SBMGW/ref=as_li_ss_tl?s=movies-tv&ie=UTF8&qid=1523914009&sr=1-2&keywords=marvel+box+set+phase+1&dpID=41qL8I5oMEL&preST=_SX300_QL70_&dpSrc=srch&linkCode=ll1&tag=mcupower-20&linkId=f2fce85628b983e6a29846275ea8abea",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083SBMGW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B0083SBMGW&asins=B0083SBMGW&linkId=acc6fe3d04c09490f7a3572498c1ed96&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B0083SBMGW"
   },
   {
     "title": "Marvel Cinematic Universe: Phase Two",
     "type": "film-box-set",
-    "link": "https://www.amazon.com/Marvel-Cinematic-Universe-Guardians-Exclusive/dp/B00Z7EMJ4E/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00Z7EMJ4E&pd_rd_r=1R61VTW68G6WH172Q09S&pd_rd_w=y3j8u&pd_rd_wg=OIjkE&psc=1&refRID=1R61VTW68G6WH172Q09S&linkCode=ll1&tag=mcupower-20&linkId=01c2d166076133299f2dc4cf45f86826",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Z7EMJ4E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B00Z7EMJ4E&asins=B00Z7EMJ4E&linkId=5e0828c057fd5dd376cb193e36ff060c&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B00Z7EMJ4E"
   },
   {
     "title": "Marvel Legends Series Infinity Gauntlet Articulated Electronic Fist",
     "type": "toy-collectible",
-    "link": "https://www.amazon.com/Legends-Infinity-Gauntlet-Articulated-Electronic/dp/B071WT4KLM/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B071WT4KLM&pd_rd_r=1HE7XDBWFPNJ668QTH34&pd_rd_w=rj2wK&pd_rd_wg=G7RgU&psc=1&refRID=1HE7XDBWFPNJ668QTH34&linkCode=ll1&tag=mcupower-20&linkId=f5791a21606938afe3c5f48256c68e9f",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071WT4KLM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B071WT4KLM&asins=B071WT4KLM&linkId=494d5c80a055d47d7bf8b996d96964d2&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B071WT4KLM"
   },
   {
     "title": "Avengers Marvel Legends Gear Captain America Shield Replica",
     "type": "toy-collectible",
-    "link": "https://www.amazon.com/Marvel-Legends-Captain-America-Shield/dp/B01B4NLML2/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01B4NLML2&pd_rd_r=8ANTANBZKD3PMMZY8PCB&pd_rd_w=MQO6h&pd_rd_wg=p0DpQ&psc=1&refRID=8ANTANBZKD3PMMZY8PCB&linkCode=ll1&tag=mcupower-20&linkId=fd60510689411eb17629f2ecd5258de2",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01B4NLML2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B01B4NLML2&asins=B01B4NLML2&linkId=5420b9d99772dd162e21614aad138575&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B01B4NLML2"
   },
   {
     "title": "Avengers Marvel Legends Gear Iron Man Replica Helmet",
     "type": "toy-collectible",
-    "link": "https://www.amazon.com/Marvel-Legends-Iron-Electronic-Helmet/dp/B01B4NLOW4/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01B4NLOW4&pd_rd_r=YZSC03EE3TKDCM955D2A&pd_rd_w=l7cSM&pd_rd_wg=OhN8J&psc=1&refRID=YZSC03EE3TKDCM955D2A&linkCode=ll1&tag=mcupower-20&linkId=e3f0b95de8c4ea1905ec8231f46a53f1",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01B4NLOW4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B01B4NLOW4&asins=B01B4NLOW4&linkId=9cc19705aca6285ac7c91b9ee9bcfbfb&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B01B4NLOW4"
   },
   {
     "title": "Marvel Legends Series Mjolnir Electronic Hammer",
     "type": "toy-collectible",
-    "link": "https://www.amazon.com/Marvel-Legends-Mjolnir-Electronic-Hammer/dp/B01IK52XS8/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01IK52XS8&pd_rd_r=PN45603WX0HPTXQY3XBF&pd_rd_w=5pFAH&pd_rd_wg=Z713b&psc=1&refRID=PN45603WX0HPTXQY3XBF&linkCode=ll1&tag=mcupower-20&linkId=37f53e1135d4d34d245975c598efd53b",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01IK52XS8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B01IK52XS8&asins=B01IK52XS8&linkId=286b2ea0fbc2bf2b3b0e22a28f0a19d0&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B01IK52XS8"
   },
   {
     "title": "Funko Pop Marvel: Avengers Infinity War-Thor Collectible Figure",
     "type": "toy-collectible",
-    "link": "https://www.amazon.com/Funko-Pop-Marvel-Collectible-Multicolor/dp/B079PQ7TRJ/ref=as_li_ss_tl?s=toys-and-games&ie=UTF8&qid=1526058766&sr=1-8&keywords=thor+stormbreaker&linkCode=ll1&tag=mcupower-20&linkId=cf01c92d23134232ad1cc3b404d5f374",
-    "image": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079PQ7TRJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mcupower-20",
-    "markup": "<iframe style=\"width:120px;height:240px;\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mcupower-20&marketplace=amazon&region=US&placement=B079PQ7TRJ&asins=B079PQ7TRJ&linkId=7ef7e6dbe14c3a81fddfb6d81fb539ff&show_border=false&link_opens_in_new_window=true\"></iframe>"
+    "asin": "B079PQ7TRJ"
   }
 ]

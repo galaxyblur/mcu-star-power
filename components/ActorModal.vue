@@ -23,7 +23,7 @@
 
           <p id="modal-selected-actor-mcu-list">
             <span v-for="(f, fi) in actor.filmsMcu" :key="fi">
-              <affiliate-link-film :text="f.title" :link="getAffLinkForFilm(f)" />
+              <affiliate-link-film :text="f.title" :asin="getAffLinkASINForFilm(f)" />
               <template v-if="fi < actor.filmsMcu.length - 1">, </template>
             </span>
           </p>
@@ -31,7 +31,7 @@
           <template v-if="actorHasAffLink">
             <h5>Coolest Stuff</h5>
             <p id="modal-selected-actor-aff-links">
-              <affiliate-link-other :text="actor.affiliateLink.title" :link="actor.affiliateLink.link" />
+              <affiliate-link-other :text="actor.affiliateLink.title" :asin="actor.affiliateLink.asin" />
             </p>
           </template>
 
@@ -93,7 +93,9 @@ import { difference } from 'lodash';
 import AffiliateLinkFilm from '../components/AffiliateLinkFilm';
 import AffiliateLinkOther from '../components/AffiliateLinkOther';
 
-import affiliateLinks from '../static/json/aff-links.json';
+import {
+  affiliateLinks,
+} from '../lib/AffiliateLinksHelper';
 
 export default {
   components: {
@@ -121,7 +123,7 @@ export default {
       return img;
     },
     actorHasAffLink() {
-      return this.actor.affiliateLink && this.actor.affiliateLink.title && this.actor.affiliateLink.link;
+      return this.actor.affiliateLink && this.actor.affiliateLink.title && this.actor.affiliateLink.asin;
     },
     actorName() {
       return this.actor ? this.actor.actorName : '';
@@ -181,12 +183,12 @@ export default {
     getWinsForEvent(event) {
       return this.actor.awards.filter(aw => (aw.event === event && aw.winner === true));
     },
-    getAffLinkForFilm(film) {
+    getAffLinkASINForFilm(film) {
       const [ link ] = this.aff.filter((l) => {
         return l.type === 'film' && l.title === film.title;
       });
 
-      return link ? link.link : undefined;
+      return link ? link.asin : undefined;
     },
     handleModalHide() {
       this.$emit('unselect-actor');
