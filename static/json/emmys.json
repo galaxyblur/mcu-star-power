@@ -106,15 +106,9 @@
         "title": "By The People: The Election Of Barack Obama",
         "winner": false,
         "year": "2010"
-      },
-      {
-        "category": "Outstanding Animated Program",
-        "title": "Faeries",
-        "winner": false,
-        "year": "1981"
       }
     ],
-    "power": 4
+    "power": 2
   },
   {
     "actorName": "Liv Tyler",
@@ -545,37 +539,13 @@
     "actorName": "Chris Evans",
     "awards": [
       {
-        "category": "Outstanding Sound Mixing For Nonfiction Programming",
-        "title": "The Beatles: Eight Days A Week - The Touring Years",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "category": "Outstanding Documentary Or Nonfiction Series",
-        "title": "Dinner For Five",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Picture Editing For Nonfiction Programming",
-        "title": "The Amazing Race",
-        "winner": true,
-        "year": "2005"
-      },
-      {
-        "category": "Outstanding Sound Editing For Non Fiction Programming",
-        "title": "The Amazing Race",
-        "winner": false,
-        "year": "2005"
-      },
-      {
         "category": "Outstanding Special Visual Effects",
         "title": "The Ewok Adventure",
         "winner": true,
         "year": "1985"
       }
     ],
-    "power": 13
+    "power": 3
   },
   {
     "actorName": "Hayley Atwell",
@@ -688,15 +658,9 @@
         "title": "The Girl",
         "winner": false,
         "year": "2013"
-      },
-      {
-        "category": "Outstanding Makeup For A Series",
-        "title": "Star Trek: Deep Space Nine",
-        "winner": false,
-        "year": "1999"
       }
     ],
-    "power": 6
+    "power": 4
   },
   {
     "actorName": "Kenneth Choi",
@@ -745,21 +709,8 @@
   },
   {
     "actorName": "Rebecca Hall",
-    "awards": [
-      {
-        "category": "Outstanding Miniseries",
-        "title": "Wolf Hall",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
-        "title": "Back When We Were Grownups (Hallmark Hall Of Fame)",
-        "winner": false,
-        "year": "2005"
-      }
-    ],
-    "power": 4
+    "awards": [],
+    "power": 0
   },
   {
     "actorName": "Ben Kingsley",
@@ -856,6 +807,11 @@
     "power": 0
   },
   {
+    "actorName": "Chris Pratt",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Zoe Saldana",
     "awards": [],
     "power": 0
@@ -904,15 +860,13 @@
   },
   {
     "actorName": "John C. Reilly",
-    "awards": [
-      {
-        "category": "Outstanding Achievement In Any Area Of Creative Technical Crafts",
-        "title": "Cosmos",
-        "winner": true,
-        "year": "1981"
-      }
-    ],
-    "power": 3
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Sean Gunn",
+    "awards": [],
+    "power": 0
   },
   {
     "actorName": "James Spader",
@@ -955,18 +909,6 @@
     "power": 0
   },
   {
-    "actorName": "Linda Cardellini",
-    "awards": [
-      {
-        "category": "Outstanding Guest Actress In A Drama Series",
-        "title": "Mad Men",
-        "winner": false,
-        "year": "2013"
-      }
-    ],
-    "power": 2
-  },
-  {
     "actorName": "Andy Serkis",
     "awards": [
       {
@@ -982,6 +924,42 @@
     "actorName": "Paul Rudd",
     "awards": [],
     "power": 0
+  },
+  {
+    "actorName": "Michael Douglas",
+    "awards": [
+      {
+        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
+        "title": "Behind The Candelabra",
+        "winner": true,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Guest Actor In A Comedy Series",
+        "title": "Will & Grace",
+        "winner": false,
+        "year": "2002"
+      },
+      {
+        "category": "Outstanding Continuing Performance By A Supporting Actor in a Drama Series",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1976"
+      },
+      {
+        "category": "Outstanding Continuing Performance by a Supporting Actor in a Drama Series",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1975"
+      },
+      {
+        "category": "BEST SUPPORTING ACTOR IN DRAMA",
+        "title": "The Streets of San Francisco",
+        "winner": false,
+        "year": "1974"
+      }
+    ],
+    "power": 8
   },
   {
     "actorName": "Evangeline Lilly",
@@ -1055,21 +1033,8 @@
   },
   {
     "actorName": "Tom Holland",
-    "awards": [
-      {
-        "category": "Outstanding Special Class Short format Nonfiction Programs",
-        "title": "Parks And Recreation: Behind The Final Season",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
-        "title": "The 66th Annual Academy Awards",
-        "winner": true,
-        "year": "1994"
-      }
-    ],
-    "power": 5
+    "awards": [],
+    "power": 0
   },
   {
     "actorName": "Martin Freeman",
@@ -1154,6 +1119,11 @@
     "power": 0
   },
   {
+    "actorName": "Benedict Wong",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Mads Mikkelsen",
     "awards": [],
     "power": 0
@@ -1220,21 +1190,9 @@
         "title": "Fred Rogers: America's Favorite Neighbor",
         "winner": false,
         "year": "2004"
-      },
-      {
-        "category": "Outstanding Art Direction For Variety Or Nonfiction Programming",
-        "title": "The 74th Annual Academy Awards",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "Outstanding Lead Actor In A Comedy Series",
-        "title": "FAMILY TIES",
-        "winner": false,
-        "year": "1989"
       }
     ],
-    "power": 6
+    "power": 2
   },
   {
     "actorName": "Zendaya",
@@ -1329,11 +1287,6 @@
     "power": 0
   },
   {
-    "actorName": "Letitia Wright",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Winston Duke",
     "awards": [],
     "power": 0
@@ -1411,6 +1364,48 @@
     "power": 7
   },
   {
+    "actorName": "Peter Dinklage",
+    "awards": [
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2016"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": true,
+        "year": "2015"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2014"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2013"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": false,
+        "year": "2012"
+      },
+      {
+        "category": "Outstanding Supporting Actor In A Drama Series",
+        "title": "Game Of Thrones",
+        "winner": true,
+        "year": "2011"
+      }
+    ],
+    "power": 8
+  },
+  {
     "actorName": "Josh Brolin",
     "awards": [],
     "power": 0
@@ -1439,6 +1434,11 @@
     "power": 3
   },
   {
+    "actorName": "Marcella Bragio",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Walton Goggins",
     "awards": [
       {
@@ -1449,11 +1449,6 @@
       }
     ],
     "power": 1
-  },
-  {
-    "actorName": "Joshua Mikel",
-    "awards": [],
-    "power": 0
   },
   {
     "actorName": "Laurence Fishburne",
@@ -1516,6 +1511,16 @@
     "power": 20
   },
   {
+    "actorName": "Brie Larson",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Gemma Chan",
+    "awards": [],
+    "power": 0
+  },
+  {
     "actorName": "Ben Mendelsohn",
     "awards": [
       {
@@ -1540,7 +1545,7 @@
     "power": 5
   },
   {
-    "actorName": "Brie Larson",
+    "actorName": "Mckenna Grace",
     "awards": [],
     "power": 0
   },
@@ -1550,120 +1555,7 @@
     "power": 0
   },
   {
-    "actorName": "Mckenna Grace",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Gemma Chan",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Robert Kazinsky",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Sean Gunn",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Benedict Wong",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Peter Dinklage",
-    "awards": [
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Game Of Thrones",
-        "winner": false,
-        "year": "2016"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Game Of Thrones",
-        "winner": true,
-        "year": "2015"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Game Of Thrones",
-        "winner": false,
-        "year": "2014"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Game Of Thrones",
-        "winner": false,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Game Of Thrones",
-        "winner": false,
-        "year": "2012"
-      },
-      {
-        "category": "Outstanding Supporting Actor In A Drama Series",
-        "title": "Game Of Thrones",
-        "winner": true,
-        "year": "2011"
-      }
-    ],
-    "power": 8
-  },
-  {
-    "actorName": "Marcella Bragio",
-    "awards": [],
-    "power": 0
-  },
-  {
     "actorName": "Colin Ford",
-    "awards": [],
-    "power": 0
-  },
-  {
-    "actorName": "Michael Douglas",
-    "awards": [
-      {
-        "category": "Outstanding Lead Actor In A Miniseries Or A Movie",
-        "title": "Behind The Candelabra",
-        "winner": true,
-        "year": "2013"
-      },
-      {
-        "category": "Outstanding Guest Actor In A Comedy Series",
-        "title": "Will & Grace",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "category": "Outstanding Continuing Performance By A Supporting Actor in a Drama Series",
-        "title": "The Streets of San Francisco",
-        "winner": false,
-        "year": "1976"
-      },
-      {
-        "category": "Outstanding Continuing Performance by a Supporting Actor in a Drama Series",
-        "title": "The Streets of San Francisco",
-        "winner": false,
-        "year": "1975"
-      },
-      {
-        "category": "BEST SUPPORTING ACTOR IN DRAMA",
-        "title": "The Streets of San Francisco",
-        "winner": false,
-        "year": "1974"
-      }
-    ],
-    "power": 8
-  },
-  {
-    "actorName": "Chris Pratt",
     "awards": [],
     "power": 0
   }
