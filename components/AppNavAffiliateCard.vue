@@ -2,9 +2,13 @@
   <b-card id="app-nav-affiliate-card">
     <b-media right-align vertical-align="center">
       <b-img id="app-nav-affiliate-card-img" slot="aside" :alt="affiliateLinkFeatured.title" :src="getImageSourceForAmazonLink(affiliateLinkFeatured.asin)" />
-      <h6 class="mt-0 text-right">{{ affiliateLinkFeatured.title }}</h6>
+      <h6 class="mt-0 text-right">
+        <a :href="getURLForAmazonLink(affiliateLinkFeatured.asin)" target="_blank" rel="noopener nofollow">
+          {{ affiliateLinkFeatured.title }}
+        </a>
+      </h6>
       <p class="text-right">
-        <b-button :href="getURLForAmazonLink(affiliateLinkFeatured.asin)" variant="primary" target="_blank" rel="noopener nofollow">Get it!</b-button>
+        <b-button :href="getURLForAmazonLink(affiliateLinkFeatured.asin)" variant="primary" target="_blank" rel="noopener nofollow">{{ affiliateLinkFeatured.subtitle || 'Get it!' }}</b-button>
       </p>
     </b-media>
   </b-card>
