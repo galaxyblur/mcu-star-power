@@ -1,7 +1,6 @@
 import {
   loadActorsFromFile,
   loadActorsMetaFromFile,
-  loadAffLinksFromFile,
   loadBaftasFromFile,
   loadOscarsFromFile,
   loadGlobesFromFile,
@@ -9,6 +8,10 @@ import {
   loadImdbFromFile,
   writeAggregateToFile,
 } from '../../lib/ActorsHelper';
+
+import {
+  loadAffLinksFromFile,
+} from '../../lib/AffiliateLinksFileHelper';
 
 import {
   map,
@@ -60,8 +63,8 @@ loadData().catch(console.error).then((allData) => {
         }
       }
 
-      if (metaObj.affLinkTitle) {
-        [ affiliateLink ] = allData.affLinks.filter(a => a.title === metaObj.affLinkTitle);
+      if (metaObj.affLinkASIN) {
+        [ affiliateLink ] = allData.affLinks.filter(a => a.asin === metaObj.affLinkASIN);
       }
     }
 

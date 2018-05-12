@@ -8,18 +8,20 @@
     "characterName": "Tony Stark",
     "characterAlias": "Iron Man",
     "image": "iron-man.jpg",
-    "affLinkTitle": "Avengers Marvel Legends Gear Iron Man Replica Helmet"
+    "affLinkASIN": "B079PCBKNQ"
   },
   {
     "actorName": "Paul Bettany",
     "characterName": "Vision",
-    "image": "vision.jpg"
+    "image": "vision.jpg",
+    "affLinkASIN": "B07B6H5PVJ"
   },
   {
     "actorName": "Don Cheadle",
     "characterName": "Lt. Col. James 'Rhodey' Rhodes",
     "characterAlias": "War Machine",
-    "image": "war-machine.jpg"
+    "image": "war-machine.jpg",
+    "affLinkASIN": "B01H4HTMS2"
   },
   {
     "actorName": "Terrence Howard",
@@ -30,23 +32,31 @@
     "actorName": "Scarlett Johansson",
     "characterName": "Natasha Romanoff",
     "characterAlias": "Black Widow",
-    "image": "black-widow.jpg"
+    "image": "black-widow.jpg",
+    "affLinkASIN": "B079PPFD5D"
   },
   {
     "actorName": "Chris Hemsworth",
     "characterName": "Thor",
     "image": "thor.jpg",
-    "affLinkTitle": "Funko Pop Marvel: Avengers Infinity War-Thor Collectible Figure"
+    "affLinkASIN": "B079PQ7TRJ"
   },
   {
     "actorName": "Tom Hiddleston",
     "characterName": "Loki",
-    "image": "loki.jpg"
+    "image": "loki.jpg",
+    "affLinkASIN": "B072Z1G8GG"
   },
   {
     "actorName": "Cate Blanchett",
     "characterName": "Hela",
-    "image": "hela.jpg"
+    "image": "hela.jpg",
+    "affLinkASIN": "B072Z2ZVZG"
+  },
+  {
+    "actorName": "Jeff Goldblum",
+    "characterName": "Grandmaster",
+    "affLinkASIN": "B07667QMN2"
   },
   {
     "actorName": "Anthony Hopkins",
@@ -56,7 +66,8 @@
   {
     "actorName": "Idris Elba",
     "characterName": "Heimdall",
-    "image": "heimdall.png"
+    "image": "heimdall.png",
+    "affLinkASIN": "B072YZ4VPT"
   },
   {
     "actorName": "Natalie Portman",
@@ -66,7 +77,8 @@
   {
     "actorName": "Samuel L. Jackson",
     "characterName": "Nick Fury",
-    "image": "nick-fury.jpg"
+    "image": "nick-fury.jpg",
+    "affLinkASIN": "B014IC1N92"
   },
   {
     "actorName": "Robert Redford",
@@ -76,7 +88,8 @@
   {
     "actorName": "Gwyneth Paltrow",
     "characterName": "Pepper Potts",
-    "image": "pepper-potts.png"
+    "image": "pepper-potts.png",
+    "affLinkASIN": "B0132LCQSC"
   },
   {
     "actorName": "Garry Shandling",
@@ -88,19 +101,21 @@
     "characterName": "Steve Rogers",
     "characterAlias": "Captain America",
     "image": "captain-america.jpg",
-    "affLinkTitle": "Avengers Marvel Legends Gear Captain America Shield Replica"
+    "affLinkASIN": "B07BGJCTWV"
   },
   {
     "actorName": "Sebastian Stan",
     "characterName": "James Buchanan 'Bucky' Barnes",
     "characterAlias": "The Winter Soldier",
-    "image": "winter-soldier.jpg"
+    "image": "winter-soldier.jpg",
+    "affLinkASIN": "B01BEXFN5S"
   },
   {
     "actorName": "Mark Ruffalo",
     "characterName": "Bruce Banner",
     "characterAlias": "The Hulk",
-    "image": "hulk.jpg"
+    "image": "hulk.jpg",
+    "affLinkASIN": "B07CQGDTQD"
   },
   {
     "actorName": "Edward Norton",
@@ -122,7 +137,8 @@
     "actorName": "Anthony Mackie",
     "characterName": "Sam Wilson",
     "characterAlias": "Falcon",
-    "image": "falcon.jpg"
+    "image": "falcon.jpg",
+    "affLinkASIN": "B07C9RGKFB"
   },
   {
     "actorName": "Chris Pratt",
@@ -138,12 +154,14 @@
   {
     "actorName": "Dave Bautista",
     "characterName": "Drax",
-    "image": "drax.jpg"
+    "image": "drax.jpg",
+    "affLinkASIN": "B07263DS11"
   },
   {
     "actorName": "Vin Diesel",
     "characterName": "Groot",
-    "image": "groot-rocket.jpg"
+    "image": "groot-rocket.jpg",
+    "affLinkASIN": "B07B6GHDS4"
   },
   {
     "actorName": "Bradley Cooper",
@@ -159,7 +177,8 @@
     "actorName": "Elizabeth Olsen",
     "characterName": "Wanda Maximoff",
     "characterAlias": "Scarlet Witch",
-    "image": "scarlet-witch.jpg"
+    "image": "scarlet-witch.jpg",
+    "affLinkASIN": "B01ALQQODY"
   },
   {
     "actorName": "Chadwick Boseman",
@@ -171,7 +190,8 @@
     "actorName": "Tom Holland",
     "characterName": "Peter Parker",
     "characterAlias": "Spider-Man",
-    "image": "spider-man.jpg"
+    "image": "spider-man.jpg",
+    "affLinkASIN": "B079PQ7T69"
   },
   {
     "actorName": "Marisa Tomei",
@@ -182,7 +202,8 @@
     "actorName": "Benedict Cumberbatch",
     "characterName": "Dr. Stephen Strange",
     "characterAlias": "Doctor Strange",
-    "image": "doctor-strange.jpg"
+    "image": "doctor-strange.jpg",
+    "affLinkASIN": "B07BS8ZSV5"
   },
   {
     "actorName": "Benedict Wong",
@@ -260,7 +281,8 @@
   {
     "actorName": "Edward Norton",
     "characterName": "Bruce Banner",
-    "characterAlias": "The Hulk"
+    "characterAlias": "The Hulk",
+    "affLinkASIN": "B07CQGDTQD"
   },
   {
     "actorName": "Tim Roth",
@@ -341,7 +363,7 @@
     "actorName": "Josh Brolin",
     "characterName": "Thanos",
     "image": "thanos.jpg",
-    "affLinkTitle": "Marvel Legends Series Infinity Gauntlet Articulated Electronic Fist"
+    "affLinkASIN": "B071WT4KLM"
   },
   {
     "actorName": "Brie Larson",
