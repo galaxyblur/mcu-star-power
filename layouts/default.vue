@@ -1,9 +1,9 @@
 <template>
-  <div>
+  <b-container>
     <app-nav />
     <nuxt/>
     <app-footer />
-  </div>
+  </b-container>
 </template>
 
 <script>

@@ -1,13 +1,11 @@
 <template>
-  <b-container fluid>
+  <b-container>
 
     <tabs />
 
-    <b-row>
-      <b-col sm="6" md="4" lg="3" v-for="(a, ai) in affForGrandmaster" :key="ai">
-        <affiliate-card :affiliate-item="a" />
-      </b-col>
-    </b-row>
+    <b-card-group columns class="pt-3">
+      <affiliate-card v-for="(a, ai) in affForGrandmaster" :key="ai" :affiliate-item="a" />
+    </b-card-group>
 
   </b-container>
 </template>

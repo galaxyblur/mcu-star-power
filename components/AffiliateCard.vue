@@ -1,17 +1,18 @@
 <template>
-  <div class="affiliate-card p-2">
+  <a :href="getURLForAmazonLink(affiliateItem.asin)" target="_blank" rel="noopener nofollow">
     <b-card :title="affiliateItem.title"
+        title-tag="h6"
         :img-src="getImageSourceForAmazonLink(affiliateItem.asin)"
-        :img-alt="affiliateItem.title"
+        :img-alt="'Check out ' + affiliateItem.title"
         img-top
         tag="article"
         bg-variant="dark"
-        class="mb-2 pb-4 text-center position-relative">
-      <div class="affiliate-card-btn position-absolute pb-3">
-        <b-button :href="getURLForAmazonLink(affiliateItem.asin)" variant="primary" target="_blank" rel="noopener nofollow">Buy it on Amazon</b-button>
-      </div>
+        class="affiliate-card text-center">
+      <p class="card-text text-center">
+        <b-button :href="getURLForAmazonLink(affiliateItem.asin)" variant="primary" target="_blank" rel="noopener nofollow">Get it!</b-button>
+      </p>
     </b-card>
-  </div>
+  </a>
 </template>
 
 <script>
@@ -30,13 +31,8 @@ export default {
 </script>
 
 <style>
-.affiliate-card .card-body {
-}
-
-.affiliate-card .affiliate-card-btn {
-  right: 0;
-  bottom: 0;
-  left: 0;
+.affiliate-card {
+  cursor: pointer;
 }
 
 .affiliate-card .btn-primary {

@@ -33,4 +33,6 @@ node sources/golden-globes/
 node sources/baftas/
 
 node sources/aggregate/
+
+node sources/amazon-affiliate-link/ "https://www.amazon.com/Funko-Pop-Marvel-War-Thanos-Collectible/dp/B079PQ7T6B/"
 ```
