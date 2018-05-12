@@ -185,7 +185,7 @@ export default {
     },
     getAffLinkASINForFilm(film) {
       const [ link ] = this.aff.filter((l) => {
-        return l.type === 'film' && l.title === film.title;
+        return l.type === 'film' && l.title.replace(' (Blu-Ray)', '') === film.title;
       });
 
       return link ? link.asin : undefined;

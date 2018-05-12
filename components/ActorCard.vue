@@ -111,7 +111,7 @@ export default {
         film = releasedFilms[releasedFilms.length - 1];
 
         const [ link ] = this.aff.filter((l) => {
-          return l.type === 'film' && l.title === film.title;
+          return l.type === 'film' && l.title.replace(' (Blu-Ray)', '') === film.title;
         });
 
         if (link) {
