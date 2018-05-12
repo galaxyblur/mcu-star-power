@@ -820,13 +820,6 @@
         "title": "By The People: The Election Of Barack Obama",
         "winner": false,
         "year": "2010"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Animated Program",
-        "title": "Faeries",
-        "winner": false,
-        "year": "1981"
       }
     ],
     "characterDisplayName": "Bruce Banner / The Hulk",
@@ -839,7 +832,7 @@
       }
     ],
     "filmsCount": 41,
-    "powerCareer": 21,
+    "powerCareer": 19,
     "powerMcu": 1,
     "id": "actor-62",
     "actorName": "Edward Norton",
@@ -2612,43 +2605,7 @@
       "asin": "B07BGJCTWV",
       "title": "Funko Pop Avengers Infinity War Captain America"
     },
-    "awards": [
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Sound Mixing For Nonfiction Programming",
-        "title": "The Beatles: Eight Days A Week - The Touring Years",
-        "winner": true,
-        "year": "2017"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Documentary Or Nonfiction Series",
-        "title": "Dinner For Five",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Picture Editing For Nonfiction Programming",
-        "title": "The Amazing Race",
-        "winner": true,
-        "year": "2005"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Sound Editing For Non Fiction Programming",
-        "title": "The Amazing Race",
-        "winner": false,
-        "year": "2005"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Special Visual Effects",
-        "title": "The Ewok Adventure",
-        "winner": true,
-        "year": "1985"
-      }
-    ],
+    "awards": [],
     "characterDisplayName": "Steve Rogers / Captain America",
     "img": "captain-america.jpg",
     "filmsMcu": [
@@ -2694,7 +2651,7 @@
       }
     ],
     "filmsCount": 48,
-    "powerCareer": 23,
+    "powerCareer": 10,
     "powerMcu": 8,
     "id": "actor-225",
     "actorName": "Chris Evans",
@@ -3132,13 +3089,6 @@
         "title": "The Girl",
         "winner": false,
         "year": "2013"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Makeup For A Series",
-        "title": "Star Trek: Deep Space Nine",
-        "winner": false,
-        "year": "1999"
       }
     ],
     "characterDisplayName": "Arnim Zola",
@@ -3156,7 +3106,7 @@
       }
     ],
     "filmsCount": 108,
-    "powerCareer": 38,
+    "powerCareer": 36,
     "powerMcu": 2,
     "id": "actor-233",
     "actorName": "Toby Jones",
@@ -3481,20 +3431,6 @@
         "title": "Vicky Cristina Barcelona",
         "winner": false,
         "year": "2009"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Miniseries",
-        "title": "Wolf Hall",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Lead Actress In A Miniseries Or A Movie",
-        "title": "Back When We Were Grownups (Hallmark Hall Of Fame)",
-        "winner": false,
-        "year": "2005"
       }
     ],
     "characterDisplayName": "Maya Hansen",
@@ -3507,7 +3443,7 @@
       }
     ],
     "filmsCount": 38,
-    "powerCareer": 20,
+    "powerCareer": 16,
     "powerMcu": 1,
     "id": "actor-357",
     "actorName": "Rebecca Hall",
@@ -4400,13 +4336,6 @@
         "title": "Chicago",
         "winner": false,
         "year": "2003"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Achievement In Any Area Of Creative Technical Crafts",
-        "title": "Cosmos",
-        "winner": true,
-        "year": "1981"
       }
     ],
     "img": "https://ia.media-imdb.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_UY317_CR34,0,214,317_AL_.jpg",
@@ -4418,7 +4347,7 @@
       }
     ],
     "filmsCount": 102,
-    "powerCareer": 27,
+    "powerCareer": 24,
     "powerMcu": 1,
     "id": "actor-539",
     "actorName": "John C. Reilly",
@@ -5139,20 +5068,6 @@
         "title": "Gracie!",
         "winner": false,
         "year": "2010"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Special Class Short format Nonfiction Programs",
-        "title": "Parks And Recreation: Behind The Final Season",
-        "winner": false,
-        "year": "2015"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Technical Direction Camerawork Video Control For A Miniseries Movie Or A Special",
-        "title": "The 66th Annual Academy Awards",
-        "winner": true,
-        "year": "1994"
       }
     ],
     "characterDisplayName": "Peter Parker / Spider-Man",
@@ -5175,7 +5090,7 @@
       }
     ],
     "filmsCount": 22,
-    "powerCareer": 21,
+    "powerCareer": 16,
     "powerMcu": 3,
     "id": "actor-705",
     "actorName": "Tom Holland",
@@ -5963,20 +5878,6 @@
         "title": "Fred Rogers: America's Favorite Neighbor",
         "winner": false,
         "year": "2004"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Art Direction For Variety Or Nonfiction Programming",
-        "title": "The 74th Annual Academy Awards",
-        "winner": false,
-        "year": "2002"
-      },
-      {
-        "event": "EMMYS",
-        "category": "Outstanding Lead Actor In A Comedy Series",
-        "title": "FAMILY TIES",
-        "winner": false,
-        "year": "1989"
       }
     ],
     "characterDisplayName": "Adrian Toomes / Vulture",
@@ -5989,7 +5890,7 @@
       }
     ],
     "filmsCount": 77,
-    "powerCareer": 30,
+    "powerCareer": 26,
     "powerMcu": 1,
     "id": "actor-842",
     "actorName": "Michael Keaton",
@@ -6781,6 +6682,7 @@
   {
     "affiliateLink": {
       "title": "Marvel Legends Series Infinity Gauntlet Articulated Electronic Fist",
+      "subtitle": "Balance the universe!",
       "type": "toy-collectible",
       "asin": "B071WT4KLM"
     },

@@ -11,8 +11,13 @@ import {
 import {
   isEqual,
   kebabCase,
+  remove,
   uniqWith,
 } from 'lodash';
+
+const exclude = {
+  'Chris Evans': ['Outstanding Special Visual Effects'],
+};
 
 loadActorsFromFile().catch(console.error).then((allActors) => {
   if (!allActors) {
@@ -74,6 +79,12 @@ loadActorsFromFile().catch(console.error).then((allActors) => {
           });
 
         if (actorAwards && actorAwards.length > 0) {
+          remove(actorAwards, (aw) => {
+            if (exclude[a.actorName] && exclude[a.actorName].indexOf(aw.category) >= 0) {
+              return true;
+            }
+          });
+
           awardsObj.awards = actorAwards;
           awardsObj.power += actorAwards.length;
           awardsObj.power += actorAwards.filter(a => a.winner === true).length;

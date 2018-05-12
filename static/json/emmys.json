@@ -536,18 +536,6 @@
     "power": 0
   },
   {
-    "actorName": "Chris Evans",
-    "awards": [
-      {
-        "category": "Outstanding Special Visual Effects",
-        "title": "The Ewok Adventure",
-        "winner": true,
-        "year": "1985"
-      }
-    ],
-    "power": 3
-  },
-  {
     "actorName": "Hayley Atwell",
     "awards": [],
     "power": 0
@@ -1556,6 +1544,11 @@
   },
   {
     "actorName": "Colin Ford",
+    "awards": [],
+    "power": 0
+  },
+  {
+    "actorName": "Chris Evans",
     "awards": [],
     "power": 0
   }
